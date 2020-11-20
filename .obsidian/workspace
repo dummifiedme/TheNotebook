@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/000 Index.md",
+            "file": "NotesVault/Effects of Devolution of Authority.md",
             "mode": "source"
           }
         }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/000 Index.md",
+                "file": "NotesVault/Effects of Devolution of Authority.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/000 Index.md",
+                "file": "NotesVault/Effects of Devolution of Authority.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/000 Index.md"
+                "file": "NotesVault/Effects of Devolution of Authority.md"
               }
             }
           }
@@ -188,11 +187,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/000 Index.md",
     "NotesVault/Effects of Devolution of Authority.md",
-    "NotesVault/The Zettlekasten Method.md",
-    "NotesVault/Environment MOC.md",
     "NotesVault/How to Make a Complete Map of Every Thought You Think.md",
+    "NotesVault/The Zettlekasten Method.md",
+    "NotesVault/000 Index.md",
+    "NotesVault/Environment MOC.md",
     "NotesVault/Note-Taking.md",
     "NotesVault/002 Subject Wise Topics.md",
     "NotesVault/Words.md",

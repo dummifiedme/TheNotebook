@@ -35,9 +35,9 @@ An [Article ](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten
 
 ## Summary
 > Basically, you need to have the following:
-	> ATOMIC NOTES
-	> Some form of LINKING
-	> Reviewing -> ANKI?
+> - ATOMIC NOTES
+> - Some form of LINKING
+> - Reviewing -> ANKI?
 
 
 
