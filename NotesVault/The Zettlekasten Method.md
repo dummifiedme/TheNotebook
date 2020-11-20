@@ -29,5 +29,7 @@ An [Article ](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten
 
 ## Getting Started: First Card
 - Can be messy
-- 
+- But, start.
+
+
 
