@@ -30,6 +30,9 @@ An [Article ](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten
 ## Getting Started: First Card
 - Can be messy
 - But, start.
+- thinking process:
+	- ![[_Resources/Pasted image 20201121032851.png]]
+	- 
 
 
 
