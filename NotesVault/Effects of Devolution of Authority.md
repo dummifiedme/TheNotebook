@@ -5,4 +5,4 @@
 			- Joint forest management (IFAD, 2001)
 			- fisheries co-management
 			- participatory watershed management
-3. Democratisation and empowerment
+3. Democratisation and empowerment of local administrative bodies --> enhances *participation* in decision-making fora.
