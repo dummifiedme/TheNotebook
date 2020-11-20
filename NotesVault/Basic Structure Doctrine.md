@@ -15,14 +15,6 @@
 
 ***
 
-TARGET DECK
-UPSC::General Studies 2
-
-FILE TAG
-GS2::Topic01 Polity::Basic_Structure
-
-***
-
 ## Basics of the Basic Structure Doctrine
 
 *   Power of parliament to make laws is not absolute in nature.
@@ -37,4 +29,14 @@ GS2::Topic01 Polity::Basic_Structure
     *   Since then, SC = {interpreter} of the constitution and the {arbiter} of all the amendments made by the parliament.
 
 - [[Cases reaffirming the Doctrine of Basic Structure]]
-- [Features of Basic Structure](Features%20of%20Basic%20Structure.MD)
+- [[Features of Basic Structure]]
+
+***
+
+TARGET DECK
+UPSC::General Studies 2
+
+FILE TAG
+GS2::Topic01 Polity::Basic_Structure
+
+

@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Basic Structure Doctrine.md",
-            "mode": "source"
+            "file": "NotesVault/Features of Basic Structure.MD",
+            "mode": "preview"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Basic Structure Doctrine.md",
+                "file": "NotesVault/Features of Basic Structure.MD",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Basic Structure Doctrine.md",
+                "file": "NotesVault/Features of Basic Structure.MD",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Basic Structure Doctrine.md"
+                "file": "NotesVault/Features of Basic Structure.MD"
               }
             }
           }
@@ -188,6 +188,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Features of Basic Structure.MD",
     "NotesVault/Basic Structure Doctrine.md",
     "NotesVault/Cases reaffirming the Doctrine of Basic Structure.md",
     "NotesVault/Types of Division of Powers.md",
@@ -196,7 +197,6 @@
     "NotesVault/Quotes.md",
     "NotesVault/Environment MOC.md",
     "NotesVault/Geography MOC.md",
-    "NotesVault/Economy MOC.md",
-    "NotesVault/General Studies 2.md"
+    "NotesVault/Economy MOC.md"
   ]
 }
