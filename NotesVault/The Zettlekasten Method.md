@@ -26,4 +26,8 @@ An [Article ](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten
 	- ![[_Resources/Pasted image 20201121031328.png]]
 - Don't sort too often.
 	- Keep them unsorted, sort on one day.
-	- 
+
+## Getting Started: First Card
+- Can be messy
+- 
+
