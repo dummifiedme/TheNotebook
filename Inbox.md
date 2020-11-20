@@ -10,3 +10,7 @@
 [[Effects of Devolution of Authority]]
 
 ---
+
+```expander
+{{#DOING}}
+```
