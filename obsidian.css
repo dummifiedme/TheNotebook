@@ -463,3 +463,24 @@ ul ul::before { left: -11px; top: 0; bottom: 0;
 .side-dock-ribbon {
   transition-property: width, opacity;
 }
+
+.cm-s-obsidian,
+.markdown-preview-view {
+  text-align: justify;
+  hyphens: auto;
+}
+
+blockquote:before {
+  font: 14px/20px italic Times, serif;
+  content: "“";
+  font-size: 3em;
+  line-height: 0.1em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+/* Remove blockquote left margin */
+blockquote {
+  margin-inline-start: 0;
+}
