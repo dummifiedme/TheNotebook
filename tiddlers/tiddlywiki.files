@@ -1,8 +1,7 @@
-
 {
     "directories": [
 	{
-            "path": "../TheVault",
+            "path": "../NotesVault",
 	    "filesRegExp": "^.*\\.md$",
             "isTiddlerFile": true,
             "fields": {
