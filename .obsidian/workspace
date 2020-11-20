@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/The Zettlekasten Method.md",
+            "file": "NotesVault/Effects of Devolution of Authority.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/The Zettlekasten Method.md",
+                "file": "NotesVault/Effects of Devolution of Authority.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/The Zettlekasten Method.md",
+                "file": "NotesVault/Effects of Devolution of Authority.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/The Zettlekasten Method.md"
+                "file": "NotesVault/Effects of Devolution of Authority.md"
               }
             }
           }
@@ -188,15 +188,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/The Zettlekasten Method.md",
+    "NotesVault/Effects of Devolution of Authority.md",
+    "NotesVault/General Studies 1.md",
     "NotesVault/General Studies 2.md",
+    "NotesVault/Geography MOC.md",
+    "NotesVault/How to Make a Complete Map of Every Thought You Think.md",
+    "NotesVault/The Zettlekasten Method.md",
     "NotesVault/Environment MOC.md",
     "NotesVault/Economy MOC.md",
-    "NotesVault/Effects of Devolution of Authority.md",
     "The Zettlekasten Method.md",
-    "Note-Taking.md",
-    "Learning.md",
-    "Untitled.md",
-    "Polity MOC.md"
+    "Note-Taking.md"
   ]
 }
