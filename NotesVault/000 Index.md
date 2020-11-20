@@ -3,6 +3,7 @@
 > - The Master Index of small notes
 > - Keep the notes small. Very Small.
 
+[[Inbox]]
 ---
 
 ### Dive into Studies 
