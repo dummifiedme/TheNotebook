@@ -1,6 +1,7 @@
-|      |     |
-| ---- | --- |
-| Tags | #basicStructure    |
+|        |                 |
+| ------ | --------------- |
+| Tags   | #basicStructure |
+| Status | #Doing                 |
 # Features of basic structure
 
 1. Supremacy of the Constitution
@@ -20,6 +21,6 @@
 15. Independence of Judiciary
 16. Limited power of Parliament to amend the Constitution.
 17. Effective access to justice
-18. Principles (or essence) underlying fundamental righ
+18. Principles (or essence) underlying fundamental rights
 19. Powers of the Supreme Court under Articles 32, 136, 141 and 142
 20. Powers of the High Courts under Articles 226 and 227.
