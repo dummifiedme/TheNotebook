@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#TODO",
+                "query": "#DOING",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
