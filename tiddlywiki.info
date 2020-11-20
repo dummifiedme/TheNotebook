@@ -4,7 +4,8 @@
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
         "tiddlywiki/highlight",
-	"tw5-markdown-master"
+	"tw5-markdown-master",
+	"krystal"
     ],
     "themes": [
         "tiddlywiki/vanilla",
