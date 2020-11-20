@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Inbox.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#DONE",
+                "query": "#TODO",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
