@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Effects of Devolution of Authority.md",
+            "file": "Decentralisation in India.md",
             "mode": "source"
           }
         }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.49999809265137,
-    "collapsed": true
+    "width": 284.49999809265137
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -78,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Effects of Devolution of Authority.md",
+                "file": "Decentralisation in India.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Effects of Devolution of Authority.md",
+                "file": "Decentralisation in India.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Effects of Devolution of Authority.md"
+                "file": "Decentralisation in India.md"
               }
             }
           }
@@ -188,6 +187,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "NotesVault/Effects of Devolution of Authority.md",
     "Basic Structure Doctrine.md",
     "NotesVault/General Studies 2.md",
@@ -196,7 +196,6 @@
     "Inbox.md",
     "NotesVault/How to Make a Complete Map of Every Thought You Think.md",
     "NotesVault/The Zettlekasten Method.md",
-    "NotesVault/Environment MOC.md",
-    "NotesVault/Note-Taking.md"
+    "NotesVault/Environment MOC.md"
   ]
 }
