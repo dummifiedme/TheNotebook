@@ -10,14 +10,6 @@
 
 ***
 
-TARGET DECK
-UPSC::GS2
-
-FILE TAG
-GS2::Topic01 Polity:: Polity::Amendments
-
-***
-
 *   24th Amendment Act amends Articles {1: 13} and {1: 368}.
 *   The {24th} Amendment Act declared that
     *   The Parliament has the power to abridge or take away any of the Fundamental Rights by enacting Constitutional Amendment Acts.
@@ -27,5 +19,5 @@ GS2::Topic01 Polity:: Polity::Amendments
 
 ***
 
-*   [Article 13](Article 13.md)
-*   [Article 368](Article 368.md) - deals with the amendments to the constitution.
+*   [[Article 13]]
+*   [[Article 368]] - deals with the amendments to the constitution.
