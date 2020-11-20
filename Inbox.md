@@ -1,8 +1,9 @@
 # Inbox
 
-| #TODO | #DOING | #DONE |
-| ----- | ------ | ----- |
-|       |        |       |
+| TODO                     | DOING | DONE |
+| ------------------------- | ------ | ----- |
+| [[001 Paper Wise Topics]] |        |       |
+| [[Effects of Devolution of Authority]]    |        |       |
 
 ```expander
 {{#TODO}}
