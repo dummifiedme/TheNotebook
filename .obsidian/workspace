@@ -8,10 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "image",
-          "state": {
-            "file": "NotesVault/_Resources/Pasted image 20201120231750.png"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/_Resources/Pasted image 20201120231750.png",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -106,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/_Resources/Pasted image 20201120231750.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NotesVault/_Resources/Pasted image 20201120231750.png"
-              }
+              "state": {}
             }
           }
         ]
