@@ -23,6 +23,23 @@
     "type": "split",
     "children": [
       {
+        "id": "3dae92c92314ee25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85dc78c4dc03e3b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template_ANKIGlobal.md",
+                "mode": "source"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "7699e0313582942d",
         "type": "tabs",
         "children": [
@@ -61,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.49999809265137,
-    "collapsed": true
+    "width": 284.49999809265137
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -189,6 +205,7 @@
   },
   "lastOpenFiles": [
     "NotesVault/24th Amendment Act.md",
+    "TARGET DECK.md",
     "Decentralisation in India.md",
     "NotesVault/_Resources/Pasted image 20201120231750.png",
     "NotesVault/_Resources/Pasted image 20201120183126.png",
@@ -196,7 +213,6 @@
     "NotesVault/Polity MOC.md",
     "NotesVault/002 Subject Wise Topics.md",
     "Untitled.md",
-    "NotesVault/Effects of Devolution of Authority.md",
-    "Basic Structure Doctrine.md"
+    "NotesVault/Effects of Devolution of Authority.md"
   ]
 }

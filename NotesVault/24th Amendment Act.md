@@ -21,3 +21,7 @@
 
 *   [[Article 13]]
 *   [[Article 368]] - deals with the amendments to the constitution.
+
+***
+
+[[../Template_ANKIGlobal]]
