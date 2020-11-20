@@ -34,7 +34,10 @@ An [Article ](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten
 	- ![[_Resources/Pasted image 20201121032851.png]]
 
 
-> Basically, you nee
+> Basically, you need to have the following:
+	> ATOMIC NOTES
+	> Some form of LINKING
+	> Reviewing -> ANKI?
 
 
 
