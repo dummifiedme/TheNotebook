@@ -5,3 +5,4 @@
 			- Joint forest management (IFAD, 2001)
 			- fisheries co-management
 			- participatory watershed management
+		- 
