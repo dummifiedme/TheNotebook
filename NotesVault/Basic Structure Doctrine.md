@@ -36,5 +36,5 @@ GS2::Topic01 Polity::Basic_Structure
     *   Basic Structre : First time mentioned in {[[Kesavananda Bharti Case]]} in {1973}
     *   Since then, SC = {interpreter} of the constitution and the {arbiter} of all the amendments made by the parliament.
 
-[Cases reaffirming the Doctrine of Basic Structure](Cases%20reaffirming%20the%20Doctrine%20of%20Basic%20Structure)
-[Features of Basic Structure](Features%20of%20Basic%20Structure.MD)
+- [[Cases reaffirming the Doctrine of Basic Structure]]
+- [Features of Basic Structure](Features%20of%20Basic%20Structure.MD)
