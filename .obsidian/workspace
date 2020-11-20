@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/000 Index.md",
-            "mode": "preview"
+            "file": "Inbox.md",
+            "mode": "source"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/000 Index.md",
+                "file": "Inbox.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/000 Index.md",
+                "file": "Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/000 Index.md"
+                "file": "Inbox.md"
               }
             }
           }
@@ -187,6 +187,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Inbox.md",
     "NotesVault/000 Index.md",
     "NotesVault/Effects of Devolution of Authority.md",
     "NotesVault/How to Make a Complete Map of Every Thought You Think.md",
@@ -195,7 +196,6 @@
     "NotesVault/Note-Taking.md",
     "NotesVault/002 Subject Wise Topics.md",
     "NotesVault/Words.md",
-    "NotesVault/Quotes.md",
-    "NotesVault/Polity MOC.md"
+    "NotesVault/Quotes.md"
   ]
 }
