@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/Effects of Devolution of Authority.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -58,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -74,6 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "NotesVault/Effects of Devolution of Authority.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -102,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NotesVault/Effects of Devolution of Authority.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NotesVault/Effects of Devolution of Authority.md"
+              }
             }
           }
         ]
@@ -180,6 +188,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Effects of Devolution of Authority.md",
+    "NotesVault/Environment MOC.md",
     "NotesVault/How to Make a Complete Map of Every Thought You Think.md",
     "NotesVault/Note-Taking.md",
     "NotesVault/002 Subject Wise Topics.md",
@@ -187,8 +197,6 @@
     "NotesVault/Words.md",
     "NotesVault/The Zettlekasten Method.md",
     "NotesVault/Quotes.md",
-    "NotesVault/Polity MOC.md",
-    "NotesVault/Places in News.md",
-    "NotesVault/_MDDownloads/Adichanallur A brief history on one of the oldest archaeological sites in India.md"
+    "NotesVault/Polity MOC.md"
   ]
 }
