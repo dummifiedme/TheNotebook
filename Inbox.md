@@ -1,5 +1,5 @@
 # Inbox
 
-| #TODO | #DOING | # DONE
-| ----- | ------ |
-|       |        |
+| #TODO | #DOING | #DONE |
+| ----- | ------ | ------ |
+|   {{#TODO}}    |        |        |
