@@ -4,8 +4,6 @@
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
         "tiddlywiki/highlight",
-	"flibbles/relink",
-	"flibbles/relink-markdown",
 	"tw5-markdown-master"
     ],
     "themes": [
@@ -38,5 +36,5 @@
             "static/static.css",
             "text/plain"
         ]
-    },
+    }
 }
