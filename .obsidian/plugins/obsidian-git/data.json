@@ -1,1 +1,1 @@
-{"commitMessage":"UNotebook backup: {{date}}","commitDateFormat":"YYYY-MM-DD HH:mm:ss","autoSaveInterval":5,"autoPullOnBoot":true,"disablePopups":false,"currentBranch":"main","remote":"origin"}
+{"commitMessage":"NotesVault Backup: {{date}}","commitDateFormat":"YYYY-MM-DD HH:mm:ss","autoSaveInterval":1,"autoPullOnBoot":false,"disablePopups":false,"currentBranch":"main","remote":"origin"}
