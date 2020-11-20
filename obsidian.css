@@ -484,3 +484,54 @@ blockquote p {
 blockquote {
   margin-inline-start: 0;
 }
+
+/* ====== Tag Pills ======== */
+.tag:not(.token) {
+	background-color: var(--text-accent);
+	border: none;
+	color: white;
+	font-size: 11px;
+	padding: 1px 8px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin: 0px 0px;
+	cursor: pointer;
+	border-radius: 14px;
+}
+.tag:not(.token):hover {
+	color: white;
+	background-color: var(--text-accent-hover);
+}
+.tag[href^="#obsidian"] {
+	background-color: #4d3ca6;
+}
+.tag[href^="#important"] {
+	background-color: red;
+}
+.tag[href^="#complete"] {
+	background-color: green;
+}
+.tag[href^="#inprogress"] {
+	background-color: orange;
+}
+
+.outline .collapsible-item-children {
+  margin-left: 20px;
+  border-left: 1px solid var(--faded-aqua);
+  border-radius: 4px;
+  transition:all 0.5s ease-in-out;
+}
+.outline .collapsible-item-children:hover {
+  border-left-color: var(--faded-aqua);
+}
+.nav-folder-children .nav-folder-children {
+  margin-left: 20px;
+  padding-left: 0;
+  border-left: 1px solid var(--faded-aqua);
+  border-radius: 4px;
+  transition:all 0.5s ease-in-out;
+}
+.nav-folder-children .nav-folder-children:hover {
+  border-left-color: var(--faded-aqua);
+}
