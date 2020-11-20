@@ -1,9 +1,6 @@
----
-title: Features of Basic Features
-tags: #polity 
-toc: true
-season: winter
----
+|      |     |
+| ---- | --- |
+| Tags | #basicStructure    |
 # Features of basic structure
 
 1. Supremacy of the Constitution
