@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,6 +189,7 @@
   },
   "lastOpenFiles": [
     "Inbox.md",
+    "NotesVault/001 Paper Wise Topics.md",
     "NotesVault/000 Index.md",
     "NotesVault/Effects of Devolution of Authority.md",
     "NotesVault/How to Make a Complete Map of Every Thought You Think.md",
@@ -195,7 +197,6 @@
     "NotesVault/Environment MOC.md",
     "NotesVault/Note-Taking.md",
     "NotesVault/002 Subject Wise Topics.md",
-    "NotesVault/Words.md",
-    "NotesVault/Quotes.md"
+    "NotesVault/Words.md"
   ]
 }
