@@ -1,5 +1,12 @@
 # Inbox
 
 | #TODO | #DOING | #DONE |
-| ----- | ------ | ------ |
-|   {{#TODO}}    |        |        |
+| ----- | ------ | ----- |
+|       |        |       |
+
+```expander
+{{#TODO}}
+```
+[[Effects of Devolution of Authority]]
+
+---
