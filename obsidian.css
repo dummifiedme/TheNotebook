@@ -531,16 +531,16 @@ content: "\25BA";
 content: "\25BC";
 }
 
-div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-list-ul {
-  color: transparent;
-  position: relative;
+.popover.hover-popover {
+  transform: scale(0.8); /* makes the content smaller /
+  max-height: 800px;
+  min-height: 50px;
+  width: 500px;
+  overflow: overlay; / new added */
   }
-  div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-list-ul:after {
-  content: "•";
-  position: absolute;
-  top: -6px;
-  left: 4px;
-  color: var(--bright-aqua);
-  font-family: sans-serif;
-  font-size: 20px;
+  .popover.hover-popover .markdown-embed  {
+  height: 100%;
+  }
+  .popover.hover-popover.is-loaded .markdown-embed .markdown-embed-content .markdown-preview-view{
+  padding: 10px 10px 10px 16px; /*16px  two pop magin */
   }
