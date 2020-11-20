@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "bb1ee939a9fcfba0",
+        "id": "0e1b651af4ad7b41",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/_Templates/Template_ANKIGlobal.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "85dc78c4dc03e3b4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NotesVault/_Templates/Template_ANKIGlobal.md",
+            "file": "NotesVault/Polity MOC.md",
             "mode": "source"
           }
         }
@@ -88,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/_Templates/Template_ANKIGlobal.md",
+                "file": "NotesVault/Polity MOC.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -117,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/_Templates/Template_ANKIGlobal.md",
+                "file": "NotesVault/Polity MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/_Templates/Template_ANKIGlobal.md"
+                "file": "NotesVault/Polity MOC.md"
               }
             }
           }
@@ -198,15 +187,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Polity MOC.md",
+    "NotesVault/Effects of Devolution of Authority.md",
+    "NotesVault/Days.md",
+    "NotesVault/24th Amendment Act.md",
+    "NotesVault/_Templates/Template_ANKIGlobal.md",
     "Template_ANKIGlobal.md",
     "NotesVault/Waman Rao Case.MD",
     "NotesVault/Types of Division of Powers.md",
     "NotesVault/The Zettlekasten Method.md",
-    "NotesVault/Economy MOC.md",
-    "NotesVault/Days.md",
-    "NotesVault/24th Amendment Act.md",
-    "TARGET DECK.md",
-    "Decentralisation in India.md",
-    "NotesVault/_Resources/Pasted image 20201120231750.png"
+    "NotesVault/Economy MOC.md"
   ]
 }
