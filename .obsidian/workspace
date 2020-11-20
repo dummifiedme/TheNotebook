@@ -40,10 +40,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "doing",
+                "query": "#doing",
                 "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
