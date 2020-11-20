@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "61410ac630abf856",
+        "id": "bb1ee939a9fcfba0",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Decentralisation in India.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -75,6 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Decentralisation in India.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Decentralisation in India.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Decentralisation in India.md"
+              }
             }
           }
         ]
@@ -181,6 +188,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Decentralisation in India.md",
     "NotesVault/_Resources/Pasted image 20201120231750.png",
     "NotesVault/_Resources/Pasted image 20201120183126.png",
     "NotesVault/_Resources/Pasted image 20201120183130.png",
@@ -189,7 +197,6 @@
     "Untitled.md",
     "NotesVault/Effects of Devolution of Authority.md",
     "Basic Structure Doctrine.md",
-    "NotesVault/General Studies 2.md",
-    "NotesVault/001 Paper Wise Topics.md"
+    "NotesVault/General Studies 2.md"
   ]
 }
