@@ -10,7 +10,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/24th Amendment Act.md",
+            "file": "NotesVault/_Templates/Template_ANKIGlobal.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "85dc78c4dc03e3b4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/_Templates/Template_ANKIGlobal.md",
             "mode": "source"
           }
         }
@@ -22,23 +33,6 @@
     "id": "d9c7b7fff07c68e2",
     "type": "split",
     "children": [
-      {
-        "id": "3dae92c92314ee25",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "85dc78c4dc03e3b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template_ANKIGlobal.md",
-                "mode": "source"
-              }
-            }
-          }
-        ]
-      },
       {
         "id": "7699e0313582942d",
         "type": "tabs",
@@ -94,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/24th Amendment Act.md",
+                "file": "NotesVault/_Templates/Template_ANKIGlobal.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -123,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/24th Amendment Act.md",
+                "file": "NotesVault/_Templates/Template_ANKIGlobal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/24th Amendment Act.md"
+                "file": "NotesVault/_Templates/Template_ANKIGlobal.md"
               }
             }
           }
@@ -204,15 +198,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Template_ANKIGlobal.md",
+    "NotesVault/Waman Rao Case.MD",
+    "NotesVault/Types of Division of Powers.md",
+    "NotesVault/The Zettlekasten Method.md",
+    "NotesVault/Economy MOC.md",
+    "NotesVault/Days.md",
     "NotesVault/24th Amendment Act.md",
     "TARGET DECK.md",
     "Decentralisation in India.md",
-    "NotesVault/_Resources/Pasted image 20201120231750.png",
-    "NotesVault/_Resources/Pasted image 20201120183126.png",
-    "NotesVault/_Resources/Pasted image 20201120183130.png",
-    "NotesVault/Polity MOC.md",
-    "NotesVault/002 Subject Wise Topics.md",
-    "Untitled.md",
-    "NotesVault/Effects of Devolution of Authority.md"
+    "NotesVault/_Resources/Pasted image 20201120231750.png"
   ]
 }

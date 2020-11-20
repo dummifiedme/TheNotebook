@@ -24,4 +24,4 @@
 
 ***
 
-[[../Template_ANKIGlobal]]
+[[_Templates/Template_ANKIGlobal]]
