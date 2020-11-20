@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/The Zettlekasten Method.md",
-            "mode": "source"
+            "file": "NotesVault/002 Subject Wise Topics.md",
+            "mode": "preview"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/The Zettlekasten Method.md",
+                "file": "NotesVault/002 Subject Wise Topics.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/The Zettlekasten Method.md",
+                "file": "NotesVault/002 Subject Wise Topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/The Zettlekasten Method.md"
+                "file": "NotesVault/002 Subject Wise Topics.md"
               }
             }
           }
@@ -187,15 +187,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/002 Subject Wise Topics.md",
+    "NotesVault/000 Index.md",
+    "NotesVault/Words.md",
     "NotesVault/The Zettlekasten Method.md",
     "NotesVault/Quotes.md",
     "NotesVault/Polity MOC.md",
     "NotesVault/Places in News.md",
-    "NotesVault/Words.md",
     "NotesVault/_MDDownloads/Adichanallur A brief history on one of the oldest archaeological sites in India.md",
     "NotesVault/Economy MOC.md",
-    "NotesVault/Effects of Devolution of Authority.md",
-    "NotesVault/Environment MOC.md",
-    "NotesVault/002 Subject Wise Topics.md"
+    "NotesVault/Effects of Devolution of Authority.md"
   ]
 }
