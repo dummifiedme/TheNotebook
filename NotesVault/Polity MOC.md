@@ -1,3 +1,6 @@
 ```expander
-{{Polity-MOC}}
+{{polity}}
 ```
+[[Decentralisation in India]]
+
+---

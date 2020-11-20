@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Decentralisation in India.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#TODO",
+                "query": "polity",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +54,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Decentralisation in India.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -106,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decentralisation in India.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Decentralisation in India.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -187,6 +181,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Polity MOC.md",
+    "NotesVault/002 Subject Wise Topics.md",
     "Untitled.md",
     "NotesVault/Effects of Devolution of Authority.md",
     "Basic Structure Doctrine.md",
@@ -194,8 +190,6 @@
     "NotesVault/001 Paper Wise Topics.md",
     "NotesVault/000 Index.md",
     "Inbox.md",
-    "NotesVault/How to Make a Complete Map of Every Thought You Think.md",
-    "NotesVault/The Zettlekasten Method.md",
-    "NotesVault/Environment MOC.md"
+    "NotesVault/How to Make a Complete Map of Every Thought You Think.md"
   ]
 }
