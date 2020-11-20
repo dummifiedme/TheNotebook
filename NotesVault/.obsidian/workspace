@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "cf46912bca1d0cec",
+    "type": "split",
+    "children": [
+      {
+        "id": "61410ac630abf856",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9c7b7fff07c68e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7699e0313582942d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e25e94ed1684d8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9038ad7528f8f5b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Polity-MOC",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6eaa1786300e057",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f38ee8bf8680e41c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e85937537ea41e43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "805bcd67c5cb6875",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -0.4,
+                  "nodeSizeMultiplier": 1.44392477714007,
+                  "lineSizeMultiplier": 1.94176334106729,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5980704718529538
+                }
+              }
+            }
+          },
+          {
+            "id": "8bcc14d290f50f22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d7ef5521b13235e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b1ea678d6581854",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "56d124295d28b587",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b31aea5b8281a85d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f9eaa634562fcce1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e24322b929c3d24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "aef04f99dcb20a02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 371.68341064453125,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "The Zettlekasten Method.md",
+    "Note-Taking.md",
+    "Learning.md",
+    "Untitled.md",
+    "Polity MOC.md",
+    "Places in News.md",
+    "001 Paper Wise Topics.md",
+    "002 Subject Wise Topics.md",
+    "003 Facts MOC.md",
+    "Days.md"
+  ]
+}

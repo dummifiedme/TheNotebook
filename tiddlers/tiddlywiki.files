@@ -1,0 +1,16 @@
+
+{
+    "directories": [
+	{
+            "path": "../TheVault",
+	    "filesRegExp": "^.*\\.md$",
+            "isTiddlerFile": true,
+            "fields": {
+                "title": {"source": "basename-uri-decoded"},
+                "created": {"source": "created"},
+                "modified": {"source": "modified"},
+                "type": "text/x-markdown"
+	    }
+	}
+   ]  
+}

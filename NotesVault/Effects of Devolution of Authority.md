@@ -1,0 +1,1 @@
+1. establishment and empowerment f local resource user groups -- aka delegation by privatisation -> improves the ways of management and use of natural resource
