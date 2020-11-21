@@ -10,26 +10,23 @@
           {
             "id": "3230871e38daa9c9",
             "type": "leaf",
+            "dimension": 75.57997557997558,
             "active": true,
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "NotesVault/Timeline of Decentralisation in India.md",
                 "mode": "source"
-              },
-              "pinned": true
+              }
             }
           },
           {
             "id": "48149b8a94223991",
             "type": "leaf",
+            "dimension": 24.42002442002442,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NotesVault/Sukhamoy Chakravarty Report.md",
-                "mode": "source"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -179,9 +176,9 @@
   },
   "lastOpenFiles": [
     "NotesVault/Timeline of Decentralisation in India.md",
-    "NotesVault/Sukhamoy Chakravarty Report.md",
     "NotesVault/Balwantrai Mehta Report.md",
     "NotesVault/Economic Advisory Council, 1984.md",
+    "NotesVault/Sukhamoy Chakravarty Report.md",
     "NotesVault/Decentralisation in India.md",
     "NotesVault/Decentralisation.md",
     "NotesVault/Democratic Decentralisation.md",
