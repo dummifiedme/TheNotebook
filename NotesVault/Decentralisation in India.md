@@ -6,4 +6,5 @@
 
 ---
 
-* Decentralisation : transfer or dise
+* Decentralisation : 
+	* transfer or dispersal of decision making powers.
