@@ -4,5 +4,8 @@
 
 ## Anthropology Notes
 - We need to compile, so make notes here.
-- Small Atomic
-- Keep them linked
+- Small Atomic.
+- Keep them linked --> Automatically in Obsidian.
+
+## Other parts
+- Make other notes that are 
