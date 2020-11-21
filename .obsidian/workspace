@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Decentralisation and Poverty Reduction.md",
-            "mode": "preview"
+            "file": "NotesVault/Timeline of Decentralisation in India.md",
+            "mode": "source"
           }
         }
       }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.49999809265137
+    "width": 273.49999809265137,
+    "collapsed": true
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -77,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Decentralisation and Poverty Reduction.md",
+                "file": "NotesVault/Timeline of Decentralisation in India.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Decentralisation and Poverty Reduction.md",
+                "file": "NotesVault/Timeline of Decentralisation in India.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Decentralisation and Poverty Reduction.md"
+                "file": "NotesVault/Timeline of Decentralisation in India.md"
               }
             }
           }
@@ -151,15 +152,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.36524963378906
+    "width": 315.36524963378906,
+    "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Timeline of Decentralisation in India.md",
     "NotesVault/Decentralisation and Poverty Reduction.md",
     "NotesVault/Cases reaffirming the Doctrine of Basic Structure.md",
     "NotesVault/Decentralisation in India.md",
     "NotesVault/Polity MOC.md",
     "NotesVault/Minerva Mills Case.md",
-    "NotesVault/Timeline of Decentralisation in India.md",
     "NotesVault/Types of Division of Powers.md",
     "NotesVault/Political Decentralisation.md",
     "NotesVault/Admistrative Decentralisation.md",
