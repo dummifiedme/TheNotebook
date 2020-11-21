@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.49999809265137
+    "width": 273.49999809265137,
+    "collapsed": true
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -154,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.68341064453125
+    "width": 340.1217956542969
   },
   "lastOpenFiles": [
     "NotesVault/Polity MOC.md",
