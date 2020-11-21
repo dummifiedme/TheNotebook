@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Plan for notes.md",
+            "file": "NotesVault/Timeline of Decentralisation in India.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Plan for notes.md",
+                "file": "NotesVault/Timeline of Decentralisation in India.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Plan for notes.md",
+                "file": "NotesVault/Timeline of Decentralisation in India.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Plan for notes.md"
+                "file": "NotesVault/Timeline of Decentralisation in India.md"
               }
             }
           }
@@ -156,8 +156,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/Untitled.md",
     "NotesVault/Timeline of Decentralisation in India.md",
+    "NotesVault/Untitled.md",
     "NotesVault/Decentralisation and Poverty Reduction.md",
     "NotesVault/Cases reaffirming the Doctrine of Basic Structure.md",
     "NotesVault/Decentralisation in India.md",
