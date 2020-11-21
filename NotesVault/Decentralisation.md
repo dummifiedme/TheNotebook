@@ -11,4 +11,5 @@ a political process whereby administrative authority, public resources and respo
 - [[Democratic Decentralisation]]
 
 
-## Decentralisation in India
+## [[Decentralisation in India]]
+
