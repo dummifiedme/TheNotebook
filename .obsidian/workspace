@@ -10,13 +10,12 @@
           {
             "id": "3230871e38daa9c9",
             "type": "leaf",
-            "active": true,
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "NotesVault/Timeline of Decentralisation in India.md",
-                "mode": "source"
+                "mode": "preview"
               },
               "pinned": true
             }
@@ -24,6 +23,7 @@
           {
             "id": "48149b8a94223991",
             "type": "leaf",
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -98,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Timeline of Decentralisation in India.md",
+                "file": "NotesVault/Sukhamoy Chakravarty Report.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Timeline of Decentralisation in India.md",
+                "file": "NotesVault/Sukhamoy Chakravarty Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Timeline of Decentralisation in India.md"
+                "file": "NotesVault/Sukhamoy Chakravarty Report.md"
               }
             }
           }
@@ -178,8 +178,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/Timeline of Decentralisation in India.md",
     "NotesVault/Sukhamoy Chakravarty Report.md",
+    "NotesVault/Timeline of Decentralisation in India.md",
     "NotesVault/Balwantrai Mehta Report.md",
     "NotesVault/Economic Advisory Council, 1984.md",
     "NotesVault/Decentralisation in India.md",
