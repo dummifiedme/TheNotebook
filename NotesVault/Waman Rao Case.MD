@@ -1,20 +1,9 @@
----
-title: Waman Rao Case
-tags: #polity #cases 
-toc: true
-season: winter
----
-
 # Waman Rao Case (1981)
 
 ***
 
 |         |   |
 | ------- | - |
-| Subject | #polity |
-| Paper   | [General Studies 2](General%20Studies%202.md)  |
-| Topic   | Topic 01   |
-| Source  | [Indian Polity - Laxmikant](Indian%20Polity%20-%20Laxmikant.md)  |
 | Status  | #Done   |
 | Date    |  [2020-11-17](2020-11-17) |
 | Tags    |  #cases |

@@ -6,11 +6,22 @@
       {
         "id": "7839dcedf5f9519a",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "NotesVault/Polity MOC.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "3ef7d45c637272c4",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/Waman Rao Case.MD",
             "mode": "source"
           }
         }
@@ -79,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Polity MOC.md",
+                "file": "NotesVault/Waman Rao Case.MD",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -108,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Polity MOC.md",
+                "file": "NotesVault/Waman Rao Case.MD",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Polity MOC.md"
+                "file": "NotesVault/Waman Rao Case.MD"
               }
             }
           }
@@ -158,8 +169,8 @@
     "width": 340.1217956542969
   },
   "lastOpenFiles": [
-    "NotesVault/Polity MOC.md",
     "NotesVault/Waman Rao Case.MD",
+    "NotesVault/Polity MOC.md",
     "NotesVault/Decentralisation in India.md",
     "NotesVault/Decentralisation and Poverty Reduction.md",
     "NotesVault/Untitled.md",
