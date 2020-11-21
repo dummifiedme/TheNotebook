@@ -1,18 +1,19 @@
-|        |                 |
-| ------ | --------------- |
-| Tags   | #basicStructure |
-| Status | #Doing                 |
-# Features of basic structure
+|                               |                 |
+| ----------------------------- | --------------- |
+| Tags                          | #basicStructure |
+| Status                        | #doing #digDeep |
 
-1. Supremacy of the Constitution
-2. Sovereign, democratic and republican nature of the Indian polity
-3. Secular character of the Constitution
-4. Separation of powers between the legislature, the executive and the judiciary
-5. Federal character of the Constitution
-6. Unity and integrity of the nation
-7. Welfare state (socio-economic justice)
-8. Judicial review
-9. Freedom and dignity of the individual
+
+# Features of basic structure
+1.  Supremacy of the Constitution
+2.  Sovereign, democratic and republican nature of the Indian polity
+3.  Secular character of the Constitution
+4.  Separation of powers between the legislature, the executive and the judiciary
+5.  Federal character of the Constitution
+6.  Unity and integrity of the nation
+7.  Welfare state (socio-economic justice)
+8.  Judicial review
+9.  Freedom and dignity of the individual
 10. Parliamentary system
 11. Rule of law
 12. Harmony and balance between Fundamental Rights and Directive Principles
