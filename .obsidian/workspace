@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "NotesVault/Polity MOC.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -41,7 +41,7 @@
               "type": "search",
               "state": {
                 "query": "#polity",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
