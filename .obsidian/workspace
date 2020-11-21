@@ -6,45 +6,14 @@
       {
         "id": "3230871e38daa9c9",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "NotesVault/Timeline of Decentralisation in India.md",
-            "mode": "source"
+            "mode": "preview"
           }
-        },
-        "group": "d478ca1a1a64123b"
-      },
-      {
-        "id": "6581e8e96a389406",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "NotesVault/Timeline of Decentralisation in India.md",
-            "options": {
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1
-            }
-          }
-        },
-        "group": "d478ca1a1a64123b"
+        }
       }
     ],
     "direction": "vertical"
@@ -126,7 +95,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5980704718529537
+                  "scale": 0.398994417625882
                 }
               }
             }
@@ -154,8 +123,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f9eaa634562fcce1",
@@ -184,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.36524963378906,
-    "collapsed": true
+    "width": 315.36524963378906
   },
   "lastOpenFiles": [
     "NotesVault/Timeline of Decentralisation in India.md",
