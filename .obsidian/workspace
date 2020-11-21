@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/Decentralisation.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -54,12 +57,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 273.49999809265137
+    "width": 273.49999809265137,
+    "collapsed": true
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -75,6 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "NotesVault/Decentralisation.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NotesVault/Decentralisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NotesVault/Decentralisation.md"
+              }
             }
           }
         ],
@@ -147,18 +154,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.1217956542969
+    "width": 340.1217956542969,
+    "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Decentralisation.md",
+    "NotesVault/Democratic Decentralisation.md",
     "NotesVault/002 Subject Wise Topics.md",
     "NotesVault/Polity MOC.md",
     "NotesVault/Minerva Mills Case.md",
     "NotesVault/Kesavananda Bharti Case.md",
-    "NotesVault/Decentralisation.md",
     "Decentralisation.md",
     "Political Decentralisation.md",
     "Deconcentration.md",
-    "Devolution.md",
-    "Delegation.md"
+    "Devolution.md"
   ]
 }
