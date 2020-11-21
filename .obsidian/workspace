@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Timeline of Decentralisation in India.md",
-            "mode": "preview"
+            "file": "NotesVault/Decentralisation and Poverty Reduction.md",
+            "mode": "source"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Timeline of Decentralisation in India.md",
+                "file": "NotesVault/Decentralisation and Poverty Reduction.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Timeline of Decentralisation in India.md",
+                "file": "NotesVault/Decentralisation and Poverty Reduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Timeline of Decentralisation in India.md"
+                "file": "NotesVault/Decentralisation and Poverty Reduction.md"
               }
             }
           }
@@ -157,15 +157,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/Timeline of Decentralisation in India.md",
-    "NotesVault/Decentralisation.md",
-    "NotesVault/Decentralisation in India.md",
-    "NotesVault/General Studies 2.md",
-    "NotesVault/001 Paper Wise Topics.md",
-    "NotesVault/Balwantrai Mehta Report.md",
-    "NotesVault/Economic Advisory Council, 1984.md",
-    "NotesVault/Sukhamoy Chakravarty Report.md",
-    "NotesVault/Democratic Decentralisation.md",
-    "NotesVault/002 Subject Wise Topics.md"
+    "NotesVault/Decentralisation and Poverty Reduction.md",
+    "NotesVault/Waman Rao Case.MD",
+    "NotesVault/Untitled.md",
+    "NotesVault/Deconcentration.md",
+    "NotesVault/Devolution.md",
+    "NotesVault/Delegation.md",
+    "NotesVault/Privatization.md",
+    "NotesVault/Types of Division of Powers.md",
+    "NotesVault/Political Decentralisation.md",
+    "NotesVault/Admistrative Decentralisation.md"
   ]
 }

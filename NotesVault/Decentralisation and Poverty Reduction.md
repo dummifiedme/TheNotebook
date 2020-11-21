@@ -6,17 +6,9 @@
 | ----------- | ------------------------------------------ |
 | Subject     | #polity                                    |
 | Paper-Topic | GS2-Topic02                                |
-| Status      | #doing                                     |
+| Status      | #Doing                                     |
 | Date        | 2020-11-20                                 |
 | Tags        | #divisionOfPower                           |
-
-***
-
-TARGET DECK
-UPSC::General Studies 2
-
-FILE TAG
-GS2::Topic02 Polity::Definitions Definitions::Polity
 
 ***
 
@@ -27,3 +19,11 @@ GS2::Topic02 Polity::Definitions Definitions::Polity
         2.  Provisions of divisible goods--> irrigation, agricultural extensions and credit.
         3.  determination and enforcement of laws --> regulations on economics inputs aka lands, labour, and capital.
         4.  CRITICAL: recognition and protection of rights. --> organisation, association and entitlement.
+
+***
+
+TARGET DECK
+UPSC::General Studies 2
+
+FILE TAG
+GS2::Topic02 Polity::Definitions Definitions::Polity
