@@ -4,10 +4,6 @@
 
 |         |   |
 | ------- | - |
-| Subject |   |
-| Paper   |   |
-| Topic   |   |
-| Source  |   |
 | Status  |   |
 | Date    |   |
 | Tags    |   |
@@ -17,14 +13,11 @@
 Date: [2020-11-18](2020-11-18.md)
 Tags: #definitions #polity
 
-[[Deconcentration]]
-
-[[Devolution]]
-
-[[Delegation]]
-
-[[Privatization]]
-[[Decentralisation]]
+1. [[Deconcentration]]
+2. [[Devolution]]
+3. [[Delegation]]
+4. [[Privatization]]
+5. [[Decentralisation]]
 
 ***
 
