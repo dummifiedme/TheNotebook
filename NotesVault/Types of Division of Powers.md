@@ -9,7 +9,7 @@
 | Tags   | #divisionOfPower |
 
 ***
-There are various types of distribution of powers with slight differences, knowing differences is important for effectively using the terms.
+> There are various types of distribution of powers with slight differences, knowing differences is important for effectively using the terms.
 1.  [[Deconcentration]]
 2.  [[Devolution]]
 3.  [[Delegation]]
