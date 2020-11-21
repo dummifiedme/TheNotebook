@@ -6,11 +6,10 @@
       {
         "id": "7839dcedf5f9519a",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/_Templates/PolityTopicTemplate.md",
+            "file": "NotesVault/_Templates/TopicTemplate.md",
             "mode": "source"
           }
         }
@@ -18,10 +17,11 @@
       {
         "id": "3ef7d45c637272c4",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Waman Rao Case.MD",
+            "file": "NotesVault/Kesavananda Bharti Case.md",
             "mode": "preview"
           }
         }
@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/_Templates/PolityTopicTemplate.md",
+                "file": "NotesVault/Kesavananda Bharti Case.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/_Templates/PolityTopicTemplate.md",
+                "file": "NotesVault/Kesavananda Bharti Case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/_Templates/PolityTopicTemplate.md"
+                "file": "NotesVault/Kesavananda Bharti Case.md"
               }
             }
           }
@@ -168,15 +168,15 @@
     "width": 340.1217956542969
   },
   "lastOpenFiles": [
+    "NotesVault/Kesavananda Bharti Case.md",
+    "NotesVault/Waman Rao Case.MD",
     "NotesVault/_Templates/PolityTopicTemplate.md",
     "NotesVault/Polity MOC.md",
-    "NotesVault/Waman Rao Case.MD",
     "NotesVault/Decentralisation in India.md",
     "NotesVault/Decentralisation and Poverty Reduction.md",
     "NotesVault/Untitled.md",
     "Untitled.md",
     "Decentralisation in India.md",
-    "NotesVault/24th Amendment Act.md",
-    "NotesVault/Features of Basic Structure.MD"
+    "NotesVault/24th Amendment Act.md"
   ]
 }

@@ -8,7 +8,7 @@
 [[Features of Basic Structure]]
 [[Kesavananda Bharti Case]]
 [[Minerva Mills Case]]
-[[PolityTopicTemplate]]
+[[_Templates/TopicTemplate]]
 [[Types of Division of Powers]]
 
 ---
