@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Waman Rao Case.MD",
+            "file": "NotesVault/Decentralisation in India.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Waman Rao Case.MD",
+                "file": "NotesVault/Decentralisation in India.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Waman Rao Case.MD",
+                "file": "NotesVault/Decentralisation in India.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Waman Rao Case.MD"
+                "file": "NotesVault/Decentralisation in India.md"
               }
             }
           }
@@ -167,12 +167,12 @@
     "width": 340.1217956542969
   },
   "lastOpenFiles": [
+    "NotesVault/Decentralisation in India.md",
     "NotesVault/Waman Rao Case.MD",
     "NotesVault/Kesavananda Bharti Case.md",
     "NotesVault/_Templates/TopicTemplate.md",
     "NotesVault/_Templates/PolityTopicTemplate.md",
     "NotesVault/Polity MOC.md",
-    "NotesVault/Decentralisation in India.md",
     "NotesVault/Decentralisation and Poverty Reduction.md",
     "NotesVault/Untitled.md",
     "Untitled.md",
