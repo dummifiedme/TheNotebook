@@ -8,4 +8,4 @@
 - Keep them linked --> Automatically in Obsidian.
 
 ## Other parts
-- Make other notes that are 
+- Make other notes that are not easily available in PDFs
