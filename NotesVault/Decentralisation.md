@@ -11,6 +11,9 @@ season: winter
 a political process whereby administrative authority, public resources and responsibilities are transferred from central government agencies to lower level organs of government or to non governmental bodies such as Community based organisations (CBOs), NGOs, or private sector actors
 
 ## Types of Decentralisation
+
+^4966f9
+
 - Political Decentralisation
 - Administrative Decentralisation 
 - Fiscal Decentralisation 
