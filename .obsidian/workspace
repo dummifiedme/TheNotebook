@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Decentralisation and Poverty Reduction.md",
+            "file": "NotesVault/Types of Division of Powers.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Decentralisation and Poverty Reduction.md",
+                "file": "NotesVault/Types of Division of Powers.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Decentralisation and Poverty Reduction.md",
+                "file": "NotesVault/Types of Division of Powers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Decentralisation and Poverty Reduction.md"
+                "file": "NotesVault/Types of Division of Powers.md"
               }
             }
           }
@@ -156,15 +156,15 @@
     "width": 340.1217956542969
   },
   "lastOpenFiles": [
+    "NotesVault/Types of Division of Powers.md",
+    "NotesVault/Cases reaffirming the Doctrine of Basic Structure.md",
+    "NotesVault/Learning.md",
+    "NotesVault/Note-Taking.md",
+    "NotesVault/The Zettlekasten Method.md",
+    "NotesVault/001 Paper Wise Topics.md",
+    "NotesVault/000 Index.md",
+    "NotesVault/Days.md",
     "NotesVault/Decentralisation and Poverty Reduction.md",
-    "NotesVault/Basic Structure Doctrine.md",
-    "NotesVault/Decentralisation in India.md",
-    "NotesVault/Kesavananda Bharti Case.md",
-    "NotesVault/Waman Rao Case.MD",
-    "NotesVault/_Templates/TopicTemplate.md",
-    "NotesVault/_Templates/PolityTopicTemplate.md",
-    "NotesVault/Polity MOC.md",
-    "NotesVault/Untitled.md",
-    "Untitled.md"
+    "NotesVault/Basic Structure Doctrine.md"
   ]
 }

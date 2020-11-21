@@ -6,7 +6,6 @@
 | ----------- | ------------------------------------------ |
 | Subject     | #polity                                    |
 | Paper-Topic | GS2-Topic02                                |
-| Source      | Indian Polity - Laxmikant, IAS.Network GS2 |
 | Status      | #doing                                     |
 | Date        | 2020-11-20                                 |
 | Tags        | #divisionOfPower                           |
