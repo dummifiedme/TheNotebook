@@ -6,3 +6,4 @@
 
 ---
 
+* Decentralisation : transfer or dise
