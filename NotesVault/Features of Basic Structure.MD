@@ -1,10 +1,10 @@
-|                               |                 |
-| ----------------------------- | --------------- |
-| Tags                          | #basicStructure |
-| Status                        | #doing #digDeep |
-
-
 # Features of basic structure
+
+|        |                 |
+| ------ | --------------- |
+| Tags   | #basicStructure |
+| Status | #doing #digDeep |
+
 1.  Supremacy of the Constitution
 2.  Sovereign, democratic and republican nature of the Indian polity
 3.  Secular character of the Constitution
