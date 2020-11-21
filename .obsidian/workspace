@@ -6,6 +6,7 @@
       {
         "id": "7839dcedf5f9519a",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,7 +18,6 @@
       {
         "id": "3ef7d45c637272c4",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -68,8 +68,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -89,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Kesavananda Bharti Case.md",
+                "file": "NotesVault/Waman Rao Case.MD",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Kesavananda Bharti Case.md",
+                "file": "NotesVault/Waman Rao Case.MD",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Kesavananda Bharti Case.md"
+                "file": "NotesVault/Waman Rao Case.MD"
               }
             }
           }
@@ -168,8 +167,8 @@
     "width": 340.1217956542969
   },
   "lastOpenFiles": [
-    "NotesVault/Kesavananda Bharti Case.md",
     "NotesVault/Waman Rao Case.MD",
+    "NotesVault/Kesavananda Bharti Case.md",
     "NotesVault/_Templates/TopicTemplate.md",
     "NotesVault/_Templates/PolityTopicTemplate.md",
     "NotesVault/Polity MOC.md",
