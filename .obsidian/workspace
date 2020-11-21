@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Timeline of Decentralisation in India.md",
+            "file": "NotesVault/Untitled.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Timeline of Decentralisation in India.md",
+                "file": "NotesVault/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Timeline of Decentralisation in India.md",
+                "file": "NotesVault/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Timeline of Decentralisation in India.md"
+                "file": "NotesVault/Untitled.md"
               }
             }
           }
@@ -156,6 +156,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Untitled.md",
     "NotesVault/Timeline of Decentralisation in India.md",
     "NotesVault/Decentralisation and Poverty Reduction.md",
     "NotesVault/Cases reaffirming the Doctrine of Basic Structure.md",
@@ -164,7 +165,6 @@
     "NotesVault/Minerva Mills Case.md",
     "NotesVault/Types of Division of Powers.md",
     "NotesVault/Political Decentralisation.md",
-    "NotesVault/Admistrative Decentralisation.md",
-    "NotesVault/Basic Structure Doctrine.md"
+    "NotesVault/Admistrative Decentralisation.md"
   ]
 }
