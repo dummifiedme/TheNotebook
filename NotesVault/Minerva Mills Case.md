@@ -1,20 +1,12 @@
----
-title: Minerva Mills Case
-tags: #polity #cases 
-toc: true
-season: winter
----
-
 # Minerva Mills Case
 
 ***
 
-|        |                                                    |
-| ------ | -------------------------------------------------- |
-| Source | [[Indian Polity - Laxmikant]], [[IAS.Network GS2]] |
-| Status | #Doing                                             |
-| Date   | [[2020-11-17]]                                   |
-| Tags   | #cases #polity                                      |
+|        |                |
+| ------ | -------------- |
+| Status | #TODO          |
+| Date   | [[2020-11-17]] |
+| Tags   | #cases         |
 
 ***
 

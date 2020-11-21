@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Minerva Mills Case.md",
+            "file": "NotesVault/Polity MOC.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Minerva Mills Case.md",
+                "file": "NotesVault/Polity MOC.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Minerva Mills Case.md",
+                "file": "NotesVault/Polity MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Minerva Mills Case.md"
+                "file": "NotesVault/Polity MOC.md"
               }
             }
           }
@@ -157,8 +157,8 @@
     "width": 340.1217956542969
   },
   "lastOpenFiles": [
-    "NotesVault/Minerva Mills Case.md",
     "NotesVault/Polity MOC.md",
+    "NotesVault/Minerva Mills Case.md",
     "NotesVault/Kesavananda Bharti Case.md",
     "NotesVault/Decentralisation.md",
     "Decentralisation.md",
