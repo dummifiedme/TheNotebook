@@ -6,14 +6,45 @@
       {
         "id": "3230871e38daa9c9",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Decentralisation and Poverty Reduction.md",
+            "file": "NotesVault/Timeline of Decentralisation in India.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "d478ca1a1a64123b"
+      },
+      {
+        "id": "6581e8e96a389406",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "NotesVault/Timeline of Decentralisation in India.md",
+            "options": {
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1
+            }
+          }
+        },
+        "group": "d478ca1a1a64123b"
       }
     ],
     "direction": "vertical"
@@ -77,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Decentralisation and Poverty Reduction.md",
+                "file": "NotesVault/Timeline of Decentralisation in India.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -106,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Decentralisation and Poverty Reduction.md",
+                "file": "NotesVault/Timeline of Decentralisation in India.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Decentralisation and Poverty Reduction.md"
+                "file": "NotesVault/Timeline of Decentralisation in India.md"
               }
             }
           }
@@ -157,6 +188,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Timeline of Decentralisation in India.md",
     "NotesVault/Decentralisation and Poverty Reduction.md",
     "NotesVault/Waman Rao Case.MD",
     "NotesVault/Untitled.md",
@@ -165,7 +197,6 @@
     "NotesVault/Delegation.md",
     "NotesVault/Privatization.md",
     "NotesVault/Types of Division of Powers.md",
-    "NotesVault/Political Decentralisation.md",
-    "NotesVault/Admistrative Decentralisation.md"
+    "NotesVault/Political Decentralisation.md"
   ]
 }
