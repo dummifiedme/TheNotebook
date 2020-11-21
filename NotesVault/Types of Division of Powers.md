@@ -37,7 +37,7 @@ Def: All the responsibitlies for the government functions is transfered to NGOs 
 
 A: a political process whereby administrative authority, public resources and responsibilities are transfered from central government agencies to lower level organs of government or to non governmental bodies such as Community based organisations (CBOs), NGOs, or private sector actors.
 
-*   ![[Decentralisation#^4966f9]]
+*   ![[Decentralisation#Types of Decentralisation]]
 
 ***
 
