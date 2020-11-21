@@ -1,16 +1,15 @@
+# Types of Distribution of Powers
+
+***
+
 |        |                  |
 | ------ | ---------------- |
 | Status | #doing           |
 | Date   | 2020-11-20       |
 | Tags   | #divisionOfPower |
 
-
 ***
-
-# Types of Distribution of Powers
-
-***
-
+There are 
 1.  [[Deconcentration]]
 2.  [[Devolution]]
 3.  [[Delegation]]
