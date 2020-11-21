@@ -123,7 +123,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f9eaa634562fcce1",
@@ -156,12 +157,12 @@
   },
   "lastOpenFiles": [
     "NotesVault/Decentralisation.md",
+    "Decentralisation.md",
     "Political Decentralisation.md",
     "Deconcentration.md",
     "Devolution.md",
     "Delegation.md",
     "Privatization.md",
-    "Decentralisation.md",
     "NotesVault/Types of Division of Powers.md",
     "NotesVault/Untitled.md",
     "NotesVault/Cases reaffirming the Doctrine of Basic Structure.md"
