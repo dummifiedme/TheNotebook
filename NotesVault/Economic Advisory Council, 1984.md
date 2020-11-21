@@ -1,1 +1,1 @@
-Is sam[[Sukhamoy Chakravarty Report]]
+It is same as [[Sukhamoy Chakravarty Report]], and related to Panchayati Raj Insitutions.

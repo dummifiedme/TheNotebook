@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f6628588e113e2f4",
-        "type": "split",
-        "children": [
-          {
-            "id": "7839dcedf5f9519a",
-            "type": "leaf",
-            "dimension": 58.60805860805861,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NotesVault/Timeline of Decentralisation in India.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "604555ee84c2aaef",
-            "type": "leaf",
-            "dimension": 41.39194139194139,
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NotesVault/Economic Advisory Council, 1984.md",
-                "mode": "source"
-              }
-            }
+        "id": "7839dcedf5f9519a",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/Timeline of Decentralisation in India.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -98,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Economic Advisory Council, 1984.md",
+                "file": "NotesVault/Timeline of Decentralisation in India.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -127,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Economic Advisory Council, 1984.md",
+                "file": "NotesVault/Timeline of Decentralisation in India.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Economic Advisory Council, 1984.md"
+                "file": "NotesVault/Timeline of Decentralisation in India.md"
               }
             }
           }
@@ -178,8 +158,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/Economic Advisory Council, 1984.md",
     "NotesVault/Timeline of Decentralisation in India.md",
+    "NotesVault/Economic Advisory Council, 1984.md",
     "NotesVault/Decentralisation in India.md",
     "NotesVault/Decentralisation.md",
     "NotesVault/Democratic Decentralisation.md",
