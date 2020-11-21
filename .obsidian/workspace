@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Cases reaffirming the Doctrine of Basic Structure.md",
+            "file": "NotesVault/Timeline of Decentralisation in India.md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Cases reaffirming the Doctrine of Basic Structure.md",
+                "file": "NotesVault/Timeline of Decentralisation in India.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -95,7 +95,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5980704718529537
+                  "scale": 0.5980704718529534
                 }
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Cases reaffirming the Doctrine of Basic Structure.md",
+                "file": "NotesVault/Timeline of Decentralisation in India.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,27 +143,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Cases reaffirming the Doctrine of Basic Structure.md"
+                "file": "NotesVault/Timeline of Decentralisation in India.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 315.36524963378906
   },
   "lastOpenFiles": [
+    "NotesVault/Timeline of Decentralisation in India.md",
+    "NotesVault/Types of Division of Powers.md",
+    "NotesVault/Political Decentralisation.md",
+    "NotesVault/Admistrative Decentralisation.md",
     "NotesVault/Cases reaffirming the Doctrine of Basic Structure.md",
     "NotesVault/Basic Structure Doctrine.md",
     "NotesVault/Polity MOC.md",
     "NotesVault/The Zettlekasten Method.md",
-    "NotesVault/Timeline of Decentralisation in India.md",
     "NotesVault/Decentralisation and Poverty Reduction.md",
-    "NotesVault/Waman Rao Case.MD",
-    "NotesVault/Untitled.md",
-    "NotesVault/Deconcentration.md",
-    "NotesVault/Devolution.md"
+    "NotesVault/Waman Rao Case.MD"
   ]
 }
