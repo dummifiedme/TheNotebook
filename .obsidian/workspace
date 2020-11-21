@@ -10,22 +10,24 @@
           {
             "id": "3230871e38daa9c9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "NotesVault/Timeline of Decentralisation in India.md",
                 "mode": "preview"
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "ea741cf9f38f9b70",
+            "id": "48149b8a94223991",
             "type": "leaf",
             "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NotesVault/Balwantrai Mehta Report.md",
+                "file": "NotesVault/Sukhamoy Chakravarty Report.md",
                 "mode": "source"
               }
             }
@@ -96,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Balwantrai Mehta Report.md",
+                "file": "NotesVault/Sukhamoy Chakravarty Report.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -125,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Balwantrai Mehta Report.md",
+                "file": "NotesVault/Sukhamoy Chakravarty Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Balwantrai Mehta Report.md"
+                "file": "NotesVault/Sukhamoy Chakravarty Report.md"
               }
             }
           }
@@ -176,15 +178,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/Balwantrai Mehta Report.md",
+    "NotesVault/Sukhamoy Chakravarty Report.md",
     "NotesVault/Timeline of Decentralisation in India.md",
+    "NotesVault/Balwantrai Mehta Report.md",
     "NotesVault/Economic Advisory Council, 1984.md",
     "NotesVault/Decentralisation in India.md",
     "NotesVault/Decentralisation.md",
     "NotesVault/Democratic Decentralisation.md",
     "NotesVault/002 Subject Wise Topics.md",
     "NotesVault/Polity MOC.md",
-    "NotesVault/Minerva Mills Case.md",
-    "NotesVault/Kesavananda Bharti Case.md"
+    "NotesVault/Minerva Mills Case.md"
   ]
 }
