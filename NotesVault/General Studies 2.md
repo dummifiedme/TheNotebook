@@ -2,13 +2,13 @@
 ```expander
 {{GS2-Topic01}}
 ```
-[[Basic Structure Doctrine]]
+* [[Basic Structure Doctrine]]
 
 ---
 
 ##### **Topic 2:** Functions and responsibilities of the Union and the States, issues and challenges pertaining to the federal structure, devolution of powers and finances up to local levels and challenges therein.
 {{GS2-Topic02}}
-
+* [[Decentralisation and Poverty Reduction]]
 ---
 ##### **Topic 3:** Separation of powers between various organs dispute redressal mechanisms and institutions.
 ##### **Topic 4:** Comparison of the Indian constitutional scheme with that of other countries.

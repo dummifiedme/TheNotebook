@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/General Studies 2.md",
+            "file": "NotesVault/Timeline of Decentralisation in India.md",
             "mode": "source"
           }
         }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/General Studies 2.md",
+                "file": "NotesVault/Timeline of Decentralisation in India.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/General Studies 2.md",
+                "file": "NotesVault/Timeline of Decentralisation in India.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/General Studies 2.md"
+                "file": "NotesVault/Timeline of Decentralisation in India.md"
               }
             }
           }
@@ -158,9 +157,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Timeline of Decentralisation in India.md",
     "NotesVault/General Studies 2.md",
     "NotesVault/001 Paper Wise Topics.md",
-    "NotesVault/Timeline of Decentralisation in India.md",
     "NotesVault/Balwantrai Mehta Report.md",
     "NotesVault/Economic Advisory Council, 1984.md",
     "NotesVault/Sukhamoy Chakravarty Report.md",
