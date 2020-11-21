@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Decentralisation.md",
+            "file": "NotesVault/Decentralisation in India.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Decentralisation.md",
+                "file": "NotesVault/Decentralisation in India.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Decentralisation.md",
+                "file": "NotesVault/Decentralisation in India.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Decentralisation.md"
+                "file": "NotesVault/Decentralisation in India.md"
               }
             }
           }
@@ -158,8 +158,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/Decentralisation.md",
     "NotesVault/Decentralisation in India.md",
+    "NotesVault/Decentralisation.md",
     "NotesVault/Democratic Decentralisation.md",
     "NotesVault/002 Subject Wise Topics.md",
     "NotesVault/Polity MOC.md",

@@ -1,7 +1,6 @@
 # Decentralisation in India
 
 ***
-
 |        |                  |
 | ------ | ---------------- |
 | Status | #Done            |

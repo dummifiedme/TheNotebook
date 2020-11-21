@@ -10,6 +10,7 @@ a political process whereby administrative authority, public resources and respo
 - [[Fiscal Decentralisation]]
 - [[Democratic Decentralisation]]
 
+## The Indian Case
+* [[Decentralisation in India]]
 
-## [[Decentralisation in India]]
 
