@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/Minerva Mills Case.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2020-11-20",
+                "query": "#polity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -74,6 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "NotesVault/Minerva Mills Case.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -102,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NotesVault/Minerva Mills Case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NotesVault/Minerva Mills Case.md"
+              }
             }
           }
         ],
@@ -149,15 +157,15 @@
     "width": 340.1217956542969
   },
   "lastOpenFiles": [
+    "NotesVault/Minerva Mills Case.md",
+    "NotesVault/Polity MOC.md",
+    "NotesVault/Kesavananda Bharti Case.md",
     "NotesVault/Decentralisation.md",
     "Decentralisation.md",
     "Political Decentralisation.md",
     "Deconcentration.md",
     "Devolution.md",
     "Delegation.md",
-    "Privatization.md",
-    "NotesVault/Types of Division of Powers.md",
-    "NotesVault/Untitled.md",
-    "NotesVault/Cases reaffirming the Doctrine of Basic Structure.md"
+    "Privatization.md"
   ]
 }

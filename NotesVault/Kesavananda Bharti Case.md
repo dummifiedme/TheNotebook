@@ -1,12 +1,3 @@
----
-
-title: Kesavananda Bharti Case
-tags: #polity #cases
-toc: true
-season: winter
-
----
-
 # Kesavananda Bharti Case (1973)
 
 ***
@@ -16,7 +7,7 @@ season: winter
 | Source | [Indian Polity - Laxmikant](Indian%20Polity%20-%20Laxmikant.md), [IAS.Network GS2](IAS.Network%20GS2.md) |
 | Status | #Done                                                                                                    |
 | Date   | [2020-11-17](2020-11-17.md)                                                                              |
-| Tags   | #cases #polity                                                                                           |
+| Tags   | #cases                                                                                          |
 
 ***
 
