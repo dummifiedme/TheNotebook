@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NotesVault/Polity MOC.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Polity MOC.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,11 +103,10 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Polity MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -144,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NotesVault/Polity MOC.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -157,6 +150,7 @@
     "width": 340.1217956542969
   },
   "lastOpenFiles": [
+    "NotesVault/002 Subject Wise Topics.md",
     "NotesVault/Polity MOC.md",
     "NotesVault/Minerva Mills Case.md",
     "NotesVault/Kesavananda Bharti Case.md",
@@ -165,7 +159,6 @@
     "Political Decentralisation.md",
     "Deconcentration.md",
     "Devolution.md",
-    "Delegation.md",
-    "Privatization.md"
+    "Delegation.md"
   ]
 }
