@@ -23,5 +23,12 @@
 *   [[Article 368]] - deals with the amendments to the constitution.
 
 ***
+---
+TARGET DECK
+UPSC::General Studies 2
 
+FILE TAG
+GS2::Topic01 Polity::Basic_Structure Polity::Amendments
+
+---
 
