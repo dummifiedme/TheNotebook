@@ -35,5 +35,7 @@ GS2::Topic01 Polity::Basic_Structure Polity::Cases
     *   Constituent power of the Parliament under Article 368 does not enable it to alter 'Basic Structure'.
     *   Therefore, Parliament cannot abridge or take away a Fundamental Right that forms a part of the ' Basic Structure' of the Constitution.
 
+---
+
 Q: Date of judgement of Kesavananda Bharti Case.
 A: April 24, 1973
