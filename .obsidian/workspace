@@ -4,33 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "80457e65bc5e29e9",
-        "type": "split",
-        "children": [
-          {
-            "id": "3230871e38daa9c9",
-            "type": "leaf",
-            "dimension": 75.57997557997558,
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NotesVault/Timeline of Decentralisation in India.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "48149b8a94223991",
-            "type": "leaf",
-            "dimension": 24.42002442002442,
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
+        "id": "3230871e38daa9c9",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/Timeline of Decentralisation in India.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
