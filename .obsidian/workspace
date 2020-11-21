@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GS2-Topic01",
+                "query": "GS2-Topic02",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
