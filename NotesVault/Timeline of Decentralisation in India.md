@@ -4,8 +4,8 @@
 * Panchayati Raj insitution is an example for the world to emulate
 	* Three broad views wrt to decentralisation
 		* [[Balwantrai Mehta Report]] (1957)
-		* [[Sukhamoy Chakravarty Report ]](Economic Advisory Council, 1984)
-		* Ashok Mehta Report (1978)
+		* [[Sukhamoy Chakravarty Report ]]([[Economic Advisory Council, 1984]])
+		* [[Ashok Mehta Report]] (1978)
 
 
 
