@@ -1,6 +1,8 @@
 # Timeline of Decentralisation in India
 
-Most significant step -> Resolution of the government of {Lord Ripon} in {1882}. #digDeep 
+* Most significant step -> Resolution of the government of {Lord Ripon} in {1882}. #digDeep 
+* Panchayati Raj insitution is an example for the world to emulate
+	* 
 
 
 
