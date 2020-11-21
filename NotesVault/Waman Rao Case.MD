@@ -2,11 +2,11 @@
 
 ***
 
-|         |   |
-| ------- | - |
-| Status  | #Done   |
-| Date    |  [2020-11-17](2020-11-17) |
-| Tags    |  #cases |
+|        |            |
+| ------ | ---------- |
+| Status | #Done      |
+| Date   | 2020-11-17 |
+| Tags   | #cases     |
 
 ***
 
@@ -18,7 +18,6 @@ GS2::Topic01 Polity::Basic_Structure Polity::Cases
 
 ***
 
-- Supreme Court adhered to the doctrine of basic structure, again.
-- 'Basic Structure' would apply to constitutional amendments enacted after {April 24, 1973}
-	- {April 24 1973} => {date of judgement for [Kesavananda Bharti Case](Kesavananda%20Bharti%20Case.md)}.
-
+*   Supreme Court adhered to the doctrine of basic structure, again.
+*   'Basic Structure' would apply to constitutional amendments enacted after {April 24, 1973}
+    *   {April 24 1973} => {date of judgement for [Kesavananda Bharti Case](Kesavananda%20Bharti%20Case.md)}.
