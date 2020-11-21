@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/24th Amendment Act.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -75,6 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "NotesVault/24th Amendment Act.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NotesVault/24th Amendment Act.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NotesVault/24th Amendment Act.md"
+              }
             }
           }
         ]
@@ -181,6 +188,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/24th Amendment Act.md",
     "NotesVault/Features of Basic Structure.MD",
     "NotesVault/Effects of Devolution of Authority.md",
     "NotesVault/Basic Structure Doctrine.md",
@@ -189,7 +197,6 @@
     "NotesVault/Decentralisation and Poverty Reduction.md",
     "NotesVault/002 Subject Wise Topics.md",
     "NotesVault/Quotes.md",
-    "NotesVault/Environment MOC.md",
-    "NotesVault/Geography MOC.md"
+    "NotesVault/Environment MOC.md"
   ]
 }
