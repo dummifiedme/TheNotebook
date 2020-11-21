@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Timeline of Decentralisation in India.md",
-            "mode": "preview"
+            "file": "NotesVault/General Studies 2.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#polity",
+                "query": "GS2-Topic01",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,12 +57,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 273.49999809265137,
-    "collapsed": true
+    "width": 273.49999809265137
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Timeline of Decentralisation in India.md",
+                "file": "NotesVault/General Studies 2.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Timeline of Decentralisation in India.md",
+                "file": "NotesVault/General Studies 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Timeline of Decentralisation in India.md"
+                "file": "NotesVault/General Studies 2.md"
               }
             }
           }
@@ -158,6 +158,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/General Studies 2.md",
+    "NotesVault/001 Paper Wise Topics.md",
     "NotesVault/Timeline of Decentralisation in India.md",
     "NotesVault/Balwantrai Mehta Report.md",
     "NotesVault/Economic Advisory Council, 1984.md",
@@ -165,8 +167,6 @@
     "NotesVault/Decentralisation in India.md",
     "NotesVault/Decentralisation.md",
     "NotesVault/Democratic Decentralisation.md",
-    "NotesVault/002 Subject Wise Topics.md",
-    "NotesVault/Polity MOC.md",
-    "NotesVault/Minerva Mills Case.md"
+    "NotesVault/002 Subject Wise Topics.md"
   ]
 }
