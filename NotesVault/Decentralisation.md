@@ -1,19 +1,9 @@
----
-title: Types of Division of Power
-tags: #polity #definitions 
-toc: true
-season: winter
----
-
 # Decentralisation 
 
 ## Defitnition
 a political process whereby administrative authority, public resources and responsibilities are transferred from central government agencies to lower level organs of government or to non governmental bodies such as Community based organisations (CBOs), NGOs, or private sector actors
 
 ## Types of Decentralisation
-
-^4966f9
-
 - Political Decentralisation
 - Administrative Decentralisation 
 - Fiscal Decentralisation 
@@ -21,8 +11,6 @@ a political process whereby administrative authority, public resources and respo
 
 ### Political Decentralisation
 Def: transfers policy and legislative powers from central government to autonomous, lower-level Assemblies and local councils that have been democratically elected by their constituencies.
-
-
 
 ### Admistrative Decentralisation
 Def: planning and implementation responsibility in the hands of locally situated civil servants and these local civil servants are under the jurisdiction of elected local government's.
