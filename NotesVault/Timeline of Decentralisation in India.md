@@ -6,7 +6,8 @@
 		* Districts/Blocks: {[[Balwantrai Mehta Report]] (1957)} favoured {blocks} and {[[Sukhamoy Chakravarty Report]]} ([[Economic Advisory Council, 1984]]) on {decentralisation of planning} considered {even the district to be very small} for proper area planning.
 		* Favoured districts: { [[Ashok Mehta Report]]} ({1978}) on Panchayati Raj
 			* categorically favoured the district since its the pivot of local administration for centuries.
-			* the expertise could be 
+			* the expertise could be mustered at this level and not lowered.
+			* Block Level Planning: [[The Dantewa]]
 	
 ---
 TARGET DECK
