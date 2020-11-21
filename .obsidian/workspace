@@ -22,7 +22,7 @@
           "type": "markdown",
           "state": {
             "file": "NotesVault/Waman Rao Case.MD",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "polity",
+                "query": "tag:#cases",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.49999809265137,
-    "collapsed": true
+    "width": 273.49999809265137
   },
   "right": {
     "id": "f38ee8bf8680e41c",
