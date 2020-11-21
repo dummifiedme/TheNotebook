@@ -1,23 +1,21 @@
+|        |                  |
+| ------ | ---------------- |
+| Status | #doing           |
+| Date   | 2020-11-20       |
+| Tags   | #divisionOfPower |
+
+
+***
+
 # Types of Distribution of Powers
 
 ***
 
-|         |   |
-| ------- | - |
-| Status  |   |
-| Date    |   |
-| Tags    |   |
-
-***
-
-Date: [2020-11-18](2020-11-18.md)
-Tags: #definitions #polity
-
-1. [[Deconcentration]]
-2. [[Devolution]]
-3. [[Delegation]]
-4. [[Privatization]]
-5. [[Decentralisation]]
+1.  [[Deconcentration]]
+2.  [[Devolution]]
+3.  [[Delegation]]
+4.  [[Privatization]]
+5.  [[Decentralisation]]
 
 ***
 
