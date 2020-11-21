@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.36524963378906
+    "width": 315.36524963378906,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "NotesVault/The Zettlekasten Method.md",
