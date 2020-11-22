@@ -5,3 +5,4 @@
 * Compulsory powers of taxation + financial resources => Panchayat
 * SG shouldn't supersede the Panchayati Raj.
 * Nayaya Panchayat = separate body
+* Reservation to SC/ST = pop based
