@@ -42,7 +42,8 @@
 
 ### State Election Commission
 - Elections vested with SECs. ([[State Election Commission]])
-- State Election Commissioner to be appointed by the Governor
+- [[ State Election Commision#State Election Commissioner| State Election Commissioner|]]  to be appointed by the Governor.
+- 
 
 
 

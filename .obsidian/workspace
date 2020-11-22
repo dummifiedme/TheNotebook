@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/State Election Commission.md",
+            "file": "NotesVault/73rd Amendment Act of 1992.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/State Election Commission.md",
+                "file": "NotesVault/73rd Amendment Act of 1992.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/State Election Commission.md",
+                "file": "NotesVault/73rd Amendment Act of 1992.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/State Election Commission.md"
+                "file": "NotesVault/73rd Amendment Act of 1992.md"
               }
             }
           }
@@ -156,15 +156,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/State Election Commission.md",
     "NotesVault/73rd Amendment Act of 1992.md",
+    "NotesVault/State Election Commissioner.md",
+    "NotesVault/State Election Commission.md",
     "NotesVault/Untitled.md",
     "NotesVault/Timeline of Decentralisation in India.md",
     "NotesVault/LM Singhvi Committee.md",
     "NotesVault/Ashok Mehta Report.md",
     "NotesVault/Decentralisation in India.md",
     "NotesVault/Sukhamoy Chakravarty Report.md",
-    "NotesVault/The Dantewala Report.md",
-    "NotesVault/Balwantrai Mehta Report.md"
+    "NotesVault/The Dantewala Report.md"
   ]
 }
