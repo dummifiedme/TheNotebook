@@ -16,3 +16,5 @@
  - Direct election to all the three tiers.
  - Chairperson to panchayat at the intermediate and the district levels = elected indirectly
 	 - Amongst the elected members.
+
+### Reserva
