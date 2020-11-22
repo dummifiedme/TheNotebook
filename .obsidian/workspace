@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Timeline of Decentralisation in India.md",
+            "file": "NotesVault/73rd Amendment Act of 1992.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Timeline of Decentralisation in India.md",
+                "file": "NotesVault/73rd Amendment Act of 1992.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Timeline of Decentralisation in India.md",
+                "file": "NotesVault/73rd Amendment Act of 1992.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Timeline of Decentralisation in India.md"
+                "file": "NotesVault/73rd Amendment Act of 1992.md"
               }
             }
           }
@@ -156,6 +156,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Untitled.md",
     "NotesVault/Timeline of Decentralisation in India.md",
     "NotesVault/LM Singhvi Committee.md",
     "NotesVault/Ashok Mehta Report.md",
@@ -164,7 +165,6 @@
     "NotesVault/The Dantewala Report.md",
     "NotesVault/Balwantrai Mehta Report.md",
     "NotesVault/Hanumantha Rao Committee.md",
-    "NotesVault/Main committees related to Panchayati Raj.md",
-    "NotesVault/LM SInghvi Committee.md"
+    "NotesVault/Main committees related to Panchayati Raj.md"
   ]
 }
