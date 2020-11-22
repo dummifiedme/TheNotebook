@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "3230871e38daa9c9",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NotesVault/Main committees related to Panchayati Raj.md",
-            "mode": "source"
+        "id": "749c9eba63e3359c",
+        "type": "split",
+        "children": [
+          {
+            "id": "3230871e38daa9c9",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NotesVault/Main committees related to Panchayati Raj.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "9fb9e1bb50757dd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NotesVault/Hanumantha Rao Committee.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -157,6 +175,7 @@
   },
   "lastOpenFiles": [
     "NotesVault/Main committees related to Panchayati Raj.md",
+    "NotesVault/Hanumantha Rao Committee.md",
     "NotesVault/Hanumantha Rao Report.md",
     "NotesVault/GVK Rao Committee.md",
     "NotesVault/GVK Commettee - Recommendations.md",
@@ -164,7 +183,6 @@
     "NotesVault/Ashok Mehta Committee - Recommendations.md",
     "NotesVault/Balwantrai Mehta Report.md",
     "NotesVault/Ashok Mehta Report.md",
-    "NotesVault/Untitled.md",
-    "NotesVault/Timeline of Decentralisation in India.md"
+    "NotesVault/Untitled.md"
   ]
 }

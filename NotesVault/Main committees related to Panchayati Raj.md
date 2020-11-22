@@ -13,5 +13,5 @@
 		-  Ashok Mehta Committee
 		-  GVK Rao Committee
 
-		These committees recommended reduction in the developmental role of the DIsctric Collector and
+		These committees recommended reduction in the developmental role of the District Collector and assigned major role to Panchayati Raj in the development administration.
 1. 
