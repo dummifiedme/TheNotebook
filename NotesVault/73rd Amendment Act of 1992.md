@@ -21,4 +21,4 @@
 - Provides for the reservation of seats for
 	- SC
 	- ST
-	In every 
+In every Panchayat (at all three levels)
