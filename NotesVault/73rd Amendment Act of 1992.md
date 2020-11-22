@@ -43,7 +43,8 @@
 ### State Election Commission
 - Elections vested with SECs. ([[State Election Commission]])
 - [[State Election Commission#State Election Commissioner | State Election Commissioner]]  to be appointed by the Governor.
-- State legislature will make proper laws as required 
+- State legislature will make proper laws as required in all matters relating to the election of the panchayats.
 
+### Powers and Functions
 
 
