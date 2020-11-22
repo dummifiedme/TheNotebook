@@ -1,4 +1,13 @@
 * Appointed by planning commission in 1985
 * The developmental process was gradually bureaucratized and divorced from Panchayati Raj.
-* >  'Grass without Roots' since the democratization weakened the Panchayati Raj inst
+* >  'Grass without Roots' since the democratization weakened the Panchayati Raj institutions.
 * [[GVK Commettee - Recommendations]]
+
+---
+TARGET DECK
+UPSC::General Studies 2
+
+FILE TAG
+GS2::Topic02 Polity::Committee Polity::Panchayati_Raj Source::Laxmikant
+
+---
