@@ -9,6 +9,7 @@
 ### Three Tier System
 - Village, Intermediate and District levels
 - Every state
-	- Except - states with <20 lakh populations.
 - Thus, uniformity in the structure throughout the country.
+	- 	- Except -> states with <20 lakh population --> may n have intermediate 
  
+ ###  
