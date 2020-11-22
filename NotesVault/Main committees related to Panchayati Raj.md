@@ -7,6 +7,6 @@
 4.  [[Hanumantha Rao Committee]]
 	-  District level planning
 	-  District Collector or Minister as head of the planning bodies in districts.
-	-  Differed from most of the committees -- because others emphasized the local bodies over Collector.
-		
-1. 
+	-  Differed from most of the committees -- as others emphasized the local bodies over Collector.
+
+5. 
