@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NotesVault/Main committees related to Panchayati Raj.md",
-                "mode": "source"
+                "file": "NotesVault/LM Singhvi Committee.md",
+                "mode": "preview"
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Main committees related to Panchayati Raj.md",
+                "file": "NotesVault/LM Singhvi Committee.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -114,7 +114,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3989944176258818
+                  "scale": 0.5980704718529534
                 }
               }
             }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Main committees related to Panchayati Raj.md",
+                "file": "NotesVault/LM Singhvi Committee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Main committees related to Panchayati Raj.md"
+                "file": "NotesVault/LM Singhvi Committee.md"
               }
             }
           }
@@ -170,9 +170,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.36524963378906
+    "width": 315.36524963378906,
+    "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/LM Singhvi Committee.md",
     "NotesVault/Main committees related to Panchayati Raj.md",
     "NotesVault/LM SInghvi Committee.md",
     "NotesVault/Hanumantha Rao Committee.md",
@@ -181,7 +183,6 @@
     "NotesVault/GVK Commettee - Recommendations.md",
     "NotesVault/Ashok Mehta Committee.md",
     "NotesVault/Ashok Mehta Committee - Recommendations.md",
-    "NotesVault/Balwantrai Mehta Report.md",
-    "NotesVault/Ashok Mehta Report.md"
+    "NotesVault/Balwantrai Mehta Report.md"
   ]
 }
