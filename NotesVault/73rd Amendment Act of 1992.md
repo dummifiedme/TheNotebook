@@ -37,7 +37,8 @@
 
 ### Disqualifications
 - any law for the time being in force for the purpose of elections to the legislature of the state concerned.
-- under any law made by the legislature. 
+- under any law made by the legislature.
+- Age: >21 years of age; not 25 like in State Legislature .
 
 
 
