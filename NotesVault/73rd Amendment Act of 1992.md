@@ -31,7 +31,7 @@
 - it can be dissolved before the completion of its term
 - Fresh elections to constitute a panchayat 
 	- before expiry of its duration of 5 years
-	- in case of dissolution -> before the expiry of a period of six months fro the date of dissolution.
+	- in case of dissolution -> before the expiry of a period of six months from the date of dissolution.
 
 
 
