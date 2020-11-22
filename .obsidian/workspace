@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/73rd Amendment Act of 1992.md",
-            "mode": "source"
+            "file": "NotesVault/GVK Rao Committee.md",
+            "mode": "preview"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/73rd Amendment Act of 1992.md",
+                "file": "NotesVault/GVK Rao Committee.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -96,7 +96,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3989944176258818
+                  "scale": 0.8964744204461569
                 }
               }
             }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/73rd Amendment Act of 1992.md",
+                "file": "NotesVault/GVK Rao Committee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f9eaa634562fcce1",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/73rd Amendment Act of 1992.md"
+                "file": "NotesVault/GVK Rao Committee.md"
               }
             }
           }
@@ -152,19 +153,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.36524963378906,
-    "collapsed": true
+    "width": 408.6939392089844
   },
   "lastOpenFiles": [
+    "NotesVault/GVK Rao Committee.md",
+    "NotesVault/Hanumantha Rao Committee.md",
+    "NotesVault/Main committees related to Panchayati Raj.md",
     "NotesVault/73rd Amendment Act of 1992.md",
     "NotesVault/State Election Commission.md",
     "NotesVault/State Election Commision.md",
     "NotesVault/State Election Commissioner.md",
     "NotesVault/Untitled.md",
     "NotesVault/Timeline of Decentralisation in India.md",
-    "NotesVault/LM Singhvi Committee.md",
-    "NotesVault/Ashok Mehta Report.md",
-    "NotesVault/Decentralisation in India.md",
-    "NotesVault/Sukhamoy Chakravarty Report.md"
+    "NotesVault/LM Singhvi Committee.md"
   ]
 }
