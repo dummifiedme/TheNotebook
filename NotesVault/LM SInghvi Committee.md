@@ -6,6 +6,6 @@ TARGET DECK
 UPSC::General Studies 2::Polity
 
 FILE TAG
-GS2::Topic02 Polity::Basic_Structure
+GS2::Topic02 Polity::Committee Source::Laxmikant
 
 ---
