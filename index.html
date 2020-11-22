@@ -47,7 +47,7 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE." />
 <link id="faviconLink" rel="shortcut icon" href="favicon.ico">
-<title>My TiddlyWiki — a non-linear personal web notebook</title>
+<title>TheNotebook — Obsidian Vault</title>
 <!--~~ This is a Tiddlywiki file. The points of interest in the file are marked with this pattern ~~-->
 
 <!--~~ Raw markup ~~-->
@@ -141,7 +141,19 @@ Error message and password prompt
 
 <p>This <a class="tc-tiddlylink-external" href="https://tiddlywiki.com" rel="noopener noreferrer" target="_blank">TiddlyWiki</a> contains the following tiddlers:</p><p><ul>
 
+<li>$:/ak/plugins/TWCrossLinks</li>
+
+<li>$:/config/DefaultMoreSidebarTab</li>
+
+<li>$:/config/markdown/renderWikiTextPragma</li>
+
+<li>$:/config/Navigation/UpdateAddressBar</li>
+
+<li>$:/config/Toolbar/Text</li>
+
 <li>$:/core</li>
+
+<li>$:/DefaultTiddlers</li>
 
 <li>$:/isEncrypted</li>
 
@@ -149,13 +161,33 @@ Error message and password prompt
 
 <li>$:/plugins/tiddlywiki/markdown</li>
 
+<li>$:/SiteSubtitle</li>
+
+<li>$:/SiteTitle</li>
+
 <li>$:/status/RequireReloadDueToPluginChange</li>
 
 <li>$:/StoryList</li>
 
+<li>$:/theme</li>
+
 <li>$:/themes/tiddlywiki/snowwhite</li>
 
 <li>$:/themes/tiddlywiki/vanilla</li>
+
+<li>$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint</li>
+
+<li>$:/themes/tiddlywiki/vanilla/metrics/sidebarwidth</li>
+
+<li>$:/themes/tiddlywiki/vanilla/metrics/storyleft</li>
+
+<li>$:/themes/tiddlywiki/vanilla/metrics/storyright</li>
+
+<li>$:/themes/tiddlywiki/vanilla/metrics/storywidth</li>
+
+<li>$:/themes/tiddlywiki/vanilla/metrics/tiddlerwidth</li>
+
+<li>$:/themes/tiddlywiki/vanilla/options/sidebarlayout</li>
 
 <li>000 Index</li>
 
@@ -196,6 +228,8 @@ Error message and password prompt
 <li>Democratic Decentralisation</li>
 
 <li>Devolution</li>
+
+<li>Draft of 'New Tiddler'</li>
 
 <li>Economy MOC</li>
 
@@ -259,7 +293,11 @@ Error message and password prompt
 
 <li>The Zettlekasten Method</li>
 
+<li>TheNotebook</li>
+
 <li>Timeline of Decentralisation in India</li>
+
+<li>TRYTIDDLERS</li>
 
 <li>Types of Division of Powers</li>
 
@@ -279,6 +317,204 @@ Error message and password prompt
 <!--~~ Ordinary tiddlers ~~-->
 
 <div id="storeArea" style="display:none;">
+<div created="20200502092707287" description="Discover all your intra tiddlers links" list="config readme change.log" modified="20201120210320110" name="TWCrossLinks" plugin-type="plugin" tags="" title="$:/ak/plugins/TWCrossLinks" type="application/json" version="0.1.19" revision="0" bag="default">
+<pre>{
+    &quot;tiddlers&quot;: {
+        &quot;$:/ak/plugins/TWCrossLinks/config/default&quot;: {
+            &quot;created&quot;: &quot;20200429195808011&quot;,
+            &quot;creator&quot;: &quot;akhater&quot;,
+            &quot;text&quot;: &quot;{\n    \&quot;DefaultFoldData\&quot;: \&quot;show\&quot;,\n    \&quot;DefaultTab\&quot;: \&quot;$:/ak/plugins/TWCrossLinks/core/backlinks\&quot;,\n    \&quot;TranscludeInboundLinks\&quot;: \&quot;true\&quot;,\n    \&quot;HideInboundTitle\&quot;: \&quot;false\&quot;,\n    \&quot;UseFullMatch4Freelinks\&quot;: \&quot;false\&quot;\n}&quot;,
+            &quot;bag&quot;: &quot;default&quot;,
+            &quot;revision&quot;: &quot;0&quot;,
+            &quot;type&quot;: &quot;application/json&quot;,
+            &quot;title&quot;: &quot;$:/ak/plugins/TWCrossLinks/config/default&quot;,
+            &quot;tags&quot;: &quot;&quot;,
+            &quot;modified&quot;: &quot;20200522132619441&quot;,
+            &quot;modifier&quot;: &quot;akhater&quot;
+        },
+        &quot;$:/ak/plugins/TWCrossLinks/core/backlinks&quot;: {
+            &quot;created&quot;: &quot;20200429182330136&quot;,
+            &quot;text&quot;: &quot;\\define lingo-base() $:/language/TiddlerInfo/\n&lt;$list filter=\&quot;[all[current]backlinks[]!is[system]!is[shadow]!tag[hide]sort[title]] -[is[current]]\&quot; emptyMessage=&lt;&lt;lingo References/Empty&gt;&gt; variable=result&gt;\n    &lt;$list filter=\&quot;[[$:/ak/plugins/TWCrossLinks/config/default]getindex[TranscludeInboundLinks]] -[[true]]\&quot; variable=conf&gt;\n        &lt;div class=\&quot;tc-menu-list-item\&quot;&gt; &lt;$link to=&lt;&lt;result&gt;&gt; &gt;&lt;$view tiddler=&lt;&lt;result&gt;&gt; field=title&gt; &lt;/$view&gt;&lt;/$link&gt; &lt;/div&gt;  \n    &lt;/$list&gt;\n    &lt;$list filter=\&quot;[[$:/ak/plugins/TWCrossLinks/config/default]getindex[TranscludeInboundLinks]] -[[false]]\&quot; variable=conf&gt;\n        &lt;div class=\&quot;tc-menu-list-item\&quot;&gt;\n            &lt;div class=\&quot;trans-container\&quot;&gt; \n                &lt;$link to=&lt;&lt;result&gt;&gt; &gt;&lt;$view tiddler=&lt;&lt;result&gt;&gt; field=title template=\&quot;$:/core/ui/ListItemTemplate\&quot;&gt; &lt;/$view&gt;&lt;/$link&gt;\n                &lt;span class=\&quot;trans-content\&quot;&gt;  &lt;$context term=&lt;&lt;currentTiddler&gt;&gt; tiddler= &lt;&lt;result&gt;&gt; /&gt;  &lt;/span&gt; \n            &lt;/div&gt;\n        &lt;/div&gt;\n    &lt;/$list&gt;\n&lt;/$list&gt;&quot;,
+            &quot;bag&quot;: &quot;default&quot;,
+            &quot;revision&quot;: &quot;0&quot;,
+            &quot;type&quot;: &quot;text/vnd.tiddlywiki&quot;,
+            &quot;title&quot;: &quot;$:/ak/plugins/TWCrossLinks/core/backlinks&quot;,
+            &quot;tags&quot;: &quot;$:/tags/TWCrossLinks&quot;,
+            &quot;modified&quot;: &quot;20200513143753383&quot;,
+            &quot;caption&quot;: &quot;Backlinks&quot;
+        },
+        &quot;$:/ak/plugins/TWCrossLinks/core/freelinks&quot;: {
+            &quot;title&quot;: &quot;$:/ak/plugins/TWCrossLinks/core/freelinks&quot;,
+            &quot;caption&quot;: &quot;Freelinks&quot;,
+            &quot;created&quot;: &quot;20200430051330741&quot;,
+            &quot;creator&quot;: &quot;akhater&quot;,
+            &quot;modified&quot;: &quot;20200522113718035&quot;,
+            &quot;modifier&quot;: &quot;akhater&quot;,
+            &quot;tags&quot;: &quot;$:/tags/TWCrossLinks&quot;,
+            &quot;type&quot;: &quot;text/vnd.tiddlywiki&quot;,
+            &quot;text&quot;: &quot;\\define fullMatchPattern()\n\\b$(currentTiddler)$\\b(?i)\n\\end\n\n\\define PartialMatchPattern()\n$(currentTiddler)$(?i)\n\\end\n\n&lt;$list filter=\&quot;[[$:/ak/plugins/TWCrossLinks/config/default]getindex[UseFullMatch4Freelinks]match[true]]\&quot; variable=none&gt;\n    &lt;$set name=pattern value=&lt;&lt;fullMatchPattern&gt;&gt; &gt;\n        &lt;$list filter=\&quot;[regexp:title&lt;pattern&gt;] [regexp:text&lt;pattern&gt;] -[all[current]backlinks[]] -[all[current]tagging[]] -[is[current]] -[tag[hide]] -[is[system]]\&quot; emptyMessage=\&quot;No freelinks to this tiddler\&quot; variable=result&gt;\n            &lt;$list filter=\&quot;[[$:/ak/plugins/TWCrossLinks/config/default]getindex[TranscludeInboundLinks]] -[[true]]\&quot; variable=var1&gt;\n                &lt;div class=\&quot;tc-menu-list-item\&quot;&gt; &lt;$link to=&lt;&lt;result&gt;&gt; &gt;&lt;$view tiddler=&lt;&lt;result&gt;&gt; field=title&gt; &lt;/$view&gt;&lt;/$link&gt; &lt;/div&gt; \n            &lt;/$list&gt;\n            &lt;$list filter=\&quot;[[$:/ak/plugins/TWCrossLinks/config/default]getindex[TranscludeInboundLinks]] -[[false]]\&quot; variable=var1&gt;\n                &lt;div class=\&quot;tc-menu-list-item\&quot;&gt;\n                    &lt;div class=\&quot;trans-container\&quot;&gt;\n                        &lt;$link to=&lt;&lt;result&gt;&gt; &gt;&lt;$view tiddler=&lt;&lt;result&gt;&gt; field=title&gt; &lt;/$view&gt;&lt;/$link&gt;\n                        &lt;span class=\&quot;trans-content\&quot;&gt;  &lt;$context term=&lt;&lt;currentTiddler&gt;&gt; tiddler=&lt;&lt;result&gt;&gt; /&gt; &lt;/span&gt;\n                    &lt;/div&gt;\n                &lt;/div&gt;\n            &lt;/$list&gt;\n        &lt;/$list&gt;\n    &lt;/$set&gt;\n&lt;/$list&gt;\n&lt;$list filter=\&quot;[[$:/ak/plugins/TWCrossLinks/config/default]getindex[UseFullMatch4Freelinks]match[false]]\&quot; variable=none&gt;\n    &lt;$set name=pattern value=&lt;&lt;PartialMatchPattern&gt;&gt; &gt;\n        &lt;$list filter=\&quot;[regexp:title&lt;pattern&gt;] [regexp:text&lt;pattern&gt;] -[all[current]backlinks[]] -[all[current]tagging[]] -[is[current]] -[tag[hide]] -[is[system]]\&quot; emptyMessage=\&quot;No freelinks to this tiddler\&quot; variable=result&gt;\n            &lt;$list filter=\&quot;[[$:/ak/plugins/TWCrossLinks/config/default]getindex[TranscludeInboundLinks]] -[[true]]\&quot; variable=var1&gt;\n                &lt;div class=\&quot;tc-menu-list-item\&quot;&gt; &lt;$link to=&lt;&lt;result&gt;&gt; &gt;&lt;$view tiddler=&lt;&lt;result&gt;&gt; field=title&gt; &lt;/$view&gt;&lt;/$link&gt; &lt;/div&gt; \n            &lt;/$list&gt;\n            &lt;$list filter=\&quot;[[$:/ak/plugins/TWCrossLinks/config/default]getindex[TranscludeInboundLinks]] -[[false]]\&quot; variable=var1&gt;\n                &lt;div class=\&quot;tc-menu-list-item\&quot;&gt;\n                    &lt;div class=\&quot;trans-container\&quot;&gt;\n                        &lt;$link to=&lt;&lt;result&gt;&gt; &gt;&lt;$view tiddler=&lt;&lt;result&gt;&gt; field=title&gt; &lt;/$view&gt;&lt;/$link&gt;\n                        &lt;span class=\&quot;trans-content\&quot;&gt;  &lt;$context term=&lt;&lt;currentTiddler&gt;&gt; tiddler=&lt;&lt;result&gt;&gt; /&gt; &lt;/span&gt;\n                    &lt;/div&gt;\n                &lt;/div&gt;\n            &lt;/$list&gt;\n        &lt;/$list&gt;\n    &lt;/$set&gt;\n&lt;/$list&gt;&quot;,
+            &quot;revision&quot;: &quot;0&quot;,
+            &quot;bag&quot;: &quot;default&quot;
+        },
+        &quot;$:/ak/plugins/TWCrossLinks/core/keywords&quot;: {
+            &quot;title&quot;: &quot;$:/ak/plugins/TWCrossLinks/core/keywords&quot;,
+            &quot;caption&quot;: &quot;Keywords&quot;,
+            &quot;created&quot;: &quot;20200429195123372&quot;,
+            &quot;creator&quot;: &quot;akhater&quot;,
+            &quot;modified&quot;: &quot;20200522105420967&quot;,
+            &quot;modifier&quot;: &quot;akhater&quot;,
+            &quot;tags&quot;: &quot;$:/tags/TWCrossLinks&quot;,
+            &quot;type&quot;: &quot;text/vnd.tiddlywiki&quot;,
+            &quot;text&quot;: &quot;\n&lt;$list filter=\&quot;[search:keywords&lt;currentTiddler&gt;!is[system]!is[shadow]sort[title]]\&quot; emptyMessage=\&quot;There are no tiddler having this one as keyword\&quot; variable=result&gt;\n    &lt;$list filter=\&quot;[[$:/ak/plugins/TWCrossLinks/config/default]getindex[TranscludeInboundLinks]] -[[true]]\&quot; variable=conf&gt;\n        &lt;div class=\&quot;tc-menu-list-item\&quot;&gt; &lt;$link to=&lt;&lt;result&gt;&gt; &gt;&lt;$view tiddler=&lt;&lt;result&gt;&gt; field=title&gt; &lt;/$view&gt;&lt;/$link&gt; &lt;/div&gt;\n    &lt;/$list&gt;\n    &lt;$list filter=\&quot;[[$:/ak/plugins/TWCrossLinks/config/default]getindex[TranscludeInboundLinks]] -[[false]]\&quot; variable=conf&gt;\n        &lt;div class=\&quot;tc-menu-list-item\&quot;&gt;\n            &lt;div class=\&quot;trans-container\&quot;&gt; \n                &lt;$link to=&lt;&lt;result&gt;&gt; &gt;&lt;$view tiddler=&lt;&lt;result&gt;&gt; field=title template=\&quot;$:/core/ui/ListItemTemplate\&quot;&gt; &lt;/$view&gt;&lt;/$link&gt;\n                &lt;span class=\&quot;trans-content noContext\&quot;&gt;  &lt;$transclude tiddler= &lt;&lt;result&gt;&gt; /&gt;  &lt;/span&gt; \n            &lt;/div&gt;\n        &lt;/div&gt;\n    &lt;/$list&gt;\n&lt;/$list&gt;&quot;,
+            &quot;revision&quot;: &quot;0&quot;,
+            &quot;bag&quot;: &quot;default&quot;
+        },
+        &quot;$:/ak/plugins/TWCrossLinks/core/tagging&quot;: {
+            &quot;title&quot;: &quot;$:/ak/plugins/TWCrossLinks/core/tagging&quot;,
+            &quot;caption&quot;: &quot;Tagged&quot;,
+            &quot;created&quot;: &quot;20200429183952157&quot;,
+            &quot;creator&quot;: &quot;akhater&quot;,
+            &quot;modified&quot;: &quot;20200522113343160&quot;,
+            &quot;modifier&quot;: &quot;akhater&quot;,
+            &quot;tags&quot;: &quot;$:/tags/TWCrossLinks&quot;,
+            &quot;type&quot;: &quot;text/vnd.tiddlywiki&quot;,
+            &quot;text&quot;: &quot;\n\\define lingo-base() $:/language/TiddlerInfo/\n&lt;$list filter=\&quot;[all[current]tagging[]!is[system]!is[shadow]]\&quot; emptyMessage=&lt;&lt;lingo Tagging/Empty&gt;&gt; variable=result&gt;\n    &lt;$list filter=\&quot;[[$:/ak/plugins/TWCrossLinks/config/default]getindex[TranscludeInboundLinks]] -[[true]]\&quot; variable=conf&gt;\n        &lt;div class=\&quot;tc-menu-list-item\&quot;&gt; &lt;$link to=&lt;&lt;result&gt;&gt; &gt;&lt;$view tiddler=&lt;&lt;result&gt;&gt; field=title&gt; &lt;/$view&gt;&lt;/$link&gt; &lt;/div&gt;\n    &lt;/$list&gt;\n    &lt;$list filter=\&quot;[[$:/ak/plugins/TWCrossLinks/config/default]getindex[TranscludeInboundLinks]] -[[false]]\&quot; variable=conf&gt;\n        &lt;div class=\&quot;tc-menu-list-item\&quot;&gt;\n            &lt;div class=\&quot;trans-container\&quot;&gt; \n                &lt;$link to=&lt;&lt;result&gt;&gt; &gt;&lt;$view tiddler=&lt;&lt;result&gt;&gt; field=title template=\&quot;$:/core/ui/ListItemTemplate\&quot;&gt; &lt;/$view&gt;&lt;/$link&gt;\n                &lt;span class=\&quot;trans-content noContext\&quot;&gt;  &lt;$transclude tiddler= &lt;&lt;result&gt;&gt; /&gt;  &lt;/span&gt; \n            &lt;/div&gt;\n        &lt;/div&gt;\n    &lt;/$list&gt;\n&lt;/$list&gt;\n&quot;,
+            &quot;revision&quot;: &quot;0&quot;,
+            &quot;bag&quot;: &quot;default&quot;
+        },
+        &quot;$:/ak/plugins/TWCrossLinks/ui/footer&quot;: {
+            &quot;created&quot;: &quot;20200430143629582&quot;,
+            &quot;text&quot;: &quot;\\define fullMatchPattern()\n\\b$(currentTiddler)$\\b(?i)\n\\end\n\n\\define PartialMatchPattern()\n$(currentTiddler)$(?i)\n\\end\n\n\\define showFooterTabs() \n&lt;span class=\&quot;TWCrossLinksFooter\&quot;&gt;\n    &lt;$list filter=\&quot;[all[shadows+tiddlers]tag[$:/tags/TWCrossLinksSegment]!has[draft.of]] [[$:/ak/plugins/TWCrossLinks/ui/tabs]]\&quot; variable=\&quot;listItem\&quot;&gt;&lt;$transclude tiddler=&lt;&lt;listItem&gt;&gt; mode=\&quot;block\&quot;&gt; &lt;/$list&gt;\n&lt;/span&gt;\n\\end\n\n&lt;$list filter=\&quot;[[$:/ak/plugins/TWCrossLinks/config/default]getindex[UseFullMatch4Freelinks]match[true]]\&quot; variable=none&gt;\n    &lt;$set name=\&quot;text-pattern\&quot; value=&lt;&lt;fullMatchPattern&gt;&gt;&gt;\n        &lt;$list filter=\&quot;[all[current]tagging[]]  [search:keywords&lt;currentTiddler&gt;]  [regexp:text&lt;text-pattern&gt;] [regexp:title&lt;text-pattern&gt;] [all[current]backlinks[]] -[is[current]] -[tag[hide]] -[is[system]] +[limit[1]]\&quot; variable=none&gt;\n            &lt;$reveal type=\&quot;nomatch\&quot; stateTitle=&lt;&lt;folded-state&gt;&gt; text=\&quot;hide\&quot;&gt;\n                &lt;span class=\&quot;hideprint\&quot;&gt;\n                    &lt;$list filter=\&quot;[[$:/ak/plugins/TWCrossLinks/config/default]getindex[HideInboundTitle]] -[[true]]\&quot; variable=conf&gt;\n                        &lt;hr /&gt;\n                        &lt;span style=\&quot;font-size:0.85em\&quot; &gt;\n                            //&lt;$count filter=\&quot;[all[current]tagging[]]  [search:keywords&lt;currentTiddler&gt;]  [regexp:text&lt;text-pattern&gt;] [regexp:title&lt;text-pattern&gt;] [all[current]backlinks[]] -[is[current]] -[tag[hide]] -[is[system]]\&quot; /&gt;  References:// \n                        &lt;/span&gt;\n                        &lt;$list filter=\&quot;[[$:/ak/plugins/TWCrossLinks/config/default]getindex[DefaultFoldData]]\&quot; variable=DefaultFoldState&gt;\n                            &lt;$reveal type=\&quot;nomatch\&quot; stateTitle=\&quot;$:/temp/TWCrossLinksFoldData\&quot; stateIndex=&lt;&lt;currentTiddler&gt;&gt; text=\&quot;show\&quot; default=&lt;&lt;DefaultFoldState&gt;&gt; &gt;\n                                &lt;$button  class=&lt;&lt;tv-config-toolbar-class&gt;&gt; setTitle=\&quot;$:/temp/TWCrossLinksFoldData\&quot; setIndex=&lt;&lt;currentTiddler&gt;&gt; setTo=\&quot;show\&quot;&gt;{{$:/core/images/unfold-button}}&lt;/$button&gt;    \n                            &lt;/$reveal&gt;\n                            &lt;$reveal type=\&quot;match\&quot; stateTitle=\&quot;$:/temp/TWCrossLinksFoldData\&quot; stateIndex=&lt;&lt;currentTiddler&gt;&gt; text=\&quot;show\&quot; default=&lt;&lt;DefaultFoldState&gt;&gt; &gt;\n                                &lt;$button class=&lt;&lt;tv-config-toolbar-class&gt;&gt; setTitle=\&quot;$:/temp/TWCrossLinksFoldData\&quot; setIndex=&lt;&lt;currentTiddler&gt;&gt; setTo=\&quot;hide\&quot; &gt;{{$:/core/images/fold-button}}&lt;/$button&gt; \n                                &lt;&lt;showFooterTabs&gt;&gt;\n                            &lt;/$reveal&gt;\n                        &lt;/$list&gt;\n                    &lt;/$list&gt;\n                    &lt;$list filter=\&quot;[[$:/ak/plugins/TWCrossLinks/config/default]getindex[HideInboundTitle]] -[[false]]\&quot; variable=conf&gt;\n                        &lt;&lt;showFooterTabs&gt;&gt;\n                    &lt;/$list&gt;\n                &lt;/span&gt;\n            &lt;/$reveal&gt;\n        &lt;/$list&gt;\n    &lt;/$set&gt;\n&lt;/$list&gt;\n\n&lt;$list filter=\&quot;[[$:/ak/plugins/TWCrossLinks/config/default]getindex[UseFullMatch4Freelinks]match[false]]\&quot; variable=none&gt;\n    &lt;$set name=\&quot;text-pattern\&quot; value=&lt;&lt;PartialMatchPattern&gt;&gt;&gt;\n        &lt;$list filter=\&quot;[all[current]tagging[]]  [search:keywords&lt;currentTiddler&gt;]  [regexp:text&lt;text-pattern&gt;] [regexp:title&lt;text-pattern&gt;] [all[current]backlinks[]] -[is[current]] -[tag[hide]] -[is[system]] +[limit[1]]\&quot; variable=none&gt;\n            &lt;$reveal type=\&quot;nomatch\&quot; stateTitle=&lt;&lt;folded-state&gt;&gt; text=\&quot;hide\&quot;&gt;\n                &lt;span class=\&quot;hideprint\&quot;&gt;\n                    &lt;$list filter=\&quot;[[$:/ak/plugins/TWCrossLinks/config/default]getindex[HideInboundTitle]] -[[true]]\&quot; variable=conf&gt;\n                        &lt;hr /&gt;\n                        &lt;span style=\&quot;font-size:0.85em\&quot; &gt;\n                            //&lt;$count filter=\&quot;[all[current]tagging[]]  [search:keywords&lt;currentTiddler&gt;]  [regexp:text&lt;text-pattern&gt;] [regexp:title&lt;text-pattern&gt;] [all[current]backlinks[]] -[is[current]] -[tag[hide]] -[is[system]]\&quot; /&gt;  References:// \n                        &lt;/span&gt;\n                        &lt;$list filter=\&quot;[[$:/ak/plugins/TWCrossLinks/config/default]getindex[DefaultFoldData]]\&quot; variable=DefaultFoldState&gt;\n                            &lt;$reveal type=\&quot;nomatch\&quot; stateTitle=\&quot;$:/temp/TWCrossLinksFoldData\&quot; stateIndex=&lt;&lt;currentTiddler&gt;&gt; text=\&quot;show\&quot; default=&lt;&lt;DefaultFoldState&gt;&gt; &gt;\n                                &lt;$button  class=&lt;&lt;tv-config-toolbar-class&gt;&gt; setTitle=\&quot;$:/temp/TWCrossLinksFoldData\&quot; setIndex=&lt;&lt;currentTiddler&gt;&gt; setTo=\&quot;show\&quot;&gt;{{$:/core/images/unfold-button}}&lt;/$button&gt;    \n                            &lt;/$reveal&gt;\n                            &lt;$reveal type=\&quot;match\&quot; stateTitle=\&quot;$:/temp/TWCrossLinksFoldData\&quot; stateIndex=&lt;&lt;currentTiddler&gt;&gt; text=\&quot;show\&quot; default=&lt;&lt;DefaultFoldState&gt;&gt; &gt;\n                                &lt;$button class=&lt;&lt;tv-config-toolbar-class&gt;&gt; setTitle=\&quot;$:/temp/TWCrossLinksFoldData\&quot; setIndex=&lt;&lt;currentTiddler&gt;&gt; setTo=\&quot;hide\&quot; &gt;{{$:/core/images/fold-button}}&lt;/$button&gt; \n                                &lt;&lt;showFooterTabs&gt;&gt;\n                            &lt;/$reveal&gt;\n                        &lt;/$list&gt;\n                    &lt;/$list&gt;\n                    &lt;$list filter=\&quot;[[$:/ak/plugins/TWCrossLinks/config/default]getindex[HideInboundTitle]] -[[false]]\&quot; variable=conf&gt;\n                        &lt;&lt;showFooterTabs&gt;&gt;\n                    &lt;/$list&gt;\n                &lt;/span&gt;\n            &lt;/$reveal&gt;\n        &lt;/$list&gt;\n    &lt;/$set&gt;\n&lt;/$list&gt;&quot;,
+            &quot;bag&quot;: &quot;default&quot;,
+            &quot;revision&quot;: &quot;0&quot;,
+            &quot;type&quot;: &quot;text/vnd.tiddlywiki&quot;,
+            &quot;title&quot;: &quot;$:/ak/plugins/TWCrossLinks/ui/footer&quot;,
+            &quot;tags&quot;: &quot;$:/tags/ViewTemplate&quot;,
+            &quot;modified&quot;: &quot;20200518214521376&quot;
+        },
+        &quot;$:/ak/plugins/TWCrossLinks/ui/footer.kwd&quot;: {
+            &quot;created&quot;: &quot;20200428214251454&quot;,
+            &quot;text&quot;: &quot;&lt;!--If  has keywords--&gt;\n&lt;$list filter=\&quot;[all[current]has[keywords]]\&quot;&gt;\n,,//See also//:\n&lt;$list filter=\&quot;[enlist{!!keywords}]\&quot; template=\&quot;$:/ak/plugins/TWCrossLinks/ui/footer.kwd.template\&quot;&gt;&lt;/$list&gt;,,\n&lt;/$list&gt;\n&lt;!--If reference field is not empty--&gt;\n&lt;$list filter=\&quot;[is[current]!field:reference[]]\&quot;&gt;\n &lt;br /&gt;\n,,External ref: &lt;a href={{!!url}} target=\&quot;_blank\&quot; class=\&quot;tc-tiddlylink-external\&quot;&gt;&lt;$view field=\&quot;reference\&quot;}}/&gt;&lt;/a&gt;&lt;br&gt;,,\n&lt;/$list&gt;\n\n\n\n&quot;,
+            &quot;bag&quot;: &quot;default&quot;,
+            &quot;revision&quot;: &quot;0&quot;,
+            &quot;type&quot;: &quot;text/vnd.tiddlywiki&quot;,
+            &quot;title&quot;: &quot;$:/ak/plugins/TWCrossLinks/ui/footer.kwd&quot;,
+            &quot;tags&quot;: &quot;$:/tags/ViewTemplate&quot;,
+            &quot;modified&quot;: &quot;20200502090828057&quot;,
+            &quot;list-before&quot;: &quot;$:/ak/plugins/TWCrossLinks/ui/footer&quot;
+        },
+        &quot;$:/ak/plugins/TWCrossLinks/ui/footer.kwd.css&quot;: {
+            &quot;created&quot;: &quot;20200428212006657&quot;,
+            &quot;text&quot;: &quot;.sl-header{\n  color: #383d41;\n  background-color: #e2e3e5;\n  border-color: #d6d8db;\n  padding: 0.75rem 1.25rem;\n  margin-bottom: 1rem;\n  border-radius: 0.25rem;\n}\n\n.sl-keywords {\n   display: inline-block;\n    padding: 0.16em 0.7em;\n    font-size: 0.9em;\n    font-weight: 400;\n    line-height: 1.2em;\n    color: #333333;\n    white-space: nowrap;\n    vertical-align: baseline;\n    border-radius: 1em;\n    background-color:#ffe7b3;\n}\n.sl-keywords {\n  outline:none;\n} /*remove the blue border on button focus */\n\n.TWCrossLinksFooter p { margin: 0;}&quot;,
+            &quot;bag&quot;: &quot;default&quot;,
+            &quot;revision&quot;: &quot;0&quot;,
+            &quot;type&quot;: &quot;text/css&quot;,
+            &quot;title&quot;: &quot;$:/ak/plugins/TWCrossLinks/ui/footer.kwd.css&quot;,
+            &quot;tags&quot;: &quot;$:/tags/Stylesheet&quot;,
+            &quot;modified&quot;: &quot;20200508045139340&quot;
+        },
+        &quot;$:/ak/plugins/TWCrossLinks/ui/footer.kwd.template&quot;: {
+            &quot;created&quot;: &quot;20200428204919232&quot;,
+            &quot;text&quot;: &quot;\\define keywords-body(kwd)\n&lt;$list filter=\&quot;[tag[$kwd$]] [search:keywords[$kwd$]]\&quot; variable=\&quot;itemTid\&quot;&gt;\n&lt;$link to=&lt;&lt;itemTid&gt;&gt; &gt;&lt;$text text=&lt;&lt;itemTid&gt;&gt;/&gt;&lt;/$link&gt;\n&lt;/$list&gt;\n\\end\n&lt;!-- keywords-body lists all tiddler tagged with kwd or have kwd in their keywords field --&gt;\n\n\n&lt;$set name=\&quot;transclusion\&quot; value=&lt;&lt;qualify \&quot;$:/state/popup/tag\&quot;&gt;&gt; &gt;\n&lt;$button class=\&quot;tc-btn-invisible sl-keywords\&quot; popup=&lt;&lt;transclusion&gt;&gt; &gt;\n&lt;$text text=&lt;&lt;currentTiddler&gt;&gt;/&gt;\n&lt;/$button&gt;\n&lt;$reveal state=&lt;&lt;transclusion&gt;&gt; type=\&quot;popup\&quot; position=\&quot;below\&quot; animate=\&quot;yes\&quot; class=\&quot;tc-drop-down\&quot;&gt;\n&lt;$link to=&lt;&lt;currentTiddler&gt;&gt; &gt;&lt;$text text=&lt;&lt;currentTiddler&gt;&gt;/&gt;&lt;/$link&gt;\n&lt;hr&gt;\n&lt;$macrocall $name=\&quot;keywords-body\&quot; kwd=&lt;&lt;currentTiddler&gt;&gt; /&gt;\n&lt;/$reveal&gt;\n&lt;/$set&gt;\n\n&quot;,
+            &quot;bag&quot;: &quot;default&quot;,
+            &quot;revision&quot;: &quot;0&quot;,
+            &quot;type&quot;: &quot;text/vnd.tiddlywiki&quot;,
+            &quot;title&quot;: &quot;$:/ak/plugins/TWCrossLinks/ui/footer.kwd.template&quot;,
+            &quot;modified&quot;: &quot;20200502091004582&quot;
+        },
+        &quot;$:/ak/plugins/TWCrossLinks/ui/tabs&quot;: {
+            &quot;title&quot;: &quot;$:/ak/plugins/TWCrossLinks/ui/tabs&quot;,
+            &quot;created&quot;: &quot;20200429182054776&quot;,
+            &quot;creator&quot;: &quot;akhater&quot;,
+            &quot;modified&quot;: &quot;20200522102012918&quot;,
+            &quot;modifier&quot;: &quot;akhater&quot;,
+            &quot;tags&quot;: &quot;&quot;,
+            &quot;type&quot;: &quot;text/vnd.tiddlywiki&quot;,
+            &quot;text&quot;: &quot;\\define pattern()\n\\b$(currentTiddler)$\\b(?i)\n\\end\n\n\n&lt;$vars  isBacklink={{{ [all[current]backlinks[]!is[system]!is[shadow]!tag[hide]sort[title]] -[is[current]] +[then[$:/ak/plugins/TWCrossLinks/core/backlinks]else[]] }}} \n        isKeyword={{{ [search:keywords&lt;currentTiddler&gt;!is[system]!is[shadow]sort[title]] +[then[$:/ak/plugins/TWCrossLinks/core/keywords]else[]] }}}\n        isTag = {{{ [all[current]tagging[]!is[system]!is[shadow]] +[then[$:/ak/plugins/TWCrossLinks/core/tagging]else[]] }}}\n        isFreelink = {{{ [regexp:title&lt;pattern&gt;] [regexp:text&lt;pattern&gt;] -[all[current]backlinks[]] -[is[current]] -[tag[hide]] -[is[system]] +[then[$:/ak/plugins/TWCrossLinks/core/freelinks]else[]] }}}\n&gt;\n\n    &lt;$set name=DefaultTab filter=\&quot;[enlist&lt;isBacklink&gt;] [enlist&lt;isKeyword&gt;] [enlist&lt;isTag&gt;] [enlist&lt;isFreelink&gt;] +[sort[]first[]]\&quot; &gt;\n        &lt;$macrocall $name=\&quot;tabs\&quot; tabsList=\&quot;[enlist&lt;isBacklink&gt;] [enlist&lt;isKeyword&gt;] [enlist&lt;isTag&gt;] [enlist&lt;isFreelink&gt;] +[sort[]]\&quot;  default=&lt;&lt;DefaultTab&gt;&gt; /&gt;\n    &lt;/$set&gt;\n\n&lt;/$vars&gt;&quot;,
+            &quot;revision&quot;: &quot;0&quot;,
+            &quot;bag&quot;: &quot;default&quot;
+        },
+        &quot;$:/ak/plugins/TWCrossLinks/change.log&quot;: {
+            &quot;created&quot;: &quot;20200502091404523&quot;,
+            &quot;creator&quot;: &quot;akhater&quot;,
+            &quot;text&quot;: &quot;''2020-05-22'': v0.1.20\n\n* Empty tabs are not now hidden no need to look at empty spaces\n* Transclusion now works for keywords and tags, full Tiddler is transcluded\n* Change in the transclusion css to match the selected theme\n\n''2020-05-18'': v0.1.18\n\n* Bug fixes in freelinks\n* Added option to allow freelinks matching with \&quot;full match\&quot; or \&quot;Partial Match\&quot;\n\n''2020-05-18'': v0.1.17\n\n* System Tiddlers should now be hidden\n* Freelinks fixed to show only full word match (credits Scott Kingery)\n* Freelinks now search titles too  (credits Scott Kingery)\n* Performance tweak | More efficient coding \n* Bug fix in reference counter\n\n''2020-05-14'': v0.1.8\n\n* You can now exclude a tiddler from appearing in the references by tagging it with \&quot;hide\&quot; \n\n''2020-05-13'': v0.1.6\n\n* Bug fixes uncaught js error in transclusion code\n\n''2020-05-08'': v0.1.3\n\n* Added counter showing the number of inbound links\n* Fixed bug in Freelinks\n* Saved some screen real-estate in the footer \n* Added the possibility to remove the toggle and show the tabs by default saving even more screen estate try it \n**&lt;$checkbox tiddler=\&quot;$:/ak/plugins/TWCrossLinks/config/default\&quot; index=\&quot;HideInboundTitle\&quot; checked=\&quot;true\&quot; unchecked=\&quot;false\&quot; default=\&quot;false\&quot;&gt; ''Hide Inbound Links Title &amp; display references''&lt;/$checkbox&gt;\n\n''2020-05-05'': v0.1.0\n\n* Inbound links for \&quot;//Backlinks//\&quot; and \&quot;//Freelinks//\&quot; can now be transcluded in a pop-up, try it by enabling this feature from the [[TWCrosslinks|$:/ak/plugins/TWCrossLinks]] config panel\n\n\n''2020-05-03'': v0.0.7\n\n* Added configuration panel, can be found at $:/ak/plugins/TWCrossLinks\n** You can now set the Default state of the \&quot;inbound links\&quot; {Shown / Hidden}\n** You can now set the Default \&quot;inbound links\&quot; tab\n\n''2020-05-02'': v0.0.3\n\n* Initial packaging and release&quot;,
+            &quot;bag&quot;: &quot;default&quot;,
+            &quot;type&quot;: &quot;text/vnd.tiddlywiki&quot;,
+            &quot;title&quot;: &quot;$:/ak/plugins/TWCrossLinks/change.log&quot;,
+            &quot;tags&quot;: &quot;&quot;,
+            &quot;modified&quot;: &quot;20200522133028701&quot;,
+            &quot;revision&quot;: &quot;32&quot;,
+            &quot;modifier&quot;: &quot;akhater&quot;
+        },
+        &quot;$:/ak/plugins/TWCrossLinks/config&quot;: {
+            &quot;title&quot;: &quot;$:/ak/plugins/TWCrossLinks/config&quot;,
+            &quot;created&quot;: &quot;20200503100751953&quot;,
+            &quot;creator&quot;: &quot;akhater&quot;,
+            &quot;modified&quot;: &quot;20200522102100118&quot;,
+            &quot;modifier&quot;: &quot;akhater&quot;,
+            &quot;type&quot;: &quot;text/vnd.tiddlywiki&quot;,
+            &quot;text&quot;: &quot;''By default the //inbound links// should be:'' &lt;br /&gt;\n&lt;$tiddler tiddler=\&quot;$:/ak/plugins/TWCrossLinks/config/default\&quot;&gt;\n&lt;$radio index=\&quot;DefaultFoldData\&quot; value=\&quot;show\&quot;&gt; Shown &lt;/$radio&gt;\n&lt;$radio index=\&quot;DefaultFoldData\&quot; value=\&quot;hide\&quot;&gt; Hidden &lt;/$radio&gt;\n&lt;/$tiddler&gt;\n\n&lt;!--\n''Select which Tab you want to be open by Default'' &lt;br /&gt;\n&lt;$tiddler tiddler=\&quot;$:/ak/plugins/TWCrossLinks/config/default\&quot;&gt;\n&lt;$radio index=\&quot;DefaultTab\&quot; value=\&quot;$:/ak/plugins/TWCrossLinks/core/backlinks\&quot;&gt; Backlinks &lt;/$radio&gt;\n&lt;$radio index=\&quot;DefaultTab\&quot; value=\&quot;$:/ak/plugins/TWCrossLinks/core/freelinks\&quot;&gt; Freelinks &lt;/$radio&gt;\n&lt;$radio index=\&quot;DefaultTab\&quot; value=\&quot;$:/ak/plugins/TWCrossLinks/core/keywords\&quot;&gt; Keywords &lt;/$radio&gt;\n&lt;$radio index=\&quot;DefaultTab\&quot; value=\&quot;$:/ak/plugins/TWCrossLinks/core/tagging\&quot;&gt; Tagged &lt;/$radio&gt;\n&lt;/$tiddler&gt;\n--&gt;\n\n&lt;$checkbox tiddler=\&quot;$:/ak/plugins/TWCrossLinks/config/default\&quot; index=\&quot;TranscludeInboundLinks\&quot; checked=\&quot;true\&quot; unchecked=\&quot;false\&quot; default=\&quot;false\&quot;&gt; ''Transclude //Backlinks// &amp; //Freelinks// on hover''&lt;/$checkbox&gt;\n\n&lt;$checkbox tiddler=\&quot;$:/ak/plugins/TWCrossLinks/config/default\&quot; index=\&quot;HideInboundTitle\&quot; checked=\&quot;true\&quot; unchecked=\&quot;false\&quot; default=\&quot;false\&quot;&gt; ''Make inbound links permanent (removes toggle option)''&lt;/$checkbox&gt;\n\n&lt;$checkbox tiddler=\&quot;$:/ak/plugins/TWCrossLinks/config/default\&quot; index=\&quot;UseFullMatch4Freelinks\&quot; checked=\&quot;true\&quot; unchecked=\&quot;false\&quot; default=\&quot;false\&quot;&gt; ''Consider only Full match as //freelink//''&lt;/$checkbox&gt;\n\n&lt;div style=\&quot;float: right;\&quot;&gt;,,~TWCrossLinks version {{$:/ak/plugins/TWCrossLinks!!version}},,&lt;/div&gt;&quot;,
+            &quot;revision&quot;: &quot;0&quot;,
+            &quot;bag&quot;: &quot;default&quot;
+        },
+        &quot;$:/ak/plugins/TWCrossLinks/readme&quot;: {
+            &quot;created&quot;: &quot;20200503110056664&quot;,
+            &quot;text&quot;: &quot;For feedback / suggestions / help please visit plugin page on [[Google Groups|https://groups.google.com/forum/#!topic/tiddlywiki/9ra0s9AEKl4]] or [[Github|https://github.com/akhater/TWCrossLinks]]&quot;,
+            &quot;tags&quot;: &quot;&quot;,
+            &quot;title&quot;: &quot;$:/ak/plugins/TWCrossLinks/readme&quot;,
+            &quot;modified&quot;: &quot;20200503110556549&quot;
+        },
+        &quot;$:/ak/plugins/TWCrossLinks/daniello/context.js&quot;: {
+            &quot;text&quot;: &quot;/*\\\\\ntitle: $:/core/modules/widgets/danielo/context-widget.js\ntype: application/javascript\nmodule-type: widget\n\nEdit-text widget\n\n\\*/\n(function(){\n\n/*jslint node: true, browser: true */\n/*global $tw: false */\n\&quot;use strict\&quot;;\n\nvar Widget = require(\&quot;$:/core/modules/widgets/widget.js\&quot;).widget;\nvar contextWidget = function(parseTreeNode,options) {\n\tthis.initialise(parseTreeNode,options);\n};\n\n/*\nInherit from the base widget class\n*/\ncontextWidget.prototype = new Widget();\n\n/*\nRender this widget into the DOM\n*/\ncontextWidget.prototype.render = function(parent,nextSibling) {\n   // Save the parent dom node\n\tthis.parentDomNode = parent;\n\t// Compute our attributes\n\tthis.computeAttributes();\n\t// Execute our logic\n\tthis.execute();\n    \n  if(this.term &amp;&amp; this.term.length&gt;3){\n     \n      this.createRegexp();\n      var matches = this.executeRegexp();\n\t  if(matches.length &gt; 0){ \n        this.domNode = this.document.createElement(this.element);\n        this.domNode.className=\&quot;tw-context\&quot;;\n        this.composeResults( matches ); //this appends to domNode        \n      \t// Insert element\n      \tparent.insertBefore(this.domNode,nextSibling);\n      \tthis.renderChildren(this.domNode,null);\n\t  \tthis.domNodes.push(this.domNode);\n      }\n  }\n\t\n};\n\n/*\nCompute the internal state of the widget\n*/\ncontextWidget.prototype.execute = function() {\n\t// Get the parameters from the attributes\n    this.matchedClass = this.getAttribute(\&quot;matchClass\&quot;,\&quot;matched\&quot;);\n\tthis.tiddler = this.getAttribute( \&quot;tiddler\&quot;,this.getVariable(\&quot;currentTiddler\&quot;) );\n    this.term =  this.getAttribute(\&quot;term\&quot;,this.getAttribute(\&quot;searchTerm\&quot;));\n\tthis.contextLength = this.getAttribute(\&quot;length\&quot;,50);\n    this.before = this.getAttribute(\&quot;before\&quot;,this.contextLength);\n    this.after = this.getAttribute(\&quot;after\&quot;,this.contextLength);\n    this.maxMatches = this.getAttribute(\&quot;maxMatches\&quot;,10);\n    this.element = this.getAttribute(\&quot;element\&quot;,\&quot;pre\&quot;);\n\tthis.makeChildWidgets();\n};\n\n  /*Create the regular expression*/\ncontextWidget.prototype.createRegexp = function()\n{\n  var regString = \&quot;(\\\\w+[\\\\s\\\\S]{0,#before#})?(#term#)([\\\\s\\\\S]{0,#after#}\\\\w+)?\&quot;;\n\n  var regString = regString.replace(\&quot;#before#\&quot;,this.before).replace(\&quot;#term#\&quot;, $tw.utils.escapeRegExp(this.term) ) .replace(\&quot;#after#\&quot;,this.after);\n  this.regexp = new RegExp(regString,\&quot;ig\&quot;);\n  //console.log(regString);\n};\n/*\nexecute the regular expresion\n*/\ncontextWidget.prototype.executeRegexp = function()\n{\n  var text = this.wiki.getTiddlerText(this.tiddler), match,results = new Array();\n  while( (match = this.regexp.exec( text ) ) &amp;&amp; (results.length &lt; this.maxMatches) )\n      { results.push(match) }\n  //console.log(\&quot;matches\&quot;,results);\n  return results;\n};\n\n/*\ncompose the results\nmatches : array of match objects from regular expression execute\n*/\ncontextWidget.prototype.composeResults = function(matches){\n var result=[], self=this, node = this.domNode,\n dots = textNode(\&quot;...\\n\&quot;),\n span = matchedNode( this.term );\n\n  for(var i=0; i &lt; matches.length; i++){\n   try {\n        processMatch( matches[i] );\n    }\n    catch (e) {\n        console.log(e);\n    }\n }\n  \n  function processMatch(match){\n    if( match.index !== 0) node.appendChild( dots.cloneNode(true) );\n    for( var i=1;i&lt;match.length;i++ ) {//match[0] full matched text (all groups together)\n      if( match[i] ) {\n        if ( match[i].toLowerCase() == self.term.toLowerCase() ) \n          node.appendChild( match[i] == self.term ? span.cloneNode(true) : matchedNode( match[i] ) )\n          else\n            node.appendChild( textNode( match[i]) )\n      }\n    }\n    if( match.index + match[0].length &lt; match.input.length) node.appendChild( dots.cloneNode(true) );\n  }\n  \n  function textNode(text){ return self.document.createTextNode(text) }\n  function matchedNode(text) { \n    var node = self.document.createElement(\&quot;span\&quot;); node.appendChild( textNode(text) );  node.className = self.matchedClass;\n    return node }\n  \n};\n/*\nSelectively refreshes the widget if needed. Returns true if the widget or any of its children needed re-rendering\n*/\ncontextWidget.prototype.refresh = function(changedTiddlers) {\n\tvar changedAttributes = this.computeAttributes();\n\tif(changedAttributes.tiddler || changedAttributes.term || changedAttributes.length || changedAttributes.matchedClass) {\n\t\tthis.refreshSelf();\n\t\treturn true;\n\t}\n    return this.refreshChildren(changedTiddlers);\n};\n\nexports.context = contextWidget;\n\n})();&quot;,
+            &quot;bag&quot;: &quot;default&quot;,
+            &quot;revision&quot;: &quot;1&quot;,
+            &quot;type&quot;: &quot;application/javascript&quot;,
+            &quot;title&quot;: &quot;$:/ak/plugins/TWCrossLinks/daniello/context.js&quot;,
+            &quot;module-type&quot;: &quot;widget&quot;,
+            &quot;modifier&quot;: &quot;danielo&quot;,
+            &quot;modified&quot;: &quot;20200512135226172&quot;,
+            &quot;creator&quot;: &quot;danielo&quot;,
+            &quot;created&quot;: &quot;20140418153435777&quot;
+        },
+        &quot;$:/ak/plugins/TWCrossLinks/ui/context.css&quot;: {
+            &quot;title&quot;: &quot;$:/ak/plugins/TWCrossLinks/ui/context.css&quot;,
+            &quot;created&quot;: &quot;20140529162823729&quot;,
+            &quot;creator&quot;: &quot;akhater&quot;,
+            &quot;modified&quot;: &quot;20200522111912501&quot;,
+            &quot;modifier&quot;: &quot;akhater&quot;,
+            &quot;tags&quot;: &quot;$:/tags/Stylesheet&quot;,
+            &quot;type&quot;: &quot;text/vnd.tiddlywiki&quot;,
+            &quot;text&quot;: &quot;.matched {background-color:#faed27; color:black;}\n\n\n.tw-context {\n    display: block;\n    padding: 10px 20px;\n    margin-top: 1em;\n    margin-bottom: 1em;\n    word-break: normal;\n    word-wrap: break-word;\n    white-space: pre;\n    white-space: pre-wrap;\n    background-color: &lt;&lt;colour page-background&gt;&gt;;\n    border: 1px solid #cccccc;\n    border-radius: 3px;\n}\n\n.tc-menu-list-item .trans-container {\n   padding-left: 5px;\n}&quot;,
+            &quot;revision&quot;: &quot;0&quot;,
+            &quot;bag&quot;: &quot;default&quot;
+        },
+        &quot;$:/ak/plugins/TWCrossLinks/ui/transclude.css&quot;: {
+            &quot;title&quot;: &quot;$:/ak/plugins/TWCrossLinks/ui/transclude.css&quot;,
+            &quot;text&quot;: &quot;.trans-container {\n  position: relative;\n  display: inline-block;\n}\n\n.trans-container .trans-content {\n  visibility: hidden;\n  overflow: hidden;\n  margin-top: -2em;\n  padding: 5px;\n  display: block;\n  \n  /* Position the tooltip */\n  position: absolute;\n  z-index: 80;\n  \n  /*  \n  top: 20px;\n  left: 20px;  */\n\n  float: right;  \n  opacity: 0;\n  transition: opacity 0.3s; \n}\n\n.trans-container .trans-content::after {\n  position: relative;\n  overflow: hidden;\n  margin: 0;\n  padding: 0;\n  border: 1px;\n}\n\n.trans-content {\n   width: 90vw;\n   max-width: 32em;\n}\n\n\n.trans-container:hover &gt; .trans-content {\n  margin-top:-5px;\n  visibility: visible;\n  opacity: 1;\n  transition: 0.25s all ease;\n  transition-delay: 0.75s;\n}\n\nspan.trans-content.noContext {\n\nbackground-color: &lt;&lt;colour page-background&gt;&gt;;\n\nborder-radius: 5px;\npadding: 1px 1em;\nborder: 1px solid #cccccc;\n}\n\n&quot;,
+            &quot;created&quot;: &quot;20200505112617003&quot;,
+            &quot;creator&quot;: &quot;akhater&quot;,
+            &quot;modified&quot;: &quot;20200522112043494&quot;,
+            &quot;modifier&quot;: &quot;akhater&quot;,
+            &quot;tags&quot;: &quot;$:/tags/Stylesheet&quot;,
+            &quot;type&quot;: &quot;text/vnd.tiddlywiki&quot;,
+            &quot;revision&quot;: &quot;0&quot;,
+            &quot;bag&quot;: &quot;default&quot;
+        }
+    }
+}</pre>
+</div>
+<div created="20201120212056886" modified="20201120212109670" title="$:/config/DefaultMoreSidebarTab" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>$:/core/ui/MoreSideBar/Plugins</pre>
+</div>
+<div created="20201120223316599" modified="20201120223334921" title="$:/config/markdown/renderWikiTextPragma" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>\rules only html image macrocallinline syslink transcludeinline wikilink filteredtranscludeblock macrocallblock transcludeblock prettylink</pre>
+</div>
+<div created="20201120211933102" modified="20201120212005776" title="$:/config/Navigation/UpdateAddressBar" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>permalink</pre>
+</div>
+<div created="20201120212041702" modified="20201120212046775" title="$:/config/Toolbar/Text" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>no</pre>
+</div>
 <div author="JeremyRuston" core-version="&gt;=5.0.0" dependents="" description="TiddlyWiki5 core" list="readme" name="Core" plugin-priority="0" plugin-type="plugin" title="$:/core" type="application/json" version="5.1.22" revision="0" bag="default">
 <pre>{
     &quot;tiddlers&quot;: {
@@ -9652,6 +9888,9 @@ Error message and password prompt
     }
 }</pre>
 </div>
+<div created="20201120211817531" modified="20201120211823137" title="$:/DefaultTiddlers" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>[[000 Index]]</pre>
+</div>
 <div title="$:/isEncrypted" revision="0" bag="default">
 <pre>no</pre>
 </div>
@@ -9930,11 +10169,20 @@ Error message and password prompt
     }
 }</pre>
 </div>
+<div created="20201121114555857" modified="20201121114615174" title="$:/SiteSubtitle" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>Obsidian Vault</pre>
+</div>
+<div created="20201122124907241" modified="20201122125106270" title="$:/SiteTitle" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>TheNotebook</pre>
+</div>
 <div title="$:/status/RequireReloadDueToPluginChange" revision="0" bag="default">
 <pre>no</pre>
 </div>
-<div list="GettingStarted" title="$:/StoryList" revision="1" bag="default">
+<div list="[[000 Index]]" title="$:/StoryList" revision="1" bag="default">
 <pre></pre>
+</div>
+<div created="20201120211854685" modified="20201120211900699" title="$:/theme" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>$:/themes/tiddlywiki/vanilla</pre>
 </div>
 <div author="JeremyRuston" core-version="&gt;=5.0.0" dependents="$:/themes/tiddlywiki/vanilla" description="Emphasises individual tiddlers" name="Snow White" plugin-priority="0" plugin-type="theme" title="$:/themes/tiddlywiki/snowwhite" type="application/json" version="5.1.22" revision="0" bag="default">
 <pre>{
@@ -10045,7 +10293,28 @@ Error message and password prompt
     }
 }</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="000 Index" type="text/x-markdown" revision="0" bag="default">
+<div created="20201120212432168" modified="20201120212439633" title="$:/themes/tiddlywiki/vanilla/metrics/sidebarbreakpoint" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>960px</pre>
+</div>
+<div created="20201120212249463" modified="20201120212539909" title="$:/themes/tiddlywiki/vanilla/metrics/sidebarwidth" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>400px</pre>
+</div>
+<div created="20201120212458643" modified="20201120212515772" title="$:/themes/tiddlywiki/vanilla/metrics/storyleft" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>200px</pre>
+</div>
+<div created="20201120212445663" modified="20201120212453646" title="$:/themes/tiddlywiki/vanilla/metrics/storyright" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>1200px</pre>
+</div>
+<div created="20201120212400250" modified="20201120212520125" title="$:/themes/tiddlywiki/vanilla/metrics/storywidth" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>800px</pre>
+</div>
+<div created="20201120212404702" modified="20201120212523632" title="$:/themes/tiddlywiki/vanilla/metrics/tiddlerwidth" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>800px</pre>
+</div>
+<div created="20201120212535470" modified="20201120212535488" title="$:/themes/tiddlywiki/vanilla/options/sidebarlayout" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>fluid-fixed</pre>
+</div>
+<div created="20201122125447233" modified="20201122125447233" title="000 Index" type="text/x-markdown" revision="0" bag="default">
 <pre># Index
 
 &gt; - The Master Index of small notes
@@ -10071,7 +10340,7 @@ Error message and password prompt
 ---
 	</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="001 Paper Wise Topics" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="001 Paper Wise Topics" type="text/x-markdown" revision="0" bag="default">
 <pre>#### Paper Wise Topics
 
 | Paper                 | Remarks                       |
@@ -10085,7 +10354,7 @@ Error message and password prompt
 | [[Anthropology MOC]]  |                               |
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="002 Subject Wise Topics" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="002 Subject Wise Topics" type="text/x-markdown" revision="0" bag="default">
 <pre>#### Subject Wise Topics
 
 | Subject              | Remarks |
@@ -10099,7 +10368,7 @@ Error message and password prompt
 | [[IR-Defence MOC]]   |         |
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="003 Facts MOC" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="003 Facts MOC" type="text/x-markdown" revision="0" bag="default">
 <pre>| Pages              | Remarks |
 | :------------------: | :-------: |
 | [[Days]]           |         |
@@ -10108,7 +10377,7 @@ Error message and password prompt
 | [[Other Facts]]    |         |
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="24th Amendment Act" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="24th Amendment Act" type="text/x-markdown" revision="0" bag="default">
 <pre># 24th Amendment Act (1971)
 
 ***
@@ -10146,7 +10415,7 @@ GS2::Topic01 Polity::Basic_Structure Polity::Amendments
 
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="73rd Amendment Act of 1992" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="73rd Amendment Act of 1992" type="text/x-markdown" revision="0" bag="default">
 <pre>|        |       |
 | ------ | ----- |
 | Status | #TODO |
@@ -10199,15 +10468,15 @@ GS2::Topic01 Polity::Basic_Structure Polity::Amendments
 
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Admistrative Decentralisation" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Admistrative Decentralisation" type="text/x-markdown" revision="0" bag="default">
 <pre>### Admistrative Decentralisation
 Def: planning and implementation responsibility in the hands of locally situated civil servants and these local civil servants are under the jurisdiction of elected local government's.
 ADMINISTRATION - aka - Civil Servants under elected local governments.</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Ashok Mehta Committee" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Ashok Mehta Committee" type="text/x-markdown" revision="0" bag="default">
 <pre>[[Ashok Mehta Committee - Recommendations]]</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Ashok Mehta Committee - Recommendations" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Ashok Mehta Committee - Recommendations" type="text/x-markdown" revision="0" bag="default">
 <pre>* Three tier → Two tier: Zila parishad, Mandal panchayat (group of villages)
 * District = first point of decentralisation
 * Zila Parishad = Executive body = planning at district lavel.
@@ -10218,10 +10487,10 @@ ADMINISTRATION - aka - Civil Servants under elected local governments.</pre>
 * Reservation to SC/ST = pop based
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Balwantrai Mehta Committee" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Balwantrai Mehta Committee" type="text/x-markdown" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Basic Structure Doctrine" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Basic Structure Doctrine" type="text/x-markdown" revision="0" bag="default">
 <pre># Basic Structure Doctrine
 
 ***
@@ -10267,7 +10536,7 @@ GS2::Topic01 Polity::Basic_Structure
 
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Cases reaffirming the Doctrine of Basic Structure" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Cases reaffirming the Doctrine of Basic Structure" type="text/x-markdown" revision="0" bag="default">
 <pre># Cases reaffirming the Doctrine of Basic Structure
 1. [[Kesavananda Bharti Case]] (1973)
 2. [[Indira Nehru Gandhi Case]] (1975)
@@ -10276,7 +10545,7 @@ GS2::Topic01 Polity::Basic_Structure
 
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Days" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Days" type="text/x-markdown" revision="0" bag="default">
 <pre># Days
 
 ## October
@@ -10285,7 +10554,7 @@ GS2::Topic01 Polity::Basic_Structure
 
     As it was the day when Indian soldiers had landed in Kashmir to defend Kashmir.</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Decentralisation" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Decentralisation" type="text/x-markdown" revision="0" bag="default">
 <pre># Decentralisation 
 ---
 
@@ -10304,7 +10573,7 @@ a political process whereby administrative authority, public resources and respo
 
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Decentralisation and Poverty Reduction" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Decentralisation and Poverty Reduction" type="text/x-markdown" revision="0" bag="default">
 <pre># Decentralisation and Poverty Reduction
 
 ***
@@ -10336,7 +10605,7 @@ FILE TAG
 GS2::Topic02 Polity::Definitions Definitions::Polity
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Decentralisation in India" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Decentralisation in India" type="text/x-markdown" revision="0" bag="default">
 <pre># Decentralisation in India
 
 ***
@@ -10354,31 +10623,34 @@ GS2::Topic02 Polity::Definitions Definitions::Polity
 *   [[Timeline of Decentralisation in India]]
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Deconcentration" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Deconcentration" type="text/x-markdown" revision="0" bag="default">
 <pre>## Deconcentration
 
 Def: In which political, administrative and fiscal responsibilities are transfered to lower units within central line ministries</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Delegation" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Delegation" type="text/x-markdown" revision="0" bag="default">
 <pre>## Delegation
 
 Def: responsibilities are transfered to organisations that are 'outside the regular bureaucratic strucutre are only indirectly controlled by the center government'.</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Democratic Decentralisation" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Democratic Decentralisation" type="text/x-markdown" revision="0" bag="default">
 <pre>### Democratic Decentralisation
 Def: It is when a meaningful authority devolved to the local units of governance that are accessible and accountable to the local citizenry, who enjoy full political rights and liberty. 
 DEMOCRATIC COMPONENT - aka - use of elections.</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Devolution" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Devolution" type="text/x-markdown" revision="0" bag="default">
 <pre>## Devolution
 
 Def: in which sub - national units of government are either created or strengthened in terms of political, administrative and fiscal power</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Economy MOC" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122122818128" draft.of="New Tiddler" draft.title="New Tiddler" modified="20201122122818437" tags="" title="Draft of 'New Tiddler'" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre></pre>
+</div>
+<div created="20201122125447233" modified="20201122125447233" title="Economy MOC" type="text/x-markdown" revision="0" bag="default">
 <pre>{{Economy-MOC}}
 &lt;!--ID: 1606032063808--&gt;</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Effects of Devolution of Authority" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Effects of Devolution of Authority" type="text/x-markdown" revision="0" bag="default">
 <pre>## Effects of Devolution of Authority
 1. Delegation by privatisation -- Establishment and empowerment of local resource user groups  -&gt; improves the ways of management and use of natural resource.
 2. Collaboration b/w public agencies and local people 
@@ -10389,18 +10661,18 @@ Def: in which sub - national units of government are either created or strengthe
 			- participatory watershed management
 3. Democratisation and empowerment of local administrative bodies --&gt; enhances participation in decision-making fora.</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Environment MOC" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Environment MOC" type="text/x-markdown" revision="0" bag="default">
 <pre># Environment MOC</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Fiscal Decentralisation" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Fiscal Decentralisation" type="text/x-markdown" revision="0" bag="default">
 <pre>### Fiscal Decentralisation
 Def: Fiscal Decentralisation accords substantial revenue and expenditure authority to intermediate and local governments.
 FINANCE - aka - Revenue and Expenditure</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="General Studies 1" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="General Studies 1" type="text/x-markdown" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="General Studies 2" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="General Studies 2" type="text/x-markdown" revision="0" bag="default">
 <pre>##### **Topic 1:** Indian Constitution—historical underpinnings, evolution, features, amendments, significant provisions and basic structure. 
 ```expander
 {{GS2-Topic01}}
@@ -10434,10 +10706,10 @@ FINANCE - aka - Revenue and Expenditure</pre>
 ##### **Topic 20:** Role of civil services in a democracy.
 &lt;!--ID: 1606032063885--&gt;</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Geography MOC" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Geography MOC" type="text/x-markdown" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="GVK Commettee - Recommendations" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="GVK Commettee - Recommendations" type="text/x-markdown" revision="0" bag="default">
 <pre>### GVK Committee Recommendations
 - District level body -- Zila Parishad -- {PIVOTAL IMPORTANCE}.
 - Panchayati Raj institutions at district and lower levels -- assigned an important role w.r.t {planning, implementation and monitoring of rural development programs}.
@@ -10457,7 +10729,7 @@ GS2::Topic02 Polity::Committee Polity::Panchayati_Raj Source::Laxmikant
 
 ---</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="GVK Rao Committee" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="GVK Rao Committee" type="text/x-markdown" revision="0" bag="default">
 <pre>### GVK Rao Committee
 
 * Appointed by {planning commission} in {1985}
@@ -10476,7 +10748,7 @@ GS2::Topic02 Polity::Committee Polity::Panchayati_Raj Source::Laxmikant
 
 ---</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Hanumantha Rao Committee" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Hanumantha Rao Committee" type="text/x-markdown" revision="0" bag="default">
 <pre>-  District level planning
 	-  District Collector or Minister as head of the planning bodies in districts.
 	-  Differed from 
@@ -10487,7 +10759,7 @@ GS2::Topic02 Polity::Committee Polity::Panchayati_Raj Source::Laxmikant
 
 			These committees recommended reduction in the developmental role of the District Collector and assigned major role to Panchayati Raj in the development administration.</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="How to Make a Complete Map of Every Thought You Think" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="How to Make a Complete Map of Every Thought You Think" type="text/x-markdown" revision="0" bag="default">
 <pre>Author: Lion Kimbro
 - PDF added to PlayBooks DM account.
 - Links:
@@ -10496,7 +10768,7 @@ GS2::Topic02 Polity::Committee Polity::Panchayati_Raj Source::Laxmikant
 
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Inbox" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Inbox" type="text/x-markdown" revision="0" bag="default">
 <pre># Inbox
 
 | TODO                                   | DOING | DONE |
@@ -10527,7 +10799,7 @@ GS2::Topic02 Polity::Committee Polity::Panchayati_Raj Source::Laxmikant
 ***
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Kesavananda Bharti Case" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Kesavananda Bharti Case" type="text/x-markdown" revision="0" bag="default">
 <pre># Kesavananda Bharti Case (1973)
 
 ***
@@ -10564,14 +10836,14 @@ A: April 24, 1973
 &lt;!--ID: 1606032064124--&gt;
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Learning" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Learning" type="text/x-markdown" revision="0" bag="default">
 <pre>
 | Pages           | Remarks |
 | --------------- | ------- |
 | [[Note-Taking]] | Various note-taking methodologies        |
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="LM SInghvi Committee" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="LM SInghvi Committee" type="text/x-markdown" revision="0" bag="default">
 <pre>### LM Singhvi Committee  #TODO 
 - Appointed by {Rajiv Gandhi} Government in {1986}
 - Recommendations
@@ -10586,7 +10858,7 @@ GS2::Topic02 Polity::Committee Source::Laxmikant
 ---
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Main committees related to Panchayati Raj" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Main committees related to Panchayati Raj" type="text/x-markdown" revision="0" bag="default">
 <pre>1. [[Balwant Rai Mehta Committee]] (1957)
 	1. 
 2. [[Ashok Mehta Committee]] ()
@@ -10609,7 +10881,7 @@ GS2::Topic02 Polity::Committee Source::Laxmikant
 
 ---</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Minerva Mills Case" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Minerva Mills Case" type="text/x-markdown" revision="0" bag="default">
 <pre># Minerva Mills Case
 
 ***
@@ -10631,21 +10903,21 @@ GS2::Topic01 Polity::Cases
 ***
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Note-Taking" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Note-Taking" type="text/x-markdown" revision="0" bag="default">
 <pre>| Pages                       | Remarks                   |
 | --------------------------- | ------------------------- |
 | [[The Zettlekasten Method]] | Small-atomic notes system |
 |                             |                           |
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Obsidian Stuff" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Obsidian Stuff" type="text/x-markdown" revision="0" bag="default">
 <pre>&gt; A selection of favourable Obsidian customizations, plugins and help docs/tools.
 
 1. Obsidian-Themes
 	1. Atom
 	2. Traffic Lights</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Places in News" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Places in News" type="text/x-markdown" revision="0" bag="default">
 <pre># Places in News
 
 ## India
@@ -10655,7 +10927,7 @@ GS2::Topic01 Polity::Cases
     - home to a vast majority of Muslims of Bengali-origin, a community which colloquially — and often derogatorily—is called ‘Miya’ in Assam.
     - *Why in news:* Proposal for opening a “Miya Museum”.</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Plan for notes" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Plan for notes" type="text/x-markdown" revision="0" bag="default">
 <pre># Plan for UPSC Notes
 ## GS Notes
 - Already available, just make ANKI notes using SIAC. Its better to have them that way.
@@ -10668,11 +10940,11 @@ GS2::Topic01 Polity::Cases
 ## Other parts
 - Make other notes that are not easily available in PDFs</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Political Decentralisation" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Political Decentralisation" type="text/x-markdown" revision="0" bag="default">
 <pre>### Political Decentralisation
 Def: transfers policy and legislative powers from central government to autonomous, lower-level Assemblies and local councils that have been democratically elected by their constituencies.</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Polity MOC" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Polity MOC" type="text/x-markdown" revision="0" bag="default">
 <pre>```expander
 {{#polity}}
 ```
@@ -10685,12 +10957,12 @@ Def: transfers policy and legislative powers from central government to autonomo
 * [[Decentralisation and Poverty Reduction]]
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Privatization" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Privatization" type="text/x-markdown" revision="0" bag="default">
 <pre>## Privatization
 
 Def: All the responsibitlies for the government functions is transfered to NGOs or private enterprises independent of government.</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Quotes" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Quotes" type="text/x-markdown" revision="0" bag="default">
 <pre># Quotes
 
 ## Polity
@@ -10703,10 +10975,10 @@ Def: All the responsibitlies for the government functions is transfered to NGOs 
 
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="State Election Commision" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="State Election Commision" type="text/x-markdown" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="State Election Commission" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="State Election Commission" type="text/x-markdown" revision="0" bag="default">
 <pre>### State Election Commissioner
 - appointed -&gt; by governor
 - conditions of service -&gt; by governor
@@ -10715,16 +10987,16 @@ Def: All the responsibitlies for the government functions is transfered to NGOs 
 - conditions of the services may not be varied as per his disadvantage.
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="State Election Commissioner" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="State Election Commissioner" type="text/x-markdown" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Sukhamoy Chakravarty Report" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Sukhamoy Chakravarty Report" type="text/x-markdown" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="The Dantewala Committee" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="The Dantewala Committee" type="text/x-markdown" revision="0" bag="default">
 <pre></pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="The Zettlekasten Method" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="The Zettlekasten Method" type="text/x-markdown" revision="0" bag="default">
 <pre># The Zettlekasten Method
 An [Article ](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1#Zettelkasten__Part_2__Further_Advice) by **abramdemski**.
 
@@ -10770,7 +11042,10 @@ An [Article ](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten
 
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Timeline of Decentralisation in India" type="text/x-markdown" revision="0" bag="default">
+<div created="20201120212316594" modified="20201120212327429" title="TheNotebook" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>The title of the Wiki</pre>
+</div>
+<div created="20201122125447233" modified="20201122125447233" title="Timeline of Decentralisation in India" type="text/x-markdown" revision="0" bag="default">
 <pre># Timeline of Decentralisation in India #TODO
 
 * Most significant step -&gt; Resolution of the government of {Lord Ripon} in {1882}. #digDeep 
@@ -10792,7 +11067,10 @@ GS2::Topic02 Polity::Division_of_Power
 
 ---</pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Types of Division of Powers" type="text/x-markdown" revision="0" bag="default">
+<div author="Shishir" title="TRYTIDDLERS" revision="0" bag="default">
+<pre>THIS is a random test text.</pre>
+</div>
+<div created="20201122125447233" modified="20201122125447233" title="Types of Division of Powers" type="text/x-markdown" revision="0" bag="default">
 <pre># Types of Distribution of Powers
 
 ***
@@ -10820,7 +11098,7 @@ FILE TAG
 GS2::Topic02 Polity::Division_of_Power
 </pre>
 </div>
-<div created="20201122102658307" modified="20201122102658307" title="Words" type="text/x-markdown" revision="0" bag="default">
+<div created="20201122125447233" modified="20201122125447233" title="Words" type="text/x-markdown" revision="0" bag="default">
 <pre># Words
 ---
 &gt;🖐 A list of new words. Goes into ANKI.
