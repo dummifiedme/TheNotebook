@@ -4,4 +4,6 @@
 	1. 
 3. [[GVK Rao Committee]]
 	-  More emphasis on Panchayati Raj institutions wrt planning and development
--  [[Hanumantha Rao Report]]
+4.  [[Hanumantha Rao Committee]]
+	-  District level planning
+	-  Disctric Collecte

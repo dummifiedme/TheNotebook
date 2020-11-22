@@ -7,7 +7,7 @@
 		* Favoured districts: { [[Ashok Mehta Report]]} ({1978}) on Panchayati Raj
 			* categorically favoured the district since its the pivot of local administration for centuries.
 			* the expertise could be mustered at this level and not lowered.
-		* Endorsed district and block level Planning: [[The Dantewala Report]] (1978) on block level planning and [[Hanumantha Rao Report]] (1984) on district planning.
+		* Endorsed district and block level Planning: [[The Dantewala Report]] (1978) on block level planning and [[Hanumantha Rao Committee]] (1984) on district planning.
 	
 ---
 TARGET DECK
