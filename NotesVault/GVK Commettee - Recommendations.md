@@ -1,9 +1,9 @@
 ### GVK Committee Recommendations
 - District level body -- Zila Parishad -- {PIVOTAL IMPORTANCE}.
 - Panchayati Raj institutions at district and lower levels -- assigned an important role w.r.t {planning, implementation and monitoring of rural development programs}.
-- Create post -> District Development Commissioner 
-	- CEO of Zila Parishad
-	- in-charge of all the development departments at the district levels.
+- Create post -> {District Development Commissioner} 
+	- {CEO} of Zila Parishad
+	- in-charge of all the {development departments} at the district levels.
 
 ---
 
