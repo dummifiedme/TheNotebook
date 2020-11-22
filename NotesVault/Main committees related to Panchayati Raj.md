@@ -10,5 +10,8 @@
 	-  Differed from 
 		-  Balwantrai Mehta Committee
 		-  ARC Commission
-		-  
-5. 
+		-  Ashok Mehta Committee
+		-  GVK Rao Committee
+
+		These committees recommended reduction in the developmental role of the DIsctric Collector and
+1. 
