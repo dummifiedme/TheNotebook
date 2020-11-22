@@ -5,4 +5,7 @@
 ## Salient Features
 ### Gram Sabha
 ### Three Tier System
-- Vi
+- Village, Intermediate and District levels
+- Every state
+- Thus, uniformity in the structure throughout the country.
+- 
