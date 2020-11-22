@@ -7,4 +7,8 @@
 4.  [[Hanumantha Rao Committee]]
 	-  District level planning
 	-  District Collector or Minister as head of the planning bodies in districts.
+	-  Differed from 
+		-  Balwantrai Mehta Committee
+		-  ARC Commission
+		-  
 5. 
