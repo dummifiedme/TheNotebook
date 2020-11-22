@@ -4,6 +4,7 @@
 - Create post -> {District Development Commissioner} 
 	- {CEO} of Zila Parishad
 	- in-charge of all the {development departments} at the district levels.
+- Regular
 
 ---
 
