@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Main committees related to Panchayati Raj.md",
+            "file": "NotesVault/GVK Rao Committee.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Main committees related to Panchayati Raj.md",
+                "file": "NotesVault/GVK Rao Committee.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Main committees related to Panchayati Raj.md",
+                "file": "NotesVault/GVK Rao Committee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Main committees related to Panchayati Raj.md"
+                "file": "NotesVault/GVK Rao Committee.md"
               }
             }
           }
@@ -156,6 +156,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/GVK Rao Committee.md",
     "NotesVault/Main committees related to Panchayati Raj.md",
     "NotesVault/Balwantrai Mehta Report.md",
     "NotesVault/Ashok Mehta Committee.md",
@@ -164,7 +165,6 @@
     "NotesVault/Timeline of Decentralisation in India.md",
     "NotesVault/Decentralisation and Poverty Reduction.md",
     "NotesVault/Cases reaffirming the Doctrine of Basic Structure.md",
-    "NotesVault/Decentralisation in India.md",
-    "NotesVault/Polity MOC.md"
+    "NotesVault/Decentralisation in India.md"
   ]
 }
