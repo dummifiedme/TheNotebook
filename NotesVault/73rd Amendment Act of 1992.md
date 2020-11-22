@@ -41,8 +41,8 @@
 - Age: >21 years of age; not 25 like in State Legislature .
 
 ### State Election Commission
-- Elections vested with SECs.
-- SEC Commissione
+- Elections vested with SECs. ([[State Election Commission]])
+- State Election Commissioner to be appointed by the Governor
 
 
 
