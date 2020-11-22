@@ -35,5 +35,8 @@
 		- if less than 6 months of tenure left -> no need for elections.
 		- Also, the newly elected panchayat => lasts till the left tenure of dissolved one.
 
+### Disqualifications
+- any law 
+
 
 
