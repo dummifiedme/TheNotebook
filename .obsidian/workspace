@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NotesVault/GVK Rao Committee.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -61,8 +58,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.49999809265137,
-    "collapsed": true
+    "width": 273.49999809265137
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -78,7 +74,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/GVK Rao Committee.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/GVK Rao Committee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NotesVault/GVK Rao Committee.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,13 +148,13 @@
     "width": 408.6939392089844
   },
   "lastOpenFiles": [
+    "NotesVault/State Election Commissioner.md",
     "NotesVault/GVK Rao Committee.md",
     "NotesVault/Hanumantha Rao Committee.md",
     "NotesVault/Main committees related to Panchayati Raj.md",
     "NotesVault/73rd Amendment Act of 1992.md",
     "NotesVault/State Election Commission.md",
     "NotesVault/State Election Commision.md",
-    "NotesVault/State Election Commissioner.md",
     "NotesVault/Untitled.md",
     "NotesVault/Timeline of Decentralisation in India.md",
     "NotesVault/LM Singhvi Committee.md"
