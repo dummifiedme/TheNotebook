@@ -13,4 +13,5 @@
 	- Except -> states with <20 lakh population --> may not have intermediate levels.
  
  ###  Election of Members and Chairpersons
- 
+ - Direct election to all the three tiers.
+ - Chairperson to panchayat 
