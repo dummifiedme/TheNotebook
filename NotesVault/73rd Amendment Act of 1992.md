@@ -24,4 +24,10 @@
 - Provides for the reservation of seats for
 	- SC
 	- ST
-In every Panchayat (at all three levels)
+	In every Panchayat (at all three levels)
+	
+### Duration of the Panchayats
+- 5 year term of office to the panchayat at the entry level
+- it can be dissolved before the completion of its term
+- 
+
