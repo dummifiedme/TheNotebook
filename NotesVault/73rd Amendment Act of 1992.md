@@ -29,5 +29,7 @@
 ### Duration of the Panchayats
 - 5 year term of office to the panchayat at the entry level
 - it can be dissolved before the completion of its term
-- 
+- Fresh elections to constitute a panchayat 
+	- before expiry of its duration of 5 years
+	- in case of 
 
