@@ -33,6 +33,7 @@
 	- before expiry of its duration of 5 years
 	- in case of dissolution -> before the expiry of a period of six months from the date of dissolution.
 		- if less than 6 months of tenure left -> no need for elections.
+		- Also, the newly elected panchayat => lasts till the left tenure of disol
 
 
 
