@@ -18,3 +18,7 @@
 	 - Amongst the elected members.
 
 ### Reservation of Seats
+- Provides for the reservation of seats for
+	- SC
+	- ST
+	In every 
