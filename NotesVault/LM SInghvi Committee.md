@@ -1,6 +1,6 @@
-### LM Singhvi Committee (!986)
-- Appointed by Rajiv Gandhi Government
-
+### LM Singhvi Committee (1986)
+- Appointed by Rajiv Gandhi Government in 18
+- 
 ---
 TARGET DECK
 UPSC::General Studies 2::Polity
