@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/GVK Rao Committee.md",
+            "file": "NotesVault/Main committees related to Panchayati Raj.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/GVK Rao Committee.md",
+                "file": "NotesVault/Main committees related to Panchayati Raj.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/GVK Rao Committee.md",
+                "file": "NotesVault/Main committees related to Panchayati Raj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/GVK Rao Committee.md"
+                "file": "NotesVault/Main committees related to Panchayati Raj.md"
               }
             }
           }
@@ -156,9 +156,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Main committees related to Panchayati Raj.md",
     "NotesVault/GVK Rao Committee.md",
     "NotesVault/GVK Commettee - Recommendations.md",
-    "NotesVault/Main committees related to Panchayati Raj.md",
     "NotesVault/Ashok Mehta Committee.md",
     "NotesVault/Ashok Mehta Committee - Recommendations.md",
     "NotesVault/Balwantrai Mehta Report.md",
