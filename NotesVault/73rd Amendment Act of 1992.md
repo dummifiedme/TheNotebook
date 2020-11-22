@@ -36,7 +36,8 @@
 		- Also, the newly elected panchayat => lasts till the left tenure of dissolved one.
 
 ### Disqualifications
-- any law 
+- any law for the time being in force for the purpose of elections to the legislature of the state concerned.
+- under any law made by the legislature. 
 
 
 
