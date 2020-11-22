@@ -170,10 +170,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.36524963378906
+    "width": 315.36524963378906,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "NotesVault/Timeline of Decentralisation in India.md",
+    "NotesVault/Ashok Mehta Report.md",
     "NotesVault/Decentralisation in India.md",
     "NotesVault/Sukhamoy Chakravarty Report.md",
     "NotesVault/The Dantewala Report.md",
@@ -181,7 +183,6 @@
     "NotesVault/Hanumantha Rao Committee.md",
     "NotesVault/Main committees related to Panchayati Raj.md",
     "NotesVault/LM Singhvi Committee.md",
-    "NotesVault/LM SInghvi Committee.md",
-    "NotesVault/Hanumantha Rao Report.md"
+    "NotesVault/LM SInghvi Committee.md"
   ]
 }
