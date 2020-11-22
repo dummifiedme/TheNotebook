@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "749c9eba63e3359c",
-        "type": "split",
-        "children": [
-          {
-            "id": "3230871e38daa9c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NotesVault/Timeline of Decentralisation in India.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "8ee78612a0f91a3d",
-            "type": "leaf",
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NotesVault/LM Singhvi Committee.md",
-                "mode": "source"
-              }
-            }
+        "id": "3230871e38daa9c9",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/Timeline of Decentralisation in India.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -96,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/LM Singhvi Committee.md",
+                "file": "NotesVault/Timeline of Decentralisation in India.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -125,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/LM Singhvi Committee.md",
+                "file": "NotesVault/Timeline of Decentralisation in India.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/LM Singhvi Committee.md"
+                "file": "NotesVault/Timeline of Decentralisation in India.md"
               }
             }
           }
@@ -174,8 +156,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/LM Singhvi Committee.md",
     "NotesVault/Timeline of Decentralisation in India.md",
+    "NotesVault/LM Singhvi Committee.md",
     "NotesVault/Ashok Mehta Report.md",
     "NotesVault/Decentralisation in India.md",
     "NotesVault/Sukhamoy Chakravarty Report.md",
