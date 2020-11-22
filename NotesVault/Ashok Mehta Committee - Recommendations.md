@@ -3,4 +3,5 @@
 * Zila Parishad = Executive body = planning at district lavel.
 * Participation of political parties at all levels of panchayat elections,
 * Compulsory powers of taxation + financial resources => Panchayat
-* SG shouldn't 
+* SG shouldn't supersede the Panchayati Raj.
+* Nayaya Panchayat = separate body
