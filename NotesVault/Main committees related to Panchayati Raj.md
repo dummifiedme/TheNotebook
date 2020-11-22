@@ -6,4 +6,5 @@
 	-  More emphasis on Panchayati Raj institutions wrt planning and development
 4.  [[Hanumantha Rao Committee]]
 	-  District level planning
-	-  Disctric Collecte
+	-  District Collector or Minister as head of the planning bodies in districts.
+5. 
