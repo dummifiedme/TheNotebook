@@ -27,6 +27,7 @@
 *   'Basic Structure' = not mentioned in the constitution.
     *   Basic Structre : First time mentioned in {[[Kesavananda Bharti Case]]} in {1973}
     *   Since then, SC = {interpreter} of the constitution and the {arbiter} of all the amendments made by the parliament.
+<!--ID: 1606032063761-->
 
 - [[Cases reaffirming the Doctrine of Basic Structure]]
 - [[Features of Basic Structure]]
