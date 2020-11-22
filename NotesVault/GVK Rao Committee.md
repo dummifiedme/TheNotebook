@@ -1,2 +1,2 @@
-* appinted by planning commission in 1985
-* 
+* Appointed by planning commission in 1985
+* [[]]
