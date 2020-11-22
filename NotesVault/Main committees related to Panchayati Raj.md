@@ -9,5 +9,5 @@
 	-  District Collector or Minister as head of the planning bodies in districts.
 	-  Differed from most of the committees -- as others emphasized the local bodies over Collector.
 
-5. [[LM SInghvi Committee]] (1986)
+5. [[LM Singhvi Committee]] (1986)
 	
