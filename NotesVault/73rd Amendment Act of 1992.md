@@ -3,7 +3,7 @@
 | Status | #TODO |
 ## Significance of the Act
 
-## Salient Features
+## Salient Features of 73rd Amendment Act
 ### Gram Sabha
 
 ### Three Tier System
