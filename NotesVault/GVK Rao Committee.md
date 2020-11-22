@@ -3,7 +3,7 @@
 * Appointed by planning commission in 1985
 * The developmental process was gradually bureaucratized and divorced from Panchayati Raj.
 * >  'Grass without Roots' since the democratization weakened the Panchayati Raj institutions.
-* Differed from Dantwala COmmittee Report (1978) and the Hanumantha Rao Committee Report (1984) in terms of leading role appointed to Panchatiraj in local planning and development.
+* Differed from Dantwala Committee Report (1978) - Block Level and the Hanumantha Rao Committee Report (1984) - District in terms of leading role appointed to Panchayati Raj in local planning and development.
 * [[GVK Commettee - Recommendations]]
 
 ---
