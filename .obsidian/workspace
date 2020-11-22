@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Main committees related to Panchayati Raj.md",
+            "file": "NotesVault/Hanumantha Rao Report.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Main committees related to Panchayati Raj.md",
+                "file": "NotesVault/Hanumantha Rao Report.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Main committees related to Panchayati Raj.md",
+                "file": "NotesVault/Hanumantha Rao Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Main committees related to Panchayati Raj.md"
+                "file": "NotesVault/Hanumantha Rao Report.md"
               }
             }
           }
@@ -156,6 +156,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Hanumantha Rao Report.md",
     "NotesVault/Main committees related to Panchayati Raj.md",
     "NotesVault/GVK Rao Committee.md",
     "NotesVault/GVK Commettee - Recommendations.md",
@@ -164,7 +165,6 @@
     "NotesVault/Balwantrai Mehta Report.md",
     "NotesVault/Ashok Mehta Report.md",
     "NotesVault/Untitled.md",
-    "NotesVault/Timeline of Decentralisation in India.md",
-    "NotesVault/Decentralisation and Poverty Reduction.md"
+    "NotesVault/Timeline of Decentralisation in India.md"
   ]
 }
