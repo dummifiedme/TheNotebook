@@ -1,6 +1,9 @@
 |        |       |
 | ------ | ----- |
 | Status | #TODO |
+
+# 73rd Amendment Act of 1992
+
 ## Significance of the Act
 
 ## Salient Features of 73rd Amendment Act
