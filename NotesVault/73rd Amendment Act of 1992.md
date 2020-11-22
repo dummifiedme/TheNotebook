@@ -14,5 +14,5 @@
  
  ###  Election of Members and Chairpersons
  - Direct election to all the three tiers.
- - Chairperson to panchayat at the intermedita and the district levels = elected indirectly
-	 - Amongt the elected members.
+ - Chairperson to panchayat at the intermediate and the district levels = elected indirectly
+	 - Amongst the elected members.
