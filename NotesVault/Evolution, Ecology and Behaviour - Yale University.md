@@ -13,10 +13,11 @@
 * Natural Selection 
 * Genetic Drift
 * Darwin - Beagle - Origin of Species
-	* 22 year old - medicine drop out
+	* 22 year old - medicine drop out - interested in beetles.
+	* Went on voyage onboard Beagle with F
 	* Tried to notice the differences in same animals/birds across the location
 	* Came back to London with many evidences/collectibles.
-	* 
+	* Sea-Sickness -- never went again to ships 😝
 * Malthus theory of population growth
 	* Population grows exponentially
 	* Food production grows linearly
