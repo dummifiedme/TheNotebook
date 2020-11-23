@@ -15,7 +15,8 @@
 * Natural Selection -  Genetic Drift
 	* Graph plot with variation -- fraction of population of some sorts
 	* 0 and 1 are absorb states
-	* 0 when there's no one with the trait --  he
+		* 0 when there's no one with the trait --  hence no selection 
+		* 1 when everyone has that trait -- hence no scope for 
 * Darwin - Beagle - Origin of Species
 	* 22 year old - medicine drop out - interested in beetles.
 	* Went on voyage onboard HMS Beagle with [FitzRoy](https://en.wikipedia.org/wiki/Robert_FitzRoy).
