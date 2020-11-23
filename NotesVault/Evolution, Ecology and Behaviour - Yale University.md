@@ -12,8 +12,10 @@
 ## Lecture 1 - Keywords
 <iframe width="700" height="394" src="https://www.youtube-nocookie.com/embed/VjgHd6HKtvE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Natural Selection 
-* Genetic Drift
+* Natural Selection -  Genetic Drift
+	* Graph plot with variation -- fraction of population of some sorts
+	* 0 and 1 are absorb states
+	* 0 when there's no one with the trait --  he
 * Darwin - Beagle - Origin of Species
 	* 22 year old - medicine drop out - interested in beetles.
 	* Went on voyage onboard HMS Beagle with [FitzRoy](https://en.wikipedia.org/wiki/Robert_FitzRoy).
