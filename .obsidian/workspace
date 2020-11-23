@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.49999809265137
+    "width": 335.0104351043701
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -95,7 +95,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8964744204461569
+                  "scale": 0.6394332069729187
                 }
               }
             }
@@ -123,8 +123,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f9eaa634562fcce1",
