@@ -10,4 +10,7 @@
 ***
 
 ## Lecture 1 Keywords
-1. Natural Selection - Genetic Drift
+* Natural Selection 
+* Genetic Drift
+* Darwin - Beagle - Origin of Species
+* Malthus 
