@@ -6,11 +6,16 @@
 | Source             | Yale University     |
 | Number of Lectures | 25                  |
 | Professor          | Stephens C. Stearns |
-| Date               | 2020-11-23          |
+| Start Date         | 2020-11-23          |
 
 ***
 
 ## Lecture 1 - Keywords
+
+|       |                      |
+| ----- | -------------------- |
+| Date  | 2020-11-23           |
+| Topic | Introductory Lecture |
 
 <iframe width="700" height="394" src="https://www.youtube-nocookie.com/embed/VjgHd6HKtvE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
