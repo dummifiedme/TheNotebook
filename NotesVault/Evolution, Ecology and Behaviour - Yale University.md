@@ -13,11 +13,15 @@
 * Natural Selection 
 * Genetic Drift
 * Darwin - Beagle - Origin of Species
+	* 22 year old - medicine drop out
+	* Tried to notice the differences in same animals/birds across the location
+	* Came back to London with many evidences/collectibles.
+	* 
 * Malthus theory of population growth
 	* Population grows exponentially
 	* Food production grows linearly
 	* Land is limited.
-	* Hence, sometime soon, population growth will exceed the food production and space available.
+	* Hence, sometime soon, effects of population growth will exceed the food production and space available.
 * Examples of Bat-Moth
 * Timeline or Tree of lineages
 * The timespan of study under various disciplines
