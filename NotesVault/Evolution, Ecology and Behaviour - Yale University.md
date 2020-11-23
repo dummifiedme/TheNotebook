@@ -9,7 +9,7 @@
 
 ***
 
-## Lecture 1 Keywords
+## Lecture 1 - Keywords
 * Natural Selection 
 * Genetic Drift
 * Darwin - Beagle - Origin of Species
@@ -30,7 +30,12 @@
 		* Moth hears the sound, it tries to save itself -- goes down in a whirling motion - to confuse the bat.
 		* A mite which lives in ears of the Moth - knows that to survive, the moth must survive too
 			* Mites, hence, lives only inside one of the ears, not both -- to enable the moth to listen and do the needful 😛
+	* Shows how
 * Timeline or Tree of lineages
+	* Single-Cellular
+	* Multi-Cellular
+	* Plants
+	* etc
 * The timespan of study under various disciplines
 	* Anthropology : 15Mya to Now.
 * 
