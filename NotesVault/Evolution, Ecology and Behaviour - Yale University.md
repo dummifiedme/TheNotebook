@@ -14,6 +14,10 @@
 * Genetic Drift
 * Darwin - Beagle - Origin of Species
 * Malthus theory of population growth
+	* Population grows exponentially
+	* Food productio
 * Examples of Bat-Moth
 * Timeline or Tree of lineages
-* The scale of 
+* The timespan of study under various disciplines
+	* Anthropology : 15Mya to Now.
+* 
