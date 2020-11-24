@@ -14,6 +14,8 @@
 ##### **Topic 3:** Separation of powers between various organs dispute redressal mechanisms and institutions.
 ##### **Topic 4:** Comparison of the Indian constitutional scheme with that of other countries.
 ##### **Topic 5:** Parliament and State legislatures—structure, functioning, conduct of business, powers & privileges and issues arising out of these.
+* [[Parliament]]
+
 ##### **Topic 6:** Structure, organization and functioning of the Executive and the Judiciary—Ministries and Departments of the Government; pressure groups and formal/informal associations and their role in the Polity.
 ##### **Topic 7:** Salient features of the Representation of People’s Act.
 ##### **Topic 8:** Appointment to various Constitutional posts, powers, functions and responsibilities of various Constitutional Bodies.

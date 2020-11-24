@@ -18,6 +18,8 @@ TARGET DECK
 UPSC::General Studies 2
 
 FILE TAG
-GS2::Topic01 Polity::Parliament
+GS2::Topic05 Polity::Parliament
 
 ***
+
+Q: 
