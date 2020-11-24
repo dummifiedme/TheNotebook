@@ -1,16 +1,16 @@
-# Add Title
+# Parliament
 
 ***
 
-|             |   |
-| ----------- | - |
-| Subject     |   |
-| Paper-Topic |   |
-| Source      |   |
-| Status      |   |
-| Date        |   |
-| Tags        |   |
-|             |   |
+|             |            |
+| ----------- | ---------- |
+| Subject     | #polity    |
+| Paper-Topic | #GS2-Topic |
+| Source      |     Indian      |
+| Status      |            |
+| Date        |            |
+| Tags        |            |
+|             |            |
 
 ***
 
