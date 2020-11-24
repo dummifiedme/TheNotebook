@@ -2,11 +2,11 @@
 ---
 >🖐 A list of new words. Goes into ANKI.
 
-FILE TAGS
-Vocabulary::English Vocabulary::Study
-
 TARGET DECK
 Facts and Vocab::🔠 Words
+
+FILE TAGS
+Vocabulary::English Vocabulary::Study
 
 ---
 ### Ultra Vires
