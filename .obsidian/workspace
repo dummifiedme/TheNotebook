@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Composition of Lok Sabha.md",
+            "file": "NotesVault/Constitutional Amendment Acts.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Composition of Lok Sabha.md",
+            "file": "NotesVault/Constitutional Amendment Acts.md",
             "mode": "preview"
           }
         },
@@ -91,7 +91,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Composition of Lok Sabha.md",
+                "file": "NotesVault/Constitutional Amendment Acts.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Composition of Lok Sabha.md",
+                "file": "NotesVault/Constitutional Amendment Acts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Composition of Lok Sabha.md"
+                "file": "NotesVault/Constitutional Amendment Acts.md"
               }
             }
           }
@@ -170,6 +170,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Constitutional Amendment Acts.md",
     "NotesVault/Composition of Lok Sabha.md",
     "NotesVault/Parliament.md",
     "Composition of Rajya Sabha.md",
@@ -178,7 +179,6 @@
     "NotesVault/_Syllabus/General Studies 2.md",
     "NotesVault/single transferable vote.md",
     "NotesVault/GVK Commettee - Recommendations.md",
-    "NotesVault/GVK Rao Committee.md",
-    "NotesVault/Timeline of Decentralisation in India.md"
+    "NotesVault/GVK Rao Committee.md"
   ]
 }
