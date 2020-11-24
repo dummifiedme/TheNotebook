@@ -6,7 +6,6 @@
       {
         "id": "b711b8f5dc87a0e5",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -15,6 +14,18 @@
           }
         },
         "group": "b5bee7263202db16"
+      },
+      {
+        "id": "5b4550dadc3ee179",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Composition of Rajya Sabha.md",
+            "mode": "source"
+          }
+        }
       },
       {
         "id": "662e96b22a6a1aa4",
@@ -91,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Parliament.md",
+                "file": "Composition of Rajya Sabha.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -120,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Parliament.md",
+                "file": "Composition of Rajya Sabha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Parliament.md"
+                "file": "Composition of Rajya Sabha.md"
               }
             }
           }
@@ -170,6 +181,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Composition of Rajya Sabha.md",
     "NotesVault/Parliament.md",
     "NotesVault/system of proportional representation.md",
     "NotesVault/Single Transferable Vote.md",
@@ -178,7 +190,6 @@
     "NotesVault/GVK Commettee - Recommendations.md",
     "NotesVault/GVK Rao Committee.md",
     "NotesVault/Timeline of Decentralisation in India.md",
-    "NotesVault/Words.md",
-    "NotesVault/Kesavananda Bharti Case.md"
+    "NotesVault/Words.md"
   ]
 }
