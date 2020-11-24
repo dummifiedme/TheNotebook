@@ -45,9 +45,9 @@ GS2::Topic05 Polity::Parliament
 * Integral part of the Parliament
 	* Since, {no bill can pass without his assent}.
 * Performs certain functions (x4)
-	*  {3: summons and pro-rogues} both the Houses
-	*  {3: Dissolves the Lok Sabha}
-	*  {3:Addresses both the houses}
+	* {3: summons and pro-rogues} both the Houses
+	* {3: Dissolves the Lok Sabha}
+	* {3:Addresses both the houses}
 	* {3: issues ordinances when Parliament not in session }.
 
 ---
