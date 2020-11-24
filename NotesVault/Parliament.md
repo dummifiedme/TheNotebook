@@ -33,7 +33,8 @@ GS2::Topic05 Polity::Parliament
 
 ---
 
-
+* President is not a member of any house.
+* 
 
 
 
