@@ -62,7 +62,9 @@ GS2::Topic05 Polity::Parliament
 - {4th} Schedule deals with the {allocation of the seats in the RS to the states and UTs.}
 
 ##### Representation of the States
-- Members elected by the members of 
+- Members elected by the members of State Legislatures.
+- In accordance with the system of proportional representation
+- by means of the single transferable vote.
 
 
 
