@@ -6,6 +6,7 @@
       {
         "id": "b711b8f5dc87a0e5",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,11 +18,10 @@
       {
         "id": "bb5c1c10d9bbdb13",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/system of proportional representation.md",
+            "file": "NotesVault/System of Proportional Representation.md",
             "mode": "source"
           }
         }
@@ -89,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/system of proportional representation.md",
+                "file": "NotesVault/Parliament.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/system of proportional representation.md",
+                "file": "NotesVault/Parliament.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/system of proportional representation.md"
+                "file": "NotesVault/Parliament.md"
               }
             }
           }
@@ -168,8 +168,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/system of proportional representation.md",
     "NotesVault/Parliament.md",
+    "NotesVault/system of proportional representation.md",
     "NotesVault/Single Transferable Vote.md",
     "NotesVault/_Syllabus/General Studies 2.md",
     "NotesVault/single transferable vote.md",
