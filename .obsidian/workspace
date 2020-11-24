@@ -4,29 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "b711b8f5dc87a0e5",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NotesVault/Composition of Lok Sabha.md",
-            "mode": "source"
+        "id": "4377aaa7c56ee4ad",
+        "type": "split",
+        "children": [
+          {
+            "id": "b711b8f5dc87a0e5",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NotesVault/Composition of Lok Sabha.md",
+                "mode": "source"
+              }
+            },
+            "group": "2faecf409e897a7b"
+          },
+          {
+            "id": "e4dfe6a8b65371cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NotesVault/Composition of Lok Sabha.md",
+                "mode": "preview"
+              }
+            },
+            "group": "2faecf409e897a7b"
           }
-        },
-        "group": "2faecf409e897a7b"
-      },
-      {
-        "id": "e4dfe6a8b65371cf",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NotesVault/Composition of Lok Sabha.md",
-            "mode": "preview"
-          }
-        },
-        "group": "2faecf409e897a7b"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
