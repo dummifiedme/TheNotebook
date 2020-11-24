@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/single transferable vote.md",
+            "file": "NotesVault/Single Transferable Vote.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/single transferable vote.md",
+                "file": "NotesVault/Single Transferable Vote.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/single transferable vote.md",
+                "file": "NotesVault/Single Transferable Vote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/single transferable vote.md"
+                "file": "NotesVault/Single Transferable Vote.md"
               }
             }
           }
