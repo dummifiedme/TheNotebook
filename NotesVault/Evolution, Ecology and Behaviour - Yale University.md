@@ -32,7 +32,7 @@
     *   Came back to London with many evidences/collectibles.
     *   Sea-Sickness -- never went again to ships 😝
     *    Inspired by Malthus while forming a theory of selection.
-*   [Malthus](https://en.wikipedia.org/wiki/Thomas_Robert_Malthus) theory of population growth 
+*   [Malthus](https://en.wikipedia.org/wiki/Thomas_Robert_Malthus) [theory of population growth](https://www.economicsdiscussion.net/theory-of-population/top-3-theories-of-population-with-diagram/18461) 
     *   Population grows exponentially
     *   Food production grows linearly
     *   Land is limited.
