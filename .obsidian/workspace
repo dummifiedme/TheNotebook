@@ -6,11 +6,22 @@
       {
         "id": "b711b8f5dc87a0e5",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/Parliament.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "bb5c1c10d9bbdb13",
+        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Single Transferable Vote.md",
+            "file": "NotesVault/system of proportional representation.md",
             "mode": "source"
           }
         }
@@ -78,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Single Transferable Vote.md",
+                "file": "NotesVault/system of proportional representation.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Single Transferable Vote.md",
+                "file": "NotesVault/system of proportional representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +135,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f9eaa634562fcce1",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Single Transferable Vote.md"
+                "file": "NotesVault/system of proportional representation.md"
               }
             }
           }
@@ -156,15 +168,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/single transferable vote.md",
+    "NotesVault/system of proportional representation.md",
     "NotesVault/Parliament.md",
+    "NotesVault/Single Transferable Vote.md",
+    "NotesVault/_Syllabus/General Studies 2.md",
+    "NotesVault/single transferable vote.md",
     "NotesVault/GVK Commettee - Recommendations.md",
     "NotesVault/GVK Rao Committee.md",
     "NotesVault/Timeline of Decentralisation in India.md",
     "NotesVault/Words.md",
-    "NotesVault/Kesavananda Bharti Case.md",
-    "NotesVault/_Syllabus/General Studies 2.md",
-    "NotesVault/Basic Structure Doctrine.md",
-    "NotesVault/24th Amendment Act.md"
+    "NotesVault/Kesavananda Bharti Case.md"
   ]
 }
