@@ -65,7 +65,10 @@ GS2::Topic05 Polity::Parliament
 - Members elected by the members of State Legislatures.
 - In accordance with the [[System of Proportional Representation]]
 - by means of the [[Single Transferable Vote]].
+- Seats allocated to a state on the basis of population.
+> Contrast to the Indian systemm
 
+##### Representation of the UTs
 
 
 
