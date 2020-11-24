@@ -54,7 +54,9 @@ GS2::Topic05 Polity::Parliament
 
 ### Composition of Two Houses
 #### Composition of Rajya Sabha
-- M
+- Maximum Strength = {250}
+	- Representatives of the states/UT = {238}
+	- Nominated by the president = 12
 
 
 
