@@ -24,6 +24,7 @@ GS2::Topic01 Polity::Basic_Structure Polity::Amendments
     *   Such an act will not be a law under the meaning of Article {1: 13}.
 *   Made it obligatory for the President to give assent to a constitutional amendment bill.
 *   [Kesavananda Bharti Case](Kesavananda%20Bharti%20Case.md) --> Supreme Court upheld the validity of this amendment + 'Basic Structure'.
+<!--ID: 1606251805234-->
 
 
 

@@ -12,7 +12,7 @@
 ---
 TARGET DECK
 UPSC::General Studies 2
-<!--ID: 1606032064240-->
+<!--ID: 1606251806017-->
 
 FILE TAG
 GS2::Topic02 Polity::Division_of_Power
