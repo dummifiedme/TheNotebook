@@ -6,6 +6,7 @@
       {
         "id": "544f39e6898a5b16",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,7 +19,6 @@
       {
         "id": "72ca86e2e727628f",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -27,17 +27,6 @@
           }
         },
         "group": "17b63c829c7ae486"
-      },
-      {
-        "id": "9232fcea95f71d0e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NotesVault/General Studies 2.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
