@@ -12,8 +12,7 @@
             "file": "NotesVault/Parliament.md",
             "mode": "source"
           }
-        },
-        "group": "b5bee7263202db16"
+        }
       },
       {
         "id": "5b4550dadc3ee179",
@@ -23,21 +22,9 @@
           "type": "markdown",
           "state": {
             "file": "Composition of Rajya Sabha.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "662e96b22a6a1aa4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NotesVault/Parliament.md",
             "mode": "preview"
           }
-        },
-        "group": "b5bee7263202db16"
+        }
       }
     ],
     "direction": "vertical"
