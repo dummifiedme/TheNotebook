@@ -11,3 +11,5 @@ GS2 Polity::Parliament
 After every census, a readjustment is to be made in 
 1.  allocation of seats in LS to the states.
 2.  division of each state into territorial constituencies.
+
+Parliament is empowered to determine the authority and the manner in which readjustment 
