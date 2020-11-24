@@ -17,4 +17,7 @@
 
 ## Nominated Members
 - Nomination by the President to 2 members of Anglo-Indian community.
-- supposed to 
+- supposed to operate till 1960 
+	- extended till 2020 by the 95th Amendment Act, 2009.
+	- the nomination scrapped 
+
