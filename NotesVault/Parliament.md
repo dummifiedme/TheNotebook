@@ -22,5 +22,5 @@ GS2::Topic05 Polity::Parliament
 
 ***
 
-* Articles 79 to 122 in Part V of the Constitution deal with the organisation, composition, duration, officers, procedures, privileges, powers and so on of the Parliament.
+* Articles {79 to 122::range of articles} in Part {V} of the Constitution deal with the organisation, composition, duration, officers, procedures, privileges, powers and so on of the Parliament.
 * 
