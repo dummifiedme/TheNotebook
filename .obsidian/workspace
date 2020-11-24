@@ -10,11 +10,10 @@
           {
             "id": "b711b8f5dc87a0e5",
             "type": "leaf",
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NotesVault/Readjustment to Territorial Constituency.md",
+                "file": "NotesVault/Parliament.md",
                 "mode": "source"
               }
             },
@@ -23,10 +22,11 @@
           {
             "id": "e4dfe6a8b65371cf",
             "type": "leaf",
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NotesVault/Readjustment to Territorial Constituency.md",
+                "file": "NotesVault/Parliament.md",
                 "mode": "preview"
               }
             },
@@ -98,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Readjustment to Territorial Constituency.md",
+                "file": "NotesVault/Parliament.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Readjustment to Territorial Constituency.md",
+                "file": "NotesVault/Parliament.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Readjustment to Territorial Constituency.md"
+                "file": "NotesVault/Parliament.md"
               }
             }
           }
@@ -176,8 +176,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/Readjustment to Territorial Constituency.md",
     "NotesVault/Parliament.md",
+    "NotesVault/Readjustment to Territorial Constituency.md",
     "Composition of Rajya Sabha.md",
     "NotesVault/Composition of Lok Sabha.md",
     "NotesVault/Territorial Constituencies.md",
