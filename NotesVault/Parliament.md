@@ -53,8 +53,8 @@ GS2::Topic05 Polity::Parliament
 ---
 
 ### Composition of Two Houses
-
-[[Composition of Rajya Sabha]]
+- [[Composition of Rajya Sabha]]
+- [[Composition of Lok Sabha]]
 
 
 
