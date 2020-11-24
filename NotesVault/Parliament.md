@@ -22,4 +22,4 @@ GS2::Topic05 Polity::Parliament
 
 ***
 
-Q: 
+* Article 79 to 12 in Part V of the Const
