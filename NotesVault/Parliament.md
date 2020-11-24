@@ -26,4 +26,7 @@ GS2::Topic05 Polity::Parliament
 
 ---
 
+Three Parts of Paliament
+
+
 
