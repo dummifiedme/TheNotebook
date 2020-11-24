@@ -71,11 +71,11 @@ GS2::Topic05 Polity::Parliament
 
 ##### Representation of the UTs
 - Same way as the allocation of seats and election as in states.
-- Only three states with legislatures
+- Only three UTs with legislatures
 	- Delhi
 	- Puducherry
 	- Jammy & Kashmir
-- Other states 
+- Other UTs too small a
 
 
 
