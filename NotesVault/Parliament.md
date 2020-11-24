@@ -75,8 +75,7 @@ GS2::Topic05 Polity::Parliament
 	- Delhi
 	- Puducherry
 	- Jammy & Kashmir
-
-
+- Other states 
 
 
 
