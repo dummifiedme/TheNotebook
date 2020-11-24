@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/LM Singhvi Committee.md",
+            "file": "NotesVault/Plan for notes.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/LM Singhvi Committee.md",
+                "file": "NotesVault/Plan for notes.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/LM Singhvi Committee.md",
+                "file": "NotesVault/Plan for notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/LM Singhvi Committee.md"
+                "file": "NotesVault/Plan for notes.md"
               }
             }
           }
@@ -155,14 +155,14 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/LM Singhvi Committee.md",
-    "NotesVault/Main committees related to Panchayati Raj.md",
-    "NotesVault/Minerva Mills Case.md",
-    "NotesVault/Note-Taking.md",
-    "NotesVault/Obsidian Stuff.md",
-    "NotesVault/Parliament.md",
-    "NotesVault/Places in News.md",
     "NotesVault/Plan for notes.md",
+    "NotesVault/Places in News.md",
+    "NotesVault/Parliament.md",
+    "NotesVault/Obsidian Stuff.md",
+    "NotesVault/Note-Taking.md",
+    "NotesVault/Minerva Mills Case.md",
+    "NotesVault/Main committees related to Panchayati Raj.md",
+    "NotesVault/LM Singhvi Committee.md",
     "NotesVault/Political Decentralisation.md",
     "NotesVault/Quotes.md"
   ]
