@@ -5,9 +5,6 @@
 	- {CEO} of Zila Parishad
 	- in-charge of all the {development departments} at the district levels.
 - Regular elections to Panchayati Raj.
-<!--ID: 1606251805444-->
-<!--ID: 1606251974350-->
-
 
 ---
 
