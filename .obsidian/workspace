@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Inbox.md",
+            "file": "NotesVault/24th Amendment Act.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "# polity",
+                "query": "<!--",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Inbox.md",
+                "file": "NotesVault/24th Amendment Act.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Inbox.md",
+                "file": "NotesVault/24th Amendment Act.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Inbox.md"
+                "file": "NotesVault/24th Amendment Act.md"
               }
             }
           }
@@ -155,15 +156,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/Inbox.md",
-    "NotesVault/How to Make a Complete Map of Every Thought You Think.md",
-    "NotesVault/Privatization.md",
-    "NotesVault/Polity MOC.md",
-    "NotesVault/Political Decentralisation.md",
-    "NotesVault/Quotes.md",
-    "NotesVault/LM Singhvi Committee.md",
-    "NotesVault/Learning.md",
-    "NotesVault/Days.md",
-    "NotesVault/Untitled.md"
+    "NotesVault/24th Amendment Act.md",
+    "NotesVault/_Syllabus/General Studies 2.md",
+    "NotesVault/000 Index.md",
+    "NotesVault/001 Paper Wise Topics.md",
+    "NotesVault/Democratic Decentralisation.md",
+    "NotesVault/Devolution.md",
+    "NotesVault/Economy MOC.md",
+    "NotesVault/Effects of Devolution of Authority.md",
+    "NotesVault/Decentralisation.md",
+    "NotesVault/Inbox.md"
   ]
 }

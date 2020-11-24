@@ -1,14 +1,9 @@
 ##### **Topic 1:** Indian Constitution—historical underpinnings, evolution, features, amendments, significant provisions and basic structure. 
-```expander
-{{GS2-Topic01}}
-```
-* [[Basic Structure Doctrine]]
-<!--ID: 1606032063843-->
+
 
 ---
 
 ##### **Topic 2:** Functions and responsibilities of the Union and the States, issues and challenges pertaining to the federal structure, devolution of powers and finances up to local levels and challenges therein.
-{{GS2-Topic02}}
 * [[Decentralisation and Poverty Reduction]]
 ---
 ##### **Topic 3:** Separation of powers between various organs dispute redressal mechanisms and institutions.
