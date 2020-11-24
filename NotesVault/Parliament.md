@@ -7,9 +7,9 @@
 | Subject     | #polity                   |
 | Paper-Topic | #GS2-Topic                |
 | Source      | Indian Polity - Laxmikant |
-| Status      |         #doing                   |
-| Date        |              2020-11-25             |
-| Tags        |              #parliament             |
+| Status      | #doing                    |
+| Date        | 2020-11-25                |
+| Tags        | #parliament               |
 |             |                           |
 
 ***
@@ -22,5 +22,8 @@ GS2::Topic05 Polity::Parliament
 
 ***
 
-* Articles {79 to 122::range of articles} in Part {V} of the Constitution deal with the organisation, composition, duration, officers, procedures, privileges, powers and so on of the Parliament.
-* 
+*   Articles {1:79 to 122::range of articles} in Part {1:V} of the Constitution deal with the organisation, composition, duration, officers, procedures, privileges, powers and so on of the Parliament.
+
+---
+
+
