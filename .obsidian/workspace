@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "FILE TAG",
+                "query": "#doing",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,13 +157,13 @@
   "lastOpenFiles": [
     "NotesVault/Inbox.md",
     "NotesVault/000 Index.md",
+    "NotesVault/Untitled.md",
     "NotesVault/001 Paper Wise Topics.md",
     "NotesVault/_Syllabus/General Studies 1.md",
     "NotesVault/General Studies 1.md",
     "NotesVault/General Studies 2.md",
     "NotesVault/Main committees related to Panchayati Raj.md",
     "NotesVault/LM Singhvi Committee.md",
-    "NotesVault/Kesavananda Bharti Case.md",
-    "NotesVault/GVK Rao Committee.md"
+    "NotesVault/Kesavananda Bharti Case.md"
   ]
 }
