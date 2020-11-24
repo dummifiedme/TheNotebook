@@ -27,9 +27,9 @@ GS2::Topic05 Polity::Parliament
 ---
 
 ### Three Parts of Paliament
-* President
-* Council of States -> Rajya Sabha
-* House of People -> Lok Sabha
+1.  {President}
+2. {Council of States -> Rajya Sabha}
+3. {House of People -> Lok Sabha}
 
 ---
 
