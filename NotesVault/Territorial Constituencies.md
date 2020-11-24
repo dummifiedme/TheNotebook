@@ -14,6 +14,7 @@ GS2 Polity::Parliament
 	- Each state is allotted a number of seats in the LS such that:
 		> The ratio between the number an its population is the same for all states. 
 		> (Not applicable to the states with POPULATION< 6 Millions)
-	- Each state is divided into territorial constituencies 
+	- Each state is divided into territorial constituencies such that
+		> Ratio between the population of each constituency and rhe numer of seats alloted to it is the same throughout th
 	
 
