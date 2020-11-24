@@ -77,7 +77,9 @@ GS2::Topic05 Polity::Parliament
 	- Jammy & Kashmir
 - Other UTs too small a populations to have a representations in RS.
 
-###### Nominated Memberss
+###### Nominated Members
+- Special knowledge or practical experience
+	- 
 
 
 
