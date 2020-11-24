@@ -1,5 +1,15 @@
 # Timeline of Decentralisation in India #TODO
 
+---
+TARGET DECK
+UPSC::General Studies 2
+
+
+FILE TAG
+GS2::Topic02 Polity::Division_of_Power
+
+---
+
 * Most significant step -> Resolution of the government of {Lord Ripon} in {1882}. #digDeep 
 * Panchayati Raj insitution is an example for the world to emulate
 	* Three broad views w.r.t the first point of decentralisation 
@@ -8,13 +18,5 @@
 			* categorically favoured the district since its the pivot of local administration for centuries.
 			* the expertise could be mustered at this level and not lowered.
 		* Endorsed district and block level Planning: [[The Dantewala Committee]] (1978) on block level planning and [[Hanumantha Rao Committee]] (1984) on district planning.
-	
----
-TARGET DECK
-UPSC::General Studies 2
+
 <!--ID: 1606251806017-->
-
-FILE TAG
-GS2::Topic02 Polity::Division_of_Power
-
----
