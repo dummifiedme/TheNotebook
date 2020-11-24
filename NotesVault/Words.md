@@ -26,30 +26,29 @@ Meaning: Another term for ‘French Secularism’.
 
 ### Discernible
 Meaning: able to be discerned, perceptible
-<!--ID: 1605641154692-->
+
 
 
 ### Perfunctory
 Meaning: Cursory, quick, brief, hasty
-<!--ID: 1605641154748-->
+
 
 ### Construed
 Meaning: 
 - Interpret, Understand, Elucidate, See, Take, take to mean.
 - "his actions could be construed as an admission of guilt"
-<!--ID: 1605641154805-->
+
 
 
 ### Contemnor
 Meaning: A person found to have committed contempt of court.
-<!--ID: 1605641154873-->
+
 
 
 ### Suo Motu
 Meaning: 
 - on its own motion
 - "the Commission took suo motu control over the matter."
-<!--ID: 1605641154925-->
 
 ### mens rea
 Meaning:  ‘Mens rea’ is a legal concept denoting criminal intent or evil mind.

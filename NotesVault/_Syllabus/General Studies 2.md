@@ -26,4 +26,3 @@
 ##### **Topic 18:** Bilateral, regional and global groupings and agreements involving India and/or affecting India’s interests.
 ##### **Topic 19:** India and its neighborhood- relations.
 ##### **Topic 20:** Role of civil services in a democracy.
-<!--ID: 1606032063885-->
