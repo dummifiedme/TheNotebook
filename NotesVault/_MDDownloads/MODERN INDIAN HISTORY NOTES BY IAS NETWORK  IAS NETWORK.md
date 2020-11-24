@@ -3,7 +3,6 @@ https://www.ias.network/modern-indian-history-notes-by-ias-network/
 > MODERN INDIAN HISTORY NOTES BY IAS NETWORK - Visit IAS NETWORK to get complete guide of MODERN INDIAN HISTORY NOTES BY IAS NETWORK now. Contact now.
 
 # MODERN INDIAN HISTORY NOTES BY IAS NETWORK | IAS NETWORK
-**Covers All Names, Facts, Incidents In Simple Points Format In 120 Pages While Other Books Covering Same In Hundreds Of Extra Pages, Focused On Ease Of Revision Of Full Modern Indian History Syllabus In Few Hours**
 
 **Topics Covered :** 
 

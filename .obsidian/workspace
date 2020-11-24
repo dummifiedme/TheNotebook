@@ -10,21 +10,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Evolution, Ecology and Behaviour - Yale University.md",
+            "file": "NotesVault/_MDDownloads/MODERN INDIAN HISTORY NOTES BY IAS NETWORK  IAS NETWORK.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "c2b0143f6923bf16"
       },
       {
-        "id": "cf7505e296004330",
+        "id": "e6a0af9c0f0b2f1f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Evolution, Ecology and Behaviour - Yale University.md",
+            "file": "NotesVault/_MDDownloads/MODERN INDIAN HISTORY NOTES BY IAS NETWORK  IAS NETWORK.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "c2b0143f6923bf16"
       }
     ],
     "direction": "vertical"
@@ -88,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Evolution, Ecology and Behaviour - Yale University.md",
+                "file": "NotesVault/_MDDownloads/MODERN INDIAN HISTORY NOTES BY IAS NETWORK  IAS NETWORK.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Evolution, Ecology and Behaviour - Yale University.md",
+                "file": "NotesVault/_MDDownloads/MODERN INDIAN HISTORY NOTES BY IAS NETWORK  IAS NETWORK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Evolution, Ecology and Behaviour - Yale University.md"
+                "file": "NotesVault/_MDDownloads/MODERN INDIAN HISTORY NOTES BY IAS NETWORK  IAS NETWORK.md"
               }
             }
           }
@@ -166,6 +168,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/_MDDownloads/MODERN INDIAN HISTORY NOTES BY IAS NETWORK  IAS NETWORK.md",
     "NotesVault/Evolution, Ecology and Behaviour - Yale University.md",
     "NotesVault/Evolution, Ecology and Behaviour - Lecture 1.md",
     "NotesVault/Untitled.md",
@@ -174,7 +177,6 @@
     "NotesVault/State Election Commision.md",
     "NotesVault/State Election Commissioner.md",
     "NotesVault/GVK Rao Committee.md",
-    "NotesVault/Hanumantha Rao Committee.md",
-    "NotesVault/Main committees related to Panchayati Raj.md"
+    "NotesVault/Hanumantha Rao Committee.md"
   ]
 }
