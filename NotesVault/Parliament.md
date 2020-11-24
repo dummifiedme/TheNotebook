@@ -78,7 +78,7 @@ GS2::Topic05 Polity::Parliament
 - Other UTs too small a populations to have a representations in RS.
 
 ###### Nominated Members
-- 12 members
+- 12 members by President
 - Special knowledge or practical experience
 	- Art
 	- Literature
