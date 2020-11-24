@@ -16,3 +16,5 @@
 	- Direct Election
 
 ## Nominated Members
+- Nomination by the President to 2 members of Anglo-Indian community.
+- supposed to 
