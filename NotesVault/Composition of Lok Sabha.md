@@ -8,4 +8,6 @@
 ## Representation of states
 - Directly elected by people form the territorial constituencies in the states
 - Principle of universal adult franchise
-- 
+	- 18 years or above age.
+
+## Representation of Union Territories
