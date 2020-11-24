@@ -9,5 +9,5 @@ GS2 Polity::Parliament
 ---
 # Readjustment to Territorial Constituency
 After every census, a readjustment is to be made in 
-- allocation of seats in LS to the states.
-- division of each state into territorial constituencies.
+1.  allocation of seats in LS to the states.
+2.  division of each state into territorial constituencies.
