@@ -14,3 +14,5 @@
 - Constitution empowers Parliament --> representatives of the union territories in the Lok Sabha 
 	- Parliament enacted -- {Union Territories (Direct Election to the House of the People) Act}, {1965}
 	- Direct Election
+
+## Nominated Members
