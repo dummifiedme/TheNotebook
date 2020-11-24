@@ -7,6 +7,7 @@
 TARGET DECK
 UPSC::General Studies 2::Polity
 <!--ID: 1606251805815-->
+<!--ID: 1606251974455-->
 
 FILE TAG
 GS2::Topic02 Polity::Committee Source::Laxmikant

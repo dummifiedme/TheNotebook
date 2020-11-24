@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.0104351043701
+    "width": 335.0104351043701,
+    "collapsed": true
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -124,8 +125,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f9eaa634562fcce1",
@@ -153,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.6939392089844
+    "width": 408.6939392089844,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "NotesVault/Timeline of Decentralisation in India.md",

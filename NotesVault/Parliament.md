@@ -31,6 +31,7 @@ GS2::Topic05 Polity::Parliament
 1.  {President}
 2. {Council of States -> Rajya Sabha}
 3. {House of People -> Lok Sabha}
+<!--ID: 1606251974558-->
 
 ---
 
