@@ -11,3 +11,4 @@
 	- 18 years or above age.
 
 ## Representation of Union Territories
+- Constitution empowers Parliament --> representatives of the union territories in the Lok Sabha.Union Territories (Direct Election to the House of the People) Act, 1965
