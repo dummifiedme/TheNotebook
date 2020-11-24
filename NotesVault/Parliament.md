@@ -53,10 +53,13 @@ GS2::Topic05 Polity::Parliament
 ---
 
 ### Composition of Two Houses
+
 #### Composition of Rajya Sabha
 - Maximum Strength = {250}
 	- Representatives of the states/UT = {238}
 	- Nominated by the president = 12
+
+- 4th Schedule deals with the allocation of the seats in the RS to the 
 
 
 
