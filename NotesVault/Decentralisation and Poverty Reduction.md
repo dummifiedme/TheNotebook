@@ -6,7 +6,7 @@
 | ----------- | ------------------------------------------ |
 | Subject     | #polity                                    |
 | Paper-Topic | GS2-Topic02                                |
-| Status      | #Doing                                     |
+| Status      | #doing                                     |
 | Date        | 2020-11-20                                 |
 | Tags        | #divisionOfPower                           |
 

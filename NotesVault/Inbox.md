@@ -8,9 +8,10 @@
 
 ## Doing
 1. [[Basic Structure Doctrine]]
-2. [[Features of Basic Structure]]
-3. [[Parliament]]
-4. [[Types of Division of Powers]]
+2. [[Decentralisation and Poverty Reduction]]
+3. [[Features of Basic Structure]]
+4. [[Parliament]]
+5. [[Types of Division of Powers]]
 
 ## TODO 
 1. [[73rd Amendment Act of 1992]]
