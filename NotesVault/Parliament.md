@@ -38,8 +38,6 @@ GS2::Topic05 Polity::Parliament
 * Doesn't sit in any of the house or attend any of its sessions.
 * Integral part of the Parliament
 	* Since, {no bill can pass without his assent}.
-
-
 * Performs certain functions (x4)
 	*  {3: summons and pro-rogues} both the Houses
 	*  {3: Dissolves the Lok Sabha}
