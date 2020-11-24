@@ -1,3 +1,11 @@
+TARGET DECK
+UPSC::General Studies 2
+
+FILE TAG
+GS2 Polity::Parliament
+
+---
+
 # Composition of Lok Sabha
 - Maximum Strength = {552}
 	- Representatives of the states = {530}
