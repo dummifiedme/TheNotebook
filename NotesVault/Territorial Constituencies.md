@@ -8,6 +8,8 @@ GS2 Polity::Parliament
 
 ---
 
-
+# Territorial Constituencies
 - Purpose of holding direct elections
+- Each state is allotted a number of seats in the LS such that:
+	- <
 
