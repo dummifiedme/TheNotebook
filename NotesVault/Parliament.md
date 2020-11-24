@@ -33,7 +33,9 @@ GS2::Topic05 Polity::Parliament
 
 ---
 
+### Parliament and President
 * President is not a member of any house.
+* Doesn't sit in any of its sessions.
 * 
 
 
