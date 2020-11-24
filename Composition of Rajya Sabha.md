@@ -1,3 +1,11 @@
+TARGET DECK
+UPSC::General Studies 2
+
+FILE TAG
+GS2 Polity::Parliament
+
+---
+
 # Composition of Rajya Sabha
 - Maximum Strength = {250}
 	- Representatives of the states/UT = {238}
