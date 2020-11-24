@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Parliament.md",
+            "file": "NotesVault/Basic Structure Doctrine.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Parliament.md",
+            "file": "NotesVault/Basic Structure Doctrine.md",
             "mode": "preview"
           }
         },
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GS2-Topic02",
+                "query": "FILE TAG",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,12 +72,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 335.0104351043701,
-    "collapsed": true
+    "width": 335.0104351043701
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -93,7 +93,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Parliament.md",
+                "file": "NotesVault/Basic Structure Doctrine.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Parliament.md",
+                "file": "NotesVault/Basic Structure Doctrine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Parliament.md"
+                "file": "NotesVault/Basic Structure Doctrine.md"
               }
             }
           }
@@ -171,6 +171,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Basic Structure Doctrine.md",
+    "NotesVault/24th Amendment Act.md",
     "NotesVault/Parliament.md",
     "NotesVault/General Studies 2.md",
     "01.md",
@@ -178,8 +180,6 @@
     "NotesVault/_MDDownloads/MODERN INDIAN HISTORY NOTES BY IAS NETWORK  IAS NETWORK.md",
     "NotesVault/Evolution, Ecology and Behaviour - Yale University.md",
     "NotesVault/Evolution, Ecology and Behaviour - Lecture 1.md",
-    "NotesVault/Types of Division of Powers.md",
-    "NotesVault/State Election Commission.md",
-    "NotesVault/State Election Commision.md"
+    "NotesVault/Types of Division of Powers.md"
   ]
 }
