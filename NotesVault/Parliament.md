@@ -34,10 +34,12 @@ GS2::Topic05 Polity::Parliament
 ---
 
 ### Parliament and President
-* President is not a member of any house.
+* President is { not a member of any :: membership} house.
 * Doesn't sit in any of the house or attend any of its sessions.
 * Integral part of the Parliament
 	* Since, no bill can pass without his assent.
+
+
 * Performs certain functions	
 	*  summons and pro-rogues both the Houses
 	*  Dissolves the Lok Sabha
