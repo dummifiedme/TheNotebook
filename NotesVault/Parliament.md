@@ -70,7 +70,9 @@ GS2::Topic05 Polity::Parliament
 > American System, where each state has 2 seats in the Senate.) ie Equal representation of all the states.)
 
 ##### Representation of the UTs
-
+- Same way as the allocation of seats and election as in states.
+- Only three states with legislatures
+	- 
 
 
 
