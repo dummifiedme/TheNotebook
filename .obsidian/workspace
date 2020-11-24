@@ -6,11 +6,22 @@
       {
         "id": "544f39e6898a5b16",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "NotesVault/Parliament.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "9232fcea95f71d0e",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/General Studies 2.md",
             "mode": "source"
           }
         }
@@ -78,7 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Parliament.md",
+                "file": "NotesVault/General Studies 2.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Parliament.md",
+                "file": "NotesVault/General Studies 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Parliament.md"
+                "file": "NotesVault/General Studies 2.md"
               }
             }
           }
@@ -156,15 +167,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/General Studies 2.md",
+    "NotesVault/Parliament.md",
+    "01.md",
     "NotesVault/Untitled.md",
     "NotesVault/_MDDownloads/MODERN INDIAN HISTORY NOTES BY IAS NETWORK  IAS NETWORK.md",
     "NotesVault/Evolution, Ecology and Behaviour - Yale University.md",
     "NotesVault/Evolution, Ecology and Behaviour - Lecture 1.md",
     "NotesVault/Types of Division of Powers.md",
     "NotesVault/State Election Commission.md",
-    "NotesVault/State Election Commision.md",
-    "NotesVault/State Election Commissioner.md",
-    "NotesVault/GVK Rao Committee.md",
-    "NotesVault/Hanumantha Rao Committee.md"
+    "NotesVault/State Election Commision.md"
   ]
 }
