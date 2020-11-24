@@ -75,7 +75,10 @@ GS2::Topic05 Polity::Parliament
 	- Delhi
 	- Puducherry
 	- Jammy & Kashmir
-- Other UTs too small a
+- Other UTs too small a populations to have a representations in RS.
+
+###### Nominated Memberss
+
 
 
 
