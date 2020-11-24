@@ -16,6 +16,6 @@ GS2 Polity::Parliament
 		> (Not applicable to the states with POPULATION< 6 Millions)
 	- Each state is divided into territorial constituencies such that
 		> Ratio between the population of each constituency and the number of seats allotted to it is the same throughout the state.
-	- "Population" : means here as
+	- "Population" : population ascertained at the preceding census.
 	
 
