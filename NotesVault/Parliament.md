@@ -40,7 +40,7 @@ GS2::Topic05 Polity::Parliament
 	* Since, no bill can pass without his assent.
 * performs certain functions	
 	* summons and pro-rogues both the Houses
-	* 
+	*  Dissolves the Lok Sabha
 
 ---
 
