@@ -66,7 +66,8 @@ GS2::Topic05 Polity::Parliament
 - In accordance with the [[System of Proportional Representation]]
 - by means of the [[Single Transferable Vote]].
 - Seats allocated to a state on the basis of population.
-> Contrast to the Indian systemm
+> Contrast to the Indian system 
+> American System, where each state has 2 seats in the Senate.) ie Equal representation of all the states.)
 
 ##### Representation of the UTs
 

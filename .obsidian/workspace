@@ -13,18 +13,20 @@
             "file": "NotesVault/Parliament.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "b5bee7263202db16"
       },
       {
-        "id": "bb5c1c10d9bbdb13",
+        "id": "662e96b22a6a1aa4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/System of Proportional Representation.md",
-            "mode": "source"
+            "file": "NotesVault/Parliament.md",
+            "mode": "preview"
           }
-        }
+        },
+        "group": "b5bee7263202db16"
       }
     ],
     "direction": "vertical"
