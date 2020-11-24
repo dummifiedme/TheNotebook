@@ -20,5 +20,6 @@
 - supposed to operate till 1960 
 	- extended till 2020 by the 95th Amendment Act, 2009.
 	- the nomination scrapped 
-The Parliament passed the Constitution (126th Amendment) Bill, extending reservation for SC/STs but doing away with the provision for nomination of Anglo Indians to Lok Sabha and some state Assemblies. The Bill after getting the President’s assent on January 21 became 105th Constitutional Amendment Act and come into force on January 25, 2020.
+
+The Parliament passed the Constitution (126th Amendment) Bill, extending reservation for SC/STs but doing away with the provision for nomination of Anglo Indians to Lok Sabha and some state Assemblies. The Bill after getting the President’s assent on January 21 became {105th} Constitutional Amendment Act and come into force on January 25, 2020.
 
