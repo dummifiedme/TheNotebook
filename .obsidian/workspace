@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Parliament.md",
+            "file": "NotesVault/single transferable vote.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Parliament.md",
+                "file": "NotesVault/single transferable vote.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Parliament.md",
+                "file": "NotesVault/single transferable vote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Parliament.md"
+                "file": "NotesVault/single transferable vote.md"
               }
             }
           }
@@ -156,6 +156,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/single transferable vote.md",
     "NotesVault/Parliament.md",
     "NotesVault/GVK Commettee - Recommendations.md",
     "NotesVault/GVK Rao Committee.md",
@@ -164,7 +165,6 @@
     "NotesVault/Kesavananda Bharti Case.md",
     "NotesVault/_Syllabus/General Studies 2.md",
     "NotesVault/Basic Structure Doctrine.md",
-    "NotesVault/24th Amendment Act.md",
-    "NotesVault/000 Index.md"
+    "NotesVault/24th Amendment Act.md"
   ]
 }

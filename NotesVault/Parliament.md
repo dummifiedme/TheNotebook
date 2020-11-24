@@ -64,7 +64,11 @@ GS2::Topic05 Polity::Parliament
 ##### Representation of the States
 - Members elected by the members of State Legislatures.
 - In accordance with the system of proportional representation
-- by means of the single transferable vote.
+- by means of the [[Single Transferable Vote]].
+
+
+
+
 
 
 
