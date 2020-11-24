@@ -27,7 +27,7 @@ GS2::Topic05 Polity::Parliament
 
 * wrt to Parliament form of government, constitution makers took up British Model over American Model.
 	* American Model: President not a constituent part of congress
-	* British Model: *Crown - in - Parliament* approach.
+	* British Model: ""*Crown - in - Parliament*"" approach.
 
 ---
 
