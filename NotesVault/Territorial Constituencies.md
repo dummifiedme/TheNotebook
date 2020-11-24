@@ -15,6 +15,7 @@ GS2 Polity::Parliament
 		> The ratio between the number an its population is the same for all states. 
 		> (Not applicable to the states with POPULATION< 6 Millions)
 	- Each state is divided into territorial constituencies such that
-		> Ratio between the population of each constituency and rhe numer of seats alloted to it is the same throughout th
+		> Ratio between the population of each constituency and the number of seats allotted to it is the same throughout the state.
+	- "Population" : means here as
 	
 
