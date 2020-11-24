@@ -26,7 +26,14 @@ GS2::Topic05 Polity::Parliament
 
 ---
 
-Three Parts of Paliament
+### Three Parts of Paliament
+* President
+* Council of States -> Rajya Sabha
+* House of People -> Lok Sabha
+
+---
+
+
 
 
 

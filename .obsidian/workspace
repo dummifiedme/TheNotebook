@@ -6,14 +6,27 @@
       {
         "id": "544f39e6898a5b16",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "NotesVault/Parliament.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "17b63c829c7ae486"
+      },
+      {
+        "id": "72ca86e2e727628f",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/Parliament.md",
+            "mode": "preview"
+          }
+        },
+        "group": "17b63c829c7ae486"
       },
       {
         "id": "9232fcea95f71d0e",
