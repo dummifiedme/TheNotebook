@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/GVK Commettee - Recommendations.md",
+            "file": "NotesVault/Parliament.md",
             "mode": "source"
           }
         }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.0104351043701
+    "width": 335.0104351043701,
+    "collapsed": true
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -77,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/GVK Commettee - Recommendations.md",
+                "file": "NotesVault/Parliament.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/GVK Commettee - Recommendations.md",
+                "file": "NotesVault/Parliament.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/GVK Commettee - Recommendations.md"
+                "file": "NotesVault/Parliament.md"
               }
             }
           }
@@ -155,9 +156,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Parliament.md",
     "NotesVault/GVK Commettee - Recommendations.md",
     "NotesVault/GVK Rao Committee.md",
-    "NotesVault/Parliament.md",
     "NotesVault/Timeline of Decentralisation in India.md",
     "NotesVault/Words.md",
     "NotesVault/Kesavananda Bharti Case.md",
