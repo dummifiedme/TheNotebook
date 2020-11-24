@@ -59,7 +59,7 @@ GS2::Topic05 Polity::Parliament
 ### System of Elections to Lok Sabha
 - [[Territorial Constituencies]]
 - [[Readjustment to Territorial Constituency]]
-- [[Reservation of Sea]]
+- [[Reservation of Seats for SCs and STs in LS]]
 
 
 
