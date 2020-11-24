@@ -15,5 +15,5 @@ GS2 Polity::Parliament
 	* Delimitation Commission Acts 
 		* 1952
 		* 1962
-		* 1972 - froze 
-		* 2002
+		* 1972 - froze till 2000 to 1971 level
+		* 2002 - froze till 2026 at 2001 level - {84th} CAA of 2001
