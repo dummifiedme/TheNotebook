@@ -19,3 +19,4 @@ GS2::Topic02 Polity::Division_of_Power
 			* the expertise could be mustered at this level and not lowered.
 		* Endorsed district and block level Planning: [[The Dantewala Committee]] (1978) on block level planning and [[Hanumantha Rao Committee]] (1984) on district planning.
 <!--ID: 1606251806017-->
+<!--ID: 1606252378846-->

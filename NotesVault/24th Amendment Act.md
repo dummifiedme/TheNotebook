@@ -26,6 +26,7 @@ GS2::Topic01 Polity::Basic_Structure Polity::Amendments
 *   [Kesavananda Bharti Case](Kesavananda%20Bharti%20Case.md) --> Supreme Court upheld the validity of this amendment + 'Basic Structure'.
 <!--ID: 1606251805234-->
 <!--ID: 1606251974235-->
+<!--ID: 1606252378336-->
 
 
 
