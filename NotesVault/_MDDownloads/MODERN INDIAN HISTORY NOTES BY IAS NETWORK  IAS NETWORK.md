@@ -62,9 +62,12 @@ https://www.ias.network/modern-indian-history-notes-by-ias-network/
 
 **Peasant Movements in India**
 
-**Arrival Of The Europeans In India**
 
-**Arrival of Portugese In India ( First to come and last to leave )**
+
+----
+## Arrival Of The Europeans In India
+
+### Arrival of Portugese In India ( First to come and last to leave )
 
 Why a sea route to India?
 
