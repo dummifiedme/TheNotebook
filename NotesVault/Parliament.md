@@ -122,5 +122,6 @@ GS2::Topic05 Polity::Parliament
 #### Additional Qualifications for MP (RPA 1951)
 1. registered as elector for a parliamentary constituency
 	1. For both RS, LS.
-	2. 
+	2. Same state rules for RS was quashed in 2003. 
+2. SC and STs must be member of
 
