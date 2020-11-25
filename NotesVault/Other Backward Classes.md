@@ -35,4 +35,7 @@ investigate the conditions of backward classes}.
 
 
 NCBC in 2015 proposed sub-categorizations in OBC 
-1. Extremely BC --> Nomadic, aboriginal tribes, semi-nomadic tribes
+1. Extremely BC 
+	- -> Nomadic, aboriginal tribes, semi-nomadic tribes 
+	- -> Carrying out their traditional occupations
+2. More Backward C
