@@ -112,4 +112,6 @@ GS2::Topic05 Polity::Parliament
 2. Make and subscribe to OATH or AFFIRMATION before a person authorized by ELECTION COMMISSION
 	> OATH
 		> - To bear true faith and allegiance to the CONSTITUTION of India.
-		> - To uphold SOV
+		> - To uphold SOVEREIGNITY and INTEGRITY of India.
+3. Not less than 30 years for RAJYA SABHA
+
