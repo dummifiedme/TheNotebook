@@ -127,6 +127,9 @@ GS2::Topic05 Polity::Parliament
 	1. Though, SC/STs can contest non-SC/ST seats as well.
 
 #### Disqualifications
-Disqualification as MP, as per Constitution:
+**Disqualification as MP, as per Constitution:**
+1. Office of Profit under Union or State
+2. Unsound mind and stands so declared by a court.
+3. undischar
 
 
