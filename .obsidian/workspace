@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Parliament.md",
+            "file": "NotesVault/System of Proportional Representation.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Parliament.md",
+                "file": "NotesVault/System of Proportional Representation.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Parliament.md",
+                "file": "NotesVault/System of Proportional Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Parliament.md"
+                "file": "NotesVault/System of Proportional Representation.md"
               }
             }
           }
@@ -156,15 +156,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/System of Proportional Representation.md",
+    "NotesVault/First-Past-The-Post System.md",
     "NotesVault/Parliament.md",
     "NotesVault/24th Amendment Act.md",
     "NotesVault/Kesavananda Bharti Case.md",
     "NotesVault/Words.md",
     "NotesVault/Timeline of Decentralisation in India.md",
-    "NotesVault/System of Proportional Representation.md",
     "NotesVault/LM Singhvi Committee.md",
     "NotesVault/GVK Rao Committee.md",
-    "NotesVault/GVK Commettee - Recommendations.md",
-    "NotesVault/Demerits of System of Proportional Representation.md"
+    "NotesVault/GVK Commettee - Recommendations.md"
   ]
 }

@@ -20,5 +20,8 @@ GS2 Polity Elections
 - [[List System  of proportional Representation]]
 <!--ID: 1606267016842-->
 
+---
 
-### ![[Demerits of System of Proportional Representation#Demerits System of Proportional Representation]]
+ [[Demerits of System of Proportional Representation]]
+ 
+ ---
