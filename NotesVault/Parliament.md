@@ -88,5 +88,7 @@ GS2::Topic05 Polity::Parliament
 - Rajya Sabha was first constituted in {1952}
 - Continuing chamber --> not subjected to dissolution
 - One third of its member retire every third year
-- retiring members are eligible for re-election and re-nomination.
-- 
+	-	Retiring members are eligible for re-election and re-nomination.
+- Constitution has not fixed the term for RS
+	- Left it to parliament to make laws in this matter
+	- P
