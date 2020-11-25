@@ -8,11 +8,9 @@ GS2 Polity::Parliament Elections
 ---
 
 ## Demerits of System of Proportional Representation
-A: The following demerits
+A: The following demerits:
 1. Highly expensive.
-2. No scope for organising by-elections.
-3. Eliminates intimate contacts between voters and
-representatives.
+2. No scope for organizing by-elections.
+3. Eliminates intimate contacts between voters and representatives.
 4. Promotes minority thinking and group interests.
-5. It increases the significance of party system and decreases
-that of voter
+5. Increases the significance of party system + decreases that of voter.
