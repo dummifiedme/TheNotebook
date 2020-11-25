@@ -8,4 +8,6 @@ GS2 Polity::Parliament
 ---
 
 # First-Past-The-Post System
-- Same as Territorial Representatio
+- Same as Territorial Representation
+- Every member represents a Geographical area aka Constituency
+- 
