@@ -64,11 +64,14 @@ GS2::Topic05 Polity::Parliament
 - [[Reservation of Seats for SCs and STs in LS]]
 
 - **System for Elections: **
-	- Rajya Sabha = {1:Proportional representation} 
+	- Rajya Sabha 
+		-  {1:Proportional representation} 
 	- Lok Sabha
 			-  = {1:System of territorial representation} 
 			-  = {1:[[First-Past-The-Post System]]}
 <!--ID: 1606267016757-->
+
+
 
 
 
