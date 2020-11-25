@@ -93,4 +93,4 @@ GS2::Topic05 Polity::Parliament
 	- Left it to parliament to make laws in this matter
 	- Parliament , hence, enancted the Representation of the People Act (1951)
 		- Provided that the term of RS shall be of 6 years.
-		- First batch
+		- First batch to be decided by Lottery on who should retire --> President empowered to curtail their tenure.
