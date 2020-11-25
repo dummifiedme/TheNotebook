@@ -47,5 +47,5 @@ NCBC in 2015 proposed sub-categorizations in OBC
 ---
 
 ## Need for Sub-Categorization of OBC
-- Benefits reached only limited sections
-	- Rohini Commisions highlighted that -- 1900/2633 central list OBCs
+- {Benefits reached only limited sections}
+	- {Rohini Commission} highlighted that -- 1900/2633 central list OBCs not benefited.
