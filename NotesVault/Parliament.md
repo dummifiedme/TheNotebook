@@ -130,6 +130,7 @@ GS2::Topic05 Polity::Parliament
 **Disqualification as MP, as per Constitution:**
 1. Office of Profit under Union or State
 2. Unsound mind and stands so declared by a court.
-3. undischar
+3. undischarged insolvent
+4. not a citizen of India or voluntarily acquired the citizenship of a foreign state.
 
 
