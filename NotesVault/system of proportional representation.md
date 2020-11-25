@@ -10,7 +10,11 @@ GS2 Polity Elections
 - Tries to remove the defects of [[First-Past-The-Post System \| territorial representation]]
 - All section of the people get representation in proportion to their number.
 - Smallest group get a representation.
+
+
  ![[_Resources/Pasted image 20201125031054.png]] 
+ 
+
 ### Two kinds of proportional representation:
 1.  {1| [[Single Transferable Vote System]]}
 	- Used in elections to 
@@ -21,6 +25,7 @@ GS2 Polity Elections
 <!--ID: 1606267016842-->
 <!--ID: 1606326615257-->
 
-But here are some pro[[Demerits of System of Proportional Representation]]
+System of Proportional Representation
+[[Demerits of System of Proportional Representation]]
  
  ---
