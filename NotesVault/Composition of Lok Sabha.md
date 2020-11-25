@@ -24,6 +24,7 @@ GS2 Polity::Parliament
 	- Parliament enacted -- {Union Territories (Direct Election to the House of the People) Act}, {1965}
 	- Direct Election
 <!--ID: 1606267016129-->
+<!--ID: 1606327412072-->
 
 ## Nominated Members
 - Nomination by the President to 2 members of Anglo-Indian community.

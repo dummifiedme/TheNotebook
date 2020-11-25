@@ -11,6 +11,7 @@ GS2 Polity::Parliament
 	- Representatives of the states/UT = {238}
 	- Nominated by the president = 12
 <!--ID: 1606267016228-->
+<!--ID: 1606327412113-->
 
 - {4th} Schedule deals with the {allocation of the seats in the RS to the states and UTs.}
 <!--ID: 1606267016263-->

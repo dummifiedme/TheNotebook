@@ -6,14 +6,27 @@
       {
         "id": "b711b8f5dc87a0e5",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "NotesVault/System of Proportional Representation.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "6c998fb03f2f80e7"
+      },
+      {
+        "id": "8dc07490b13eeab6",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/System of Proportional Representation.md",
+            "mode": "preview"
+          }
+        },
+        "group": "6c998fb03f2f80e7"
       }
     ],
     "direction": "vertical"

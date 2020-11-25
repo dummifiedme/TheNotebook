@@ -26,6 +26,7 @@ GS2::Topic01 Polity::Basic_Structure Polity::Amendments
 *   [[Kesavananda Bharti Case]] --> Supreme Court upheld the validity of this amendment + 'Basic Structure'.
 ***
 <!--ID: 1606267015996-->
+<!--ID: 1606327412023-->
 
 *   [[Article 13]]
 *   [[Article 368]] - deals with the amendments to the constitution.
