@@ -14,3 +14,4 @@ A: The following demerits:
 3. Eliminates intimate contacts between voters and representatives.
 4. Promotes minority thinking and group interests.
 5. Increases the significance of party system + decreases that of voter.
+<!--ID: 1606265845095-->
