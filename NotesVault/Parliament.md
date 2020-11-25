@@ -134,7 +134,10 @@ GS2::Topic05 Polity::Parliament
 4. not a citizen of India or voluntarily acquired the citizenship/allegiance of a foreign state.
 5. disqualified under any law by Parliament. }
 
-#### Disqualification 
+#### Disqualification as per RPA 1951
+{
+1
+}
 
 
 
