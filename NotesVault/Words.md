@@ -80,26 +80,26 @@ Meaning:
 - Hamper, Impede
 - cause to lose enthusiasm and initiative, especially as a result of a tedious or restrictive routine.
 - "he found ways of gently subverting the class system that stultified 1950s English society"
-<!--ID: 1606251806832-->
+
 
 
 ### Dissent
 Meaning: 
 - differ, demur, diverge; disagree with
 - 'we do not dissent from the points that have been made'
-<!--ID: 1606251806920-->
+
 
 
 ### Concomitant
 Meaning: 
 - Accompanying, Attendant, Related, Collateral
 - 'The rise of urbanism brought a concomitant risk'
-<!--ID: 1606251807010-->
+
 
 
 ### Imbroglio
 Meaning: 
 - Complicated Situation, Complexity
 - "a man caught up in a political imbroglio"
-<!--ID: 1606251807104-->
+
 

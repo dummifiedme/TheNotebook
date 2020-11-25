@@ -23,7 +23,6 @@ GS2::Topic05 Polity::Parliament
 ***
 
 *   Articles {1:79 to 122::range of articles} in Part {1:V} of the Constitution deal with the organisation, composition, duration, officers, procedures, privileges, powers and so on of the Parliament.
-<!--ID: 1606251805911-->
 
 * wrt to Parliament form of government, constitution makers took up British Model over American Model.
 	* American Model: President not a constituent part of congress
@@ -35,7 +34,7 @@ GS2::Topic05 Polity::Parliament
 1.  {President}
 2. {Council of States -> Rajya Sabha}
 3. {House of People -> Lok Sabha}
-<!--ID: 1606251974558-->
+
 
 ---
 
