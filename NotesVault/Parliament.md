@@ -82,8 +82,8 @@ GS2::Topic05 Polity::Parliament
 
 ---
 
-## Duration of Two Houses
-### Duration of Rajya Sabha
+### Duration of Two Houses
+#### Duration of Rajya Sabha
 
 - Rajya Sabha was first constituted in {1952}
 - Continuing chamber --> not subjected to dissolution
@@ -94,3 +94,5 @@ GS2::Topic05 Polity::Parliament
 	- Parliament , hence, enancted the Representation of the People Act (1951)
 		- Provided that the term of RS shall be of 6 years.
 		- First batch to be decided by Lottery on who should retire --> President empowered to curtail their tenure.
+
+#### Duration of Lok Sabha
