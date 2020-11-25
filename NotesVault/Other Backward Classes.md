@@ -50,4 +50,5 @@ NCBC in 2015 proposed sub-categorizations in OBC
 - {Benefits reached only limited sections}
 	- {Rohini Commission} highlighted that -- 1900/2633 central list OBCs not benefited.
 		- Half of 1900 -> no benefits at all
+		- Other half of 1900 -> <3% share in OBC quota
 		- 
