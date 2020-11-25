@@ -134,7 +134,7 @@ GS2::Topic05 Polity::Parliament
 4. not a citizen of India or voluntarily acquired the citizenship/allegiance of a foreign state.
 5. disqualified under any law by Parliament. }
 
-#### Disqualification as per RPA 1951
+#### Disqualification as per RPA 1951 
 {
 1. Not guilty of certain election frauds
 2. Not convicted for offence (of more than two or more years)
@@ -144,8 +144,10 @@ GS2::Topic05 Polity::Parliament
 5. not a director or manager or any other Office of Profit in which govt has atleast 25% share.
 6. not dismissed for corruption 
 7. not convicted for promoting enmity
-8. ont punished for preaching/practising social crimes such as untouchability, 
+8. not punished for preaching/practising social crimes such as untouchability, dowry and sati.
 }
 
+#### Disqualification on the grounds of defection
+---
 
 
