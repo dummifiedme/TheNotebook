@@ -107,7 +107,7 @@ GS2::Topic05 Polity::Parliament
 ---
 ### Membership of Parliament
 
-#### QUALIFICATIONS
+#### QUALIFICATIONS for MP
 1. Citizen of India
 2. Make and subscribe to OATH or AFFIRMATION before a person authorized by ELECTION COMMISSION
 	> OATH
@@ -116,3 +116,4 @@ GS2::Topic05 Polity::Parliament
 3. AGE Conditions:
 	1. Not less than 30 years for RAJYA SABHA. 
 	2. Not less than 25 years for LOK SABHA.
+4. Other qualifications as prescribed by the Parliament.
