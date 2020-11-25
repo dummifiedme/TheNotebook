@@ -16,7 +16,7 @@ GS2 Polity::Parliament
 ## Representation of the States
 - Members elected by the members of State Legislatures.
 - In accordance with the [[System of Proportional Representation]]
-- by means of the [[Single Transferable Vote]].
+- by means of the [[Single Transferable Vote System]].
 - Seats allocated to a state on the basis of population.
 > Contrast to the Indian system 
 > American System, where each state has 2 seats in the Senate.) ie Equal representation of all the states.)

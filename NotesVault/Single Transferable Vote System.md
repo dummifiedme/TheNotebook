@@ -1,4 +1,4 @@
-# Single Transferable Vote
+# Single Transferable Vote System
 - Preference voting.
 - Originated in Britain.
 - In India used in Election to the RS from states and two UTs.
