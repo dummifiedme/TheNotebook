@@ -31,6 +31,6 @@ investigate the conditions of backward classes}.
 | ---- | -------------------------------------------------- | ------------------------------- |
 | 1955 | First Backward Class COmmittee                     | Backward and Extremely Backward |
 | 1979 | Mandal Commission + dissent note by member LK Naik | Intermediate and Depressed      |
-| 2015 | NCBC                                               | Extremely BC,                                 |
+| 2015 | NCBC                                               | Extremely BC, More BC, BC       |
 
 
