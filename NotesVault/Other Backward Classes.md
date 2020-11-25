@@ -14,7 +14,7 @@ investigate the conditions of backward classes}.
 ---
 
 ## Background of OBC reservations
-1980 - Mondal Commission
+1980 - Mandal Commission
 1990 - Announced 27%
 1992 - Implemented - only in govt. jobs
 2006 - Implemented - in educational institutions
@@ -27,6 +27,9 @@ investigate the conditions of backward classes}.
 	- Additional: {combined reservations not greater than 50 percent}.
 
 ## Idea of Sub-Category in OBC
-| Year | Name of Committee | 
+| Year | Name of Committee              | Sub-Category                    |
+| ---- | ------------------------------ | ------------------------------- |
+| 1955 | First Backward Class COmmittee | Backward and Extremely Backward |
+| 1979 | Mandal Commission                               |                                 |
 
 
