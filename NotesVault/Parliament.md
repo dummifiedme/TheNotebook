@@ -86,12 +86,13 @@ GS2::Topic05 Polity::Parliament
 #### Duration of Rajya Sabha
 
 - Rajya Sabha was first constituted in {1952}
+
 - Continuing chamber --> not subjected to dissolution
 - One third of its member retire every third year
 	-	Retiring members are eligible for re-election and re-nomination.
 - Constitution has not fixed the term for RS
 	- Left it to parliament to make laws in this matter
-	- Parliament , hence, enancted the Representation of the People Act (1951)
+	- Parliament , hence, enacted the Representation of the People Act (1951)
 		- Provided that the term of RS shall be of 6 years.
 		- First batch to be decided by Lottery on who should retire --> President empowered to curtail their tenure.
 
