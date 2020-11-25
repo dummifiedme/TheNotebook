@@ -97,3 +97,4 @@ GS2::Topic05 Polity::Parliament
 		- First batch to be decided by Lottery on who should retire --> President empowered to curtail their tenure.
 
 #### Duration of Lok Sabha
+- Not a continuous
