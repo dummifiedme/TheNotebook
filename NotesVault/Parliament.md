@@ -139,7 +139,8 @@ GS2::Topic05 Polity::Parliament
 1. Not guilty of certain election frauds
 2. Not convicted for offence (of more than two or more years)
 	1. Preventive detention isn't included.
-3. Must have lod
+3. Must have lodged election expenses within time.
+4. 
 }
 
 
