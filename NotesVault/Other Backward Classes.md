@@ -13,6 +13,10 @@ investigate the conditions of backward classes}.
 
 ---
 
-## Background of OB C
+## Background of OBC reservations
+1980 - Mondal Commission
+1990 - Announced 27%
+1992 - Implemented - only in govt. jobs
+2006 - Implemented - 
 
 
