@@ -109,7 +109,7 @@ GS2::Topic05 Polity::Parliament
 
 #### QUALIFICATIONS for MP 
 ** As per the constitution: **
-1.{ Citizen of India}
+1. {Citizen of India}
 2. {Make and subscribe to OATH or AFFIRMATION before a person authorized by ELECTION COMMISSION}
 	> OATH
 		> - {To bear true faith and allegiance to the CONSTITUTION of India}.
