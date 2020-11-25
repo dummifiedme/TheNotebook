@@ -15,6 +15,7 @@ GS2 Polity::Parliament
 	- Simple majority electorate deoesn't represent whole electorate 
 		- aka doesn't secure due representation to minorities 
 		> [[System of Proportional Representation]] aims to remove the (these) defects in territorial representation.
-	- 
+	- Adopted over [[System of Proportional Representation]], for Lok Sabha due to two reasons:
+		1. 
 
 
