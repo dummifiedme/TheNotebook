@@ -9,5 +9,6 @@ GS2 Polity::Parliament
 
 # First-Past-The-Post System
 **System for Elections: **
-- Rajya Sabha = Proportional representation 
-- Lok Sabha = System of territorial representation = First-Past-The-Post System
+- Rajya Sabha = {1:Proportional representation} 
+- Lok Sabha = {1:System of territorial representation} = {1:First-Past-The-Post System}
+
