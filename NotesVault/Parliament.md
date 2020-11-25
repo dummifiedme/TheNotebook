@@ -120,5 +120,7 @@ GS2::Topic05 Polity::Parliament
 4. {Other qualifications as prescribed by the Parliament}.
 
 #### Additional Qualifications for MP (RPA 1951)
-1, registered as elector for a parliamentary consituency
+1. registered as elector for a parliamentary constituency
+	1. For both RS, LS.
+	2. 
 
