@@ -62,7 +62,7 @@ GS2::Topic05 Polity::Parliament
 *   [[Composition of Rajya Sabha]]
 *   [[Composition of Lok Sabha]]
 
-
+---
 
 ### System of Elections to Lok Sabha
 *   [[Territorial Constituencies]]
