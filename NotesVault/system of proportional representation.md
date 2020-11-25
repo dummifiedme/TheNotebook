@@ -3,12 +3,14 @@
 - All section of the people get representation in proportion to their number.
 - Smallest group get a representation.
 ---
-- ![[_Resources/Pasted image 20201125031054.png]]
-- There are two kinds of proportional representation:
-	- [[Single Transferable Vote System]]
-		- Rajya Sabha
-		- President
-		- Vice-President
-	- [[List System  of proportional Representation]]
+ ![[_Resources/Pasted image 20201125031054.png]] 
+- ---
+### Two kinds of proportional representation:
+- [[Single Transferable Vote System]]
+		Used in elections to 
+			- Rajya Sabha
+			- President
+			- Vice-President
+- [[List System  of proportional Representation]]
 
-## [[Demerits of System of Proportional Representation]]
+### [[Demerits of System of Proportional Representation]]
