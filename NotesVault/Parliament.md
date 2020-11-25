@@ -110,4 +110,5 @@ GS2::Topic05 Polity::Parliament
 #### QUALIFICATIONS
 1. Citizen of India
 2. Make and subscribe to OATH or AFFIRMATION before a person authorized by ELECTION COMMISSION
-	1. OATH= 
+		> OATH
+		> - To bear true faith and allegiance to the CONSTITUTION of India
