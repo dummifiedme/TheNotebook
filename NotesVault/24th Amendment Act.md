@@ -23,7 +23,7 @@ GS2::Topic01 Polity::Basic_Structure Polity::Amendments
     *   The Parliament has the power to abridge or take away any of the Fundamental Rights by enacting Constitutional Amendment Acts.
     *   Such an act will not be a law under the meaning of Article {1: 13}.
 *   Made it obligatory for the President to give assent to a constitutional amendment bill.
-*   [Kesavananda Bharti Case](Kesavananda%20Bharti%20Case.md) --> Supreme Court upheld the validity of this amendment + 'Basic Structure'.
+*   [[Kesavananda Bharti Case]] --> Supreme Court upheld the validity of this amendment + 'Basic Structure'.
 ***
 <!--ID: 1606267015996-->
 

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Words.md",
+            "file": "NotesVault/Parliament.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "<!--",
+                "query": "Parliament",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,12 +57,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 335.0104351043701
+    "width": 335.0104351043701,
+    "collapsed": true
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Words.md",
+                "file": "NotesVault/Parliament.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Words.md",
+                "file": "NotesVault/Parliament.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Words.md"
+                "file": "NotesVault/Parliament.md"
               }
             }
           }
@@ -156,15 +156,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Parliament.md",
+    "NotesVault/24th Amendment Act.md",
+    "NotesVault/Kesavananda Bharti Case.md",
     "NotesVault/Words.md",
     "NotesVault/Timeline of Decentralisation in India.md",
     "NotesVault/System of Proportional Representation.md",
-    "NotesVault/Parliament.md",
     "NotesVault/LM Singhvi Committee.md",
     "NotesVault/GVK Rao Committee.md",
-    "NotesVault/Kesavananda Bharti Case.md",
     "NotesVault/GVK Commettee - Recommendations.md",
-    "NotesVault/Demerits of System of Proportional Representation.md",
-    "NotesVault/Basic Structure Doctrine.md"
+    "NotesVault/Demerits of System of Proportional Representation.md"
   ]
 }
