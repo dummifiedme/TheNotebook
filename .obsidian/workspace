@@ -118,7 +118,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6394332069729187
+                  "scale": 0.3253192440815346
                 }
               }
             }
@@ -174,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.6939392089844
+    "width": 408.6939392089844,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "NotesVault/Parliament.md",
