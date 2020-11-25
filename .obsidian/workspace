@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NotesVault/System of Proportional Representation.md",
+                "file": "NotesVault/Parliament.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NotesVault/System of Proportional Representation.md",
+                "file": "NotesVault/Parliament.md",
                 "mode": "preview"
               }
             },
@@ -98,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/System of Proportional Representation.md",
+                "file": "NotesVault/Parliament.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/System of Proportional Representation.md",
+                "file": "NotesVault/Parliament.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/System of Proportional Representation.md"
+                "file": "NotesVault/Parliament.md"
               }
             }
           }
@@ -176,9 +176,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Parliament.md",
     "NotesVault/System of Proportional Representation.md",
     "NotesVault/First-Past-The-Post System.md",
-    "NotesVault/Parliament.md",
     "NotesVault/24th Amendment Act.md",
     "NotesVault/Kesavananda Bharti Case.md",
     "NotesVault/Words.md",
