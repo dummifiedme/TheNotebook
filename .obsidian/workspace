@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NotesVault/Parliament.md",
+                "file": "NotesVault/First-Past-The-Post System.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NotesVault/Parliament.md",
+                "file": "NotesVault/First-Past-The-Post System.md",
                 "mode": "preview"
               }
             },
@@ -98,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Parliament.md",
+                "file": "NotesVault/First-Past-The-Post System.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Parliament.md",
+                "file": "NotesVault/First-Past-The-Post System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Parliament.md"
+                "file": "NotesVault/First-Past-The-Post System.md"
               }
             }
           }
@@ -176,6 +176,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/First-Past-The-Post System.md",
     "NotesVault/Parliament.md",
     "NotesVault/Reservation of Seats for SCs and STs in LS.md",
     "NotesVault/Readjustment to Territorial Constituency.md",
@@ -184,7 +185,6 @@
     "NotesVault/Composition of Lok Sabha.md",
     "NotesVault/Territorial Constituencies.md",
     "NotesVault/Constitutional Amendment Acts.md",
-    "NotesVault/system of proportional representation.md",
-    "NotesVault/Single Transferable Vote.md"
+    "NotesVault/system of proportional representation.md"
   ]
 }

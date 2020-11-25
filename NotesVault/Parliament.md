@@ -60,7 +60,7 @@ GS2::Topic05 Polity::Parliament
 - [[Territorial Constituencies]]
 - [[Readjustment to Territorial Constituency]]
 - [[Reservation of Seats for SCs and STs in LS]]
-- [[First-Past-The-Post S]]
+- [[First-Past-The-Post System]]
 
 
 
