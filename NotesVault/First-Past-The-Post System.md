@@ -12,7 +12,7 @@ GS2 Polity::Parliament
 - Every member represents a Geographical area aka Constituency
 	- One member elected from one constituency.
 	- One who secures a majority of votes = elected
-	- Simple majority electorate deoesn't represent whole electorate
+	- Simple majority electorate deoesn't represent whole electorate ([[System of Proportional Representation]])
 		- aka doesn't secure due representation to minorities 
 - 
 
