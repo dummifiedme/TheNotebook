@@ -4,5 +4,8 @@
 - Smallest group get a representation.
 - There are two kinds of proportional representation:
 	- [[Single Transferable Vote System]]
+		- Rajya Sabha
+		- President
+		- Vice-President
 	- [[List System  of proportional Representation]]
 - ![[_Resources/Pasted image 20201125031054.png]]
