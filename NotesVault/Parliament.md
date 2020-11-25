@@ -99,4 +99,5 @@ GS2::Topic05 Polity::Parliament
 #### Duration of Lok Sabha
 - Not a continuing chamber
 - Term of 5 years from the date of its first meeting after general elections
-- President is authorised to d
+- President is authorised to dissolve LS any time even before the completion of five years
+	- CANNOT be challenged in the court of LAW
