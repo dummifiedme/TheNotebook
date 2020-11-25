@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "be2f1fe8465267cf",
+        "id": "8fa91fb0647ded72",
         "type": "split",
         "children": [
           {
@@ -18,10 +18,10 @@
                 "mode": "source"
               }
             },
-            "group": "6c998fb03f2f80e7"
+            "group": "3b6277e5b47ca543"
           },
           {
-            "id": "8dc07490b13eeab6",
+            "id": "781ae281772a8769",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,7 +30,7 @@
                 "mode": "preview"
               }
             },
-            "group": "6c998fb03f2f80e7"
+            "group": "3b6277e5b47ca543"
           }
         ],
         "direction": "horizontal"
