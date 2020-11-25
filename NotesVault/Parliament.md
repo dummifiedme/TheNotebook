@@ -102,5 +102,6 @@ GS2::Topic05 Polity::Parliament
 - President is authorised to dissolve LS any time even before the completion of five years
 	- CANNOT be challenged in the court of LAW.
 - Term of LS can be extended in EMERGENCY
-	- Cannot continue beyond 6 MONTHS after the emergency
+	- Cannot continue beyond 6 MONTHS after the emergency is lifted.
+- 
 
