@@ -16,7 +16,7 @@ GS2 Polity::Parliament
 		- aka doesn't secure due representation to minorities 
 		> [[System of Proportional Representation]] aims to remove the (these) defects in territorial representation.
 	- Adopted over [[System of Proportional Representation]], for Lok Sabha due to two reasons:
-		1. Difficulty in understanding the system (for the people, due to low literacy)
-		2. Unsuitability to the Parliamentary government (due to tendency of the system to multiple political parties )
+		1. {1: Difficulty in understanding the system (for the people, due to {2: low literacy})}
+		2. Unsuitability to the Parliamentary government (due to tendency of the system to multiple political parties leading to instability)
 
 
