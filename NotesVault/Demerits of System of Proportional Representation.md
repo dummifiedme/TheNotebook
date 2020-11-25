@@ -6,3 +6,6 @@ FILE TAG
 GS2 Polity::Parliament Elections
 
 ---
+
+## Demerits of System of Proportional Representation
+
