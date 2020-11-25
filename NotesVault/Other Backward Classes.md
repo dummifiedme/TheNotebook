@@ -27,7 +27,6 @@ investigate the conditions of backward classes}.
 	- Additional: {combined reservations not greater than 50 percent}.
 
 ## Idea of Sub-Category in OBC
-- 1955 ---> First backward class committee
-	- > Suggested 
+| Year | Name of Committee | 
 
 
