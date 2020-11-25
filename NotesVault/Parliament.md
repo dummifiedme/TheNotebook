@@ -142,6 +142,8 @@ GS2::Topic05 Polity::Parliament
 3. Must have lodged election expenses within time.
 4. No interest in govt contracts, works or services
 5. not a director or manager or any other Office of Profit in which govt has atleast 25% share.
+6. not dismissed for corruption 
+7. 
 }
 
 
