@@ -10,3 +10,4 @@ GS2 Polity::Parliament
 - Abandoned the system of communal representation
 	- Still provided for SC and ST reservations in LS
 		- Basis: population ratios.
+
