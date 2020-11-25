@@ -8,4 +8,5 @@
 		- President
 		- Vice-President
 	- [[List System  of proportional Representation]]
+- Demerits of System of Proportional Representation
 - ![[_Resources/Pasted image 20201125031054.png]]

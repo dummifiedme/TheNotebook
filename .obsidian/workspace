@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NotesVault/First-Past-The-Post System.md",
+                "file": "NotesVault/System of Proportional Representation.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NotesVault/First-Past-The-Post System.md",
+                "file": "NotesVault/System of Proportional Representation.md",
                 "mode": "preview"
               }
             },
@@ -98,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/First-Past-The-Post System.md",
+                "file": "NotesVault/System of Proportional Representation.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/First-Past-The-Post System.md",
+                "file": "NotesVault/System of Proportional Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/First-Past-The-Post System.md"
+                "file": "NotesVault/System of Proportional Representation.md"
               }
             }
           }
@@ -176,8 +176,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/First-Past-The-Post System.md",
     "NotesVault/System of Proportional Representation.md",
+    "NotesVault/First-Past-The-Post System.md",
     "NotesVault/List System  of proportional Representation.md",
     "NotesVault/Single Transferable Vote System.md",
     "NotesVault/Single Transferable Vote.md",
