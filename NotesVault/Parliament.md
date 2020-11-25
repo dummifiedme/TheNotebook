@@ -124,5 +124,8 @@ GS2::Topic05 Polity::Parliament
 	1. For both RS, LS.
 	2. Same state rules for RS was quashed in 2003. 
 2. SC and ST seats to be contested by only SCs and STs. 
-	1. Though, can contest non SC/ST
+	1. Though, SC/STs can contest non-SC/ST seats as well.
+
+#### Disqualifications
+
 
