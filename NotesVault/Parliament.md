@@ -91,4 +91,5 @@ GS2::Topic05 Polity::Parliament
 	-	Retiring members are eligible for re-election and re-nomination.
 - Constitution has not fixed the term for RS
 	- Left it to parliament to make laws in this matter
-	- P
+	- Parliament , hence, enancted the Representation of the People Act (1951)
+		- Provided that the term of RS shall be of 6 years.
