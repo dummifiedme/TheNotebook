@@ -140,7 +140,8 @@ GS2::Topic05 Polity::Parliament
 2. Not convicted for offence (of more than two or more years)
 	1. Preventive detention isn't included.
 3. Must have lodged election expenses within time.
-4. 
+4. No interest in govt contracts, works or services
+5. 
 }
 
 
