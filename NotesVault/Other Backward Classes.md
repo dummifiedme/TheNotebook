@@ -21,6 +21,8 @@ investigate the conditions of backward classes}.
 
 ## Related Cases
 - Indira Sawhney Case 
-	- Introduced Creamy Layer
+	- Introduced 'Creamy Layer'
+	- Reason? : {To percolate the benefits to the actual needy}.
+	- Additional: combined reservations not greater than 50 percent.
 
 
