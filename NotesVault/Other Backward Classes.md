@@ -17,6 +17,10 @@ investigate the conditions of backward classes}.
 1980 - Mondal Commission
 1990 - Announced 27%
 1992 - Implemented - only in govt. jobs
-2006 - Implemented - 
+2006 - Implemented - in educational institutions
+
+## Related Cases
+- Indira Sawhney Case 
+	- Introduced Creamy Layer
 
 
