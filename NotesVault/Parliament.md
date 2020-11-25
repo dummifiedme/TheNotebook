@@ -60,7 +60,11 @@ GS2::Topic05 Polity::Parliament
 - [[Territorial Constituencies]]
 - [[Readjustment to Territorial Constituency]]
 - [[Reservation of Seats for SCs and STs in LS]]
-- [[First-Past-The-Post System]]
+
+- **System for Elections: **
+	- Rajya Sabha = {1:Proportional representation} 
+	- Lok Sabha = {1:System of territorial representation} = {1:First-Past-The-Post System}
+		- [[First-Past-The-Post System]]
 
 
 

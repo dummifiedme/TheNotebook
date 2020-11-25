@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NotesVault/First-Past-The-Post System.md",
+                "file": "NotesVault/Parliament.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NotesVault/First-Past-The-Post System.md",
+                "file": "NotesVault/Parliament.md",
                 "mode": "preview"
               }
             },
@@ -98,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/First-Past-The-Post System.md",
+                "file": "NotesVault/Parliament.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/First-Past-The-Post System.md",
+                "file": "NotesVault/Parliament.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/First-Past-The-Post System.md"
+                "file": "NotesVault/Parliament.md"
               }
             }
           }
@@ -176,8 +176,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/First-Past-The-Post System.md",
     "NotesVault/Parliament.md",
+    "NotesVault/First-Past-The-Post System.md",
     "NotesVault/Reservation of Seats for SCs and STs in LS.md",
     "NotesVault/Readjustment to Territorial Constituency.md",
     "NotesVault/Composition of Rajya Sabha.md",
