@@ -8,4 +8,4 @@ GS2 Polity::Parliament
 ---
 
 # First-Past-The-Post System
-- 
+- Same as Territorial Representatio
