@@ -27,6 +27,7 @@ investigate the conditions of backward classes}.
 	- Additional: {combined reservations not greater than 50 percent}.
 
 ## Idea of Sub-Category in OBC
+A:
 | Year | Name of Committee                                  | Sub-Category                    |
 | ---- | -------------------------------------------------- | ------------------------------- |
 | {1955} | {First Backward Class Committee}                     | {Backward and Extremely Backward} |
@@ -36,9 +37,10 @@ investigate the conditions of backward classes}.
 
 NCBC in 2015 proposed sub-categorizations in OBC 
 1. Extremely BC 
-	- -> Nomadic, aboriginal tribes, semi-nomadic tribes 
-	- -> Carrying out their traditional occupations
+	- {-> Nomadic, aboriginal tribes, semi-nomadic tribes 
+	- -> Carrying out their traditional occupations}
 2. More Backward Classes 
-	- -> vocational groups carrying on with their traditional occupations
+	- -> {vocational groups carrying on with their traditional occupations}
 3. Backward Classes
-	- -> comparatively more forward
+	- -> {comparatively more forward}
+
