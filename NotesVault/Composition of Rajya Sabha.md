@@ -10,8 +10,10 @@ GS2 Polity::Parliament
 - Maximum Strength = {250}
 	- Representatives of the states/UT = {238}
 	- Nominated by the president = 12
+<!--ID: 1606267016228-->
 
 - {4th} Schedule deals with the {allocation of the seats in the RS to the states and UTs.}
+<!--ID: 1606267016263-->
 
 ## Representation of the States
 - Members elected by the members of State Legislatures.

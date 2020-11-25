@@ -23,6 +23,7 @@ GS2::Topic05 Polity::Parliament
 ***
 
 *   Articles {1:79 to 122::range of articles} in Part {1:V} of the Constitution deal with the organisation, composition, duration, officers, procedures, privileges, powers and so on of the Parliament.
+<!--ID: 1606267016636-->
 
 * wrt to Parliament form of government, constitution makers took up British Model over American Model.
 	* American Model: President not a constituent part of congress
@@ -34,6 +35,7 @@ GS2::Topic05 Polity::Parliament
 1.  {President}
 2. {Council of States -> Rajya Sabha}
 3. {House of People -> Lok Sabha}
+<!--ID: 1606267016680-->
 
 
 ---
@@ -48,6 +50,7 @@ GS2::Topic05 Polity::Parliament
 	* {3: Dissolves the Lok Sabha}
 	* {3:Addresses both the houses}
 	* {3: issues ordinances when Parliament not in session }.
+<!--ID: 1606267016715-->
 
 ---
 
@@ -63,6 +66,7 @@ GS2::Topic05 Polity::Parliament
 - **System for Elections: **
 	- Rajya Sabha = {1:Proportional representation} 
 	- Lok Sabha = {1:System of territorial representation} = {1:[[First-Past-The-Post System]]}
+<!--ID: 1606267016757-->
 
 
 

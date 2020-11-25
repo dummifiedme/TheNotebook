@@ -18,6 +18,7 @@ GS2 Polity::Parliament
 		* 1972 - froze till 2000 at 1971 census level
 		* 2002 - froze till 2026 at 1991 census level - {84th} CAA 
 		* 2003 - change in 2002 amendment at 2001 census levels - {87th} CAA
+<!--ID: 1606267016795-->
 
 
 

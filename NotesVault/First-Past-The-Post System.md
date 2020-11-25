@@ -18,5 +18,6 @@ GS2 Polity::Parliament
 	- Adopted over [[System of Proportional Representation]], for Lok Sabha due to two reasons:
 		1. {1: Difficulty in understanding the system (for the people, due to {2: low literacy})}
 		2. {1: Unsuitability to the Parliamentary government (due to {2:tendency of the system to multiple political parties leading to instability})}
+<!--ID: 1606267016387-->
 
 
