@@ -143,7 +143,8 @@ GS2::Topic05 Polity::Parliament
 4. No interest in govt contracts, works or services
 5. not a director or manager or any other Office of Profit in which govt has atleast 25% share.
 6. not dismissed for corruption 
-7. 
+7. not convicted for promoting enmity
+8. ont punished for preaching/practising social crimes such as untouchability, 
 }
 
 
