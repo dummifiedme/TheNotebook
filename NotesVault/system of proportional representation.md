@@ -1,3 +1,11 @@
+---
+TARGET DECK
+UPSC::General Studies 2
+
+FILE TAG
+GS2 Polity Elections
+
+---
 # System of Proportional Distribution
 - Tries to remove the defects of [[First-Past-The-Post System \| territorial representation]]
 - All section of the people get representation in proportion to their number.
