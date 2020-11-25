@@ -108,7 +108,7 @@ GS2::Topic05 Polity::Parliament
 ### Membership of Parliament
 
 #### QUALIFICATIONS for MP 
-** As per the constitution: **
+**As per the constitution:**
 1. {Citizen of India}
 2. {Make and subscribe to OATH or AFFIRMATION before a person authorized by ELECTION COMMISSION}
 	> OATH
@@ -126,14 +126,15 @@ GS2::Topic05 Polity::Parliament
 2. SC and ST seats to be contested by only SCs and STs. 
 	1. Though, SC/STs can contest non-SC/ST seats as well.
 
-#### Disqualifications
-**Disqualification as MP, as per Constitution:**
+#### Disqualifications for MP as per Constitution
 {These **five** conditions:
 1. Office of Profit under Union or State
 2. Unsound mind and stands so declared by a court.
 3. undischarged insolvent
 4. not a citizen of India or voluntarily acquired the citizenship/allegiance of a foreign state.
 5. disqualified under any law by Parliament. }
+
+#### Disqualification 
 
 
 
