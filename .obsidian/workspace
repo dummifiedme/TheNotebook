@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4377aaa7c56ee4ad",
-        "type": "split",
-        "children": [
-          {
-            "id": "b711b8f5dc87a0e5",
-            "type": "leaf",
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NotesVault/First-Past-The-Post System.md",
-                "mode": "source"
-              }
-            },
-            "group": "2faecf409e897a7b"
-          },
-          {
-            "id": "e4dfe6a8b65371cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NotesVault/First-Past-The-Post System.md",
-                "mode": "preview"
-              }
-            },
-            "group": "2faecf409e897a7b"
+        "id": "b711b8f5dc87a0e5",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/LM Singhvi Committee.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -60,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Elections",
+                "query": "<!--",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/First-Past-The-Post System.md",
+                "file": "NotesVault/LM Singhvi Committee.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -126,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/First-Past-The-Post System.md",
+                "file": "NotesVault/LM Singhvi Committee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/First-Past-The-Post System.md"
+                "file": "NotesVault/LM Singhvi Committee.md"
               }
             }
           }
@@ -175,15 +156,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/LM Singhvi Committee.md",
+    "NotesVault/GVK Rao Committee.md",
+    "NotesVault/Kesavananda Bharti Case.md",
+    "NotesVault/GVK Commettee - Recommendations.md",
+    "NotesVault/Demerits of System of Proportional Representation.md",
+    "NotesVault/Basic Structure Doctrine.md",
+    "NotesVault/24th Amendment Act.md",
     "NotesVault/First-Past-The-Post System.md",
     "NotesVault/System of Proportional Representation.md",
-    "NotesVault/Demerits of System of Proportional Representation.md",
-    "NotesVault/List System  of proportional Representation.md",
-    "NotesVault/Single Transferable Vote System.md",
-    "NotesVault/Single Transferable Vote.md",
-    "NotesVault/Proportional Representation.md",
-    "NotesVault/Parliament.md",
-    "NotesVault/Reservation of Seats for SCs and STs in LS.md",
-    "NotesVault/Readjustment to Territorial Constituency.md"
+    "NotesVault/List System  of proportional Representation.md"
   ]
 }
