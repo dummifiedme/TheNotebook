@@ -7,10 +7,10 @@
 - ---
 ### Two kinds of proportional representation:
 - [[Single Transferable Vote System]]
-		Used in elections to 
-			- Rajya Sabha
-			- President
-			- Vice-President
+	- Used in elections to 
+		- {Rajya Sabha
+		- President
+		- Vice-President}
 - [[List System  of proportional Representation]]
 
 ### [[Demerits of System of Proportional Representation]]
