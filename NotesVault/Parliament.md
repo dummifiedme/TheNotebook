@@ -103,5 +103,7 @@ GS2::Topic05 Polity::Parliament
 	- CANNOT be challenged in the court of LAW.
 - Term of LS can be extended in EMERGENCY
 	- Cannot continue beyond 6 MONTHS after the emergency is lifted.
-- 
+
+---
+### Membership of Parliament
 
