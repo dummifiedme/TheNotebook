@@ -83,3 +83,7 @@ GS2::Topic05 Polity::Parliament
 ---
 
 ## Duration of Two Houses
+### Duration of Rajya Sabha
+
+- Rajya Sabha was first constituted in {1952}
+- 
