@@ -118,3 +118,7 @@ GS2::Topic05 Polity::Parliament
 	1. {1| Not less than 30 years for RAJYA SABHA}. 
 	2. {1| Not less than 25 years for LOK SABHA}.
 4. {Other qualifications as prescribed by the Parliament}.
+
+#### Additional Qualifications for MP (RPA 1951)
+1, registered as elector for a parliamentary consituency
+
