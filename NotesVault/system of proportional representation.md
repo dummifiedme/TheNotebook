@@ -16,8 +16,8 @@ GS2 Polity Elections
 	- Used in elections to 
 		- {Rajya Sabha
 		- President
-		- Vice-President}
-- [[List System  of proportional Representation]]}
+		- Vice-President} }
+- {[[List System  of proportional Representation]]}
 <!--ID: 1606267016842-->
 <!--ID: 1606326615257-->
 
