@@ -12,15 +12,15 @@ GS2 Polity Elections
 - Smallest group get a representation.
  ![[_Resources/Pasted image 20201125031054.png]] 
 ### Two kinds of proportional representation:
-- {1| [[Single Transferable Vote System]]}
+1.  {1| [[Single Transferable Vote System]]}
 	- Used in elections to 
 		- {2| Rajya Sabha}
 		- {2| President} 
 		- {2| Vice-President} 
-- {1| [[List System  of proportional Representation]]}
+2.  {1| [[List System  of proportional Representation]]}
 <!--ID: 1606267016842-->
 <!--ID: 1606326615257-->
 
-##  [[Demerits of System of Proportional Representation]]
+But here are some pro[[Demerits of System of Proportional Representation]]
  
  ---
