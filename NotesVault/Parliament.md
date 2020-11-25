@@ -107,3 +107,5 @@ GS2::Topic05 Polity::Parliament
 ---
 ### Membership of Parliament
 
+#### QUALIFICATIONS
+
