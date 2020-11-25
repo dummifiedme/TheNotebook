@@ -7,3 +7,5 @@ GS2 Polity::Parliament
 
 ---
 
+# First-Past-The-Post System
+- Rajya Sabha = Proportional representation 
