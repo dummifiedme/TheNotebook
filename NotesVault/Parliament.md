@@ -127,5 +127,6 @@ GS2::Topic05 Polity::Parliament
 	1. Though, SC/STs can contest non-SC/ST seats as well.
 
 #### Disqualifications
+Disqualification as MP, as per Constitution:
 
 
