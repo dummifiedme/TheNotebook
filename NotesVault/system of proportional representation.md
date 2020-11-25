@@ -13,4 +13,4 @@
 		- Vice-President}
 - [[List System  of proportional Representation]]
 
-### [[Demerits of System of Proportional Representation]]
+### ![[Demerits of System of Proportional Representation#Demerits System of Proportional Representation]]
