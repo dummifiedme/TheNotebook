@@ -113,5 +113,6 @@ GS2::Topic05 Polity::Parliament
 	> OATH
 		> - To bear true faith and allegiance to the CONSTITUTION of India.
 		> - To uphold SOVEREIGNITY and INTEGRITY of India.
-3. Not less than 30 years for RAJYA SABHA
-
+3. AGE Conditions:
+	1. Not less than 30 years for RAJYA SABHA. 
+	2. Not less than 25 years for LOK SABHA.
