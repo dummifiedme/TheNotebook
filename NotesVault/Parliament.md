@@ -136,7 +136,8 @@ GS2::Topic05 Polity::Parliament
 
 #### Disqualification as per RPA 1951
 {
-1
+1. Not guilty of certain election frauds
+2. convicted for offence 
 }
 
 
