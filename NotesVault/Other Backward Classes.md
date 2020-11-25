@@ -29,13 +29,16 @@ investigate the conditions of backward classes}.
 ## Idea of Sub-Category in OBC
 | Year | Name of Committee                                  | Sub-Category                    |
 | ---- | -------------------------------------------------- | ------------------------------- |
-| 1955 | First Backward Class COmmittee                     | Backward and Extremely Backward |
-| 1979 | Mandal Commission + dissent note by member LK Naik | Intermediate and Depressed      |
-| 2015 | NCBC                                               | Extremely BC, More BC, BC       |
+| {1955} | First Backward Class Committee                     | Backward and Extremely Backward |
+| {1979} | Mandal Commission + dissent note by member LK Naik | Intermediate and Depressed      |
+| {2015} | NCBC                                               | Extremely BC, More BC, BC       |
 
 
 NCBC in 2015 proposed sub-categorizations in OBC 
 1. Extremely BC 
 	- -> Nomadic, aboriginal tribes, semi-nomadic tribes 
 	- -> Carrying out their traditional occupations
-2. More Backward C
+2. More Backward Classes 
+	- -> vocational groups carrying on with their traditional occupations
+3. Backward Classes
+	- -> comparatively more forward
