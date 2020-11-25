@@ -131,6 +131,7 @@ GS2::Topic05 Polity::Parliament
 1. Office of Profit under Union or State
 2. Unsound mind and stands so declared by a court.
 3. undischarged insolvent
-4. not a citizen of India or voluntarily acquired the citizenship of a foreign state.
+4. not a citizen of India or voluntarily acquired the citizenship/allegiance of a foreign state.
+5. 
 
 
