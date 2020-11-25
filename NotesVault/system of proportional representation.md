@@ -19,6 +19,7 @@ GS2 Polity Elections
 		- Vice-President}
 - [[List System  of proportional Representation]]}
 <!--ID: 1606267016842-->
+<!--ID: 1606326615257-->
 
 ---
 
