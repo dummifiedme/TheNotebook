@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0e2c9abf3ada52d9",
-        "type": "split",
-        "children": [
-          {
-            "id": "d4d40d3966bfd2cc",
-            "type": "leaf",
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NotesVault/Parliament.md",
-                "mode": "source"
-              }
-            },
-            "group": "15e868d44f49b725"
-          },
-          {
-            "id": "b711b8f5dc87a0e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NotesVault/Parliament.md",
-                "mode": "preview"
-              }
-            },
-            "group": "15e868d44f49b725"
+        "id": "d4d40d3966bfd2cc",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/Untitled.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -98,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Parliament.md",
+                "file": "NotesVault/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -127,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Parliament.md",
+                "file": "NotesVault/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Parliament.md"
+                "file": "NotesVault/Untitled.md"
               }
             }
           }
@@ -176,6 +156,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Untitled.md",
     "NotesVault/Parliament.md",
     "NotesVault/System of Proportional Representation.md",
     "NotesVault/First-Past-The-Post System.md",
@@ -184,7 +165,6 @@
     "NotesVault/Words.md",
     "NotesVault/Timeline of Decentralisation in India.md",
     "NotesVault/LM Singhvi Committee.md",
-    "NotesVault/GVK Rao Committee.md",
-    "NotesVault/GVK Commettee - Recommendations.md"
+    "NotesVault/GVK Rao Committee.md"
   ]
 }
