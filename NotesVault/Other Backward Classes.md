@@ -27,9 +27,10 @@ investigate the conditions of backward classes}.
 	- Additional: {combined reservations not greater than 50 percent}.
 
 ## Idea of Sub-Category in OBC
-| Year | Name of Committee              | Sub-Category                    |
-| ---- | ------------------------------ | ------------------------------- |
-| 1955 | First Backward Class COmmittee | Backward and Extremely Backward |
-| 1979 | Mandal Commission                               |                                 |
+| Year | Name of Committee                                  | Sub-Category                    |
+| ---- | -------------------------------------------------- | ------------------------------- |
+| 1955 | First Backward Class COmmittee                     | Backward and Extremely Backward |
+| 1979 | Mandal Commission + dissent note by member LK Naik | Intermediate and Depressed      |
+| 2015 | NCBC                                               | Extremely BC,                                 |
 
 
