@@ -7,4 +7,6 @@
 
 ## Democracy
 1. Direct Democracy
-2. Ind
+2. Indirect Democracy
+	1. Pa
+
