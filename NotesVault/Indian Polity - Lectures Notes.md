@@ -164,7 +164,10 @@ A: For General Studies, there is no difference. :p --> Use it interchangeably.
 	  - Keeps on changing the interpretations.
 	  - Meneka Gandhi Case is a milestone as it made a huge change in the interpretations of the provisions of the constitution.
 		  - Biggest change with respect to the interpretations of [[Article 21]].
-	  - Kesavananda Bharti Case is another example of
+	  - [[Kesavananda Bharti Case]] is another example.
+
+> Constitutional Supremacy and Judicial Supremacy is one and same thing.
+> - WHY? It is said that, we are under the constitution, but the constitution is what Judges say.
 	
 	 
 	 
