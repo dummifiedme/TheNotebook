@@ -109,6 +109,7 @@ Therefore, it can't be passed at this strength.
 *   Above concepts are based on the liberal idea of democracy
     *   India is a liberal democracy.
         *   Not a socialist, but welfare state.
+	*   FR makes India 
 
 > India is a socialist country, but in theoretical terms it isn't a socialist per say, rather liberal.
 
@@ -146,7 +147,7 @@ A: For General Studies, there is no difference. :p --> Use it interchangeably.
 *   For Political Studies --> various scholars gave different explanations.
     *   Still 'Freedom' is widely used (amongst Socialists) =>  since, 'liberty' got associated with  'Liberals' and hence, 'Capitalism'.
     *   > Some Marxist thinkers such as Karl Marx preferred 'freedom', due to association of 'liberal' with 'capitalism'
-    *   
+    		> - Freedom from basic necessities is requirement.
     *  
     
 	    | Article 21                                       | Article 19                                      |
