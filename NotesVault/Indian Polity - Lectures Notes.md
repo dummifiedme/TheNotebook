@@ -51,11 +51,13 @@ A: No, no country can exist without a constitution. Written/ Unwritten.
 ### Types of Majority
 > Related Terms: 
 > - Quorum = 1/10th of the strength = 54 Members
-> - For any official business, quorum is necessary.
+>   - For any official business, quorum is necessary. 
+>   - Voting can proceed.
 1. #### Simple Majority
 	- 50 percent of the members present and voting.
 2. #### Special Majority
 3. #### Effective Majority
 4. #### Absolute Majority
+	- 50 percent 
 
 	
