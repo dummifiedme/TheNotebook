@@ -17,6 +17,28 @@
         "group": "6c3a5aa048281462"
       },
       {
+        "id": "97f6f53a9e174a53",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/Lecture 1.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "435349eb1cfc0d1a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/Lecture 2.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "a2d61c6d7d2fbf5b",
         "type": "leaf",
         "state": {
@@ -170,6 +192,7 @@
   },
   "lastOpenFiles": [
     "NotesVault/Indian Polity - Lectures Notes.md",
+    "LECTURE 2.md",
     "NotesVault/Article 21.md",
     "Article 21.md",
     "NotesVault/Kesavananda Bharti Case.md",
@@ -177,7 +200,6 @@
     "NotesVault/Schedules in Constitution.md",
     "NotesVault/Issues with Sixth Schedule.md",
     "NotesVault/Sub-Categorization of SC-STs.md",
-    "NotesVault/Inbox.md",
-    "NotesVault/Untitled.md"
+    "NotesVault/Inbox.md"
   ]
 }
