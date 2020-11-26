@@ -161,7 +161,6 @@ A: For General Studies, there is no difference. :p --> Use it interchangeably.
   - --> By Amendments (formal)
   - --> By Judicial Interpretations (informal)
 	  - Keeps on changing the interpretations.
-  #### Menaka Gandhi Case #cases 
-  - 
+	  - Meneka Gandhi Case is a milestone as it made a huge change in the interpretations of the provisions of the constitution.
 	 
 	 
