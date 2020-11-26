@@ -8,5 +8,10 @@
 ## Democracy
 1. Direct Democracy
 2. Indirect Democracy
-	1. Pa
+	1. Parliamentary
+	2. Presidential
+	3. Hybrid (Semi Presidential)
+
+Democracy vs Republic
+
 
