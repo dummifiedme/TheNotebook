@@ -130,4 +130,6 @@ A: Condition 1: 50% +1 Total strength => 273 seats (i.e. of 545).
 
 
 ---
-Q: Is there a 
+Q: Is there any difference between 'Liberty' and 'Freedom'?
+A: For General Studies, there is no difference. :p
+- For Political Studies --> various scholars gave different explainations.
