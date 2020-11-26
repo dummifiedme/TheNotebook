@@ -45,6 +45,8 @@ A: No, no country can exist without a constitution. Written/ Unwritten.
 2. Rigid and Flexible Constitutions
 	1. Basis: Amendments.
 	2. British = Flexible --> Amendments with Simple majority. Relatively Easy.
-	3. USA = Rigid. 
-	4. India = not too rigid, not too flexible.
+	3. USA = Rigid --> Amendments with Special Majority. Difficult.
+	4. India = not too rigid, not too flexible. --> Simple majority as well as special majority. Depends on the subject.
+
+
 	
