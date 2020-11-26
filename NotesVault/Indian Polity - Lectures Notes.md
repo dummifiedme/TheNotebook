@@ -70,6 +70,7 @@ A: No, no country can exist without a constitution. Written/ Unwritten.
 4. #### Absolute Majority
 	- 50 percent (+1) of the total strength of the house.
 
-Q:  What will be the 
+
+Q: In Lok Sabha, 262 members are present out of which 212 have voted. Do you tink What will be the 
 
 	
