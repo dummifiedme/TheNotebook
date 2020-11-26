@@ -102,8 +102,9 @@ Therefore, it can't be passed at this strength.
     *   WHY? In democratic countries the power lies with the people. (Rights = Power)
 
 > Democracy is a modern concept
-> - Earlier, there was a theory of 'Divine Rights of King' -- transformed into --> Natural rights of man.
-> - Now, King is public servant and sovereignty lies with the people.
+>
+> *   Earlier, there was a theory of 'Divine Rights of King' -- transformed into --> Natural rights of man.
+> *   Now, King is public servant and sovereignty lies with the people.
 
 *   Above concepts are based on the liberal idea of democracy
     *   India is a liberal democracy.
@@ -145,8 +146,8 @@ A: For General Studies, there is no difference. :p --> Use it interchangeably.
 
 *   For Political Studies --> various scholars gave different explanations.
     *   Still 'Freedom' is widely used (amongst Socialists) =>  since, 'liberty' got associated with  'Liberals' and hence, 'Capitalism'.
-    
-    * | Art 21 | Art 19 |
-    | ------ | ------ |
-    |    Right to     |        |
- 
+
+    *   | Art 21 | Art 19 |
+    | ------                              | ------           |
+    | Right to  LIfe and Personal Liberty | Right to Freedom |
+    |                                     |                  |
