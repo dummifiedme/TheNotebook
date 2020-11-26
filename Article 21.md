@@ -6,4 +6,5 @@
 - Therefore: 
 	- > State (**POLICE**) shall not deprive a person from his life and liberty, except according to the "procedure established by law (**LEGISLATURE made LAWs**)".
 - Liberty term = Absence of Confinement.
+- Till Meneka Gandhi Case, Article 19 denoted right of a free person. It included many rights
 
