@@ -117,5 +117,7 @@ A: Condition 1: 50% +1 Total strength => 273 seats (i.e. of 545).
 - Derives from 'Liberty' or 'Freedom' of the people.
 	- Rights/Freedom of the people
 - Countries with FR will be liberal.
-	- Conflict b/w people and government => Independent Judiciary is required.
-	- Power must lie with the people => Democracy is required
+- Conflict b/w people and government => Independent Judiciary is required.
+- Power must lie with the people => Democracy is required
+- Freedom of Press => Another pillar.
+- Decided on the basis of 
