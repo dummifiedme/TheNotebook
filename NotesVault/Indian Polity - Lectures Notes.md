@@ -95,5 +95,7 @@ A: Condition 1: 50% +1 Total strength => 273 seats (i.e. of 545).
 			> - Now, King is public servant and sovereignty lies with the people.
 
 
-
+- Above concepts are based on the liberal idea of democracy
+	- India is a liberal democracy.
+- India is a 
 	
