@@ -87,6 +87,7 @@ A: Condition 1: 50% +1 Total strength => 273 seats (i.e. of 545).
 	- Rule of law is on part of the government.
 	- Rule of Law = LImited Government.
 	- Example: Fundamental Right is a part of 'Rule of Law' => Limits the government.
+
 - Constitutionalism is a feature only of Democracy.
 	- WHY? In democratic countries the power lies with the people. (Rights = Power)
 	
@@ -99,4 +100,8 @@ A: Condition 1: 50% +1 Total strength => 273 seats (i.e. of 545).
 	- India is a liberal democracy.
 
 > India is a socialist country, but in theoretical terms it isn't a socialist per say, rather liberal.
-	
+
+| Right        | Center   | left |
+| ------------ | -------- | ---- |
+| Conservative | Liberals |      |
+
