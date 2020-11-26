@@ -72,6 +72,6 @@ A: No, no country can exist without a constitution. Written/ Unwritten.
 
 
 Q: In Lok Sabha, 280 members are present out of which 212 have voted. What will be the majority required to pass the amendment in above situation? How many members should vote in favour?
-A: Cons
+A: Condition 1: 50% +1 Total strength => 272 seats
 
 	
