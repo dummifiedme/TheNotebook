@@ -15,7 +15,7 @@
 
 #### LAW
 - British
-	- > 'Procedure established by law' : Limitation only on executive.
+	- > 'Procedure established by law' : Limitation only on the power of the executive (has to act withing the procedure defined in law aka no arbitrariness.
 	 > - Equality before law (even you are the king)
 	- Principle of 'Parliamentary Sovereignty' which means no restriction on the power of the parliament to make law.
 	- However, this did not remained a fact since Britain joined European Union. So, by Brexit they gain parliamentary sovereignty.
