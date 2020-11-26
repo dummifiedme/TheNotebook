@@ -66,6 +66,7 @@ A: No, no country can exist without a constitution. Written/ Unwritten.
 				- 50%+1 of total strength of the house. 
 		- THIRD: Removal of President
 			- Most difficult
+			- 
 3. #### Effective Majority
 	- 50 percent (+1) of effective strength
 	- Effective strength = Total strength - Vacancies
@@ -75,6 +76,6 @@ A: No, no country can exist without a constitution. Written/ Unwritten.
 
 Q: In Lok Sabha, 280 members are present out of which 212 have voted. What will be the majority required to pass the amendment in above situation? How many members should vote in favour?
 A: Condition 1: 50% +1 Total strength => 273 seats (i.e. of 545). 
-	Therefore no.
+	Therefore, it can't be passed at this strength.
 
 	
