@@ -23,7 +23,7 @@ The difference between Presidential and Parliamentary system is based on the rel
 |                 Fixed term -aka- STABILITY                  |                     relatively unstable                      |
 | Single executive <- head of state  +    head of government  |         Plural executive: Nominal (Prez) + Real (PM)         |
 |                       Not responsible                       |                         Responsible                          |
-|                                                             |                                                              |
+|                                                             |                       nature of executive = plural executive, as cabinet form of government.                                       |
 
 > **Rights of a Nominal Head**
 	>- Right to be informed
