@@ -64,9 +64,9 @@ A: No, no country can exist without a constitution. Written/ Unwritten.
 			- Two conditions simultaneously: 
 				- 2/3 MP&V 
 				- 50%+1 of total strength of the house. 
-		- THIRD: Removal of President
+		- THIRD: Impeachment of President (Article 61)
 			- Most difficult
-			- 
+			- Total strength of the house. 
 3. #### Effective Majority
 	- 50 percent (+1) of effective strength
 	- Effective strength = Total strength - Vacancies
