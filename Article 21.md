@@ -22,5 +22,6 @@
 - American
 	- Constitution is supreme.
 	- It means limitations on the power of both, executive as well as legislature.
-	- Judiciary can challenge the wisdom of 
+	- Judiciary can challenge even the wisdom of law. 
 
+Constitutional Supremacy and Judicial Supremacy is one a
