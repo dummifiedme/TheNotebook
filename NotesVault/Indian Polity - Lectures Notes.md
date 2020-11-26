@@ -186,14 +186,15 @@ A: For General Studies, there is no difference. :p --> Use it interchangeably.
 	- Constitution is supreme.
 	- It means limitations on the power of both, executive as well as legislature.
 	- Judiciary can challenge even the **wisdom of law(legislation)**. 
-	- Create
+	- Creates UNCERTAINITY.
+		- Hence, not included in original constitution. Later interpreted to be present.
 
 ---
 Q: Arguments wrt to 'Laws limit freedom'
 A: 
 >-  Extremes are usually bad.
 > - Men, not Man.
-> - 
+> - Freedom ends, where other's freedom start.
 
 	
 	 
