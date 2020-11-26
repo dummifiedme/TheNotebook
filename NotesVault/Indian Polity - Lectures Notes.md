@@ -90,7 +90,8 @@ A: Condition 1: 50% +1 Total strength => 273 seats (i.e. of 545).
 	- WHY?
 		- In democratic countries the power lies with the people. (Rights = Power)
 		> Democracy is a modern concept
-		- Earlier, there was a theory of 'Divine 
+		- Earlier, there was a theory of 'Divine Rights of King' -- transformed into --> Natural rights of man.
+			- Now, King is public servant and sovereignlies with the people
 
 Example: Fundamental Right is a part of 'Rule of Law' => Limits the government.
 
