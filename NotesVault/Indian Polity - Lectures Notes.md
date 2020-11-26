@@ -14,8 +14,9 @@
 - Very important than other subjects -- score is not more
 	- Since quality is missing
 - Go for Standard information
-	- SC judgements
+	- SC judgments
 	- COmmittees report
-	- aka ut
+	- aka authentic info
+	- not in a superficial manner although its general studies.
 
 ## Constitution
