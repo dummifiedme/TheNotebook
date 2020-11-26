@@ -25,7 +25,8 @@ The difference between Presidential and Parliamentary system is based on the rel
 |                       Not responsible                       |                         Responsible                          |
 |                                                             |                                                              |
 
-Rights of Nominal Head
-	- Right to warn
-	- Right to encourage
-	- Right to 
+> **Rights of a Nominal Head**
+	>- Right to be informed
+	>- Right to warn
+	>- Right to encourage
+	
