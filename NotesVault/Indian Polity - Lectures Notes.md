@@ -22,4 +22,10 @@
 - Political Theory Book for Basic Questions --> IDEA BASED
 
 ## Constitution
-- Polity --> Political System --> Base: Constitution
+- Polity --> Understanding: Political System --> Base: Constitution
+	- though its dynamic
+
+Q: What is the purpose of the constitution?
+A: To lay down the framework of the political system.
+
+Q: 
