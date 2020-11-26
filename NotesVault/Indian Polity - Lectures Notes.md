@@ -112,7 +112,9 @@ A: Condition 1: 50% +1 Total strength => 273 seats (i.e. of 545).
 |              | JL Nehru        |                     |
 |              | BR Ambedkar                |                     |
 
-- Gandhism is an ideology in itself.
+- > Gandhism is an ideology in itself.
+
+
 ### Liberals
 - Derives from 'Liberty' or 'Freedom' of the people.
 	- Rights/Freedom of the people
@@ -120,4 +122,4 @@ A: Condition 1: 50% +1 Total strength => 273 seats (i.e. of 545).
 - Conflict b/w people and government => Independent Judiciary is required.
 - Power must lie with the people => Democracy is required
 - Freedom of Press => Another pillar.
-- Decided on the basis of 
+- Decided on the basis of enforceable rights (FR) not on the ornamental rights (Preamble).
