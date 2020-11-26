@@ -168,6 +168,8 @@ A: For General Studies, there is no difference. :p --> Use it interchangeably.
 > Constitutional Supremacy and Judicial Supremacy is one and same thing.
 > - WHY? It is said that, we are under the constitution, but the constitution is what Judges say.
 
+---
+
 ## 'Procedure Established by Law' vs 'Due Process of Law'
 (aka British vs American Systems of Law)
 - British
@@ -184,6 +186,9 @@ A: For General Studies, there is no difference. :p --> Use it interchangeably.
 	- Constitution is supreme.
 	- It means limitations on the power of both, executive as well as legislature.
 	- Judiciary can challenge even the **wisdom of law(legislation)**. 
+
+---
+### Arguments wrt to 'Laws limit freedom'
 
 	
 	 
