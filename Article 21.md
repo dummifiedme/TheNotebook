@@ -17,6 +17,7 @@
 - British
 	- Principle of 'Parliamentary Sovereignty' which means no restriction on the power of the parliament to make law.
 	- However, this did not remained a fact since Britain joined European Union. So, by Brexit they gain parliamentary sovereignty.
-	- Judiciary cannot challenge law.
+	- Judiciary cannot challenge law. 
+		- HENCE, Judicial Reviews over Executive actions.
 - American
 
