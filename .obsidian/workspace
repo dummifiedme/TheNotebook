@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Schedules of Constitution.md",
+            "file": "NotesVault/Indian Polity - Lectures Notes.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Schedules of Constitution.md",
+                "file": "NotesVault/Indian Polity - Lectures Notes.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Schedules of Constitution.md",
+                "file": "NotesVault/Indian Polity - Lectures Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Schedules of Constitution.md"
+                "file": "NotesVault/Indian Polity - Lectures Notes.md"
               }
             }
           }
@@ -157,6 +157,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Indian Polity - Lectures Notes.md",
+    "NotesVault/Schedules of Constitution.md",
     "NotesVault/Schedules in Constitution.md",
     "NotesVault/Issues with Sixth Schedule.md",
     "NotesVault/Sub-Categorization of SC-STs.md",
@@ -164,8 +166,6 @@
     "NotesVault/Untitled.md",
     "NotesVault/Parliament.md",
     "NotesVault/System of Proportional Representation.md",
-    "NotesVault/First-Past-The-Post System.md",
-    "NotesVault/24th Amendment Act.md",
-    "NotesVault/Kesavananda Bharti Case.md"
+    "NotesVault/First-Past-The-Post System.md"
   ]
 }

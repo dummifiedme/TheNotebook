@@ -8,6 +8,6 @@
 | Formed by {State Legislature}                                               | Formed by {Constitution}                                                    |
 |                                                                           | {Greater Autonomy to the councils }                                         |
 | {No financial power} to prepare budget                                      | {Financial Power} to prepare Budget                                         |
-|                                                                           | Recieve funds from CFI.                                                                          |
+|                                                                           | Recieve {funds from CFI.}                                                                          |
 
 ---
