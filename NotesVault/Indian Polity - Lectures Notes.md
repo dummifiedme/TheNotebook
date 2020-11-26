@@ -29,6 +29,11 @@ Q: What is the purpose of the constitution?
 A: To lay down the framework of the political system.
 
 Q: Constitution as a power map. Explain.
-A: 
+A: Constitution is a power mapping defining the powers of different branches of the government.
 
-Constitution is a power mapping defining the powers of different branches of the government.
+Q: Is there a country without a constitution?
+A: No, no country can exist without a constitution. Written/ Un-written.
+
+### Types of Constitution
+
+
