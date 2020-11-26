@@ -11,6 +11,11 @@
 		- Governance has more questions
 	- International Relations
 - Nature of Polity is very dynamic
-- Very important than other subjects
+- Very important than other subjects -- score is not more
+	- Since quality is missing
+- Go for Standard information
+	- SC judgements
+	- COmmittees report
+	- aka ut
 
 ## Constitution
