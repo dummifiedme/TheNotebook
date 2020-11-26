@@ -56,8 +56,10 @@ A: No, no country can exist without a constitution. Written/ Unwritten.
 1. #### Simple Majority
 	- 50 percent (+1) of the members present and voting.
 2. #### Special Majority
+	- Neither simple, effec
 3. #### Effective Majority
-	- 50%
+	- 50 percent (+1) of effective strength
+	- Effective strength = Total strength - Vacancies
 4. #### Absolute Majority
 	- 50 percent (+1) of the total strength of the house.
 
