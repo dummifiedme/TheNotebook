@@ -157,7 +157,7 @@ A: For General Studies, there is no difference. :p --> Use it interchangeably.
 	    | Even 'freedom' could be used, its just a choice. | BUT, the 'scope' of the 'freedom' is different. |
 	
   ---
-  
+  Indian constitution is an organic document, which means natural/living => it evolves --> By Amendments
   #### Menaka Gandhi Case #cases 
   - 
 	 
