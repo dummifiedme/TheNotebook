@@ -109,7 +109,7 @@ Therefore, it can't be passed at this strength.
 *   Above concepts are based on the liberal idea of democracy
     *   India is a liberal democracy.
         *   Not a socialist, but welfare state.
-	*   FR makes India 
+	 > FR makes India Liberal, while DPSP makes it Socialist
 
 > India is a socialist country, but in theoretical terms it isn't a socialist per say, rather liberal.
 
@@ -156,6 +156,8 @@ A: For General Studies, there is no difference. :p --> Use it interchangeably.
 	    | Right to  Life and Personal Liberty              | Right to Freedom                                |
 	    | Even 'freedom' could be used, its just a choice. | BUT, the 'scope' of the 'freedom' is different. |
 	
-     
+  ---
+  
+  Q
 	 
 	 
