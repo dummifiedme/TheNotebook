@@ -122,4 +122,7 @@ A: Condition 1: 50% +1 Total strength => 273 seats (i.e. of 545).
 - Conflict b/w people and government => Independent Judiciary is required.
 - Power must lie with the people => Democracy is required
 - Freedom of Press => Another pillar.
+- 'Free and Fair' Electoral system
+- Competitive party system
+	- China is not Competitive Party system, it has hegemonic party sys
 - Decided on the basis of enforceable rights (FR) not on the ornamental rights (Preamble).
