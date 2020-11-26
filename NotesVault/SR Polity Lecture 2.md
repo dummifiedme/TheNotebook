@@ -17,8 +17,9 @@
 
 The difference between Presidential and Parliamentary system is based on the relationship between executive and legislature.
 
-| Presidential System                                     | Parliamentary System |
-| :-------------------------------------------------------: | :--------------------: |
-| Separation of powers between legislation and executives |       Fusion of power i.e executive is a po               |
+|                     Presidential System                     |                     Parliamentary System                     |
+|:-----------------------------------------------------------:|:------------------------------------------------------------:|
+| **Separation of powers** between legislation and executives | **Fusion of power** i.e. executive is a part of legislation. |
+|                  Fixed term -aka- STABILITY                   |                                                              |
 
 
