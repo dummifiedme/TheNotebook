@@ -191,10 +191,13 @@ A: For General Studies, there is no difference. :p --> Use it interchangeably.
 
 ---
 Q: Arguments wrt to 'Laws limit freedom'
-A: 
+A: ...
 >-  Extremes are usually bad.
 > - Men, not Man.
-> - Freedom ends, where other's freedom start.
+> - One's freedom ends where other's freedom start.
+
+
+# LECTURE 2
 
 	
 	 
