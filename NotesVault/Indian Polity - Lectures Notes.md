@@ -54,10 +54,10 @@ A: No, no country can exist without a constitution. Written/ Unwritten.
 >   - For any official business, quorum is necessary. 
 >   - Voting can proceed.
 1. #### Simple Majority
-	- 50 percent of the members present and voting.
+	- 50 percent (+1) of the members present and voting.
 2. #### Special Majority
 3. #### Effective Majority
 4. #### Absolute Majority
-	- 50 percent 
+	- 50 percent (+1) of the total mem
 
 	
