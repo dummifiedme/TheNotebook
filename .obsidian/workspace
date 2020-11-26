@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Issues with Sixth Schedule.md",
+            "file": "NotesVault/Schedules in Constitution.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Issues with Sixth Schedule.md",
+                "file": "NotesVault/Schedules in Constitution.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Issues with Sixth Schedule.md",
+                "file": "NotesVault/Schedules in Constitution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Issues with Sixth Schedule.md"
+                "file": "NotesVault/Schedules in Constitution.md"
               }
             }
           }
@@ -157,6 +157,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Schedules in Constitution.md",
     "NotesVault/Issues with Sixth Schedule.md",
     "NotesVault/Sub-Categorization of SC-STs.md",
     "NotesVault/Inbox.md",
@@ -165,7 +166,6 @@
     "NotesVault/System of Proportional Representation.md",
     "NotesVault/First-Past-The-Post System.md",
     "NotesVault/24th Amendment Act.md",
-    "NotesVault/Kesavananda Bharti Case.md",
-    "NotesVault/Words.md"
+    "NotesVault/Kesavananda Bharti Case.md"
   ]
 }
