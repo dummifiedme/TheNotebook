@@ -164,7 +164,6 @@ A: For General Studies, there is no difference. :p --> Use it interchangeably.
 	  - Meneka Gandhi Case is a milestone as it made a huge change in the interpretations of the provisions of the constitution.
 		  - Biggest change with respect to the interpretations of Article 21.
 
-#### Article 21
- State shall not 
+[[Article 21]]
 	 
 	 

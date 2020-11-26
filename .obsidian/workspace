@@ -6,7 +6,6 @@
       {
         "id": "d4d40d3966bfd2cc",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -15,6 +14,18 @@
           }
         },
         "group": "6c3a5aa048281462"
+      },
+      {
+        "id": "c6c685f3a4b4d0d8",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Article 21.md",
+            "mode": "source"
+          }
+        }
       },
       {
         "id": "a2d61c6d7d2fbf5b",
@@ -92,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Indian Polity - Lectures Notes.md",
+                "file": "Article 21.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -121,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Indian Polity - Lectures Notes.md",
+                "file": "Article 21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Indian Polity - Lectures Notes.md"
+                "file": "Article 21.md"
               }
             }
           }
@@ -170,6 +181,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Article 21.md",
     "NotesVault/Indian Polity - Lectures Notes.md",
     "NotesVault/Schedules of Constitution.md",
     "NotesVault/Schedules in Constitution.md",
@@ -178,7 +190,6 @@
     "NotesVault/Inbox.md",
     "NotesVault/Untitled.md",
     "NotesVault/Parliament.md",
-    "NotesVault/System of Proportional Representation.md",
-    "NotesVault/First-Past-The-Post System.md"
+    "NotesVault/System of Proportional Representation.md"
   ]
 }
