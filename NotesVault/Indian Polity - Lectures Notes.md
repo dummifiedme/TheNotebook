@@ -87,7 +87,9 @@ A: Condition 1: 50% +1 Total strength => 273 seats (i.e. of 545).
 	- Rule of law is on part of the government.
 	- Rule of Law = LImited Government.
 - Constitutionalism is a feature only of Democracy.
+	- WHY?
+		- In democratic countries the power lies with the people.
 
-Example: Fundamental Right is a part of 'Rule o'
+Example: Fundamental Right is a part of 'Rule of Law' => Limits the government.
 
 	
