@@ -16,7 +16,7 @@
 #### LAW
 - British
 	- > 'Procedure established by law' : Limitation only on executive.
-	 > - Equality before law
+	 > - Equality before law.
 	- Principle of 'Parliamentary Sovereignty' which means no restriction on the power of the parliament to make law.
 	- However, this did not remained a fact since Britain joined European Union. So, by Brexit they gain parliamentary sovereignty.
 	- Judiciary cannot challenge law. 
@@ -25,7 +25,7 @@
 	- Constitution is supreme.
 	- It means limitations on the power of both, executive as well as legislature.
 	- Judiciary can challenge even the wisdom of law. 
-	- "DUE PROCESS of LAW" is a UUS
+	- "DUE PROCESS of LAW" 
 
 
 
