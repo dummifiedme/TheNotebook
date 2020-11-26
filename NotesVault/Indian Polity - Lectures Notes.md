@@ -133,4 +133,4 @@ A: Condition 1: 50% +1 Total strength => 273 seats (i.e. of 545).
 Q: Is there any difference between 'Liberty' and 'Freedom'?
 A: For General Studies, there is no difference. :p --> Use it interchangeably.
 - For Political Studies --> various scholars gave different explanations.
-	- Still 'Freedom' is widely used =>  since, 'liberty' got associated with  'Liberals' and hence, 'Capitalism'
+	- Still 'Freedom' is widely used =>  since, 'liberty' got associated with  'Liberals' and hence, 'Capitalism'.
