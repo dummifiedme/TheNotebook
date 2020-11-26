@@ -169,6 +169,7 @@ A: For General Studies, there is no difference. :p --> Use it interchangeably.
 > - WHY? It is said that, we are under the constitution, but the constitution is what Judges say.
 
 ## 'Procedure Established by Law' v/s 'Due Process of Law'
+(aka British vs American Systems of Law)
 - British
 	- > 'Procedure established by law' : Limitation only on the power of the executive (has to act withing the procedure defined in law aka no arbitrariness.
 	 > - Equality before law (even you are the king)
