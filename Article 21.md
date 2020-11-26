@@ -21,5 +21,6 @@
 		- HENCE, Judicial Reviews over Executive actions.
 - American
 	- Constitution is supreme.
-		- It means limitations 	on the power of both, executive a
+	- It means limitations on the power of both, executive as well as legislature.
+	- Judiciary can challenge the wisdom of 
 
