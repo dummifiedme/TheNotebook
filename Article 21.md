@@ -2,7 +2,8 @@
  > State shall not deprive a person from his life and liberty, except according to the "procedure established by law".
 ---
 ### Interpretations before Meneka Gandhi Case
-- 'State' = Executive
+- 'State' means => Executive
 - Therefore: 
-	- > State (POLICE) shall not deprive a person from his life and liberty, except according to the "procedure established by law (LEGISLATURE made LAWs)".
+	- > State (**POLICE**) shall not deprive a person from his life and liberty, except according to the "procedure established by law (**LEGISLATURE made LAWs**)".
+- Liberty term = Absence of Confinement.
 
