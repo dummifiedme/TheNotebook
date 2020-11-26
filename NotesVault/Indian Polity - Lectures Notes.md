@@ -86,13 +86,14 @@ A: Condition 1: 50% +1 Total strength => 273 seats (i.e. of 545).
 	- Rule of Law checks the arbitrariness of power.
 	- Rule of law is on part of the government.
 	- Rule of Law = LImited Government.
+	- Example: Fundamental Right is a part of 'Rule of Law' => Limits the government.
 - Constitutionalism is a feature only of Democracy.
-	- WHY?
-		- In democratic countries the power lies with the people. (Rights = Power)
-		> Democracy is a modern concept
+	- WHY? In democratic countries the power lies with the people. (Rights = Power)
+	
+> Democracy is a modern concept
 			> - Earlier, there was a theory of 'Divine Rights of King' -- transformed into --> Natural rights of man.
 			> - Now, King is public servant and sovereignty lies with the people.
 
-Example: Fundamental Right is a part of 'Rule of Law' => Limits the government.
+
 
 	
