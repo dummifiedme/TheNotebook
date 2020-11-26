@@ -16,6 +16,9 @@
 > - On the basis of the Head of State -- Elected or Hereditary
 
 The difference between Presidential and Parliamentary system is based on the relationship between executive and legislature.
-* No
+
+| Presidential System | Parliamentary System |
+| ------------------- | -------------------- |
+|                     |                      |
 
 
