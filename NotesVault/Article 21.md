@@ -23,6 +23,7 @@
 	- Constitution is supreme.
 	- It means limitations on the power of both, executive as well as legislature.
 	- Judiciary can challenge even the wisdom of law. 
+	- "DUE PROCESS of "
 
 
 

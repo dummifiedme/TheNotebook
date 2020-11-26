@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Indian Polity - Lectures Notes.md",
+            "file": "NotesVault/Article 21.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Indian Polity - Lectures Notes.md",
+            "file": "NotesVault/Article 21.md",
             "mode": "preview"
           }
         },
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.0104351043701
+    "width": 335.0104351043701,
+    "collapsed": true
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -90,7 +91,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Indian Polity - Lectures Notes.md",
+                "file": "NotesVault/Article 21.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Indian Polity - Lectures Notes.md",
+                "file": "NotesVault/Article 21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Indian Polity - Lectures Notes.md"
+                "file": "NotesVault/Article 21.md"
               }
             }
           }
@@ -168,8 +169,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/Indian Polity - Lectures Notes.md",
     "NotesVault/Article 21.md",
+    "NotesVault/Indian Polity - Lectures Notes.md",
     "Article 21.md",
     "NotesVault/Kesavananda Bharti Case.md",
     "NotesVault/Schedules of Constitution.md",
