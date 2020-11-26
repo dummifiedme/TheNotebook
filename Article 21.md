@@ -15,5 +15,6 @@
 
 #### LAW
 - British
+	- Principle of 'Parliamentary Sovereignty'
 - American
 
