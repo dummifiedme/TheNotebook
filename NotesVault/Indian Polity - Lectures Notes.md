@@ -166,7 +166,7 @@ A: For General Studies, there is no difference. :p --> Use it interchangeably.
 		  - Biggest change with respect to the interpretations of [[Article 21]].
 	  - [[Kesavananda Bharti Case]] is another example.
 
-![[Ar]]
+![[Article 21#Article 21]]
 
 > Constitutional Supremacy and Judicial Supremacy is one and same thing.
 > - WHY? It is said that, we are under the constitution, but the constitution is what Judges say.
