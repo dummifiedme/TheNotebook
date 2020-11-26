@@ -49,5 +49,9 @@ A: No, no country can exist without a constitution. Written/ Unwritten.
 	4. India = not too rigid, not too flexible. --> Simple majority as well as special majority. Depends on the subject.
 
 ### Types of Majority
+#### Simple Majority
+#### Special Majority
+#### Effective Majority
+#### Absolute Majority
 
 	
