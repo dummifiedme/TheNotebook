@@ -13,18 +13,20 @@
             "file": "NotesVault/SR Polity Lecture 2.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "6834d9dc127c05c1"
       },
       {
-        "id": "a2d61c6d7d2fbf5b",
+        "id": "417e7303ea4369d3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Indian Polity - Lectures Notes.md",
-            "mode": "source"
+            "file": "NotesVault/SR Polity Lecture 2.md",
+            "mode": "preview"
           }
-        }
+        },
+        "group": "6834d9dc127c05c1"
       }
     ],
     "direction": "vertical"
