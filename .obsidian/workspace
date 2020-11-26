@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Sub-Categorization of SC-STs.md",
+            "file": "NotesVault/Issues with Sixth Schedule.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Sub-Categorization of SC-STs.md",
+                "file": "NotesVault/Issues with Sixth Schedule.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Sub-Categorization of SC-STs.md",
+                "file": "NotesVault/Issues with Sixth Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Sub-Categorization of SC-STs.md"
+                "file": "NotesVault/Issues with Sixth Schedule.md"
               }
             }
           }
@@ -157,6 +157,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Issues with Sixth Schedule.md",
     "NotesVault/Sub-Categorization of SC-STs.md",
     "NotesVault/Inbox.md",
     "NotesVault/Untitled.md",
@@ -165,7 +166,6 @@
     "NotesVault/First-Past-The-Post System.md",
     "NotesVault/24th Amendment Act.md",
     "NotesVault/Kesavananda Bharti Case.md",
-    "NotesVault/Words.md",
-    "NotesVault/Timeline of Decentralisation in India.md"
+    "NotesVault/Words.md"
   ]
 }
