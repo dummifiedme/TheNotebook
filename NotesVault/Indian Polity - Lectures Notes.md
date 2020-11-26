@@ -32,8 +32,9 @@ Q: Constitution as a power map. Explain.
 A: Constitution is a power mapping defining the powers of different branches of the government.
 
 Q: Is there a country without a constitution?
-A: No, no country can exist without a constitution. Written/ Un-written.
+A: No, no country can exist without a constitution. Written/ Unwritten.
 
 ### Types of Constitution
-
+1. Written and Unwritten Constitutions
+	1. British Constitution = Unwritten
 
