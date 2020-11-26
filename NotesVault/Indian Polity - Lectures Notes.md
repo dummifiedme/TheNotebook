@@ -101,11 +101,11 @@ A: Condition 1: 50% +1 Total strength => 273 seats (i.e. of 545).
 
 > India is a socialist country, but in theoretical terms it isn't a socialist per say, rather liberal.
 
-##
+## Right - Left - Center
 - Right, Center and Left originated in French Revolution.
 	- People sitting right, left or center of the king.
 
-| Right        | Center          | left                |
+| Right        | Center          | Left                |
 | ------------ | --------------- | ------------------- |
 | Conservative | Liberals        | Socialist/Communist |
 | Tilak        | Dadabhai Naroji | Nehru               |
@@ -114,3 +114,5 @@ A: Condition 1: 50% +1 Total strength => 273 seats (i.e. of 545).
 
 - Gandhism is an ideology in itself.
 ### Liberals
+- Derives from 'Liberty' or 'Freedom' of the people.
+- 
