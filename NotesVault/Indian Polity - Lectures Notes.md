@@ -28,4 +28,7 @@
 Q: What is the purpose of the constitution?
 A: To lay down the framework of the political system.
 
-Q: 
+Q: Constitution as a power map. Explain.
+A: 
+
+Constitution is a power mapping defining the powers of different branches of the government.
