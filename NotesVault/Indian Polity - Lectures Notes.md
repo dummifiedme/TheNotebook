@@ -60,8 +60,9 @@ A: No, no country can exist without a constitution. Written/ Unwritten.
 	- Various kinds mentioned.
 		- 2/3 of Members present and voting
 			- Examples: Art 249, 312 (All India Services)
-		- d
-			- Examples: Amendment of the Constiturion
+		- Two conditions simultaneously: 
+			- 1. 2/3 MP&V 2. 
+			- Examples: Art 368 (Amendment of the Constitution)
 3. #### Effective Majority
 	- 50 percent (+1) of effective strength
 	- Effective strength = Total strength - Vacancies
