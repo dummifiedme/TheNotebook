@@ -1,4 +1,6 @@
 # Other Backward Classes (OBC)
+#TODO 
+#doing 
 
 ## Who are OBCs?
 A: ![[_Resources/Pasted image 20201126044836.png]]
