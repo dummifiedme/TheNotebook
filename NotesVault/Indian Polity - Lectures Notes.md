@@ -147,7 +147,7 @@ A: For General Studies, there is no difference. :p --> Use it interchangeably.
 *   For Political Studies --> various scholars gave different explanations.
     *   Still 'Freedom' is widely used (amongst Socialists) =>  since, 'liberty' got associated with  'Liberals' and hence, 'Capitalism'.
     *   > Some Marxist thinkers such as Karl Marx preferred 'freedom', due to association of 'liberal' with 'capitalism'
-    		> - Freedom from basic necessities is requirement.
+    		> - Leftist thinkers define 'freedom' from necessities as a requirement.
     *  
     
 	    | Article 21                                       | Article 19                                      |
@@ -158,6 +158,6 @@ A: For General Studies, there is no difference. :p --> Use it interchangeably.
 	
   ---
   
-  Q
+  
 	 
 	 
