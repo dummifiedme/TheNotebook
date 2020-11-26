@@ -97,5 +97,6 @@ A: Condition 1: 50% +1 Total strength => 273 seats (i.e. of 545).
 
 - Above concepts are based on the liberal idea of democracy
 	- India is a liberal democracy.
-- India is a 
+
+> India is a socialist country, but in theoretical terms it isn't a socialist per say, rather liberal.
 	
