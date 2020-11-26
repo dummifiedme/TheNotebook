@@ -58,12 +58,14 @@ A: No, no country can exist without a constitution. Written/ Unwritten.
 2. #### Special Majority
 	- Best way to describe??: Neither simple, effective and absolute majority.
 	- Various kinds mentioned.
-		- 2/3 of Members present and voting
-			- Examples: Art 249, 312 (All India Services)
-		- Two conditions simultaneously: 
-			1. 2/3 MP&V 
-			2. 50%+1 of total strength of the house. 
-			- Examples: Art 368 (Amendment of the Constitution)
+		- FIRST: 2/3 of Members present and voting
+			- Art 249, 312 (All India Services)
+		- SECOND: Art 368 (Amendment of the Constitution)
+			- Two conditions simultaneously: 
+				- 2/3 MP&V 
+			- 50%+1 of total strength of the house. 
+			- 
+		- THIRD: 
 3. #### Effective Majority
 	- 50 percent (+1) of effective strength
 	- Effective strength = Total strength - Vacancies
