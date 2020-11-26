@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Schedules in Constitution.md",
+            "file": "NotesVault/Schedules of Constitution.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Schedules in Constitution.md",
+                "file": "NotesVault/Schedules of Constitution.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Schedules in Constitution.md",
+                "file": "NotesVault/Schedules of Constitution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Schedules in Constitution.md"
+                "file": "NotesVault/Schedules of Constitution.md"
               }
             }
           }
