@@ -24,4 +24,5 @@
 	- It means limitations on the power of both, executive as well as legislature.
 	- Judiciary can challenge even the wisdom of law. 
 
-Constitutional Supremacy and Judicial Supremacy is one a
+> Constitutional Supremacy and Judicial Supremacy is one and same thing.
+> - WHY? It is said that, we are under the constitution, but the constitution is w
