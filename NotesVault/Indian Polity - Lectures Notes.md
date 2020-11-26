@@ -4,4 +4,7 @@
 | Year    | 2019-20 (most probably) |
                        
 # Lecture 1
-- Three parts of 
+- Three parts of Polity
+	- Constitution
+	- Social Justice and Governance
+	- 
