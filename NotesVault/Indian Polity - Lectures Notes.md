@@ -188,7 +188,9 @@ A: For General Studies, there is no difference. :p --> Use it interchangeably.
 	- Judiciary can challenge even the **wisdom of law(legislation)**. 
 
 ---
-### Arguments wrt to 'Laws limit freedom'
+Q: Arguments wrt to 'Laws limit freedom'
+A: Extremes are usually bad.
+- >  Men not 
 
 	
 	 
