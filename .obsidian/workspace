@@ -17,6 +17,17 @@
         "group": "6834d9dc127c05c1"
       },
       {
+        "id": "18ddff31c023b484",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cabinet Form of Government.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "417e7303ea4369d3",
         "type": "leaf",
         "state": {
@@ -170,14 +181,14 @@
   },
   "lastOpenFiles": [
     "NotesVault/SR Polity Lecture 2.md",
+    "Cabinet Form of Government.md",
+    "- Cabinet Form of Government.md",
     "NotesVault/Indian Polity - Lectures Notes.md",
     "NotesVault/Lecture 2.md",
     "NotesVault/Lecture 1.md",
     "NotesVault/Article 21.md",
     "LECTURE 2.md",
     "Article 21.md",
-    "NotesVault/Kesavananda Bharti Case.md",
-    "NotesVault/Schedules of Constitution.md",
-    "NotesVault/Schedules in Constitution.md"
+    "NotesVault/Kesavananda Bharti Case.md"
   ]
 }

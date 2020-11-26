@@ -30,7 +30,4 @@ The difference between Presidential and Parliamentary system is based on the rel
 	>- Right to warn
 	>- Right to encourage
 
-- **Cabinet Form of Government**
-	- Based on the principle of 'Collective Responsibilty'
-	- All ministers sink and swim together.
-	
+[[
