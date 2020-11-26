@@ -82,6 +82,8 @@ A: Condition 1: 50% +1 Total strength => 273 seats (i.e. of 545).
 ---
 ## Constitutionalism
 > Wherever 'ism' is used, it means Ideology.
-- Cons
+- Ideology of Constitutionalism = Rule of Law
+	- Checks the arbitrariness of power.
+	- Rule i
 
 	
