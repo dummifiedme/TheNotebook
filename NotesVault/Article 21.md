@@ -25,8 +25,9 @@
 	- Constitution is supreme.
 	- It means limitations on the power of both, executive as well as legislature.
 	- Judiciary can challenge even the wisdom of law. 
-	- > "DUE PROCESS of LAW" = Principle of natural justice.
-		>
+	- > "DUE PROCESS of LAW" = Principle of 'natural justice'.
+		>  - 'Natural law' is not written, it is understood by reason.
+		>  - 'Natural law 'leave that decision on the judges.
 
 
 
