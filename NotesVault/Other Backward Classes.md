@@ -27,7 +27,6 @@ investigate the conditions of backward classes}.
 	- Additional: {combined reservations not greater than 50 percent}.
 
 ## Idea of Sub-Category in OBC
-A:
 | Year | Name of Committee                                  | Sub-Category                    |
 | ---- | -------------------------------------------------- | ------------------------------- |
 | {1955} | {First Backward Class Committee}                     | {Backward and Extremely Backward} |
@@ -52,8 +51,11 @@ NCBC in 2015 proposed sub-categorizations in OBC
 	
 	
 ### Fraction of OBC castes benefiting from reservations
+According to NCBC in 2015:
 - {Rohini Commission} highlighted that -- 1900/2633 central list OBCs not benefited.
 	- Half of 1900 -> {no benefits at all}
 	- Other half of 1900 -> {<3% share in OBC quota}
 	- 25% of benefits from the OBC reservations -> availed by {only 10 sub-castes}.
+
+
 
