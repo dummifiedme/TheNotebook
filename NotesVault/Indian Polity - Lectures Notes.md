@@ -22,3 +22,4 @@
 - Political Theory Book for Basic Questions --> IDEA BASED
 
 ## Constitution
+- Polity --> Political System --> Base: Constitution
