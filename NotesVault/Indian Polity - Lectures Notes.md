@@ -58,14 +58,14 @@ A: No, no country can exist without a constitution. Written/ Unwritten.
 2. #### Special Majority
 	- Best way to describe??: Neither simple, effective and absolute majority.
 	- Various kinds mentioned.
-		- FIRST: 2/3 of Members present and voting
-			- Art 249, 312 (All India Services)
+		- FIRST:  Art 249, 312 (All India Services)
+			- 2/3 of Members present and voting
 		- SECOND: Art 368 (Amendment of the Constitution)
 			- Two conditions simultaneously: 
 				- 2/3 MP&V 
-			- 50%+1 of total strength of the house. 
-			- 
-		- THIRD: 
+				- 50%+1 of total strength of the house. 
+		- THIRD: Removal of President
+			- Most difficult
 3. #### Effective Majority
 	- 50 percent (+1) of effective strength
 	- Effective strength = Total strength - Vacancies
@@ -74,6 +74,7 @@ A: No, no country can exist without a constitution. Written/ Unwritten.
 
 
 Q: In Lok Sabha, 280 members are present out of which 212 have voted. What will be the majority required to pass the amendment in above situation? How many members should vote in favour?
-A: Condition 1: 50% +1 Total strength => 273 seats (i.e. of 545)
+A: Condition 1: 50% +1 Total strength => 273 seats (i.e. of 545). 
+	Therefore no.
 
 	
