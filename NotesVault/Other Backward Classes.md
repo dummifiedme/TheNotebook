@@ -57,4 +57,3 @@ NCBC in 2015 proposed sub-categorizations in OBC
 	- Other half of 1900 -> {<3% share in OBC quota}
 	- 25% of benefits from the OBC reservations -> availed by {only 10 sub-castes}.
 
-### Which 
