@@ -50,7 +50,7 @@ NCBC in 2015 proposed sub-categorizations in OBC
 - {Benefits reaches more towards economically stronger sub-sections}
 	
 	
-### Fraction of OBC castes benefiting from reservations
+### STATS: OBC castes benefiting from reservations
 According to NCBC in 2015:
 - {Rohini Commission} highlighted that -- 1900/2633 central list OBCs not benefited.
 	- Half of 1900 -> {no benefits at all}
@@ -58,4 +58,5 @@ According to NCBC in 2015:
 	- 25% of benefits from the OBC reservations -> availed by {only 10 sub-castes}.
 
 
-### Recommendations by NCBC w/r to 
+### Recommendations by NCBC w/r to OBC reservations
+- Fixed quota of 8-10% 
