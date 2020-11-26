@@ -101,7 +101,10 @@ A: Condition 1: 50% +1 Total strength => 273 seats (i.e. of 545).
 
 > India is a socialist country, but in theoretical terms it isn't a socialist per say, rather liberal.
 
+- Right, Center and Left originated in French Revolution.
+	- People silRight, left or center of the king.
+
 | Right        | Center   | left |
 | ------------ | -------- | ---- |
-| Conservative | Liberals |      |
+| Conservative | Liberals |  Socialist    |
 
