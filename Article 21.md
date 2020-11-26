@@ -20,4 +20,6 @@
 	- Judiciary cannot challenge law. 
 		- HENCE, Judicial Reviews over Executive actions.
 - American
+	- Constitution is supreme.
+		- It means limitations 	on the power of both, executive a
 
