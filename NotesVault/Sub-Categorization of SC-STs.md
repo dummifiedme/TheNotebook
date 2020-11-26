@@ -7,4 +7,6 @@ A: Concept of Creamy Layer in SC/STs was upheld by SC in 2018 in Jarnail Singh v
 
 Q: What are the reasons behind Scheduled Castes remaining without any sub-category?
 A: 
-> In EV Chinna"all SCs can and must collectively enjoy the benefits of reservation regardless of inter-se inequality"
+> In EV Chinnaiah Case in 2005
+> "all SCs can and must collectively enjoy the benefits of reservation regardless of inter-se inequality"
+SInce, its not based on educational, economic or other backward
