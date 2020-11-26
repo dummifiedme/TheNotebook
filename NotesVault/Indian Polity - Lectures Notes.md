@@ -146,9 +146,9 @@ A: For General Studies, there is no difference. :p --> Use it interchangeably.
 
 *   For Political Studies --> various scholars gave different explanations.
     *   Still 'Freedom' is widely used (amongst Socialists) =>  since, 'liberty' got associated with  'Liberals' and hence, 'Capitalism'.
-     - | Artocle 21 | Art 19 |
-       | ------                              | ------           |
-       | Right to  LIfe and Personal Liberty | Right to Freedom |
-       |                                     |                  |
+     - | Article 21 | Article 19 |
+       | :------          :                    | :------    :       |
+       | Right to  Life and Personal Liberty | Right to Freedom |
+       |                   Even freedom could be used, its just a choice. PLUS, the Scope of the freedom is different                  |                  |
      
 	 
