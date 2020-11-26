@@ -5,4 +5,4 @@ A: Concept of Creamy Layer in SC/STs was upheld by SC in 2018 in Jarnail Singh v
 
 ---
 
-Q: What are the reasons behind SC remai
+Q: What are the reasons behind Scheduled Castes remaining without any sub-category/
