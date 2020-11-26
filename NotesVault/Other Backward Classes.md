@@ -58,8 +58,9 @@ According to NCBC in 2015:
 	- 25% of benefits from the OBC reservations -> availed by {only 10 sub-castes}.
 
 
-### Recommendations by NCBC w/r to OBC reservations
+### Recommendations by NCBC w/r to OBC reservations and sub-categorization
 - Fixed quota of 8-10% (within 27%) for almost 1900 least benefited castes
 	- 1900 castes = 2-3% to total seats
 	- Wont affect other groups
-	- But may create subs
+	- But may create substantial opportunities for them.
+- Sub-categorizing to be based on relative benefits
