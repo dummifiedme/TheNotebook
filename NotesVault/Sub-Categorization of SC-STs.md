@@ -1,4 +1,4 @@
 # Sub-categorisation of Scheduled Castes and Scheduled Tribes 
 
-Q: Can there be a sub-categorization in case of SC/STs? Why or Why not? 
-A: 
+Q: Can there be a Creamy Layer in case of SC/STs? Why or Why not? 
+A: Concept of Creamy Layer in SC/STs was upheld by SC in 2018 in Jarnail Singh vs Lachhmi Narain Gupta.
