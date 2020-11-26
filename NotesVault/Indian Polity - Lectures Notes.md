@@ -18,5 +18,7 @@
 	- COmmittees report
 	- aka authentic info
 	- not in a superficial manner although its general studies.
-- Important to 
+- Important to understand concepts -> basic concepts
+- Political Theory Book for Basic Questions --> IDEA BASED
+
 ## Constitution
