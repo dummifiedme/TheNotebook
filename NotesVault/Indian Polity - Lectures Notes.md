@@ -80,6 +80,8 @@ A: Condition 1: 50% +1 Total strength => 273 seats (i.e. of 545).
 	Therefore, it can't be passed at this strength.
 	
 ---
-
+## Constitutionalism
+> Wherever 'ism' is used, it means Ideology.
+- Cons
 
 	
