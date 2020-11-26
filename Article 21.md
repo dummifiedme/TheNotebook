@@ -15,6 +15,7 @@
 
 #### LAW
 - British
-	- Principle of 'Parliamentary Sovereignty'
+	- Principle of 'Parliamentary Sovereignty' which means no restriction on the power of the parliament to make law.
+	- However, this did not remained a fact since Britain joined European Union. So, by 
 - American
 
