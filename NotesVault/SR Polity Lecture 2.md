@@ -29,6 +29,7 @@ The difference between Presidential and Parliamentary system is based on the rel
 	>- Right to be informed
 	>- Right to warn
 	>- Right to encourage
+	>Bagehot wrote for QUEEN
 
 ![[Cabinet Form of Government]]
 	
