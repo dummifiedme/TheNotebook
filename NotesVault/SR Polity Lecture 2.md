@@ -33,5 +33,10 @@ The difference between Presidential and Parliamentary system is based on the rel
 
 - ![[Cabinet Form of Government]]
 > - There can't be a President's Rule at UNION.
->      - There shall always be a council of ministers.
+>     - There shall always be a council of ministers.
+
+
+## Reasons for Adoption of Parliamentary System
+1. Familiarity
+2. More Democratic because the power is not concentrated in the hands of one person, there is a cabinet 
 	
