@@ -2,9 +2,9 @@
 --- 
 
 ## Doing
-1. [[Basic Structure Doctrine]]
+1. [[GS2/Basic Structure Doctrine]]
 2. [[Decentralisation and Poverty Reduction]]
-3. [[Features of Basic Structure]]
+3. [[GS2/Features of Basic Structure]]
 4. [[Other Backward Classes]]
 5. [[Parliament]]
 6. [[Types of Division of Powers]]
@@ -24,6 +24,6 @@
 
 ## Done
 1. [[Decentralisation in India]]
-2. [[Kesavananda Bharti Case]]
-3. [[Waman Rao Case]]
+2. [[GS2/Kesavananda Bharti Case]]
+3. [[GS2/Waman Rao Case]]
 

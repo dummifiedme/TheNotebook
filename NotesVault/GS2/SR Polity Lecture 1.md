@@ -152,7 +152,7 @@ A: For General Studies, there is no difference. :p --> Use it interchangeably.
     		> - Freedom from necessities is requirement.
     *  
     
-	    | [[GS2/Article 21]]                                   | Article 19                                      |
+	    | [[Article 21]]                                   | Article 19                                      |
 	    | :------          :                               | :------    :                                    |
 	    | Right to  Life and Personal Liberty              | Right to Freedom                                |
 	    | Even 'freedom' could be used, its just a choice. | BUT, the 'scope' of the 'freedom' is different. |
@@ -164,7 +164,7 @@ A: For General Studies, there is no difference. :p --> Use it interchangeably.
   - --> By Judicial Interpretations (informal)
 	  - Keeps on changing the interpretations.
 	  - Meneka Gandhi Case is a milestone as it made a huge change in the interpretations of the provisions of the constitution.
-		  - Biggest change with respect to the interpretations of [[GS2/Article 21]].
+		  - Biggest change with respect to the interpretations of [[Article 21]].
 	  - [[Kesavananda Bharti Case]] is another example.
 
 > Constitutional Supremacy and Judicial Supremacy is one and same thing.

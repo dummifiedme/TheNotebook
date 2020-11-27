@@ -4,55 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "435349eb1cfc0d1a",
+        "id": "ce706b535bc2ba80",
         "type": "leaf",
-        "dimension": 27.598566308243726,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NotesVault/GS2/SR Polity Lecture 2.md",
-            "mode": "source"
-          }
-        },
-        "group": "6834d9dc127c05c1"
-      },
-      {
-        "id": "05cd90ab88ff893c",
-        "type": "leaf",
-        "dimension": 13.799283154121863,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NotesVault/GS2/Democracy vs Republic.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "104c3cfed14a3c3f",
-        "type": "leaf",
-        "dimension": 13.799283154121863,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/GS2/Democracy vs Republic.md",
+            "file": "NotesVault/GS2/SR Polity Lecture 2.md",
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "417e7303ea4369d3",
-        "type": "leaf",
-        "dimension": 44.80286738351255,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NotesVault/GS2/SR Polity Lecture 2.md",
-            "mode": "preview"
-          }
-        },
-        "group": "6834d9dc127c05c1"
       }
     ],
     "direction": "vertical"
@@ -79,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#Done",
+                "query": "tag:#TODO",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 503
+    "width": 390,
+    "collapsed": true
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -116,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/GS2/Democracy vs Republic.md",
+                "file": "NotesVault/GS2/SR Polity Lecture 2.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -145,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/GS2/Democracy vs Republic.md",
+                "file": "NotesVault/GS2/SR Polity Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/GS2/Democracy vs Republic.md"
+                "file": "NotesVault/GS2/SR Polity Lecture 2.md"
               }
             }
           }
@@ -193,15 +155,15 @@
     "width": 408.6939392089844
   },
   "lastOpenFiles": [
-    "NotesVault/Democracy vs Republic.md",
-    "NotesVault/Democratic Decentralisation.md",
-    "NotesVault/SR Polity Lecture 2.md",
-    "NotesVault/Presidential vs Parliamentary System.md",
-    "NotesVault/Cabinet Form of Government.md",
-    "NotesVault/SR Polity Lecture 1.md",
-    "NotesVault/Indian Polity - Lectures Notes.md",
-    "NotesVault/Article 21.md",
-    "NotesVault/Untitled.md",
-    "Difference between Presidential and Parliamentary System.md"
+    "NotesVault/GS2/SR Polity Lecture 2.md",
+    "NotesVault/GS2/Waman Rao Case.MD",
+    "NotesVault/GS2/Kesavananda Bharti Case.md",
+    "NotesVault/GS2/Basic Structure Doctrine.md",
+    "NotesVault/GS2/Cases reaffirming the Doctrine of Basic Structure.md",
+    "NotesVault/Waman Rao Case.MD",
+    "NotesVault/Minerva Mills Case.md",
+    "NotesVault/24th Amendment Act.md",
+    "NotesVault/GS2/SR Polity Lecture 1.md",
+    "NotesVault/GS2/Presidential vs Parliamentary System.md"
   ]
 }

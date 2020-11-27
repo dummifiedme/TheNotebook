@@ -13,7 +13,7 @@ Date: 2020-11-27
 	2. Presidential
 	3. Hybrid (Semi Presidential)
 
-![[GS2/Democracy vs Republic]]
+![[Democracy vs Republic]]
 ![[Presidential vs Parliamentary System]]
 
 > **Rights of a Nominal Head**
@@ -34,6 +34,9 @@ Date: 2020-11-27
 2. More Democratic because the power is not concentrated in the hands of one person, there is a cabinet or council of ministers.
 3. It is more accountable on day-to-day basis.
 4. More representative, thus more suitable for India's diversity.
+
+
+
 
 
 
