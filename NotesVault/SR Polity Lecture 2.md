@@ -32,4 +32,6 @@ The difference between Presidential and Parliamentary system is based on the rel
 	>> Bagehot wrote these rights wrt QUEEN of UK
 
 - ![[Cabinet Form of Government]]
+> - There can't be a President's Rule at UNION.
+>      - There shall always be a council of ministers.
 	
