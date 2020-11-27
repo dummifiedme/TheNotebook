@@ -27,9 +27,9 @@ The difference between Presidential and Parliamentary system is based on the rel
 
 > **Rights of a Nominal Head**
 	>- Right to be informed
-	>- Right to warn
+	>- Right to warn (as elder)
 	>- Right to encourage
-	>Bagehot wrote for QUEEN
+	>> Bagehot wrote these rights wrt QUEEN of UK
 
-![[Cabinet Form of Government]]
+- ![[Cabinet Form of Government]]
 	
