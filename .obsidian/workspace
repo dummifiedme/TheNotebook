@@ -38,7 +38,7 @@
       {
         "id": "7699e0313582942d",
         "type": "tabs",
-        "dimension": 61.42284569138277,
+        "dimension": 61.422845691382776,
         "children": [
           {
             "id": "3e25e94ed1684d8d",
@@ -177,7 +177,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,6 +187,7 @@
   },
   "lastOpenFiles": [
     "NotesVault/GS2/SR Polity Lecture 2.md",
+    "NotesVault/Parliament.md",
     "NotesVault/GS2/Democracy vs Republic.md",
     "NotesVault/GS2/Waman Rao Case.MD",
     "NotesVault/GS2/Kesavananda Bharti Case.md",
@@ -193,7 +195,6 @@
     "NotesVault/GS2/Cases reaffirming the Doctrine of Basic Structure.md",
     "NotesVault/Waman Rao Case.MD",
     "NotesVault/Minerva Mills Case.md",
-    "NotesVault/24th Amendment Act.md",
-    "NotesVault/GS2/SR Polity Lecture 1.md"
+    "NotesVault/24th Amendment Act.md"
   ]
 }
