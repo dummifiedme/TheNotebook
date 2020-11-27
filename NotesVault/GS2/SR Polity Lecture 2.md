@@ -35,11 +35,9 @@ Date: 2020-11-27
 3. It is more accountable on day-to-day basis.
 4. More representative, thus more suitable for India's diversity.
 
-
-
-
-
-
+## Shift to Presidential System
+- India had faced an era of coalition politics.
+- Coalition politics in the absence of healthy coalition culture
 
 
 
