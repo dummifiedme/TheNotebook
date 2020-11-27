@@ -51,7 +51,12 @@ Date: 2020-11-27
 	1. As suggested by {Ambedkar}, the constitution will work or not, will depend upon the persons holding these institutions.
 3. Presidential System has it's own challenges. 
 	1. Problem of "grid lock".
-4. USA is hr 
+4. USA is the only country where democratic nature of the system could be retained, while all other third-world countries transformed into Dictatorship
+COUNCLUSION: Institutions will not make the difference, person holding these institutions do not want to change.
+
+The main reason for dissatisfaction with parliamentary system are defections, corruption and political instability. Hence, we can experiment with following systems.
+1. Introduction of system with constructive vote of no-confidence as prevalent in Germany.
+2. 
 
 	
 
