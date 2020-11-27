@@ -1,12 +1,11 @@
 # Indian Polity Lecture Notes
 
-| Lecture | Subhra Ranjan           |
+| Source | Subhra Ranjan           |
 | ------- | ----------------------- |
 | Year    | 2019-20 (most probably) |
 
-1. [[SR Polity Lecture 1]]
-	- [[Article 21]]
-2. [[SR Polity Lecture 2]]
+1. [[GS2/SR Polity Lecture 1]]
+2. [[GS2/SR Polity Lecture 2]]
 
 	
 	 

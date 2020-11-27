@@ -283,6 +283,13 @@ a:hover,
   border-radius: 4px;
 }
 
+/* Remove embed title */
+.markdown-embed-title { display: none; }
+.markdown-preview-view .markdown-embed-content>:first-child { margin-top: 0;}
+.markdown-preview-view .markdown-embed-content>:last-child { margin-bottom: 0;}
+
+
+
 .theme-light .token.operator,
 .theme-light .token.entity,
 .theme-light .token.url,

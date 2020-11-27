@@ -6,23 +6,49 @@
       {
         "id": "435349eb1cfc0d1a",
         "type": "leaf",
-        "active": true,
+        "dimension": 27.598566308243726,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/SR Polity Lecture 2.md",
+            "file": "NotesVault/GS2/SR Polity Lecture 2.md",
             "mode": "source"
           }
         },
         "group": "6834d9dc127c05c1"
       },
       {
-        "id": "417e7303ea4369d3",
+        "id": "05cd90ab88ff893c",
         "type": "leaf",
+        "dimension": 13.799283154121863,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/SR Polity Lecture 2.md",
+            "file": "NotesVault/GS2/Democracy vs Republic.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "104c3cfed14a3c3f",
+        "type": "leaf",
+        "dimension": 13.799283154121863,
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/GS2/Democracy vs Republic.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "417e7303ea4369d3",
+        "type": "leaf",
+        "dimension": 44.80286738351255,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/GS2/SR Polity Lecture 2.md",
             "mode": "preview"
           }
         },
@@ -74,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.0104351043701,
-    "collapsed": true
+    "width": 503
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -91,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/SR Polity Lecture 2.md",
+                "file": "NotesVault/GS2/Democracy vs Republic.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -109,7 +134,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3253192440815346
+                  "scale": 0.6394332069729194
                 }
               }
             }
@@ -120,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/SR Polity Lecture 2.md",
+                "file": "NotesVault/GS2/Democracy vs Republic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/SR Polity Lecture 2.md"
+                "file": "NotesVault/GS2/Democracy vs Republic.md"
               }
             }
           }
@@ -165,19 +190,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.6939392089844,
-    "collapsed": true
+    "width": 408.6939392089844
   },
   "lastOpenFiles": [
+    "NotesVault/Democracy vs Republic.md",
+    "NotesVault/Democratic Decentralisation.md",
     "NotesVault/SR Polity Lecture 2.md",
-    "Difference between Presidential and Parliamentary System.md",
-    "Democracy vs Republic.md",
-    "Cabinet Form of Government.md",
-    "- Cabinet Form of Government.md",
+    "NotesVault/Presidential vs Parliamentary System.md",
+    "NotesVault/Cabinet Form of Government.md",
+    "NotesVault/SR Polity Lecture 1.md",
     "NotesVault/Indian Polity - Lectures Notes.md",
-    "NotesVault/Lecture 2.md",
-    "NotesVault/Lecture 1.md",
     "NotesVault/Article 21.md",
-    "LECTURE 2.md"
+    "NotesVault/Untitled.md",
+    "Difference between Presidential and Parliamentary System.md"
   ]
 }

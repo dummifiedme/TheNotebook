@@ -1,3 +1,0 @@
-- **Cabinet Form of Government**
-	- Based on the principle of 'Collective Responsibilty'
-	- All ministers sink and swim together.

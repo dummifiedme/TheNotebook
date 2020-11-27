@@ -1,4 +1,10 @@
-## Presidential vs Parliamentary System
+---
+Source: Subhra Ranjan
+Lecture Number: 2
+Date: 2020-11-27
+---
+
+# Presidential vs Parliamentary System
 > Based on the **relationship between executive and legislature.**
 
 
