@@ -1,6 +1,6 @@
 ---
 Source: Subhra Ranjan
-Lecture Number: 1
+Lecture Number: 2
 Date: 2020-11-27
 ---
 # SR Polity Lecture 2
@@ -34,6 +34,10 @@ Date: 2020-11-27
 2. More Democratic because the power is not concentrated in the hands of one person, there is a cabinet or council of ministers.
 3. It is more accountable on day-to-day basis.
 4. More representative, thus more suitable for India's diversity.
+
+
+
+
 
 
 

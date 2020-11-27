@@ -601,3 +601,22 @@ input[type=checkbox]:checked, .cm-formatting-task.cm-property {
   .markdown-embed-link:hover {
   color: var(--text-accent) !important;
   }
+
+  /*----file explorer column view : slightly buggy ----*/
+/* .nav-folder-children { */
+/* column-width:250px; */
+/* column-rule: 1px solid var(–background-modifier-border); */
+/* } */
+/*  */
+/* Wrap long nav text and some paddings */
+/* .nav-file-title, */
+/* .nav-folder-title { */
+/* white-space: normal; */
+/* width: auto; */
+/* } */
+
+/* Indent wrapped nav text */
+/* .nav-file-title-content { */
+  /* margin-left: 10px; */
+  /* text-indent: 2px; */
+  /* } */
