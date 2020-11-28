@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/GS2/SR Polity Lecture 2.md",
+            "file": "NotesVault/Resonance Center/How to take smart notes.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/GS2/SR Polity Lecture 2.md",
+            "file": "NotesVault/Resonance Center/How to take smart notes.md",
             "mode": "preview"
           }
         },
@@ -107,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/GS2/SR Polity Lecture 2.md",
+                "file": "NotesVault/Resonance Center/How to take smart notes.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/GS2/SR Polity Lecture 2.md",
+                "file": "NotesVault/Resonance Center/How to take smart notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/GS2/SR Polity Lecture 2.md"
+                "file": "NotesVault/Resonance Center/How to take smart notes.md"
               }
             }
           }
@@ -186,6 +186,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Resonance Center/Untitled.md",
     "NotesVault/GS2/SR Polity Lecture 2.md",
     "NotesVault/Parliament.md",
     "NotesVault/GS2/Democracy vs Republic.md",
@@ -194,7 +195,6 @@
     "NotesVault/GS2/Basic Structure Doctrine.md",
     "NotesVault/GS2/Cases reaffirming the Doctrine of Basic Structure.md",
     "NotesVault/Waman Rao Case.MD",
-    "NotesVault/Minerva Mills Case.md",
-    "NotesVault/24th Amendment Act.md"
+    "NotesVault/Minerva Mills Case.md"
   ]
 }
