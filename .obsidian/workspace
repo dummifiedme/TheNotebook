@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371
+    "width": 290.0036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -124,7 +125,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8964744204461598
+                  "scale": 0.49965818222919395
                 }
               }
             }
