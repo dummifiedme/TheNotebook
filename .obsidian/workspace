@@ -6,7 +6,6 @@
       {
         "id": "9239db37de7a68fa",
         "type": "leaf",
-        "active": true,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -15,17 +14,34 @@
             "mode": "source"
           },
           "pinned": true
+        },
+        "group": "192c99bf91380f6b"
+      },
+      {
+        "id": "2ccb29290d9c4c54",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Relation between Socialism and Communism.md",
+            "mode": "source"
+          }
         }
       },
       {
-        "id": "6577416baf98e8d7",
+        "id": "5058e3de31bb4940",
         "type": "leaf",
+        "pinned": true,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "NotesVault/_Resources/Pasted image 20201201075529.png"
-          }
-        }
+            "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 3.md",
+            "mode": "preview"
+          },
+          "pinned": true
+        },
+        "group": "192c99bf91380f6b"
       }
     ],
     "direction": "vertical"
@@ -75,7 +91,7 @@
       {
         "id": "088ed5302beee153",
         "type": "tabs",
-        "dimension": 21.52852529601722,
+        "dimension": 21.528525296017225,
         "children": [
           {
             "id": "ce706b535bc2ba80",
@@ -98,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.0036334991455
+    "width": 289.0036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -114,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 3.md",
+                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Relation between Socialism and Communism.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -143,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 3.md",
+                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Relation between Socialism and Communism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 3.md"
+                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Relation between Socialism and Communism.md"
               }
             }
           }
@@ -194,15 +211,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/Relation between Socialism and Communism.md",
     "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 3.md",
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/Capitalism vs Socialism.md",
     "NotesVault/_Resources/Pasted image 20201201075529.png",
     "NotesVault/_Resources/Pasted image 20201128064750.png",
     "NotesVault/_Resources/Pasted image 20201128064913.png",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/Capitalism vs Socialism.md",
     "NotesVault/SR Polity Lecture 3.md",
     "NotesVault/Readjustment to Territorial Constituency.md",
     "NotesVault/PARA System/1 Projects/UPSC/GS2/Indian Polity - Lectures Notes.md",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 2.md",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/Parliamentary System.md"
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 2.md"
   ]
 }

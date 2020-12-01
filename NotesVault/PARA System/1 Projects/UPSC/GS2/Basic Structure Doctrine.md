@@ -39,8 +39,12 @@
 
 TARGET DECK
 UPSC::General Studies 2
+<!--ID: 1606790889919-->
+
 
 FILE TAG
 GS2::Topic01 Polity::Basic_Structure
+<!--ID: 1606790890180-->
+
 
 

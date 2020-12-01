@@ -14,10 +14,11 @@ Date: 2020-11-28
 - One party state
 	-  even if multiple parties -->  common socialist aims.
 
-### What are the differences of Socialism w.r.t Capitalism? :::
-![[Capitalism vs Socialism]]
+- [[Capitalism vs Socialism]]
+- [[Relation between Socialism and Communism]]
 
-### Relation between Socialism and Communism
+
+
 
 
 
