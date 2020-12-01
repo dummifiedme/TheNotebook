@@ -4,40 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "da9f35e4a569b791",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NotesVault/Resonance Center/Workflow Ideas.md",
-            "mode": "source"
-          }
-        },
-        "group": "a7c0904b77025790"
-      },
-      {
-        "id": "b047567e7ed772d4",
+        "id": "9239db37de7a68fa",
         "type": "leaf",
         "active": true,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Resonance Center/Workflow - 2020_11_28.md",
+            "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 3.md",
             "mode": "source"
-          }
+          },
+          "pinned": true
         }
       },
       {
-        "id": "99b1437aa67ce08d",
+        "id": "6577416baf98e8d7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "NotesVault/Resonance Center/Workflow Ideas.md",
-            "mode": "source"
+            "file": "NotesVault/_Resources/Pasted image 20201201075529.png"
           }
-        },
-        "group": "a7c0904b77025790"
+        }
       }
     ],
     "direction": "vertical"
@@ -49,7 +37,7 @@
       {
         "id": "7699e0313582942d",
         "type": "tabs",
-        "dimension": 57.7728776185226,
+        "dimension": 78.47147470398278,
         "children": [
           {
             "id": "3e25e94ed1684d8d",
@@ -65,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2020-11-27",
+                "query": "tag:#TODO",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +75,7 @@
       {
         "id": "088ed5302beee153",
         "type": "tabs",
-        "dimension": 42.2271223814774,
+        "dimension": 21.52852529601722,
         "children": [
           {
             "id": "ce706b535bc2ba80",
@@ -110,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.0036334991455
+    "width": 401.0036334991455
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -119,7 +107,6 @@
       {
         "id": "e85937537ea41e43",
         "type": "tabs",
-        "dimension": 53.45132743362832,
         "children": [
           {
             "id": "805bcd67c5cb6875",
@@ -127,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Resonance Center/Workflow - 2020_11_28.md",
+                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 3.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -156,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Resonance Center/Workflow - 2020_11_28.md",
+                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,16 +158,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Resonance Center/Workflow - 2020_11_28.md"
+                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 3.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "99fbaef30af61a27",
         "type": "tabs",
-        "dimension": 46.548672566371685,
         "children": [
           {
             "id": "28904d8c29b4f7b8",
@@ -189,8 +176,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "9d005b1a6994f182",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -198,15 +194,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Workflow - 2020_11_28.md",
-    "NotesVault/Resonance Center/Workflow Ideas.md",
-    "NotesVault/Resonance Center/Untitled.md",
-    "NotesVault/GS2/SR Polity Lecture 2.md",
-    "NotesVault/Parliament.md",
-    "NotesVault/GS2/Democracy vs Republic.md",
-    "NotesVault/GS2/Waman Rao Case.MD",
-    "NotesVault/GS2/Kesavananda Bharti Case.md",
-    "NotesVault/GS2/Basic Structure Doctrine.md",
-    "NotesVault/GS2/Cases reaffirming the Doctrine of Basic Structure.md"
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 3.md",
+    "NotesVault/_Resources/Pasted image 20201201075529.png",
+    "NotesVault/_Resources/Pasted image 20201128064750.png",
+    "NotesVault/_Resources/Pasted image 20201128064913.png",
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/Capitalism vs Socialism.md",
+    "NotesVault/SR Polity Lecture 3.md",
+    "NotesVault/Readjustment to Territorial Constituency.md",
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/Indian Polity - Lectures Notes.md",
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 2.md",
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/Parliamentary System.md"
   ]
 }

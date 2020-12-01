@@ -1,6 +1,6 @@
 # Cases reaffirming the Doctrine of Basic Structure
-1. [[../NotesVault/GS2/Kesavananda Bharti Case]] (1973)
+1. [[../NotesVault/PARA System/1 Projects/UPSC/GS2/Kesavananda Bharti Case]] (1973)
 2. [[Indira Nehru Gandhi Case]] (1975)
 3. [[Minerva Mills Case]] (1980)
-4. [[../NotesVault/GS2/Waman Rao Case]] (1981)
+4. [[../NotesVault/PARA System/1 Projects/UPSC/GS2/Waman Rao Case]] (1981)
 

@@ -1,6 +1,6 @@
 ---
-title: 
-tags: 
-toc: true
-season: winter
+Title: 
+Source:
+Tags: 
+Date: {{date:YYYY-MM-DD HH:mm}}
 ---
