@@ -13,7 +13,20 @@
             "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Preamble.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "1a7ba16a58fc7955"
+      },
+      {
+        "id": "d8a67c18395cffad",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Preamble.md",
+            "mode": "preview"
+          }
+        },
+        "group": "1a7ba16a58fc7955"
       }
     ],
     "direction": "vertical"

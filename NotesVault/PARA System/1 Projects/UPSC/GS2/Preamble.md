@@ -5,7 +5,7 @@ Parent: [[SR Polity Lecture 8]]
 ---
 | Status | #Stage1                    |
 | ------ | -------------------------- |
-| Tags   |   |
+| Tags   |   #polity |
 |        |                            |
 
 ## Preamble
@@ -26,12 +26,18 @@ Parent: [[SR Polity Lecture 8]]
 There have been different debates #prelims
 
 1. Whether preamble is a part of the constitution. ✅
-	1. Berubari Union Case 1960
-		- Supreme Court said --> Preamble is not a part of the constitution.
-		- In Berubari case SC took the precedent of USA.
+	- Berubari Union Case 1960
+		- Supreme Court said --> Preamble is ==not== a part of the constitution.
+		- In Berubari Union case SC took the precedent of USA.
 			- USA is the first written constitution
 			- USA has Preamble
 			- However, according to SC of USA, the Preamble is not a part of Constitution.
-	2. [[Kesavananda Bharti Case]] 1972
-		- Supreme Court overuled it
 2. Whether preamble is a integral part of the constitution. ✅
+
+	- [[Kesavananda Bharti Case]] 1972
+		- Supreme Court overruled its previous view and held that preamble isnot just a part of the consitution, it is an integral part of the constitution.
+		- INTEGRAL part means -> it contains the basic structure of the constitution.
+
+	> They admitted the mistake that in Berubari Case, they ignored a very important historical fact related to Preamble i.e. ==preamble was adopted by the Constituent Assembly by a motion that it is a part of the constitution==, it means the principles of USA will not be applied in Indian case.
+
+3. 
