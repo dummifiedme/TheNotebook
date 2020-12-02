@@ -4,44 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9239db37de7a68fa",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 3.md",
-            "mode": "source"
-          },
-          "pinned": true
-        },
-        "group": "192c99bf91380f6b"
-      },
-      {
-        "id": "2ccb29290d9c4c54",
+        "id": "20416076bdd0cdd7",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Relation between Socialism and Communism.md",
+            "file": "NotesVault/PARA System/0 Inbox/SR Polity Lecture 5.md",
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "5058e3de31bb4940",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 3.md",
-            "mode": "preview"
-          },
-          "pinned": true
-        },
-        "group": "192c99bf91380f6b"
       }
     ],
     "direction": "vertical"
@@ -69,8 +41,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO",
-                "matchingCase": true,
+                "query": "A2b",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -114,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.0036334991455,
-    "collapsed": true
+    "width": 289.0036334991455
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -131,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Relation between Socialism and Communism.md",
+                "file": "NotesVault/PARA System/0 Inbox/SR Polity Lecture 5.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -160,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Relation between Socialism and Communism.md",
+                "file": "NotesVault/PARA System/0 Inbox/SR Polity Lecture 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Relation between Socialism and Communism.md"
+                "file": "NotesVault/PARA System/0 Inbox/SR Polity Lecture 5.md"
               }
             }
           }
@@ -211,15 +182,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/Relation between Socialism and Communism.md",
+    "NotesVault/PARA System/0 Inbox/SR Polity Lecture 5.md",
+    "NotesVault/PARA System/0 Inbox/Markor_2020-12-01T13-13-55.jpg",
+    "NotesVault/PARA System/0 Inbox/Markor_2020-12-01T12-31-02.jpg",
+    "NotesVault/PARA System/0 Inbox/SR Polity Lecture 6.md",
     "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 3.md",
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/Relation between Socialism and Communism.md",
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/Socialist Systems.md",
     "NotesVault/PARA System/1 Projects/UPSC/GS2/Capitalism vs Socialism.md",
     "NotesVault/_Resources/Pasted image 20201201075529.png",
-    "NotesVault/_Resources/Pasted image 20201128064750.png",
-    "NotesVault/_Resources/Pasted image 20201128064913.png",
-    "NotesVault/SR Polity Lecture 3.md",
-    "NotesVault/Readjustment to Territorial Constituency.md",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/Indian Polity - Lectures Notes.md",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 2.md"
+    "NotesVault/_Resources/Pasted image 20201128064750.png"
   ]
 }

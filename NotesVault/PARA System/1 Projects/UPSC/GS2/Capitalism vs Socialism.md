@@ -5,3 +5,5 @@
 |          | Profitism           | against inequality           |
 | Ideals   | Liberty             | Social and Economic Equality |
 |          | - Freedom of Speech | Freedom from necessities     |
+
+![[../../../../_Resources/Pasted image 20201201082936.png]]

@@ -7,4 +7,5 @@ Parent: [[SR Polity Lecture 3]]
 ### Relation between Socialism and Communism
 - ![[../../../../_Resources/Pasted image 20201201081242.png]]
 	- ![image](../../../../_Resources/Pasted image 20201201081242.png)
-- 
+- Socialism is super set of Communism
+- Socialism is not a stage before Communism
