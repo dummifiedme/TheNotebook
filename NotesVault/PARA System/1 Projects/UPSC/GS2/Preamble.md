@@ -4,14 +4,18 @@ Title: Preamble
 Parent: [[SR Polity Lecture 8]]
 ---
 
-# Preamble
+## Preamble
 
 | Status | #Stage1                    |
 | ------ | -------------------------- |
 | Tags   |   #polity |
 |        |                            |
 
-## 
+- Before 42nd Amendment
+	![[../../../../_Resources/Pasted image 20201202192527.png|Before 42nd Amendment]]
+- After 42nd Amendment --> "SOCIALIST"
+	![[../../../../_Resources/Pasted image 20201202192421.png|After 42nd Amendment]]
+
 ### Relevant Questions
 - **What is a Preamble?**
 	- Introduction to the [[constitution]].
@@ -52,7 +56,8 @@ There have been different debates #prelims
 		- > Article 368 mentions "Provisions" can be amended.
 		- SC clarified that even when it is not a provision, yet it can be amended. 
 - Judiciary applied the creative interpretation and held that unlike USA, preamble in India *walk with the constitution.* 
-- | India                                         | USA                                    |
+- 
+| India                                         | USA                                    |
 | --------------------------------------------- | -------------------------------------- |
 | Walks with the constitution -> Hand in Hand | Preamble walks before the constitution |
 | No contradiction b/w Preamble and main body.                                           |                                        |
@@ -62,9 +67,12 @@ There have been different debates #prelims
 - It may happen that the Preamble starts looking inconsistent in light of the amendments in the main body.
 
 ### How important Preamble is in the interpretation of the Constitution
-> OR
+> ***OR***
 	> 1. Whether Constitution should be interpreted in the light of the Preamble.
 	> 2. Is preamble source of power to any institution where it is not given explicitly.
-	> 3.  Is preamble a source to take the power of any body which is explicitly given.
+	> 3. Is preamble a source to take the power of any body which is explicitly given.
+
+
+
 
 
