@@ -1,6 +1,6 @@
 ---
 Source: Shubhra Ranjan Polity Lectures
-Lecture Number: 7
+Lecture Number: 8
 Date: 2020-12-02
 ---
 
@@ -10,9 +10,7 @@ Date: 2020-12-02
 |        |                            |
 
 
-# SR Polity Lecture 7
-- OUT OF FLOW
-- MISNUMBERED
-- FIX LATER
+# SR Polity Lecture 8
+![[Preamble]]
 
-> AFTER LECTURE 6 --> GO TO LECTURE 8 as per video
+
