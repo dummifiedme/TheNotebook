@@ -10,7 +10,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/PARA System/0 Inbox/SR Polity Lecture 5.md",
+            "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 1.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "45012507f3fdcf4e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Types of Majority.md",
             "mode": "source"
           }
         }
@@ -41,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "A2b",
+                "query": "syllabus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/PARA System/0 Inbox/SR Polity Lecture 5.md",
+                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 1.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -131,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/PARA System/0 Inbox/SR Polity Lecture 5.md",
+                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/PARA System/0 Inbox/SR Polity Lecture 5.md"
+                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 1.md"
               }
             }
           }
@@ -182,15 +193,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 1.md",
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/Types of Majority.md",
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/Constitution.md",
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 2.md",
+    "NotesVault/_Syllabus/General Studies 2.md",
+    "NotesVault/Parliament.md",
+    "NotesVault/001 Paper Wise Topics.md",
+    "NotesVault/000 Index.md",
     "NotesVault/PARA System/0 Inbox/SR Polity Lecture 5.md",
-    "NotesVault/PARA System/0 Inbox/Markor_2020-12-01T13-13-55.jpg",
-    "NotesVault/PARA System/0 Inbox/Markor_2020-12-01T12-31-02.jpg",
-    "NotesVault/PARA System/0 Inbox/SR Polity Lecture 6.md",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 3.md",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/Relation between Socialism and Communism.md",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/Socialist Systems.md",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/Capitalism vs Socialism.md",
-    "NotesVault/_Resources/Pasted image 20201201075529.png",
-    "NotesVault/_Resources/Pasted image 20201128064750.png"
+    "NotesVault/PARA System/0 Inbox/Markor_2020-12-01T13-13-55.jpg"
   ]
 }
