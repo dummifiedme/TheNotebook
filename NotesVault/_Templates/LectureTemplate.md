@@ -1,7 +1,5 @@
 ---
-Source: Subhra Ranjan
+Source: Shubhra Ranjan Polity Lectures
 Lecture Number: 1
-Date: 2020-11-27
+Date: {{date}}
 ---
-
-# 
