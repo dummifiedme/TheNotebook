@@ -96,7 +96,8 @@ There have been different debates #prelims
 	- #incomplete 
 
 - Discuss each adjective attached to the word 'Republic' in the Preamble. Are they defendable in the present circumstances? 
-	- That
+	- India is a Sovereign, Socialist, Secular, Democratic Republic.
+	- The meaning of each adjective can be explained as 
 
 
 
