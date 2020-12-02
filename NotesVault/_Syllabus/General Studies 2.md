@@ -1,7 +1,9 @@
 ## Topic 1
 - Indian Constitution
-	- historical underpinnings, 
-	- evolution, 
+	- historical underpinnings
+		- [[../PARA System/1 Projects/UPSC/GS2/Government of India Act 1935]] 
+	- evolution
+		- [[../PARA System/1 Projects/UPSC/GS2/Making of the Constitution]]
 	- features, 
 	- amendments, 
 	- significant provisions

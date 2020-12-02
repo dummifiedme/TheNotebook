@@ -1,9 +1,8 @@
-***
-
-## Source: Subhra Ranjan
-
+---
+Source: Shubhra Ranjan
 Lecture Number: 1
 Date: 2020-11-27
+---
 
 # SR Polity Lecture 1
 
@@ -37,41 +36,15 @@ Date: 2020-11-27
 5.  [[Right - Left - Center]]
     1.  [[Liberals]]
 6.  [[Liberty and Freedom]]
-7. ![[Constitution as a living document]]
-
-> Constitutional Supremacy and Judicial Supremacy is one and same thing.
->
-> *   WHY? It is said that, we are under the constitution, but the constitution is what Judges say.
-
-***
-
-## 'Procedure Established by Law' vs 'Due Process of Law'
-
-(aka British vs American Systems of Law)
-
-*   British
-    *   > 'Procedure established by law' : Limitation only on the power of the executive (has to act withing the procedure defined in law aka no arbitrariness.
-    > *   Equality before law (even you are the king)
-    *   Principle of 'Parliamentary Sovereignty' which means no restriction on the power of the parliament to make law.
-    *   However, this did not remained a fact since Britain joined European Union. So, by Brexit they gain parliamentary sovereignty.
-    *   Judiciary cannot challenge law.
-        *   HENCE, Judicial Reviews over Executive actions.
-*   American
-    *   > "DUE PROCESS of LAW" = Principle of 'natural justice'.
-        >
-        > *   'Natural law' is not written, it is understood by reason.
-        > *   'Natural law 'leave that decision on the judges.
-    *   Constitution is supreme.
-    *   It means limitations on the power of both, executive as well as legislature.
-    *   Judiciary can challenge even the **wisdom of law(legislation)**.
-    *   Creates UNCERTAINITY.
-        *   Hence, not included in original constitution. Later interpreted to be present.
+7.  [[Constitution as a living document]]
+8. [[Judicial Supremacy]]
+9. [[Procedure Established by Law]]
+10. [[Due Process of Law]]
 
 ***
 
 Q: Arguments wrt to 'Laws limit freedom'
-A: ...
-
+A: 
 > *   Extremes are usually bad.
 > *   Men, not Man.
-> *   One's freedom ends where other's freedom start.
+> *  One's freedom ends where other's freedom start.

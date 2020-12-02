@@ -4,29 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "20416076bdd0cdd7",
+        "id": "3b9c4e5fecfe633a",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 1.md",
+            "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/_Stages of Notes.md",
             "mode": "source"
           }
-        },
-        "group": "aeb0fd8274ac62e8"
+        }
       },
       {
-        "id": "4133ce7d0ac6fdc5",
+        "id": "6855a7337aeb180e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 1.md",
-            "mode": "preview"
+            "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Making of the Constitution.md",
+            "mode": "source"
           }
-        },
-        "group": "aeb0fd8274ac62e8"
+        }
       }
     ],
     "direction": "vertical"
@@ -115,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 1.md",
+                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/_Stages of Notes.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -133,7 +131,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.49965818222919395
+                  "scale": 0.4996581822291941
                 }
               }
             }
@@ -144,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 1.md",
+                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/_Stages of Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,12 +157,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 1.md"
+                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/_Stages of Notes.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "99fbaef30af61a27",
@@ -202,19 +199,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.6939392089844,
-    "collapsed": true
+    "width": 408.6939392089844
   },
   "lastOpenFiles": [
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/Untitled.md",
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 6.md",
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/Making of the Constitution.md",
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/Indian Polity - Lectures Notes.md",
+    "NotesVault/PARA System/0 Inbox/SR Polity Lecture 6.md",
+    "NotesVault/PARA System/0 Inbox/SR Polity Lecture 5.md",
     "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 1.md",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/Constitution as a living document.md",
-    "NotesVault/_Syllabus/General Studies 2.md",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/Liberty and Freedom.md",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/Liberals.md",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/Right - Left - Center.md",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/Democracy is a modern concept.md",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/Democracy.md",
     "NotesVault/PARA System/1 Projects/UPSC/Untitled.md",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/Constitutionalism.md"
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/'Due Process of Law'.md",
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/Procedure Established by Law.md"
   ]
 }
