@@ -26,17 +26,17 @@
 ## Stage Wise Notes
 
 ### Stage 1 - *Just Typed*
-#Stage1
+#Stage1⌨ 
 1. [[_DASHBOARD]]
 2. [[_Stages of Notes]]
 3. [[Making of the Constitution]]
 4. [[SR Polity Lecture 5]]
 
 ### Stage 2 - *Reviewed and Fixed*
-#Stage2
+#Stage2🧠 
 
 ### Stage 3 - *Questions Derived and ANKI*
-#Stage3
+#Stage3❓ 
 
 ### Stage 1 - *	Completed*
-#Stage4 
+#Stage4✅ 
