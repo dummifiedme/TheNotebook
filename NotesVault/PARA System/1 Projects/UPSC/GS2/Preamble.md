@@ -3,12 +3,15 @@ Date: 2020-12-02 18:10
 Title: Preamble
 Parent: [[SR Polity Lecture 8]]
 ---
+
+# Preamble
+
 | Status | #Stage1                    |
 | ------ | -------------------------- |
 | Tags   |   #polity |
 |        |                            |
 
-## Preamble
+## 
 ### Relevant Questions
 - **What is a Preamble?**
 	- Introduction to the [[constitution]].
@@ -45,7 +48,23 @@ There have been different debates #prelims
 3. Whether Preamble can be amended or not
 	- Supreme court in [[Kesavananda Bharti Case]] held that preamble can be amended.
 	- Why did this question arise?
-		- Once SC accepted preamble as a part of constitution, there was lack of clarity wheter it can be amended because Article 368 deals with amendment of the "PROVISIONS"
+		- Once SC accepted preamble as a part of constitution, there was lack of clarity wheter it can be amended because Article 368 deals with amendment of the "PROVISIONS" of the constitution.
+		- > Article 368 mentions "Provisions" can be amended.
+		- SC clarified that even when it is not a provision, yet it can be amended. 
+- Judiciary applied the creative interpretation and held that unlike USA, preamble in India *walk with the constitution.* 
+- | India                                         | USA                                    |
+| --------------------------------------------- | -------------------------------------- |
+| Walks with the constitution -> Hand in Hand | Preamble walks before the constitution |
+| No contradiction b/w Preamble and main body.                                           |                                        |
 
 
-> Article 368 mentions "Provisions" can be amended.
+- There was a reason to pass the preamble at the last so that harmony is maintained between the preamble and the main body. 
+- It may happen that the Preamble starts looking inconsistent in light of the amendments in the main body.
+
+### How important Preamble is in the interpretation of the Constitution
+> OR
+	> 1. Whether Constitution should be interpreted in the light of the Preamble.
+	> 2. Is preamble source of power to any institution where it is not given explicitly.
+	> 3.  Is preamble a source to take the power of any body which is explicitly given.
+
+
