@@ -32,3 +32,11 @@ Types of Majority
     *   Effective strength = Total strength - Vacancies
 4.  #### Absolute Majority
     *   50 percent (+1) of the total strength of the house.
+
+---
+
+- Question: In Lok Sabha, 280 members are present out of which 212 have voted. What will be the majority required to pass the amendment in above situation? How many members should vote in favour?
+	- Answer: Condition 1: 50% +1 Total strength => 273 seats (i.e. of 545).
+		Therefore, it can't be passed at this strength.
+
+---
