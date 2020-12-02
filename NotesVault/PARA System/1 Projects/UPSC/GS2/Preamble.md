@@ -32,7 +32,7 @@ Parent: [[SR Polity Lecture 8]]
 ### Debates or Issues related to Preamble in Indian context
 There have been different debates #prelims
 
-1. Whether preamble is a part of the constitution. ✅
+**1. Whether preamble is a part of the constitution. ✅**	
 	- Berubari Union Case 1960
 		- Supreme Court said --> Preamble is ==not== a part of the constitution.
 		- In Berubari Union case SC took the precedent of USA.
@@ -41,13 +41,12 @@ There have been different debates #prelims
 			- However, according to SC of USA, the Preamble is not a part of Constitution.
 
 
-2. Whether preamble is a integral part of the constitution. ✅
+**2. Whether preamble is a integral part of the constitution. ✅**
+- [[Kesavananda Bharti Case]] 1973
+	- Supreme Court overruled its previous view and held that preamble isnot just a part of the consitution, it is an integral part of the constitution.
+	- INTEGRAL part means -> it contains the basic structure of the constitution.
 
-	- [[Kesavananda Bharti Case]] 1973
-		- Supreme Court overruled its previous view and held that preamble isnot just a part of the consitution, it is an integral part of the constitution.
-		- INTEGRAL part means -> it contains the basic structure of the constitution.
-
-	> They admitted the mistake that in Berubari Union Case, they ignored a very important historical fact related to Preamble i.e. ==preamble was adopted by the Constituent Assembly by a motion that it is a part of the constitution==, it means the principles of USA will not be applied in Indian case.
+> They admitted the mistake that in Berubari Union Case, they ignored a very important historical fact related to Preamble i.e. ==preamble was adopted by the Constituent Assembly by a motion that it is a part of the constitution==, it means the principles of USA will not be applied in Indian case.
 
 3. Whether Preamble can be amended or not
 	- Supreme court in [[Kesavananda Bharti Case]] held that preamble can be amended.
@@ -71,6 +70,26 @@ There have been different debates #prelims
 	> 1. Whether Constitution should be interpreted in the light of the Preamble.
 	> 2. Is preamble source of power to any institution where it is not given explicitly.
 	> 3. Is preamble a source to take the power of any body which is explicitly given.
+
+1. A. K. Gopalan^[Communist leader, political opposite of Nehru] Case (1950)
+	- The petitioner AK Gopalan, famous communist leader, appealed to examine the validity of the preventive detention law brought by the government of Pandit Nehru, the law to be interpreted in the light of concept of liberty given in the preamble.
+	- Supreme court didn't accept Preamble as a guiding star in the interpretation of the constitution.
+2. Berubari Union Case 1960
+	- Preamble is accepted as a key to open the mind of the constituent assembly or light a light house.
+		- It means it will be used only where there is an ambiguity or when there is a contradiction between two provisions.
+		- eg Appointment of the judges -> consultation or concurrence??
+	- Preamble in itself can neither be a source of power which is not explicitly given or not a basis to take away the power which is explicitly given.
+3. Kesavanand Bharti Case
+	- Supreme court held that the preamble is the integral part, contains the basic structure, contains the noble vision for which the constitution is created and hence the constitution has to be interpreted in the light of preamble.
+
+
+### Contents of the Preamble
+1. The nature of Indian State.
+2. The Ideals.
+3. The date of adoption and enactment.
+
+
+
 
 
 
