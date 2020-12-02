@@ -97,7 +97,11 @@ There have been different debates #prelims
 
 - Discuss each adjective attached to the word 'Republic' in the Preamble. Are they defendable in the present circumstances? 
 	- India is a Sovereign, Socialist, Secular, Democratic Republic.
-	- The meaning of each adjective can be explained as 
+	- The meaning of each adjective can be explained as:
+		- Sovereign: it denotes that India is no more a colony. It is an independent nation with right to self-determination.
+			- Both in external and internal sphere, India has freedom to make policies.
+			- India as a sovereign country exercising its freedom of choice has been brought into question because of Globalization. Globalization weakens the sovereignty of the nation in theory. It cannot be said that it has weakened the sovereignty. Ability to exercise freedom depends on power and there is a phenomenal increase in the power of India. India today is recognized as an emerging power, an economic power, a nuclear power, strongest contender for permanent UNSC seat. However it is not correct to say there has been no dilution at all. In fact globalization expects nations to exercise their sovereignty in a more responsible manner and in concert with each other. 
+		- Socialist: Socialism was added in 1976, however as a country with large number of poors, there has been an inclination towards socialism. Indian socialism is 
 
 
 
