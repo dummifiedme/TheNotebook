@@ -88,6 +88,16 @@ There have been different debates #prelims
 2. The Ideals.
 3. The date of adoption and enactment.
 
+> - Adoption means the day when the Constitution Assembly accepts the Act.
+> - Enactment means the day the bill receive the assent of the President.
+> - Commencement means the day an act comes into force. (Article 394)
+
+- Does the preamble tell about **the commencement of the constitution**?
+	- #incomplete 
+
+- Discuss each adjective attached to the word 'Republic' in the Preamble. Are they defendable in the present circumstances? 
+	- That
+
 
 
 
