@@ -106,7 +106,8 @@ There have been different debates #prelims
 			- India as a socialist country has been put to a question mark since India had adopted new liberal model of development based on [[Washington Consensus]]^[#digDeep]. Since 1990s there has been increase in inter-state and intra-state disparities. As per OxHam report 2017 1 percent of Indians hold 70 percent of the wealth.
 			- If we understand poverty in terms of deprivations, thee has been growth in hunger and malnutrition, though number of people living below poverty line have decline in absolute terms, yet the relative poverty has increased. Since 1990s left wing extremism has become the biggest internal security threat. 
 			- Though the above situation is a matter of concern, yet we can not say the government has completely ignore the ideals of socialism. We have accepted the concept of inclusive growth in 11th and 12th five year plans to address the unemployment poverty, schemes like MNREGA, right to food, right to education has been introduced. 
-			- The government is also trying to achei
+			- The government is also trying to achieve financial inclusion so that majority of the people can be bought under the social security net with minimum leakages. For a country like India with one of the largest number of poor in the world, socialism will always remain relevant.
+		- Secular: India as a secular state implies freedom of religion available to people belonging to different religion which includes freedom to practice, profess and propagate religion. 
 
 
 
