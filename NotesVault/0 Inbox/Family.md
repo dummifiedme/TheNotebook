@@ -23,7 +23,7 @@
 - Extended Family
 
 ### Nuclear Family
-![Nuclear family diagram](Markor_2020-12-03T10-15-37.jpg)
+![Nuclear family diagram](../3%20Resources/Markor_2020-12-03T10-15-37.jpg)
 - organised around Conjugal tie between husband and wife. 
 - consists of husband, wife and children 
 - Murdock 1949 -> nuclear family is universal social institution 
@@ -66,7 +66,7 @@ Socialisation of children | schools and such institutions | big families or kins
 - nuclear family is not fully capable in satisfying these growing needs
 
 ### Sub-Nuclear Family
-![Sub-Nuclear Family Diagram](Markor_2020-12-03T10-43-33.jpg)
+![Sub-Nuclear Family Diagram](../3%20Resources/Markor_2020-12-03T10-43-33.jpg)
 
 - A family characterized by presence of only the spouses with no children. 
 - doesn't fulfil the criterion of nuclear family. 
@@ -79,7 +79,7 @@ Socialisation of children | schools and such institutions | big families or kins
    - polygynous household
       - one man, multiple wives
       - each wife separate residence (generally)
-         ![Polygynous Composite Family Diagram](Markor_2020-12-03T10-45-36.jpg)
+         ![Polygynous Composite Family Diagram](../3%20Resources/Markor_2020-12-03T10-45-36.jpg)
    - Polyandrous household
       - one wife, multiple husbands
       - #insertDiagram

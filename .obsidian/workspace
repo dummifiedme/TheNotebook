@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/0 Inbox/Resonance Center/Workflow - 2020_11_28.md",
-            "mode": "source"
+            "file": "NotesVault/_DASHBOARD.md",
+            "mode": "preview"
           }
         }
       },
@@ -47,7 +47,7 @@
       {
         "id": "7699e0313582942d",
         "type": "tabs",
-        "dimension": 50.48439181916039,
+        "dimension": 61.63793103448276,
         "children": [
           {
             "id": "3e25e94ed1684d8d",
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dash",
+                "query": "tag:#Stage1⌨",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,12 +80,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "088ed5302beee153",
         "type": "tabs",
-        "dimension": 49.51560818083961,
+        "dimension": 38.362068965517246,
         "children": [
           {
             "id": "ce706b535bc2ba80",
@@ -123,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/0 Inbox/Resonance Center/Workflow - 2020_11_28.md",
+                "file": "NotesVault/_DASHBOARD.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -152,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/0 Inbox/Resonance Center/Workflow - 2020_11_28.md",
+                "file": "NotesVault/_DASHBOARD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/0 Inbox/Resonance Center/Workflow - 2020_11_28.md"
+                "file": "NotesVault/_DASHBOARD.md"
               }
             }
           }
@@ -235,15 +236,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/0 Inbox/Resonance Center/Workflow - 2020_11_28.md",
-    "NotesVault/0 Inbox/Resonance Center/Workflow Ideas.md",
-    "NotesVault/0 Inbox/Resonance Center/How to take smart notes.md",
+    "NotesVault/_DASHBOARD.md",
+    "NotesVault/1 Projects/UPSC/GS2/Preamble.md",
     "NotesVault/_Stages of Notes.md",
+    "NotesVault/0 Inbox/Markor_2020-12-01T12-31-02.jpg",
+    "NotesVault/0 Inbox/Resonance Center/Workflow Ideas.md",
+    "NotesVault/0 Inbox/Resonance Center/Workflow - 2020_11_28.md",
+    "NotesVault/_MDDownloads/Adichanallur A brief history on one of the oldest archaeological sites in India.md",
+    "NotesVault/0 Inbox/Resonance Center/How to take smart notes.md",
     "NotesVault/_MDDownloads/MODERN INDIAN HISTORY NOTES BY IAS NETWORK  IAS NETWORK.md",
-    "NotesVault/_Syllabus/_Stages of Notes.md",
-    "NotesVault/2 Areas/_Note System and Markers.md",
-    "NotesVault/1 Projects/_DASHBOARD.md",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/GS2 Consolidated Notes/Untitled.md",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 1.md"
+    "NotesVault/_Syllabus/_Stages of Notes.md"
   ]
 }
