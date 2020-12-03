@@ -1,6 +1,14 @@
-----
-date: 2020-12-02 13:26
-----
+---
+Source: Shubhra Ranjan Polity Lectures
+Lecture Number: 6
+Date: 2020-12-02 13:26
+---
+
+| Status | #Stage1                    |
+| ------ | -------------------------- |
+| Tags   | #GS2-Topic01 #polity |
+|        |                            |
+
 
 # SR Polity Lecture 6
 
@@ -15,37 +23,37 @@ Q: What is the impact of Goi Act 1935 on the present consitution?
 - Simon Commission 1927
 - Protest against Simon Commission.
 - Nehru Report 1928.
-  - Demanded dominion status
+	- Demanded dominion status
 - Congress Session 1929 at the banks of River Ravi in Lahore.
-  - Nehru put forward the thought of Poorna Swaraj
+	  - Nehru put forward the thought of Poorna Swaraj
 - Civil Disobedience Movement 1930 by Gandhi.
 - First Round Table Conference -> not participated by INC
 - Gandhi-Irwin Pact 1931
-  - Gandhi attended the second round table conference in 1931= fruitless. 
+	  - Gandhi attended the second round table conference in 1931= fruitless. 
 - Ramsey MacDonald Award = Communal Award 1932
- - Aimed at reducing Hindus into minority by giving separate electorate to the depressed classes.
+	 - Aimed at reducing Hindus into minority by giving separate electorate to the depressed classes.
 - Poona Pact 1932
 - Third Round Table Conference 1932
-  -  no participation by INC
+	  -  no participation by INC
 - on the basis of Third Round Table Conference, British Government produced a White paper. 
-  - It was considered by the joint committee of British Parliament led by Lord Linlithgow. 
-  - It also had participation by princely states.
-  - it approved the introduction of federal form of government but with some conditions.
-    - federation will some under consideration, only when approved by 50 percent of the princely states.
-    - hence, federation never came into existence because states never approved.
-      - princely states were not willing to surrender their fiscal autonomy.
-      - smaller states were fearful of lack of adequate representation of them.
-      - paramountcy issue was not resolved.
+	  - It was considered by the joint committee of British Parliament led by Lord Linlithgow. 
+	  - It also had participation by princely states.
+	  - it approved the introduction of federal form of government but with some conditions.
+		- federation will some under consideration, only when approved by 50 percent of the princely states.
+		- hence, federation never came into existence because states never approved.
+			- princely states were not willing to surrender their fiscal autonomy.
+			- smaller states were fearful of lack of adequate representation of them.
+    		- paramountcy issue was not resolved.
 
 ### Features of GoI Act 1935
 1. Federation => to be comprised of
-   1. Princely states
-   2. Chief governor territories
+	1. Princely states
+	2. Chief governor territories
 2. For the first time provinces were recognized as separate entities having their own executive and legislative powers in their own field. 
 3. The Constitution had provided three lists
-   1. Federal List 
-   2. Provincial List
-   3. Concurrent List
+	1. Federal List 
+	2. Provincial List
+	3. Concurrent List
 4. Residuary powers with  the center --> viceroy. 
 5. Since federation couldn't come into existence, ==Provincial autonomy was introduced==. 
 
@@ -53,7 +61,7 @@ Q: What is the impact of Goi Act 1935 on the present consitution?
 1. At the Provincial level, popular (elected by people) government was introduced. 
 2. The principle of collective responsibility was introduced. 
 3. Governor was to act on the aid and advice. 
-4. Members of legislature could ask questions, Supplimentary questions and could bring no confidence motion. 
+4. Members of legislature could ask questions, Supplementary questions and could bring no confidence motion. 
 
 > NOTE: The balancing of responsible government. 
 > - Responsible government but governor had powers of discretion. 
@@ -74,7 +82,7 @@ Governors were also given special powers
 
 ### Changes at the Union level
 1. Introduction of the dyarchy at the union level. 
-2. Division of the subjects into transfered and reserved
+2. Division of the subjects into transferred and reserved
 3. However in practice dyarchy also never came into existence. 
 
 ### Other changes by GoI Act 1935
@@ -83,7 +91,7 @@ Governors were also given special powers
 3. Administration of Myanmar was separated. 
 4. New provinces - Orissa and Sindh - were created. 
 5. Federal Court was established in Delhi in 1937 => later became Supreme Court. 
-6. I troduction of Provincial and Joint Public Service Commissions . 
+6. Introduction of Provincial and Joint Public Service Commissions . 
 
 ### Assessment of GoI 1935
 > JL Nehru - 
@@ -99,13 +107,13 @@ Governors were also given special powers
 > "Reforms were dictated by the needs to attract Indians to collaborate with Raj. It was completely imperialist in design."
 
 
-### Influence of GoI Act 1935 on present consitution
+### Influence of GoI Act 1935 on present Constitution
 
 1. Government of India Act 1935 was primarily based on the 'white paper' released by British Government in 1933.
-   - White paper was prepared by committee at British Parliament which also had representation of princely state. 
-   - it was primarily based on the report of Simon Commission. 
-   - it hardly represented the voice of INC, the only mass party in India. 
-2. There was a stern opposition to Simon Commision as well as GoI Act 1935
+	- White paper was prepared by committee at British Parliament which also had representation of princely state. 
+	- it was primarily based on the report of Simon Commission. 
+	- it hardly represented the voice of INC, the only mass party in India. 
+- There was a stern opposition to Simon Commision as well as GoI Act 1935
    - The strongest opposition was from Nehru who compared it to a car with no engines but all brakes. 
       - thus, Pandit Nehru questioned the viability of the act. 
    - Rightly considered as imperialist in design and as mentioned by Lord Linlithgow, the aim of the act was to hold India to the Raj. 

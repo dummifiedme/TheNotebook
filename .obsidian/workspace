@@ -9,15 +9,14 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 1.md",
-            "mode": "preview"
+            "file": "NotesVault/PARA System/0 Inbox/SR Polity Lecture 6.md",
+            "mode": "source"
           }
         }
       },
       {
         "id": "2931ccd4a08eb81f",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -29,11 +28,12 @@
       {
         "id": "72eff2f7561ad1ca",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Preamble.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -123,7 +123,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Constitution.md",
+                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Preamble.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Constitution.md",
+                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Preamble.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Constitution.md"
+                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Preamble.md"
               }
             }
           }
@@ -235,15 +235,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/Constitution.md",
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/Preamble.md",
+    "NotesVault/PARA System/0 Inbox/SR Polity Lecture 6.md",
+    "NotesVault/PARA System/0 Inbox/SR Polity Lecture 5.md",
     "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 1.md",
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/Constitution.md",
     "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 2.md",
     "NotesVault/PARA System/1 Projects/UPSC/GS2/Swiss System of Government.md",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/Preamble.md",
     "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 8.md",
     "NotesVault/PARA System/0 Inbox/Family.md",
-    "NotesVault/PARA System/0 Inbox/SR Polity Lecture 6.md",
-    "NotesVault/_Resources/Pasted image 20201202192527.png",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 7 1.md"
+    "NotesVault/_Resources/Pasted image 20201202192527.png"
   ]
 }
