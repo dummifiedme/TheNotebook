@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "816d900834cb2289",
+        "id": "777442ab81331090",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/PARA System/0 Inbox/Family.md",
+            "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Preamble.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "0ab10f10c91f1b32"
+      },
+      {
+        "id": "9939ab29ba735dcc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Preamble.md",
+            "mode": "preview"
+          }
+        },
+        "group": "0ab10f10c91f1b32"
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.0036334991455
+    "width": 289.0036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -101,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/PARA System/0 Inbox/Family.md",
+                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Preamble.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -130,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/PARA System/0 Inbox/Family.md",
+                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Preamble.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/PARA System/0 Inbox/Family.md"
+                "file": "NotesVault/PARA System/1 Projects/UPSC/GS2/Preamble.md"
               }
             }
           }
@@ -213,15 +227,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/PARA System/0 Inbox/Family.md",
-    "NotesVault/_Resources/Pasted image 20201202192527.png",
     "NotesVault/PARA System/1 Projects/UPSC/GS2/Preamble.md",
     "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 8.md",
+    "NotesVault/PARA System/0 Inbox/Family.md",
+    "NotesVault/PARA System/0 Inbox/SR Polity Lecture 6.md",
+    "NotesVault/_Resources/Pasted image 20201202192527.png",
     "NotesVault/PARA System/1 Projects/UPSC/GS2/Constitution.md",
     "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 7 1.md",
     "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 7.md",
     "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 6.md",
-    "NotesVault/_Templates/LectureTemplate.md",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/Making of the Constitution.md"
+    "NotesVault/_Templates/LectureTemplate.md"
   ]
 }

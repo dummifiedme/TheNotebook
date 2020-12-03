@@ -95,7 +95,7 @@ There have been different debates #prelims
 - Does the preamble tell about **the commencement of the constitution**?
 	- #incomplete 
 
-- Discuss each adjective attached to the word 'Republic' in the Preamble. Are they defendable in the present circumstances? 
+- **Discuss each adjective attached to the word 'Republic' in the Preamble. Are they defendable in the present circumstances? **
 	- India is a Sovereign, Socialist, Secular, Democratic Republic.
 	- The meaning of each adjective can be explained as:
 		- Sovereign: it denotes that India is no more a colony. It is an independent nation with right to self-determination.
@@ -103,6 +103,10 @@ There have been different debates #prelims
 			- India as a sovereign country exercising its freedom of choice has been brought into question because of Globalization. Globalization weakens the sovereignty of the nation in theory. It cannot be said that it has weakened the sovereignty. Ability to exercise freedom depends on power and there is a phenomenal increase in the power of India. India today is recognized as an emerging power, an economic power, a nuclear power, strongest contender for permanent UNSC seat. However it is not correct to say there has been no dilution at all. In fact globalization expects nations to exercise their sovereignty in a more responsible manner and in concert with each other. 
 		- Socialist: Socialism was added in 1976, however as a country with large number of poors, there has been an inclination towards socialism. Indian socialism is a type of fabian socialism i.e state led socialism. Social and Economic rights given in Part IV of the constitution represent Indian socialism. Socialism aims to provide equality in terms of equality. 
 			- However according to SC in Samatha vs the state of AP 1997, socialism in India means reducing inequality in income and status providing equality of opportunity and life of dignity.
+			- India as a socialist country has been put to a question mark since India had adopted new liberal model of development based on [[Washington Consensus]]^[#digDeep]. Since 1990s there has been increase in inter-state and intra-state disparities. As per OxHam report 2017 1 percent of Indians hold 70 percent of the wealth.
+			- If we understand poverty in terms of deprivations, thee has been growth in hunger and malnutrition, though number of people living below poverty line have decline in absolute terms, yet the relative poverty has increased. Since 1990s left wing extremism has become the biggest internal security threat. 
+			- Though the above situation is a matter of concern, yet we can not say the government has completely ignore the ideals of socialism. We have accepted the concept of inclusive growth in 11th and 12th five year plans to address the unemployment poverty, schemes like MNREGA, right to food, right to education has been introduced. 
+			- The government is also trying to achei
 
 
 
