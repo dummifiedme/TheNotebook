@@ -29,11 +29,11 @@ Speaker: Sonke Ahrens
 
 
 ## What kind of question?
-![[../_Resources/Pasted image 20201128064750.png]]
+![[../../3 Resources/Pasted image 20201128064750.png]]
 - What is it about
 - What does it mean for...?
 - How does it connect with...?
 - COntradictions etc....
 
 ### For Creative
-![[../_Resources/Pasted image 20201128064913.png]]
+![[../../3 Resources/Pasted image 20201128064913.png]]

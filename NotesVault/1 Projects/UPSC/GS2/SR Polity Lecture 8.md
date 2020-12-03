@@ -11,6 +11,6 @@ Date: 2020-12-02
 
 
 # SR Polity Lecture 8
-![[Preamble]]
+1. [[Preamble]]
 
 

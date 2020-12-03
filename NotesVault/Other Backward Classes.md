@@ -3,7 +3,7 @@
 #doing 
 
 ## Who are OBCs?
-A: ![[_Resources/Pasted image 20201126044836.png]]
+A: ![[3 Resources/Pasted image 20201126044836.png]]
 - classify castes which are educationally or 
 socially disadvantaged. 
 - OBCs are a vastly heterogeneous group.

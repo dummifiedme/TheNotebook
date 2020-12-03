@@ -12,7 +12,7 @@ GS2 Polity Elections
 - Smallest group get a representation.
 
 
- ![[_Resources/Pasted image 20201125031054.png]] 
+ ![[3 Resources/Pasted image 20201125031054.png]] 
  
 
 ### Two kinds of proportional representation:

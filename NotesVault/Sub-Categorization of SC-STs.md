@@ -14,5 +14,5 @@ A:
 > In EV Chinnaiah Case in 2005
 > "all SCs can and must collectively enjoy the benefits of reservation regardless of inter-se inequality"  
 
-![[_Resources/Pasted image 20201126061903.png]]
-![[_Resources/Pasted image 20201126061913.png]]
+![[3 Resources/Pasted image 20201126061903.png]]
+![[3 Resources/Pasted image 20201126061913.png]]

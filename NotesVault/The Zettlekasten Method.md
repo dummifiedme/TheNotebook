@@ -15,7 +15,7 @@ An [Article ](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten
 - Better way than numeric numbering is to use Alpha-Numeric.
 	- Numeric -> 1, 1.1, 1.1.1  ........ 13, 13.1, 13.1.14
 	- Alpha-Numeric -> 1, 1a, 1a1 ....... 13, 13a, 13a15
-	- ![[_Resources/Pasted image 20201121030907.png]]
+	- ![[3 Resources/Pasted image 20201121030907.png]]
 
 ###  Physical Issues : Card Storage
 - Bulky as collection grows
@@ -23,7 +23,7 @@ An [Article ](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten
 #### Deck Architecture
 - No need for sorting it all the time.
 - Divide sorting and not-yet-sorted.
-	- ![[_Resources/Pasted image 20201121031328.png]]
+	- ![[3 Resources/Pasted image 20201121031328.png]]
 - Don't sort too often.
 	- Keep them unsorted, sort on one day.
 
@@ -31,7 +31,7 @@ An [Article ](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten
 - Can be messy
 	- But, start.
 - thinking process:
-	- ![[_Resources/Pasted image 20201121032851.png]]
+	- ![[3 Resources/Pasted image 20201121032851.png]]
 
 ## Summary
 > Basically, you need to have the following:

@@ -1,2 +1,2 @@
 # Issues with Sixth Schedule
-A: ![[_Resources/Pasted image 20201126062401.png]]
+A: ![[3 Resources/Pasted image 20201126062401.png]]

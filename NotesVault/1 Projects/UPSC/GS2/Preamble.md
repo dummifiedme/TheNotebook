@@ -14,13 +14,13 @@ tags: #polity
 ---
 
 - Before 42nd Amendment
-	![[../../../../_Resources/Pasted image 20201202192527.png|Before 42nd Amendment]]
+	![[../../../3 Resources/Pasted image 20201202192527.png|Before 42nd Amendment]]
 - After 42nd Amendment --> "SOCIALIST"
-	![[../../../../_Resources/Pasted image 20201202192421.png|After 42nd Amendment]]
+	![[../../../3 Resources/Pasted image 20201202192421.png|After 42nd Amendment]]
 
 ### Relevant Questions
 - **What is a Preamble?**
-	- Introduction to the [[constitution]].
+	- Introduction to the [[Constitution]].
 	- Though Preambles can be attached to any act or law.
 	- It just summarizes the matter inside the much complex law.
 		- Language of the law is often difficult.

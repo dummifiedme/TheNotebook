@@ -27,7 +27,7 @@
 *   Darwin - Beagle - Origin of Species
     *   22 year old - medicine drop out - interested in beetles.
     *   Went on voyage onboard HMS Beagle with [FitzRoy](https://en.wikipedia.org/wiki/Robert_FitzRoy).
-        *   ![[_Resources/Pasted image 20201123142151.png]]
+        *   ![[3 Resources/Pasted image 20201123142151.png]]
     *   Tried to notice the differences in same animals/birds across the location
     *   Came back to London with many evidences/collectibles.
     *   Sea-Sickness -- never went again to ships 😝
