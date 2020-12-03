@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b7783b82b6ecd61d",
+        "id": "816d900834cb2289",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/PARA System/0 Inbox/Family.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -99,6 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "NotesVault/PARA System/0 Inbox/Family.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -127,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NotesVault/PARA System/0 Inbox/Family.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NotesVault/PARA System/0 Inbox/Family.md"
+              }
             }
           }
         ]
@@ -207,6 +214,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/PARA System/0 Inbox/Family.md",
     "NotesVault/_Resources/Pasted image 20201202192527.png",
     "NotesVault/PARA System/1 Projects/UPSC/GS2/Preamble.md",
     "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 8.md",
@@ -215,7 +223,6 @@
     "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 7.md",
     "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 6.md",
     "NotesVault/_Templates/LectureTemplate.md",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/Making of the Constitution.md",
-    "NotesVault/PARA System/1 Projects/UPSC/GS2/SR Polity Lecture 2.md"
+    "NotesVault/PARA System/1 Projects/UPSC/GS2/Making of the Constitution.md"
   ]
 }
