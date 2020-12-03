@@ -6,10 +6,12 @@ Parent: [[SR Polity Lecture 8]]
 
 ## Preamble
 
-| Status | #Stage1                    |
-| ------ | -------------------------- |
-| Tags   |   #polity |
-|        |                            |
+---
+
+status: #Stage1⌨ 
+tags: #polity 
+
+---
 
 - Before 42nd Amendment
 	![[../../../../_Resources/Pasted image 20201202192527.png|Before 42nd Amendment]]
