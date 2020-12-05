@@ -1,4 +1,5 @@
 # QA - Making of the Constitution
+> From [[Indian Polity - Laxmikant]]
 
 ## Demand for Constituent Assembly
 
@@ -85,7 +86,7 @@
         3. Republic
     2. Territories: British India + Territories that (then) formed the Indian States + other territories as willing to join.
     3. Boundaries of the states — determined by → Constituent Assembly
-        - Basically re-organising powers
+        - Basically reorganizing powers
     4. Power and Authority to India, parts of it and its government— derived from  → the PEOPLE.
     5. Guaranteed and Secured to all people —
         1. Justice — Social, Political, Economic, Political
@@ -98,120 +99,61 @@
      Points 4 and 5:  Expressed clearly in the [[NotesVault/1 Projects/UPSC/GS2/Preamble]]
      Point 8:  Important statement — even while getting own freedom, we were thinking of world at large.
 
--  When was the 'Objectives Resolution' adopted in Constituent Assembly? 
-
+-  When was the 'Objectives Resolution' adopted in Constituent Assembly? ::: 
     January 22, 1947.
 
 ### Changes by the Independence Act
 
--  When was Mountbatten Plan accepted? 
-
+-  When was Mountbatten Plan accepted? ::: 
     June 3, 1947.
-
     aka Partition of India.
 
--   What were the three changes to Constituent Assembly by Independence Act of 1947?  3️⃣
+-   What were the three changes to Constituent Assembly by Independence Act of 1947?  :::
     1. Assembly = Fully sovereign body =  ENACT ORDINARY LAWS
         - Can alter or abrogate any British Law in relation to India.
     2. Assembly = legislative body. = FRAME NEW CONSTITUTION
     3. Muslim League members (from Pakistan areas) withdrew from the assembly.
--   What were the two main roles of Constituent Assembly after the Independence Act of 1947?  2️⃣
+
+
+-   What were the two main roles of Constituent Assembly after the Independence Act of 1947?  ::: 
     1. Legislative Role — Frame new constitution.
     2. Executive Role — Enact ordinary laws.
+
+
 -  What were the changes in number of seats Constituent Assembly after Independence Act of 1947? 
     -  Number of seats : 389 → 299.
         1.  Indian Provinces:  296 → 229.
         2.  Princely States:  93 → 73.
 
--  What were the other functions of Constituent Assembly?  5️⃣(Other than executive legislative function)
+-  What were the other functions of Constituent Assembly?  (Other than executive legislative function) ::: 
     1. It ratified the India’s membership of the Commonwealth in May 1949.
     2. It adopted the national flag on July 22, 1947.
     3. It adopted the national anthem on January 24, 1950.
     4. It adopted the national song on January 24, 1950.
     5. It elected Dr. Rajendra Prasad as the first President of India on January 24, 1950.
--   When was India ratified as a member into Commonwealth? 
 
+
+-   When was India ratified as a member into Commonwealth? 
     May 1949.
 
--   When was national flag adopted? 
-
+-   When was national flag adopted? ::: 
     July 22, 1947.
 
--  When was the national anthem adopted? 
-
+-  When was the national anthem adopted? ::: 
     January 24, 1950.
 
--  When was the national song adopted? 
-
+-  When was the national song adopted? ::: 
     January 24,1950.
 
--  When was the first President of India elected? 
-
+-  When was the first President of India elected? ::: 
     January 24, 1950
 
 -  How many session did Constituent Assembly have and for how long? 
     - 11 sessions.
     - Two Years, 11 Months, 18 Days.
+
+
 -  When did Constituent Assembly have its last session? 
-
     January 24, 1950.
-
     But it did not end, and continued as the provisional parliament of India from January 26, 1950 till formation of new Parliament after the first general election in 1951-52.
 
-## Committees of the Constituent Assembly
-
-### Major Committees
-
- *Jawahar Lal Nehru *
-
--   Union Powers Committee  was headed by  Jawaharlal Nehru .
--   Union Constitution Committee  was headed by  Jawaharlal Nehru .
--   States Committee  (Committee for Negotiating with States) was headed by  Jawaharlal Nehru .
-
- *Sardar Patel *
-
--   Provincial Constitution Committee  was headed by  Sardar Patel .
--   Advisory Committee on Fundamental Rights, Minorities and Tribal and Excluded Areas  was headed by  Sardar Patel 
-
-    Had 5 Sub-Committees. 
-
- *Rajendra Prasad *
-
--   Rules of Procedure Committee  was headed by  Dr. Rajendra Prasad .
--   Steering Committee  was headed by  Dr. Rajendra Prasad .
-
--   Drafting Committee  was headed by  Dr. B R Ambedkar .
-
-### Minor Committees
-
--  Finance and Staff Committee -  Dr. Rajendra Prasad .
--  Ad-Hoc Committee on the  National Flag  -  Dr. KM Munshi 
--  Special Committee to Examine the Draft Constitution -  Jawaharlal Nehru .
-
-### Drafting Committee
-
-- Most important committee was  Drafting Committee .
-- Set-up on August 29, 1947.
--   List the members of Draft Committee. 
-
-    Seven Members
-
-    1. Dr. B.R. Ambedkar (Chairman)
-    2. N. Gopalaswamy Ayyangar
-    3. Alladi Krishnaswamy Ayyar
-    4. Dr. K.M. Munshi
-    5. Syed Mohammad Saadullah
-    6. N. Madhava Rau (He replaced B.L. Mitter who resigned due to ill-health)
-    7. T.T. Krishnamachari (He replaced D.P. Khaitan who died in 1948)
-
--   When did the Draft Committee publish the first draft of Indian Constitution? 
-
-    February, 1948
-
--   When did the Draft Committee publish the second draft of Indian Constitution? 
-
-    October, 1948
-
-- Took less than 6 months, sat for just 141 days.
-
-## Enactment of the Constitution

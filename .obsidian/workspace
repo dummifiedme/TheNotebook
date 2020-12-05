@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5deaf6fa75428d53",
+        "id": "8073b8d3b2705a7e",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "QA - Making of the Constitution.md",
-            "mode": "source"
+            "file": "NotesVault/0 Inbox/Framing of the Constitution.md",
+            "mode": "preview"
           }
         }
       }
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "QA - Making of the Constitution.md",
+                "file": "NotesVault/0 Inbox/Framing of the Constitution.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QA - Making of the Constitution.md",
+                "file": "NotesVault/0 Inbox/Framing of the Constitution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,12 +147,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QA - Making of the Constitution.md"
+                "file": "NotesVault/0 Inbox/Framing of the Constitution.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "99fbaef30af61a27",
@@ -202,10 +202,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.3954162597656,
-    "collapsed": true
+    "width": 443.7156677246094
   },
   "lastOpenFiles": [
+    "NotesVault/0 Inbox/Framing of the Constitution.md",
+    "Indian Polity - Laxmikant.md",
     "QA - Making of the Constitution.md",
     "Demand for Constituent Assembly.md",
     "Cripps mission.md",
@@ -213,8 +214,6 @@
     "What was Cripps mission.md",
     "Notion-Making of the Constitution.md",
     "NotesVault/1 Projects/UPSC/GS2/Making of the Constitution.md",
-    "NotesVault/0 Inbox/Framing of the Constitution.md",
-    "NotesVault/_Templates/Template MPuriNotes.md",
-    "Untitled.md"
+    "NotesVault/_Templates/Template MPuriNotes.md"
   ]
 }
