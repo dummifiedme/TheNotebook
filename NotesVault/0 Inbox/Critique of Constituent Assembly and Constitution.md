@@ -35,7 +35,18 @@
 - The fundamentals of constitution were not discovered overnight but were vigorously debated during the course of freedom struggle.
 - The objective of the assembly was to prepare a workable constitution not an ideal one.
 - The adaption was intelligent.
-- Calling it unindian
+- > "Calling the Constitution un-Indian amounts to measuring it against an undefined yardstick" - Granville Austin
+- That is a slavish imitation of west is a belief held by those who have set the British spread myth that the constitution was the culmination of a process that the British started in 1861.
+
+### 5. Complex language and Elephantine
+> Elephant also represent the constitution as a symbol (officially)
+- Lawyers Paradise
+- Complicated language
+- Elephantine in Size
+
+### 6. Constitution is typically un-Gandhian
+- The congress was Gandhian in its approach towards the national movement and typically un-Gandhian w.r.t. post independence Indian polity and economy.
+- 
 
 
 
