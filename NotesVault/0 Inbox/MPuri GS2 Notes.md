@@ -120,7 +120,7 @@ date: 2020-14-05 12:14
 
 
 ## Constitution 
-![[Constitution]] 
-![[Constitution as a living document]] 
-![[Significance of the Constitution]] 
-![[Constitutionalism]] 
+1. [[Constitution]] 
+2. [[Constitution as a living document]] 
+3. [[Significance of the Constitution]] 
+4. [[Constitutionalism]] 

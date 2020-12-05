@@ -1,22 +1,24 @@
 ---
-Date: 2020-12-02 16:47
+Date: '2020-12-02 16:47'
 Title: Constitutionalism
-Parent: [[SR Polity Lecture 1]]
+Parent:
+  - - SR Polity Lecture 1
+date updated: '2020-12-05T16:20:36+05:30'
+
 ---
 
 ### Constitutionalism
 
 > Wherever 'ism' is used, it means Ideology.
 
-*   Ideology of Constitutionalism = Rule of Law
-    *   Rule of Law checks the arbitrariness of power.
-    *   Rule of law is on part of the government.
-    *   Rule of Law = LImited Government.
-    *   Example: Fundamental Right is a part of 'Rule of Law' => Limits the government.
+-   Ideology of Constitutionalism = Rule of Law
+    -   Rule of Law checks the arbitrariness of power.
+    -   Rule of law is on part of the government.
+    -   Rule of Law = LImited Government.
+    -   Example: Fundamental Right is a part of 'Rule of Law' => Limits the government.
 
-*   Constitutionalism is a feature only of Democracy.
-    *   WHY? In democratic countries the power lies with the people. (Rights = Power)
-
+-   Constitutionalism is a feature only of Democracy.
+    -   WHY? In democratic countries the power lies with the people. (Rights = Power)
 
 <!--- MPuri Notes starts here --->
 
@@ -33,6 +35,9 @@ Parent: [[SR Polity Lecture 1]]
      5. Diplomatic Immunity.
 
 2. Absence of arbitrary powers
-   - > constitutionalism abhors absolutism
+	- > constitutionalism abhors absolutism
    - Delegation of powers must be complimented with appropriate norms guiding it's use, and safeguard to prevent its abuse.
    - Constitution is a consequence not the source of rights, which implies people can enjoy unenumerated rights as well, but this dictum is not largely followed in Indian Constitutional philosophy. 
+
+3. Separation of Powers
+4. 
