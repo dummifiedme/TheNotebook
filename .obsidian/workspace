@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "e9dfa5f53e0f051e",
+        "id": "d1c5ec54678bffda",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Words.md",
-            "mode": "source"
+            "file": "NotesVault/_Templates/Template MPuriNotes.md",
+            "mode": "preview"
           }
         }
       }
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5036334991455
+    "width": 342.5036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -102,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Words.md",
+                "file": "NotesVault/_Templates/Template MPuriNotes.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Words.md",
+                "file": "NotesVault/_Templates/Template MPuriNotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Words.md"
+                "file": "NotesVault/_Templates/Template MPuriNotes.md"
               }
             }
           }
@@ -205,15 +206,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/Words.md",
+    "NotesVault/_Templates/Template MPuriNotes.md",
     "NotesVault/0 Inbox/Framing of the Constitution.md",
+    "Untitled.md",
+    "NotesVault/Words.md",
     "NotesVault/0 Inbox/Autochthony.md",
     "NotesVault/0 Inbox/Framing of the Consitution.md",
-    "NotesVault/_Templates/Template MPuriNotes.md",
     "NotesVault/0 Inbox/Untitled.md",
     "NotesVault/0 Inbox/Interpreting the Constitution.md",
     "NotesVault/0 Inbox/Article 366.md",
-    "NotesVault/GS2-Consolidated.md",
-    "NotesVault/0 Inbox/MPuri GS2 Notes.md"
+    "NotesVault/GS2-Consolidated.md"
   ]
 }
