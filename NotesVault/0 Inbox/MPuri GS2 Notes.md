@@ -126,4 +126,5 @@ date: 2020-14-05 12:14
 	3. [[Constitutionalism]] 
 	4. [[Interpreting the Constitution]]
 2. [[Framing of the Constitution]]
-	1. [[Critique of Constituent Assembly and Constitution]]
+	1. [[Constituent Assembly Committees]]
+	2. [[Critique of Constituent Assembly and Constitution]]

@@ -14,17 +14,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "94bc1dbfc5d83c47",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NotesVault/1 Projects/UPSC/GS2/Making of the Constitution.md",
-            "mode": "preview"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -121,7 +110,7 @@
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
-                  "showTags": true,
+                  "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "showArrow": true,
@@ -132,7 +121,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4996581822291941
+                  "scale": 0.8904366925266489
                 }
               }
             }
@@ -213,19 +202,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.3954162597656,
-    "collapsed": true
+    "width": 404.7157287597656
   },
   "lastOpenFiles": [
     "NotesVault/0 Inbox/Framing of the Constitution.md",
+    "NotesVault/0 Inbox/Constituent Assembly.md",
+    "NotesVault/0 Inbox/Kesavananda Bharati case.md",
     "NotesVault/1 Projects/UPSC/GS2/Making of the Constitution.md",
     "NotesVault/Untitled.md",
     "NotesVault/_Templates/Untitled.md",
     "NotesVault/_Templates/Template MPuriNotes.md",
     "NotesVault/_Templates/Template_ANKIGlobal.md",
     "NotesVault/0 Inbox/Critique of Constituent Assembly and Constitution.md",
-    "NotesVault/_Planner/2020-12-05.md",
-    "NotesVault/QA - Making of the Constitution.md",
-    "NotesVault/Polity MOC.md"
+    "NotesVault/_Planner/2020-12-05.md"
   ]
 }

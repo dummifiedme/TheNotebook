@@ -40,57 +40,23 @@ Q&A from Laxmikant - [[QA - Making of the Constitution]]
 12. Article 394 - Commencement of the Constitution 
    - It mentions some of the articles that came into force immediately but the entire Constitution was commenced since 26th January 1950.
 
-### Consti
+### Defending the Constituent Assembly w.r.t representation
+- It is to be noted that the situations in which India got independence were not conducive for direct elections. There was no point in postponing the formation of the assembly. It is true that assembly was dominated by Congress, but it is also true that 'Congress was India and India was Congress'. 
+- To ensure that the Constitution remains a consensus document, Congress had co-opted the members of the Republican Party , Hindu Mahasabha etc. Every provision was adopted after deliberation and most of the provisions were adopted by consensus. In 1952, when first general election took place, most of the members of the Constituent Assembly got reelected. 
+- Supreme court in Kesavanand Bharti Case has held that there is no relevance of debate on the factual correctness of the term 'We the People of India' mentioned in the Preamble. The matter is already settled that the constituent represented the will of the people. 
+- The biggest testimony of the representativeness of the Constitution is the survival of India as a nation and Granville Austin rightly calls Indian Constitution as 'the cornerstone of a nation'. According to Pratap Bhanu Mehta, Indian Constitution is not an ordinary Constitution but a revolutionary document through which an attempt has been made to transform a highly traditional society into a modern vibrant nation, the so called silent revolution.
 
-### Constituent Assembly
-- Advisor to Constitution - BN Rau
+### Constituent Assembly Committees
+[[Constituent Assembly Committees]]
 
-####  Major Committees
+### Critique of Constituent Assembly and Constitution
+[[Critique of Constituent Assembly and Constitution]]
 
- *Jawahar Lal Nehru *
 
--   Union Powers Committee  was headed by  Jawaharlal Nehru .
--   Union Constitution Committee  was headed by  Jawaharlal Nehru .
--   States Committee  (Committee for Negotiating with States) was headed by  Jawaharlal Nehru .
 
- *Sardar Patel *
 
--   Provincial Constitution Committee  was headed by  Sardar Patel .
--  Advisory Committee on Fundamental Rights, Minorities and Tribal and Excluded Areas  was headed by  Sardar Patel 
-    	- Had 5 Sub-Committees. 
 
- *Rajendra Prasad *
 
--   Rules of Procedure Committee  was headed by  Dr. Rajendra Prasad.
--   Steering Committee  was headed by  Dr. Rajendra Prasad .
-
--   Drafting Committee  was headed by  Dr. B R Ambedkar .
-
-#### Minor Committees
-
--  Finance and Staff Committee -  Dr. Rajendra Prasad .
--  Ad-Hoc Committee on the  National Flag  -  Dr. KM Munshi 
--  Special Committee to Examine the Draft Constitution -  Jawaharlal Nehru .
-
-#### Drafting Committee
-
-- Most important committee was  Drafting Committee .
-- Set-up on August 29, 1947.
--   List the members of Draft Committee. 
-
-    Seven Members
-
-    1. Dr. B.R. Ambedkar (Chairman)
-    2. N. Gopalaswamy Ayyangar
-    3. Alladi Krishnaswamy Ayyar
-    4. Dr. K.M. Munshi
-    5. Syed Mohammad Saadullah
-    6. N. Madhava Rau (He replaced B.L. Mitter who resigned due to ill-health)
-    7. T.T. Krishnamachari (He replaced D.P. Khaitan who died in 1948)
-
----
-
-- [[Critique of Constituent Assembly and Constitution]]
 
 
 
