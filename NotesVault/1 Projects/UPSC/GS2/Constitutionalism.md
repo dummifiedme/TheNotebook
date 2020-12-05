@@ -33,7 +33,7 @@ date updated: '2020-12-05T16:32:52+05:30'
 1. **Rule of Law**- developed by British ruler Dicey
 	- all manner of people are equally subjected to the ordinary law of the land as administered through ordinary codes.
 	- **Exceptions to the rule of law**
-     	1. Existence id quasi judicial bodies outside ethe regular courts.
+     	1. Existence of quasi judicial bodies outside ethe regular courts.
      	2. The provision of affirmative actions^[ #digDeep ].		
      	3. Article 361 - the immunity from criminal prosecution amounts to blind aping of the west which under British Constitutional philosophy - all institutions are creation of crown, thus creation cannot question the create. 
      	In contrast in India all the institutions are creation of the Constitution. The provision also carries 	potential for abuse as was alleged from the appointment of Sheila Dixit as Governor of Kerala. #digDeep
@@ -70,7 +70,11 @@ date updated: '2020-12-05T16:32:52+05:30'
 4. **Temporariness of the government --> Elected governments**
 5. **Free Press/Media**
 6. **Independent Judiciary**
-	
+
+#### Comparison with western idea of constitutionalism
+The ==western idea of constitutionalism is negative== in orientation as it principally seeks to ==restrict, limit and dis-empower the state==. Ideally the state must also be empowered adequately to enable it to deliver on governance agenda. Thus, ==the right balance== has to be stuck between the needs of checking operation and preventing chaos in the society.
+
+
 ---
 TARGET DECK
 UPSC::General Studies 2
