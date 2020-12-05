@@ -17,7 +17,7 @@ Q: To what extent it is appropriate to suggest that the present Constitution rep
 Q: To what extent we can consider the Constitution as true representation of Indians?
 
 ### Facts...
-1. Gandhi promised that swaraj will. Not be a free gift of British. The Constitution wil have to be framed by the Indians. 
+1. Gandhi promised that swaraj will. Not be a free gift of British. The Constitution will have to be framed by the Indians. 
 2. Nehru Report was the first attempt by the Indians to frame the Constitution of future India
    - it included the scheme of FR, Social and economic rights, special rights for minorities, parliamentary form of government and dominion status. 
 3. In 1934, congress working committee passed the resolution that Constitution will be framed by the elected Constituent Assembly. 
@@ -50,16 +50,16 @@ Q: To what extent we can consider the Constitution as true representation of Ind
    - Non Elected members
       - indirectly elected 
       - nominated
-      - coopted members --> Ambekar... Lost elections, but kept in the assembly. 
+      - co-opted members --> Ambedkar... Lost elections, but kept in the assembly. 
    - Elected members
-- Churchill called it an assembly of Brahmins and one party assembly. 
+- Churchill called it an assembly of Brahmans and one party assembly. 
 
 #### Introduction
-There has been debate on the representativeness of the constituent Assembly or whether the present Constitution of India represent the will of the people in real sense. It has been accused that the consistent assembly didn't represent all the sections of the Indian society, Churchill called it assembly of Brahmins
+There has been debate on the representativeness of the constituent Assembly or whether the present Constitution of India represent the will of the people in real sense. It has been accused that the consistent assembly didn't represent all the sections of the Indian society, Churchill called it assembly of Brahmans
    - it was dominated by Congress, 
    - in terms of profession dominated by lawyers, and 
    - contradictory to the promises by Gandhi and Congress.
-   - no direct election of the representation by the people contrary to the romoses of Gandhi and congress 
+   - no direct election of the representation by the people contrary to the promises of Gandhi and congress 
       - indirectly elected by the members of the Provincial Legislative Assemblies which were not given any such mandate by the electorate to elect the members of the assembly. 
       - The election of the Provincial legislatures were done in accordance to GoI Act 1935, even the size of electorate was very limited. 
 - The basic design was not determined by Indians but was based on the British formula given in Cabinet Mission. 

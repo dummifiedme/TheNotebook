@@ -4,14 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "8073b8d3b2705a7e",
+        "id": "0e2f02366854a869",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/0 Inbox/Critique of Constituent Assembly and Constitution.md",
+            "file": "NotesVault/0 Inbox/Framing of the Constitution.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "94bc1dbfc5d83c47",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/1 Projects/UPSC/GS2/Making of the Constitution.md",
+            "mode": "preview"
           }
         }
       }
@@ -103,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/0 Inbox/Critique of Constituent Assembly and Constitution.md",
+                "file": "NotesVault/0 Inbox/Framing of the Constitution.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -132,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/0 Inbox/Critique of Constituent Assembly and Constitution.md",
+                "file": "NotesVault/0 Inbox/Framing of the Constitution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,11 +158,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/0 Inbox/Critique of Constituent Assembly and Constitution.md"
+                "file": "NotesVault/0 Inbox/Framing of the Constitution.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "99fbaef30af61a27",
@@ -205,15 +217,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/0 Inbox/Framing of the Constitution.md",
+    "NotesVault/1 Projects/UPSC/GS2/Making of the Constitution.md",
+    "NotesVault/Untitled.md",
+    "NotesVault/_Templates/Untitled.md",
+    "NotesVault/_Templates/Template MPuriNotes.md",
+    "NotesVault/_Templates/Template_ANKIGlobal.md",
     "NotesVault/0 Inbox/Critique of Constituent Assembly and Constitution.md",
     "NotesVault/_Planner/2020-12-05.md",
-    "NotesVault/0 Inbox/Framing of the Constitution.md",
     "NotesVault/QA - Making of the Constitution.md",
-    "NotesVault/Polity MOC.md",
-    "NotesVault/Inbox.md",
-    "QA - Making of the Constitution.md",
-    "Cripps mission.md",
-    "Cabinet mission.md",
-    "Indian Polity - Laxmikant.md"
+    "NotesVault/Polity MOC.md"
   ]
 }
