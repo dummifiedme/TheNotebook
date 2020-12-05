@@ -5,7 +5,7 @@ Stage: #Stage1⌨ | Tags: #polity | Source: #mPuri
 
 ---
 
-1. Article 366 
+1. [[Article 366]]  - Contains definitions of commonly used terms throughout the constitution or laws.
 2. The tools evolved by the apex court
 	- Unless the context requires otherwise, commonly held meaning of English term shall be used to interpret the constitution
 3. The Doctrine of liberal interpretation

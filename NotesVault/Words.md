@@ -114,4 +114,9 @@ Meaning:
 - "a man caught up in a political imbroglio"
 <!--ID: 1606267017360-->
 
-
+### Autochthony
+Meaning: 
+- Word -- Autochthon
+- ancient Greece
+- In Ancient Greece, the concept of autochthones means the original inhabitants of a country as opposed to settlers, and those of their descendants who kept themselves free from an admixture of foreign peoples. In mythology, autochthones are those mortals who have sprung from the soil, rocks and trees.
+- Example: "Constitutional Autochthony" -> KC Wheare about Indian Constiution.

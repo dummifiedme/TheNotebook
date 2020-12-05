@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ee94de0bb631d542",
+        "id": "e9dfa5f53e0f051e",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/0 Inbox/Interpreting the Constitution.md",
+            "file": "NotesVault/Words.md",
             "mode": "source"
           }
         }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5036334991455,
-    "collapsed": true
+    "width": 342.5036334991455
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -103,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/0 Inbox/Interpreting the Constitution.md",
+                "file": "NotesVault/Words.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/0 Inbox/Interpreting the Constitution.md",
+                "file": "NotesVault/Words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,11 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/0 Inbox/Interpreting the Constitution.md"
+                "file": "NotesVault/Words.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "99fbaef30af61a27",
@@ -205,15 +205,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Words.md",
+    "NotesVault/0 Inbox/Framing of the Constitution.md",
+    "NotesVault/0 Inbox/Autochthony.md",
+    "NotesVault/0 Inbox/Framing of the Consitution.md",
+    "NotesVault/_Templates/Template MPuriNotes.md",
+    "NotesVault/0 Inbox/Untitled.md",
     "NotesVault/0 Inbox/Interpreting the Constitution.md",
+    "NotesVault/0 Inbox/Article 366.md",
     "NotesVault/GS2-Consolidated.md",
-    "NotesVault/0 Inbox/MPuri GS2 Notes.md",
-    "NotesVault/1 Projects/UPSC/GS2/Constitutionalism.md",
-    "NotesVault/1 Projects/UPSC/GS2/Article 372A.md",
-    "NotesVault/1 Projects/UPSC/GS2/Article 372.md",
-    "NotesVault/_Templates/Template- Articles.md",
-    "NotesVault/_Templates/Untitled.md",
-    "NotesVault/1 Projects/UPSC/GS2/Constitution.md",
-    "NotesVault/_DASHBOARD.md"
+    "NotesVault/0 Inbox/MPuri GS2 Notes.md"
   ]
 }
