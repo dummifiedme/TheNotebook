@@ -21,6 +21,15 @@ date updated: '2020-12-05T16:32:52+05:30'
 <!--- MPuri Notes starts here --->
 
 #### Components
+
+> SIX Pillars of Constitutionalism ::: 
+> -  Rule of Law
+> -  Absence of arbitrary powers
+> - Separation of Powers
+> - Temporariness of government
+> - Freedom of press/media
+> - Independent Judiciary.
+
 1. **Rule of Law**- developed by British ruler Dicey
 	- all manner of people are equally subjected to the ordinary law of the land as administered through ordinary codes.
 	- **Exceptions to the rule of law**
@@ -57,4 +66,16 @@ date updated: '2020-12-05T16:32:52+05:30'
 		6.  [[Article 372]] allowed existing laws with President's power to adapt them ([[Article 372A]]).
 		7.  Internal separation of powers within executive
 			- Independent bodies UPSC, CAG etc.
-	- Old despotism^[https://en.wikipedia.org/wiki/Despotism] that is when 3 powers were combined in position of king. New despotism - recombination of three powers in bureaucracy to address and to deal with complexities of modern governance yet it also gives rise to a heightened risk of abuse. The solution therefor lies in putting in place appropriate safeguards and experimenting with new norms of accountability.
+	- Old despotism^[https://en.wikipedia.org/wiki/Despotism], that is when 3 powers were combined in position of king. New despotism - recombination of three powers - in bureaucracy to address and to deal with complexities of modern governance yet it also gives rise to a heightened risk of abuse. ==The solution therefore lies in putting in place appropriate safeguards and experimenting with new norms of accountability.==
+4. **Temporariness of the government --> Elected governments**
+5. **Free Press/Media**
+6. **Independent Judiciary**
+	
+---
+TARGET DECK
+UPSC::General Studies 2
+
+FILE TAG
+GS2::Topic01 Polity
+
+---
