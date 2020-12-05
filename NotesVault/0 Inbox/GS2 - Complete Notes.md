@@ -1,0 +1,12 @@
+---
+title: GS2 - Complete Notes
+date: 2020-12-03 23:18
+Puri
+---
+
+# GS2 - Complete Notes
+status: #Stage1⌨ | tags: #polity 
+
+---
+
+

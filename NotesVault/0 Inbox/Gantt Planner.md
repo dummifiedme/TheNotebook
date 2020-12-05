@@ -1,0 +1,20 @@
+# Gantt Planner
+
+```mermaid
+gantt
+	title Plan
+	dateFormat DD/MM/YY
+	axisFormat %d/%m
+
+	section GS2
+	MPuri 200 pages: gs2-1, 05/12/20, 4d
+
+	section Anthropology
+	Family: A1, 05/12/20, 2d
+	Kinship: after A1, 3d
+	
+	section Answer Writing
+	Polity Test: after gs2-1, 1d
+	
+
+```
