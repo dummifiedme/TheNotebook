@@ -193,11 +193,8 @@
             "id": "200c52d6742da220",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NotesVault/_Planner/2020-12-05.md",
-                "mode": "preview"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],

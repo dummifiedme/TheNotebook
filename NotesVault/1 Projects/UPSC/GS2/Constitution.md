@@ -18,6 +18,16 @@ A: Constitution is a power mapping defining the powers of different branches of 
 Q: Is there a country without a constitution?
 A: No, no country can exist without a constitution. Written/ Unwritten.
 
+<!--- MPuri Notes --->
+> Legus Legum - Laws of the Laws
+- most fundamental law according to which a nation state is governed
+- It gave us framework of our polity. 
+    - Trinity of the state - Legislature, executive and judiciary
+    - Constitution provides norms that given the relationship within the trinity. 
+    - Nature of the relationship between state and its citizens. 
+
+
+
 ### Types of Constitution
 
 1.  Written and Unwritten Constitutions
@@ -35,3 +45,4 @@ A: No, no country can exist without a constitution. Written/ Unwritten.
 ---
 
 1. [[Preamble]]
+2. [[Constitution as a living document]]
