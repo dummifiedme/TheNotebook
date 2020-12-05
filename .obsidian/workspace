@@ -4,7 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f7695782fe583e24",
+        "id": "26dc13dea66eafc8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/_Templates/Template - WeekPlan.md",
+            "mode": "source"
+          }
+        },
+        "group": "e28f8cef44a2ea16"
+      },
+      {
+        "id": "67dd8334118b492e",
         "type": "leaf",
         "active": true,
         "state": {
@@ -13,20 +25,19 @@
             "file": "0 Planner/Week 2020-50.md",
             "mode": "source"
           }
-        },
-        "group": "d162187057a4f3b6"
+        }
       },
       {
-        "id": "f460d95a84be54ef",
+        "id": "200c52d6742da220",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0 Planner/Week 2020-50.md",
+            "file": "NotesVault/_Templates/Template - WeekPlan.md",
             "mode": "preview"
           }
         },
-        "group": "d162187057a4f3b6"
+        "group": "e28f8cef44a2ea16"
       }
     ],
     "direction": "vertical"
@@ -214,24 +225,22 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 419.71575927734375,
-    "collapsed": true
+    "width": 419.71575927734375
   },
   "lastOpenFiles": [
     "0 Planner/Week 2020-50.md",
+    "NotesVault/_Templates/Template - WeekPlan.md",
+    "NotesVault/_Templates/Untitled.md",
+    "0 Planner/XXX.md",
+    "0 Planner/```todoist.md",
     "0 Planner/Gantt Planner.md",
     "0 Planner/Week 2020-49.md",
     "NotesVault/0 Inbox/Gantt Planner.md",
     "NotesVault/1 Projects/UPSC/GS2/Constitution.md",
-    "NotesVault/0 Inbox/Untitled.md",
-    "0 Planner/_Calendar-2020.md",
-    "NotesVault/_HandwrittenNoteSystem.md",
-    "NotesVault/1 Projects/UPSC/GS2/_HandwrittenNoteSystem.md",
-    "NotesVault/1 Projects/UPSC/GS2/GS2 Consolidated Notes/GS2 - Complete Notes.md"
+    "NotesVault/0 Inbox/Untitled.md"
   ]
 }
