@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d1c5ec54678bffda",
+        "id": "5deaf6fa75428d53",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/_Templates/Template MPuriNotes.md",
-            "mode": "preview"
+            "file": "QA - Making of the Constitution.md",
+            "mode": "source"
           }
         }
       }
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/_Templates/Template MPuriNotes.md",
+                "file": "QA - Making of the Constitution.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/_Templates/Template MPuriNotes.md",
+                "file": "QA - Making of the Constitution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/_Templates/Template MPuriNotes.md"
+                "file": "QA - Making of the Constitution.md"
               }
             }
           }
@@ -206,15 +206,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/_Templates/Template MPuriNotes.md",
+    "QA - Making of the Constitution.md",
+    "Demand for Constituent Assembly.md",
+    "Cripps mission.md",
+    "What was Cabinet mission.md",
+    "What was Cripps mission.md",
+    "Notion-Making of the Constitution.md",
+    "NotesVault/1 Projects/UPSC/GS2/Making of the Constitution.md",
     "NotesVault/0 Inbox/Framing of the Constitution.md",
-    "Untitled.md",
-    "NotesVault/Words.md",
-    "NotesVault/0 Inbox/Autochthony.md",
-    "NotesVault/0 Inbox/Framing of the Consitution.md",
-    "NotesVault/0 Inbox/Untitled.md",
-    "NotesVault/0 Inbox/Interpreting the Constitution.md",
-    "NotesVault/0 Inbox/Article 366.md",
-    "NotesVault/GS2-Consolidated.md"
+    "NotesVault/_Templates/Template MPuriNotes.md",
+    "Untitled.md"
   ]
 }
