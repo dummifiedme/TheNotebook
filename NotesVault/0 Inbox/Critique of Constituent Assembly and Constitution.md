@@ -46,7 +46,9 @@
 
 ### 6. Constitution is typically un-Gandhian
 - The congress was Gandhian in its approach towards the national movement and typically un-Gandhian w.r.t. post independence Indian polity and economy.
-- 
+- Gandhian ideology has not been completely sidelined. 
+	- Provision with respect to untouchability. 
+	- Affirmative Actions,
 
 
 
