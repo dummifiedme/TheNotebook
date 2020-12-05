@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "QA - Making of the Constitution.md",
+            "file": "NotesVault/0 Inbox/Critique of Constituent Assembly and Constitution.md",
             "mode": "source"
           }
         }
@@ -23,15 +23,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7699e0313582942d",
+        "id": "5313749fb7e991a2",
         "type": "tabs",
-        "dimension": 57.543103448275865,
+        "dimension": 66.41550053821314,
         "children": [
           {
             "id": "3e25e94ed1684d8d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6eaa1786300e057",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
               "state": {}
             }
           },
@@ -49,21 +57,13 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "b6eaa1786300e057",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       },
       {
         "id": "088ed5302beee153",
         "type": "tabs",
-        "dimension": 42.456896551724135,
+        "dimension": 33.58449946178686,
         "children": [
           {
             "id": "ce706b535bc2ba80",
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5036334991455
+    "width": 342.5036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -102,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "QA - Making of the Constitution.md",
+                "file": "NotesVault/0 Inbox/Critique of Constituent Assembly and Constitution.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QA - Making of the Constitution.md",
+                "file": "NotesVault/0 Inbox/Critique of Constituent Assembly and Constitution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,12 +147,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QA - Making of the Constitution.md"
+                "file": "NotesVault/0 Inbox/Critique of Constituent Assembly and Constitution.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "99fbaef30af61a27",
@@ -201,19 +201,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.7156677246094,
+    "width": 278.3954162597656,
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/0 Inbox/Critique of Constituent Assembly and Constitution.md",
+    "NotesVault/0 Inbox/Framing of the Constitution.md",
+    "NotesVault/QA - Making of the Constitution.md",
+    "NotesVault/Polity MOC.md",
+    "NotesVault/Inbox.md",
     "QA - Making of the Constitution.md",
     "Cripps mission.md",
     "Cabinet mission.md",
-    "NotesVault/0 Inbox/Framing of the Constitution.md",
     "Indian Polity - Laxmikant.md",
-    "Demand for Constituent Assembly.md",
-    "What was Cabinet mission.md",
-    "What was Cripps mission.md",
-    "Notion-Making of the Constitution.md",
-    "NotesVault/1 Projects/UPSC/GS2/Making of the Constitution.md"
+    "Demand for Constituent Assembly.md"
   ]
 }

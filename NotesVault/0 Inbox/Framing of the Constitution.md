@@ -7,7 +7,7 @@
 | [[../0 Inbox/MPuri GS2 Notes]] | #polity #mPuri #2020-12-05 | #Stage1⌨  | [[2020-12-05]] |              |
 
 ---
-Q&A from Laxmikant - [[../../QA - Making of the Constitution]]
+Q&A from Laxmikant - [[QA - Making of the Constitution]]
 
 > "Constitutional Autochthony^[greek; from the people of the land]" 
 > - A phrase by K.C. Wheare
@@ -63,8 +63,8 @@ Q&A from Laxmikant - [[../../QA - Making of the Constitution]]
     6. N. Madhava Rau (He replaced B.L. Mitter who resigned due to ill-health)
     7. T.T. Krishnamachari (He replaced D.P. Khaitan who died in 1948)
 
-
-###
+---
+[[Critique of Constituent Assembly and Constitution]]
 
 
 

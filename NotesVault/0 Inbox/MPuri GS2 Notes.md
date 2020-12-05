@@ -125,4 +125,5 @@ date: 2020-14-05 12:14
 	2. [[Significance of the Constitution]] 
 	3. [[Constitutionalism]] 
 	4. [[Interpreting the Constitution]]
-	5. [[Framing of the Constitution]]
+2. [[Framing of the Constitution]]
+	1. [[Critique of Constituent Assembly and Constitution]]
