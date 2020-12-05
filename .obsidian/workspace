@@ -4,16 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "076e05579124811c",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NotesVault/1 Projects/UPSC/GS2/Constitutionalism.md",
-            "mode": "source"
+        "id": "303c3c0ccd64a97e",
+        "type": "split",
+        "children": [
+          {
+            "id": "076e05579124811c",
+            "type": "leaf",
+            "dimension": 54.35952637244349,
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NotesVault/1 Projects/UPSC/GS2/Article 372.md",
+                "mode": "source"
+              }
+            },
+            "group": "a63300e0d6ac7afb"
+          },
+          {
+            "id": "d5d4c6ea26cbf86b",
+            "type": "leaf",
+            "dimension": 45.64047362755651,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NotesVault/1 Projects/UPSC/GS2/Article 372.md",
+                "mode": "preview"
+              }
+            },
+            "group": "a63300e0d6ac7afb"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -103,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/Constitutionalism.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/Article 372.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -132,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/Constitutionalism.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/Article 372.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/Constitutionalism.md"
+                "file": "NotesVault/1 Projects/UPSC/GS2/Article 372.md"
               }
             }
           }
@@ -213,6 +235,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/1 Projects/UPSC/GS2/Article 372.md",
     "NotesVault/1 Projects/UPSC/GS2/Constitutionalism.md",
     "NotesVault/GS2-Consolidated.md",
     "NotesVault/1 Projects/UPSC/GS2/Constitution.md",
@@ -221,7 +244,6 @@
     "NotesVault/1 Projects/UPSC/GS2/Constitution as a living document.md",
     "NotesVault/PARA System/0 Inbox/MPuri GS2 Notes.md",
     "tiddlers/Cases reaffirming the Doctrine of Basic Structure.md",
-    "NotesVault/0 Inbox/UPSC Related Articles/Adichanallur A brief history on one of the oldest archaeological sites in India.md",
-    "NotesVault/0 Inbox/Resonance Center/Workflow Ideas.md"
+    "NotesVault/0 Inbox/UPSC Related Articles/Adichanallur A brief history on one of the oldest archaeological sites in India.md"
   ]
 }

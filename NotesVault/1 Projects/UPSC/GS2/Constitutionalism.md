@@ -47,4 +47,11 @@ date updated: '2020-12-05T16:32:52+05:30'
 	- Exceptions:
 		1. Parliamentary form of government, where in the political executive is drawn from parliament.
 		2. Executive is often conferred with judicial as well as law making (legislative function)
-			- Examples
+			- Examples: 
+				- Revenue court under district collector, SDM, Tehsildars.
+				- Delegated legislation/subordinate/executive.
+				- ==Legislature usually pass laws in the broad and skeletal form==, while the flesh and muscle is provided by the rules, regulations, by laws framed by the executive.
+		3. Scheme such as MP-LADs (Local Area Developments), MLA LADs. #digDeep 
+		4. Common law or Judge-made Law
+		5.  Setting up of independent regulators fro various sectors of economy which combine three powers.
+		6.  [[Article 372]] powered law with President
