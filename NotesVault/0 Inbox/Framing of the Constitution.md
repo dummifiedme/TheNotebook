@@ -1,4 +1,4 @@
-### Framing of the Constitution
+## Framing of the Constitution
 
 ---
 
@@ -7,7 +7,7 @@
 | [[../0 Inbox/MPuri GS2 Notes]] | #polity #mPuri #2020-12-05 | #Stage1⌨  | [[2020-12-05]] |              |
 
 ---
-
+Q&A from Laxmikant - [[../../QA - Making of the Constitution]]
 
 > "Constitutional Autochthony^[greek; from the people of the land]" 
 > - A phrase by K.C. Wheare
@@ -17,7 +17,7 @@
 - The demand was also highlighted in the congress party's manifesto on the eve of 1937 elections.
 - The constitutional assembly was created under Cabinet Mission Plan 1946.
 
-#### Facts
+## Constituent Assembly
 - Advisor to Constitution - BN Rau
 
 #####  Major Committees
@@ -31,13 +31,12 @@
  *Sardar Patel *
 
 -   Provincial Constitution Committee  was headed by  Sardar Patel .
--   Advisory Committee on Fundamental Rights, Minorities and Tribal and Excluded Areas  was headed by  Sardar Patel 
-
-    Had 5 Sub-Committees. 
+-  Advisory Committee on Fundamental Rights, Minorities and Tribal and Excluded Areas  was headed by  Sardar Patel 
+    	- Had 5 Sub-Committees. 
 
  *Rajendra Prasad *
 
--   Rules of Procedure Committee  was headed by  Dr. Rajendra Prasad .
+-   Rules of Procedure Committee  was headed by  Dr. Rajendra Prasad.
 -   Steering Committee  was headed by  Dr. Rajendra Prasad .
 
 -   Drafting Committee  was headed by  Dr. B R Ambedkar .
@@ -65,7 +64,7 @@
     7. T.T. Krishnamachari (He replaced D.P. Khaitan who died in 1948)
 
 
-
+###
 
 
 
