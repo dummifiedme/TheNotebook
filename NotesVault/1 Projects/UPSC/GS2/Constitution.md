@@ -1,7 +1,6 @@
 ---
 Date: 2020-12-02 16:44
 Title: Constitution
-Parent: [[SR Polity Lecture 1]]
 ---
 
 ### Constitution

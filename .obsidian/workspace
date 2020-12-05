@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/0 Inbox/MPuri GS2 Notes.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -92,7 +95,7 @@
       {
         "id": "e85937537ea41e43",
         "type": "tabs",
-        "dimension": 31.43164693218515,
+        "dimension": 45.64047362755651,
         "children": [
           {
             "id": "805bcd67c5cb6875",
@@ -100,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "NotesVault/0 Inbox/MPuri GS2 Notes.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -128,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NotesVault/0 Inbox/MPuri GS2 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NotesVault/0 Inbox/MPuri GS2 Notes.md"
+              }
             }
           }
         ]
@@ -149,7 +156,7 @@
       {
         "id": "99fbaef30af61a27",
         "type": "tabs",
-        "dimension": 68.56835306781485,
+        "dimension": 54.35952637244349,
         "children": [
           {
             "id": "28904d8c29b4f7b8",
@@ -202,18 +209,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.71575927734375
+    "width": 458.35968017578125,
+    "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/0 Inbox/MPuri GS2 Notes.md",
+    "NotesVault/1 Projects/UPSC/GS2/Constitution as a living document.md",
+    "NotesVault/1 Projects/UPSC/GS2/Constitution.md",
+    "NotesVault/PARA System/0 Inbox/MPuri GS2 Notes.md",
     "tiddlers/Cases reaffirming the Doctrine of Basic Structure.md",
     "NotesVault/0 Inbox/UPSC Related Articles/Adichanallur A brief history on one of the oldest archaeological sites in India.md",
     "NotesVault/0 Inbox/Resonance Center/Workflow Ideas.md",
     "NotesVault/0 Inbox/Resonance Center/How to take smart notes.md",
     "NotesVault/_Stages of Notes.md",
-    "NotesVault/000 Index.md",
-    "NotesVault/_Note System and Markers.md",
-    "NotesVault/_HandwrittenNoteSystem.md",
-    "NotesVault/_DASHBOARD.md",
-    "NotesVault/_Planner/2020-12-05.md"
+    "NotesVault/000 Index.md"
   ]
 }
