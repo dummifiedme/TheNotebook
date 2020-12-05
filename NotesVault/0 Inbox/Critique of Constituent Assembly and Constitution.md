@@ -18,3 +18,25 @@
 - The members also adopted the tool of public reason and emphasized larger public interest over sectional interest.
 - The constitution ==reflects will of many== rather than the needs of the few.
 
+### 2. Constitutional assembly was congress dominated
+- Close to 82% of the members of assembly belong to congress
+- **Debunking the Criticism**
+	- Congress never represented a single coherent ideology but was a broad church incorporating in its fold people belonging to all shades of political ideology.
+
+### 3. Constituent Assembly was Hindu dominated
+**Debunking the Criticism**
+- The right wing groups were critical of constitution on account of secular nature and that it did not incorporate elements of ancient Hindu polity.
+
+### 4. Constitution was un-Indian and slavish imitation of the west
+**Debunking the criticism**
+- Fundamentals of secular democratic polity were more or less settled and thus the Indian constitution could not fabricate fresh ideals.
+- A constitution prepared so late in the day can defer from the others in  details not in fundamentals.
+- No nation has an inherent patent right over constitutional ideals.
+- The fundamentals of constitution were not discovered overnight but were vigorously debated during the course of freedom struggle.
+- The objective of the assembly was to prepare a workable constitution not an ideal one.
+- The adaption was intelligent.
+- Calling it unindian
+
+
+
+
