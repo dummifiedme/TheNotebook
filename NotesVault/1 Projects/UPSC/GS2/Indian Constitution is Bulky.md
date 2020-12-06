@@ -14,3 +14,4 @@
 	7. Union state relations are dealt with elaboration.
 	8. Most constitutions contain fundamental principles, Indian constitution carries the details of administration as well.
 		1.  e.g Details of account audits, languages, civil services etc.
+		2.  
