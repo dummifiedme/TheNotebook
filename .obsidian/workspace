@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0e2f02366854a869",
+        "id": "bad807ed046e416b",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/0 Inbox/Framing of the Constitution.md",
-            "mode": "source"
+            "file": "NotesVault/0 Inbox/POSH Act.md",
+            "mode": "preview"
           }
         }
       }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Stage1⌨",
+                "query": "tag:#current",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "088ed5302beee153",
@@ -85,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5036334991455,
-    "collapsed": true
+    "width": 342.5036334991455
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/0 Inbox/Framing of the Constitution.md",
+                "file": "NotesVault/0 Inbox/POSH Act.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/0 Inbox/Framing of the Constitution.md",
+                "file": "NotesVault/0 Inbox/POSH Act.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/0 Inbox/Framing of the Constitution.md"
+                "file": "NotesVault/0 Inbox/POSH Act.md"
               }
             }
           }
@@ -205,15 +205,15 @@
     "width": 404.7157287597656
   },
   "lastOpenFiles": [
+    "NotesVault/0 Inbox/POSH Act.md",
+    "Index - Current Affairs.md",
+    "Untitled.md",
+    "NotesVault/0 Inbox/Untitled.md",
+    "NotesVault/0 Inbox/Constituent Assembly Committees.md",
     "NotesVault/0 Inbox/Framing of the Constitution.md",
     "NotesVault/1 Projects/UPSC/GS2/Making of the Constitution.md",
-    "NotesVault/0 Inbox/Constituent Assembly Committees.md",
     "NotesVault/0 Inbox/Critique of Constituent Assembly and Constitution.md",
     "NotesVault/0 Inbox/Constituent Assembly.md",
-    "NotesVault/0 Inbox/Kesavananda Bharati case.md",
-    "NotesVault/Untitled.md",
-    "NotesVault/_Templates/Untitled.md",
-    "NotesVault/_Templates/Template MPuriNotes.md",
-    "NotesVault/_Templates/Template_ANKIGlobal.md"
+    "NotesVault/0 Inbox/Kesavananda Bharati case.md"
   ]
 }
