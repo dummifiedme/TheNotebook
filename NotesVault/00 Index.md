@@ -12,6 +12,7 @@
 2. [[002 Subject Wise Topics]]
 3. [[003 Facts MOC]]
 4. [[Words]] 
+5. [[00 Index - Current Affairs]]
 
 ---
 
