@@ -44,16 +44,4 @@
 
 ---
 
-##### Borrowed features from Canada
-- Federal setup with a strong centre
-- Residuary powers with the union parliament
-- Nomination of state's governors by centre
-- Advisory jurisdiction of SC
-
-##### Borrowed features from Ireland
-- DPSP idea
-- President message to the parliament
-- Method of election of President
-	- Method is also somewhat similar to the election of German President.
-- Nomination of members to RS by President.
-	- Senate of Ireland -> 60 members, 10 are nominated.
+##### Borrowed Features from CANADA

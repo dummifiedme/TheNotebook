@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "NotesVault/1 Projects/UPSC/GS2/Features of Constitution.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -151,7 +151,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "99fbaef30af61a27",
