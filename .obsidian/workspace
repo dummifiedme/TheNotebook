@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/GS2/Caveats of Ambedkar.md",
-            "mode": "preview"
+            "file": "NotesVault/1 Projects/UPSC/GS2/Features of Constitution.md",
+            "mode": "source"
           }
         }
       }
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/Caveats of Ambedkar.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/Features of Constitution.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/Caveats of Ambedkar.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/Features of Constitution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/Caveats of Ambedkar.md"
+                "file": "NotesVault/1 Projects/UPSC/GS2/Features of Constitution.md"
               }
             }
           }
@@ -205,9 +205,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/1 Projects/UPSC/GS2/Caveats of Ambedkar.md",
-    "NotesVault/1 Projects/UPSC/GS2/MPuri GS2 Notes.md",
     "NotesVault/1 Projects/UPSC/GS2/Features of Constitution.md",
+    "NotesVault/1 Projects/UPSC/GS2/MPuri GS2 Notes.md",
+    "NotesVault/1 Projects/UPSC/GS2/Caveats of Ambedkar.md",
     "NotesVault/0 Inbox/SR Polity Lecture 5.md",
     "NotesVault/0 Inbox/List System  of proportional Representation.md",
     "NotesVault/0 Inbox/Evolution, Ecology and Behaviour - Yale University.md",
