@@ -6,7 +6,8 @@
 ### Features of Constitution
 1. Borrowed Constitution
 	- [[Borrowed Features of  Constitution]]
-2. [[Bulky Constitution]]
+2. Bulky Constitution
+	1. [[Indian Constitution is Bulky]]
 3. Flexibility of Constitution
 	1. [[Constitution as a living document]]
 4. Despite its exhaustiveness, scope for growth of convention
