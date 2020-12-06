@@ -1,7 +1,7 @@
----
-Date: 2020-12-02 16:59
-Title: Constitution as a living document
-Parent: [[SR Polity Lecture 1]]
+|             Source             |           Tags           | Stage | Date         |
+|:------------------------------:|:------------------------:|:------ :|:------------: |
+|[[MPuri GS2 Notes]]| #polity #mPuri #2020-12-06 | #Stage1⌨  | [[2020-12-06]] |              |
+
 ---
 
 ### Constitution as a living document
@@ -16,5 +16,22 @@ Indian constitution is an organic document, which means natural/living => it evo
 3. Through Convention
 4. Through Statutes
 
-
 > Constitutional Law is a wider term that includes all the four things. 
+
+#### More flexible, less rigid
+- Certain parts can be altered by simple majority
+	- e.g The first, second, fifth, sixth schedule can be altered by simple majority -> Article 168.
+- Scope of supplementary legislature
+	- e.g Article 70
+- Certain provision shall remain operative till such time parliament provides otherwise by law. e.g Article 287.
+
+
+---
+
+TARGET DECK
+UPSC::General Studies 2
+
+FILE TAG
+GS2::Topic01 Polity
+
+---

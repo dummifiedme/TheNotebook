@@ -7,7 +7,8 @@
 1. Borrowed Constitution
 	- [[Borrowed Features of  Constitution]]
 2. [[Bulky Constitution]]
-3. More Flexible less rigid
+3. Flexibility of Constitution
+	1. [[Constitution as a living document]]
 4. Despite its exhaustiveness, scope for growth of convention
 5. Enacted and written
 6. Our constitution is via media (middle path), both extremes of parliamentary supremacy and judicial supremacy.
