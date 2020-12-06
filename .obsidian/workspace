@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "bad807ed046e416b",
+        "id": "31bc1df8a7804a62",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NotesVault/0 Inbox/POSH Act.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -86,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5036334991455
+    "width": 342.5036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -103,7 +101,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/0 Inbox/POSH Act.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -132,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/0 Inbox/POSH Act.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NotesVault/0 Inbox/POSH Act.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -202,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.7157287597656
+    "width": 404.7157287597656,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "NotesVault/0 Inbox/POSH Act.md",
