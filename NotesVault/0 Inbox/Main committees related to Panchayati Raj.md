@@ -1,6 +1,6 @@
 1. [[Balwant Rai Mehta Committee]] (1957)
 	1. 
-2. [[0 Inbox/Ashok Mehta Committee]] ()
+2. [[../1 Projects/UPSC/GS2/Ashok Mehta Committee]] ()
 	1. 
 3. [[0 Inbox/GVK Rao Committee]] (1985-86)
 	-  More emphasis on Panchayati Raj institutions wrt planning and development

@@ -6,7 +6,7 @@ a political process whereby administrative authority, public resources and respo
 
 ## Types of Decentralisation
 - [[Political Decentralisation]]
-- [[0 Inbox/Admistrative Decentralisation]]
+- [[../1 Projects/UPSC/GS2/Admistrative Decentralisation]]
 - [[Fiscal Decentralisation]]
 - [[Democratic Decentralisation]]
 

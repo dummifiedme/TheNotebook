@@ -13,7 +13,7 @@
 1.  [[0 Inbox/Deconcentration]]
 2.  [[0 Inbox/Devolution]]
 3.  [[0 Inbox/Delegation]]
-4.  [[Privatization]]
+4.  [[0 Inbox/Privatization]]
 5.  [[0 Inbox/Decentralisation]]
 
 ***

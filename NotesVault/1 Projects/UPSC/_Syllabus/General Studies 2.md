@@ -38,7 +38,7 @@
 	- powers & privileges and 
 	- issues arising out of these.
 
-* [[Parliament]]
+* [[../../../0 Inbox/Parliament]]
 
 ## Topic 6
 - Structure, organization and functioning of the Executive and the Judiciary

@@ -59,13 +59,13 @@ GS2::Topic05 Polity::Parliament
 ***
 
 ### Composition of Two Houses
-*   [[0 Inbox/Composition of Rajya Sabha]]
-*   [[0 Inbox/Composition of Lok Sabha]]
+*   [[../1 Projects/UPSC/GS2/Composition of Rajya Sabha]]
+*   [[../1 Projects/UPSC/GS2/Composition of Lok Sabha]]
 
 ---
 
 ### System of Elections to Lok Sabha
-*   [[Territorial Constituencies]]
+*   [[../1 Projects/UPSC/GS2/Territorial Constituencies]]
 
 *   [[Readjustment to Territorial Constituency]]
 

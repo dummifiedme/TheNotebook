@@ -16,7 +16,7 @@ GS2 Polity Elections
  
 
 ### Two kinds of proportional representation:
-1.  {1| [[Single Transferable Vote System]]}
+1.  {1| [[0 Inbox/Single Transferable Vote System]]}
 	- Used in elections to 
 		- {2| Rajya Sabha}
 		- {2| President} 
