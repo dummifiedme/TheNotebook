@@ -473,13 +473,15 @@ pre.line-numbers > code {
 ul ul::before { left: -11px; top: 0; bottom: 0;
 }
 
-.side-dock-ribbon.mod-left.is-collapsed:not(:hover), .side-dock-ribbon.mod-right.is-collapsed:not(:hover) {
+/* Hidden Side Docks */
+
+/* .side-dock-ribbon.mod-left.is-collapsed:not(:hover), .side-dock-ribbon.mod-right.is-collapsed:not(:hover) {
   width: 15px !important;
   opacity: 0;
 }
 .side-dock-ribbon {
   transition-property: width, opacity;
-}
+} */
 
 .cm-s-obsidian,
 .markdown-preview-view {
@@ -603,20 +605,20 @@ input[type=checkbox]:checked, .cm-formatting-task.cm-property {
   }
 
   /*----file explorer column view : slightly buggy ----*/
-/* .nav-folder-children { */
-/* column-width:250px; */
-/* column-rule: 1px solid var(–background-modifier-border); */
-/* } */
-/*  */
+.nav-folder-children {
+column-width:250px;
+column-rule: 1px solid var(–background-modifier-border);
+}
+
 /* Wrap long nav text and some paddings */
-/* .nav-file-title, */
-/* .nav-folder-title { */
-/* white-space: normal; */
-/* width: auto; */
-/* } */
+.nav-file-title,
+.nav-folder-title {
+white-space: normal;
+width: auto;
+}
 
 /* Indent wrapped nav text */
-/* .nav-file-title-content { */
-  /* margin-left: 10px; */
-  /* text-indent: 2px; */
-  /* } */
+.nav-file-title-content {
+  margin-left: 10px;
+  text-indent: 2px;
+  }
