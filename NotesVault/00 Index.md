@@ -8,7 +8,7 @@
 ---
 
 ### Dive into Studies 
-1. [[001 Paper Wise Topics]] 
+1. [[001 Paper Wise Topics]] [[001]]
 2. [[002 Subject Wise Topics]]
 3. [[003 Facts MOC]]
 4. [[1 Projects/UPSC/Prelims/Prelims Facts/Words]] 

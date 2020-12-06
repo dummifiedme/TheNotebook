@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/202012042019 Slow Down.md",
+            "file": "NotesVault/0 Inbox/Resonance Center/The Zettlekasten Method.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1144.5036334991455
+    "width": 326.0036334991455
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/202012042019 Slow Down.md",
+                "file": "NotesVault/0 Inbox/Resonance Center/The Zettlekasten Method.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/202012042019 Slow Down.md",
+                "file": "NotesVault/0 Inbox/Resonance Center/The Zettlekasten Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/202012042019 Slow Down.md"
+                "file": "NotesVault/0 Inbox/Resonance Center/The Zettlekasten Method.md"
               }
             }
           }
@@ -191,7 +191,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NotesVault/0 Inbox/MPuri GS2 Notes.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/MPuri GS2 Notes.md",
                 "mode": "source"
               }
             }
@@ -205,15 +205,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/0 Inbox/202012042019 Slow Down.md",
-    "NotesVault/0 Inbox/73rd Amendment Act of 1992.md",
-    "NotesVault/Untitled.md",
-    "NotesVault/Readjustment to Territorial Constituency.md",
-    "NotesVault/Parliament.md",
-    "NotesVault/Political Decentralisation.md",
-    "NotesVault/Inbox.md",
-    "NotesVault/How to Make a Complete Map of Every Thought You Think.md",
-    "NotesVault/00 Index.md",
-    "NotesVault/_DASHBOARD.md"
+    "NotesVault/The Zettlekasten Method.md",
+    "NotesVault/Plan for notes.md",
+    "NotesVault/Polity MOC.md",
+    "NotesVault/Obsidian Stuff.md",
+    "NotesVault/Note-Taking.md",
+    "NotesVault/Learning.md",
+    "NotesVault/202012042019 Slow Down.md",
+    "NotesVault/1 Projects/UPSC/_Syllabus/General Studies 2.md",
+    "NotesVault/001 Paper Wise Topics.md",
+    "NotesVault/00 Index - Current Affairs.md"
   ]
 }

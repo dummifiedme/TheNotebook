@@ -1,3 +1,3 @@
 # Index - Current Affairs
 
-- Prevention of Sexual Harassment Act [[NotesVault/0 Inbox/POSH Act]]
+- Prevention of Sexual Harassment Act [[1 Projects/UPSC/GS2/POSH Act]]

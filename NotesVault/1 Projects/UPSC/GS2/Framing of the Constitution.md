@@ -4,7 +4,7 @@
 
 |             Source             |           Tags           | Stage | Date         |
 |:------------------------------:|:------------------------:|:------ :|:------------: |
-| [[../0 Inbox/MPuri GS2 Notes]] | #polity #mPuri #2020-12-05 | #Stage1⌨  | [[2020-12-05]] |              |
+| [[MPuri GS2 Notes]] | #polity #mPuri #2020-12-05 | #Stage1⌨  | [[2020-12-05]] |              |
 
 ---
 Q&A from Laxmikant - [[QA - Making of the Constitution]]

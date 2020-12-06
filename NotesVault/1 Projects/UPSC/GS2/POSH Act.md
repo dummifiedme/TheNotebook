@@ -15,4 +15,4 @@
 1. From News Article: 
 	- The majority of members of ICC (Internal Complaints Committee) shouldn't be from the same departments as the accused (or the person under scrutiny).
 		- Especially in cases against HIGH RANKING officials.
-	![[../3 Resources/Pasted image 20201206105152.png]]
+	![[../../../3 Resources/Pasted image 20201206105152.png]]

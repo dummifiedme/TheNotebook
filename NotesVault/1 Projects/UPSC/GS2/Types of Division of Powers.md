@@ -10,11 +10,11 @@
 
 ***
 > There are various types of distribution of powers with slight differences, knowing differences is important for effectively using the terms.
-1.  [[0 Inbox/Deconcentration]]
-2.  [[0 Inbox/Devolution]]
-3.  [[0 Inbox/Delegation]]
-4.  [[0 Inbox/Privatization]]
-5.  [[0 Inbox/Decentralisation]]
+1.  [[Deconcentration]]
+2.  [[Devolution]]
+3.  [[Delegation]]
+4.  [[Privatization]]
+5.  [[Decentralisation]]
 
 ***
 

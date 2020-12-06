@@ -16,7 +16,7 @@
 - Functions and responsibilities of the Union and the States, 
 - issues and challenges pertaining to the federal structure, 
 - devolution of powers 
-	-  [[../../../0 Inbox/Decentralisation and Poverty Reduction]]
+	-  [[../GS2/Decentralisation and Poverty Reduction]]
 - finances up to local levels and challenges therein.
 
 
@@ -38,7 +38,7 @@
 	- powers & privileges and 
 	- issues arising out of these.
 
-* [[../../../0 Inbox/Parliament]]
+* [[../GS2/Parliament]]
 
 ## Topic 6
 - Structure, organization and functioning of the Executive and the Judiciary

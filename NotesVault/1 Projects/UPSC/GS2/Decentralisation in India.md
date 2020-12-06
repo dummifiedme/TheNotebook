@@ -12,4 +12,4 @@
 *   Decentralisation :
     *   transfer or dispersal of decision making powers.
     *   accompanied by delegation --> individuals or units -->  even if located far.
-*   [[../1 Projects/UPSC/GS2/Timeline of Decentralisation in India]]
+*   [[Timeline of Decentralisation in India]]
