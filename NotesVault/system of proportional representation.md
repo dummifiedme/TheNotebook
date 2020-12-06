@@ -7,7 +7,7 @@ GS2 Polity Elections
 
 ---
 # System of Proportional Distribution
-- Tries to remove the defects of [[First-Past-The-Post System \| territorial representation]]
+- Tries to remove the defects of [[0 Inbox/First-Past-The-Post System \| territorial representation]]
 - All section of the people get representation in proportion to their number.
 - Smallest group get a representation.
 
@@ -21,11 +21,11 @@ GS2 Polity Elections
 		- {2| Rajya Sabha}
 		- {2| President} 
 		- {2| Vice-President} 
-2.  {1| [[List System  of proportional Representation]]}
+2.  {1| [[0 Inbox/List System  of proportional Representation]]}
 <!--ID: 1606267016842-->
 <!--ID: 1606326615257-->
 
 System of Proportional Representation
-[[Demerits of System of Proportional Representation]]
+[[0 Inbox/Demerits of System of Proportional Representation]]
  
  ---

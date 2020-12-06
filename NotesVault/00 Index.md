@@ -11,7 +11,7 @@
 1. [[001 Paper Wise Topics]] 
 2. [[002 Subject Wise Topics]]
 3. [[003 Facts MOC]]
-4. [[Words]] 
+4. [[1 Projects/UPSC/Prelims/Prelims Facts/Words]] 
 5. [[00 Index - Current Affairs]]
 
 ---

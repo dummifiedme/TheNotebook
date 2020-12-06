@@ -59,8 +59,8 @@ GS2::Topic05 Polity::Parliament
 ***
 
 ### Composition of Two Houses
-*   [[Composition of Rajya Sabha]]
-*   [[Composition of Lok Sabha]]
+*   [[0 Inbox/Composition of Rajya Sabha]]
+*   [[0 Inbox/Composition of Lok Sabha]]
 
 ---
 
@@ -76,7 +76,7 @@ GS2::Topic05 Polity::Parliament
         *   {1:Proportional representation}
     *   Lok Sabha
         -  = {1:System of territorial representation}
-        -  = {1:[[First-Past-The-Post System]]}
+        -  = {1:[[0 Inbox/First-Past-The-Post System]]}
 
 <!--ID: 1606267016757-->
 

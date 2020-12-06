@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/00 Index.md",
+            "file": "NotesVault/2 Areas/Untitled.md",
             "mode": "source"
           }
         }
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/00 Index.md",
+                "file": "NotesVault/2 Areas/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/00 Index.md",
+                "file": "NotesVault/2 Areas/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/00 Index.md"
+                "file": "NotesVault/2 Areas/Untitled.md"
               }
             }
           }
@@ -205,15 +205,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/000 Index.md",
+    "NotesVault/2 Areas/Untitled.md",
+    "NotesVault/Learning.md",
+    "NotesVault/Inbox.md",
+    "NotesVault/How to Make a Complete Map of Every Thought You Think.md",
+    "NotesVault/00 Index.md",
+    "NotesVault/003 Facts MOC.md",
+    "NotesVault/001 Paper Wise Topics.md",
     "NotesVault/00 Index - Current Affairs.md",
-    "Index - Current Affairs.md",
-    "NotesVault/0 Inbox/POSH Act.md",
-    "Untitled.md",
-    "NotesVault/0 Inbox/Untitled.md",
-    "NotesVault/0 Inbox/Constituent Assembly Committees.md",
-    "NotesVault/0 Inbox/Framing of the Constitution.md",
-    "NotesVault/1 Projects/UPSC/GS2/Making of the Constitution.md",
-    "NotesVault/0 Inbox/Critique of Constituent Assembly and Constitution.md"
+    "NotesVault/000 Index.md",
+    "Index - Current Affairs.md"
   ]
 }

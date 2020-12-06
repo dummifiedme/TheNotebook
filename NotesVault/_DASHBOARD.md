@@ -1,18 +1,18 @@
 # Dashboard
 ### Projects
 - ####UPSC
-	- [[GS2-Consolidated]]
+	- [[0 Inbox/GS2-Consolidated]]
 
 
 ## TODO
 #TODO 
 1. [[_DASHBOARD]]
-2. [[73rd Amendment Act of 1992]]
-3. [[Effects of Devolution of Authority]]
+2. [[0 Inbox/73rd Amendment Act of 1992]]
+3. [[0 Inbox/Effects of Devolution of Authority]]
 4. [[../1 Projects/UPSC/GS2/Hybrid System of Democracy]]
-5. [[List System  of proportional Representation]]
-6. [[LM Singhvi Committee]]
-7. [[Minerva Mills Case]]
+5. [[0 Inbox/List System  of proportional Representation]]
+6. [[0 Inbox/LM Singhvi Committee]]
+7. [[0 Inbox/Minerva Mills Case]]
 8. [[Other Backward Classes]]
 9. [[../1 Projects/UPSC/GS2/SR Polity Lecture 2]]
 10. [[../0 Inbox/SR Polity Lecture 5]]
@@ -21,9 +21,9 @@
 ## digDeep
 #digDeep 
 1. [[_DASHBOARD]]
-2. [[Effects of Devolution of Authority]]
+2. [[0 Inbox/Effects of Devolution of Authority]]
 3. [[../1 Projects/UPSC/GS2/Features of Basic Structure]]
-4. [[List System  of proportional Representation]]
+4. [[0 Inbox/List System  of proportional Representation]]
 5. [[../1 Projects/UPSC/GS2/Making of the Constitution]]
 6. [[Timeline of Decentralisation in India]]
 

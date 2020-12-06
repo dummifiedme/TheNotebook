@@ -16,7 +16,7 @@
 - Functions and responsibilities of the Union and the States, 
 - issues and challenges pertaining to the federal structure, 
 - devolution of powers 
-	-  [[Decentralisation and Poverty Reduction]]
+	-  [[../0 Inbox/Decentralisation and Poverty Reduction]]
 - finances up to local levels and challenges therein.
 
 
