@@ -44,16 +44,60 @@
 
 ---
 
-##### Borrowed features from Canada
+##### Borrowed features from Canada #flashcard 
 - Federal setup with a strong centre
 - Residuary powers with the union parliament
 - Nomination of state's governors by centre
 - Advisory jurisdiction of SC
 
-##### Borrowed features from Ireland
+---
+
+##### Borrowed features from Ireland #flashcard 
 - DPSP idea
 - President message to the parliament
 - Method of election of President
 	- Method is also somewhat similar to the election of German President.
 - Nomination of members to RS by President.
 	- Senate of Ireland -> 60 members, 10 are nominated.
+
+---
+
+##### Borrowed features from South Africa #flashcard 
+- Procedure of amendment
+- Procedure to elect RS members
+
+---
+
+##### Borrowed features from Former USSR #flashcard 
+- Fundamental Duties
+- Socialism
+
+---
+
+##### Borrowed features from France #flashcard 
+- Notion of country being Republic
+	- Head of the state is elected
+	- public offices open to all
+	- sovereignty lies with the people
+
+---
+
+##### Borrowed features from Australia #flashcard 
+- Idea of concurrent list
+- Joint sitting of the two houses of parliament
+- Freedom of trade and commerce throughout country
+
+---
+
+##### Borrowed features from Germany #flashcard 
+- Emergency provision Weimar Constitution of Germany (1917-1919)
+
+---
+
+TARGET DECK
+UPSC::General Studies 2
+
+FILE TAG
+GS2::Topic01 Polity::Basic_Structure
+
+---
