@@ -15,6 +15,3 @@
 	8. Most constitutions contain fundamental principles, Indian constitution carries the details of administration as well.
 		1.  e.g Details of account audits, languages, civil services etc.
 
-
-
-<iframe src="Tekkan%20One.html"></iframe>

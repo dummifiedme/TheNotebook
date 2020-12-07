@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Untitled.md",
-            "mode": "source"
+            "file": "NotesVault/Tekkan - Copy.md",
+            "mode": "preview"
           }
         }
       }
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Untitled.md",
+                "file": "NotesVault/Tekkan - Copy.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Untitled.md",
+                "file": "NotesVault/Tekkan - Copy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Untitled.md"
+                "file": "NotesVault/Tekkan - Copy.md"
               }
             }
           }
@@ -205,15 +205,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/Untitled.md",
+    "NotesVault/Tekkan - Copy.md",
     "NotesVault/1 Projects/UPSC/GS2/Indian Constitution is Bulky.md",
+    "NotesVault/Untitled.md",
     "NotesVault/1 Projects/UPSC/GS2/Bulky Constitution.md",
     "NotesVault/1 Projects/UPSC/GS2/Features of Constitution.md",
     "NotesVault/1 Projects/UPSC/GS2/Constitution as a living document.md",
     "NotesVault/1 Projects/UPSC/GS2/MPuri GS2 Notes.md",
     "NotesVault/1 Projects/UPSC/GS2/Borrowed COnsTitution.md",
     "NotesVault/1 Projects/UPSC/GS2/Caveats of Ambedkar.md",
-    "NotesVault/0 Inbox/SR Polity Lecture 5.md",
-    "NotesVault/0 Inbox/List System  of proportional Representation.md"
+    "NotesVault/0 Inbox/SR Polity Lecture 5.md"
   ]
 }
