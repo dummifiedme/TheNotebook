@@ -131,5 +131,7 @@ date: 2020-14-05 12:14
 	3. [[Caveats of Ambedkar]]
 3. [[Features of Constitution]]
 4. [[Schedules of Constitution]] #TODO 
+	1. [[Tenth Schedule]]
+		1. [[Anti-Defection]] law
 5. [[Classical Languages]] #outlier
 6. 
