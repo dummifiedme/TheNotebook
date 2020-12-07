@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "3ac675f6d3044531",
+        "id": "803b6b3d70031136",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/GS2/Schedules of Constitution.md",
+            "file": "NotesVault/1 Projects/UPSC/GS2/Anti-Defection.md",
             "mode": "source"
           }
         }
@@ -101,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/Schedules of Constitution.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/Anti-Defection.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/Schedules of Constitution.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/Anti-Defection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/Schedules of Constitution.md"
+                "file": "NotesVault/1 Projects/UPSC/GS2/Anti-Defection.md"
               }
             }
           }
@@ -192,15 +192,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/1 Projects/UPSC/GS2/Schedules of Constitution.md",
+    "NotesVault/1 Projects/UPSC/GS2/anti-defection.md",
     "NotesVault/1 Projects/UPSC/GS2/Tenth Schedule.md",
+    "NotesVault/1 Projects/UPSC/GS2/Schedules of Constitution.md",
     "NotesVault/1 Projects/UPSC/GS2/Classical Language.md",
     "NotesVault/_Templates/Template MPuriNotes.md",
     "NotesVault/1 Projects/UPSC/GS2/MPuri GS2 Notes.md",
     "NotesVault/1 Projects/UPSC/GS2/Features of Constitution.md",
     "NotesVault/1 Projects/UPSC/GS2/Constitution.md",
     "NotesVault/1 Projects/UPSC/GS2/Framing of the Constitution.md",
-    "NotesVault/_Templates/Template - NewPage.md",
-    "NotesVault/_Templates/Template - WeekPlan.md"
+    "NotesVault/_Templates/Template - NewPage.md"
   ]
 }
