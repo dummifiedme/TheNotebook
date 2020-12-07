@@ -11,9 +11,10 @@
 3. Flexibility of Constitution
 	1. [[Constitution as a living document]]
 4. Despite its exhaustiveness, scope for growth of convention
-5. Enacted and written
-6. Our constitution is via media (middle path), both extremes of parliamentary supremacy and judicial supremacy.
-7. Out constitution guarantees social and economic justice along with political justice.
+5. Enacted and a Written Constitution
+	1. [[Constitution#Types of Constitution]]
+6. Our constitution is via media (==middle path==), both extremes of parliamentary supremacy and judicial supremacy.
+7. Our constitution guarantees social and economic justice along with political justice.
 8. Federal constitution with centrist bias.
 9. Westminster System of government with an elected head of state.
 10. We combine justifiable rights with justifiable rights.

@@ -29,6 +29,8 @@ A: No, no country can exist without a constitution. Written/ Unwritten.
 
 ### Types of Constitution
 
+^4ea5c6
+
 1.  Written and Unwritten Constitutions
     1.  Written constitutions are distinguished on the basis of the fact that they are products of the constituent assembly.
     2.  British Constitution = Unwritten --> Has some parts written too.
