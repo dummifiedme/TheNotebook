@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/GS2/Indian Constitution is Bulky.md",
+            "file": "NotesVault/Untitled.md",
             "mode": "source"
           }
         }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214,
-    "collapsed": true
+    "width": 214
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -103,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/Indian Constitution is Bulky.md",
+                "file": "NotesVault/Untitled.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/Indian Constitution is Bulky.md",
+                "file": "NotesVault/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/Indian Constitution is Bulky.md"
+                "file": "NotesVault/Untitled.md"
               }
             }
           }
@@ -206,6 +205,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/Untitled.md",
+    "NotesVault/1 Projects/UPSC/GS2/Indian Constitution is Bulky.md",
     "NotesVault/1 Projects/UPSC/GS2/Bulky Constitution.md",
     "NotesVault/1 Projects/UPSC/GS2/Features of Constitution.md",
     "NotesVault/1 Projects/UPSC/GS2/Constitution as a living document.md",
@@ -213,8 +214,6 @@
     "NotesVault/1 Projects/UPSC/GS2/Borrowed COnsTitution.md",
     "NotesVault/1 Projects/UPSC/GS2/Caveats of Ambedkar.md",
     "NotesVault/0 Inbox/SR Polity Lecture 5.md",
-    "NotesVault/0 Inbox/List System  of proportional Representation.md",
-    "NotesVault/0 Inbox/Evolution, Ecology and Behaviour - Yale University.md",
-    "NotesVault/1 Projects/UPSC/GS2/Constitutional Amendment Acts.md"
+    "NotesVault/0 Inbox/List System  of proportional Representation.md"
   ]
 }
