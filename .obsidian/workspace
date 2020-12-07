@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/_Planner/2020-12-07.md",
+            "file": "NotesVault/_Templates/Template - WeekPlan.md",
             "mode": "source"
           }
         }
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/_Planner/2020-12-07.md",
+                "file": "NotesVault/_Templates/Template - WeekPlan.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/_Planner/2020-12-07.md",
+                "file": "NotesVault/_Templates/Template - WeekPlan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/_Planner/2020-12-07.md"
+                "file": "NotesVault/_Templates/Template - WeekPlan.md"
               }
             }
           }
@@ -182,23 +182,22 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 315.14996337890625
   },
   "lastOpenFiles": [
+    "NotesVault/_Templates/Template - WeekPlan.md",
+    "NotesVault/_Planner/2020-12-08.md",
+    "NotesVault/_Templates/Untitled.md",
     "NotesVault/_Planner/2020-12-07.md",
     "NotesVault/_Planner/Week 2020-50.md",
     "NotesVault/1 Projects/UPSC/GS2/Body of the Constitution.md",
     "NotesVault/1 Projects/UPSC/GS2/Anti-Defection.md",
     "NotesVault/1 Projects/UPSC/GS2/MPuri GS2 Notes.md",
     "NotesVault/1 Projects/UPSC/GS2/Tenth Schedule.md",
-    "NotesVault/1 Projects/UPSC/GS2/Kohoto Hollahan Case.md",
-    "NotesVault/1 Projects/UPSC/GS2/anti-defection.md",
-    "NotesVault/1 Projects/UPSC/GS2/Schedules of Constitution.md",
-    "NotesVault/1 Projects/UPSC/GS2/Classical Language.md"
+    "NotesVault/1 Projects/UPSC/GS2/Kohoto Hollahan Case.md"
   ]
 }
