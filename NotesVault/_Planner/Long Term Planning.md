@@ -26,6 +26,20 @@
 	7. Governance
 
 ## TIMELINE?
-- December =  20 days
-	- Polity - once.
-	- Anthro Paper - 1 once
+- December **=  23 days**
+	- Polity - **once** - 8 days = by 15th Dec
+		- Read the notes for now. 
+		- Leave note making.
+	- Anthropology Paper1 - **once** = by 31st Dec
+		- Make notes - small crisp --> for details we will look into BrainTree when required.
+	- Modern History? - Read book - 10 days
+		- = by 25 + 5  December
+		- Listen to Video in free time (eating etc.)
+	
+### DECEMBER 2020
+- Week 2020-49 
+	- PASSED
+- Week 2020-50
+- Week 2020-51
+- Week 2020-52
+- Week 2021-01

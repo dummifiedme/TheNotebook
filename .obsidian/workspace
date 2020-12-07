@@ -4,16 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c07f6ca057ab89ac",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NotesVault/_Planner/Long Term Planning.md",
-            "mode": "source"
+        "id": "3d024a501e0103fa",
+        "type": "split",
+        "children": [
+          {
+            "id": "c07f6ca057ab89ac",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NotesVault/_Planner/Long Term Planning.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "ec9a9fdbb06cbae4",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
