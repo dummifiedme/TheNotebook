@@ -4,8 +4,7 @@
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
         "tiddlywiki/highlight",
-	"tiddlywiki/markdown",
-	"tiddlywiki/krystal"
+	"tiddlywiki/markdown"
     ],
     "themes": [
         "tiddlywiki/vanilla",

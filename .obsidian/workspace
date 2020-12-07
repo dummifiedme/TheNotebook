@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/_Templates/Template - NewPage.md",
+            "file": "NotesVault/1 Projects/UPSC/GS2/Features of Constitution.md",
             "mode": "source"
           }
         }
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214
+    "width": 214,
+    "collapsed": true
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -102,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/_Templates/Template - NewPage.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/Features of Constitution.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/_Templates/Template - NewPage.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/Features of Constitution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/_Templates/Template - NewPage.md"
+                "file": "NotesVault/1 Projects/UPSC/GS2/Features of Constitution.md"
               }
             }
           }
@@ -177,22 +178,16 @@
             "id": "cd72f329ed95249a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NotesVault/_Stages of Notes.md",
-                "mode": "preview"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "d8bb5e2cca249ca6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/MPuri GS2 Notes.md",
-                "mode": "source"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -200,9 +195,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5934143066406
+    "width": 402.5934143066406,
+    "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/1 Projects/UPSC/GS2/Features of Constitution.md",
+    "NotesVault/1 Projects/UPSC/GS2/Framing of the Constitution.md",
     "NotesVault/_Templates/Template - NewPage.md",
     "NotesVault/_Templates/Template - WeekPlan.md",
     "NotesVault/_Templates/Template MPuriNotes.md",
@@ -210,8 +208,6 @@
     "NotesVault/_Templates/PolityDeckName.md",
     "NotesVault/_Templates/YAMLHeader.md",
     "NotesVault/_Templates/TopicTemplate.md",
-    "NotesVault/_Templates/Template_ANKIGlobal.md",
-    "NotesVault/_Templates/Template- Articles.md",
-    "NotesVault/_Templates/LectureTemplate.md"
+    "NotesVault/_Templates/Template_ANKIGlobal.md"
   ]
 }
