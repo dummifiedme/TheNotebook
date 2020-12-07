@@ -5,7 +5,7 @@
         "tiddlywiki/filesystem",
         "tiddlywiki/highlight",
 	"tiddlywiki/markdown",
-	"krystal"
+	"tiddlywiki/krystal"
     ],
     "themes": [
         "tiddlywiki/vanilla",
