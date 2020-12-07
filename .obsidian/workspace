@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "aea266aff3a8b551",
+        "id": "c07f6ca057ab89ac",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/_Templates/Template - WeekPlan.md",
+            "file": "NotesVault/_Planner/Long Term Planning.md",
             "mode": "source"
           }
         }
@@ -48,12 +48,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "written constitution",
+                "query": "#2020-12-06 ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": true,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/_Templates/Template - WeekPlan.md",
+                "file": "NotesVault/_Planner/Long Term Planning.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -118,7 +118,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9304212074598421
+                  "scale": 0.6636466171846501
                 }
               }
             }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/_Templates/Template - WeekPlan.md",
+                "file": "NotesVault/_Planner/Long Term Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/_Templates/Template - WeekPlan.md"
+                "file": "NotesVault/_Planner/Long Term Planning.md"
               }
             }
           }
@@ -189,15 +189,15 @@
     "width": 315.14996337890625
   },
   "lastOpenFiles": [
-    "NotesVault/_Templates/Template - WeekPlan.md",
-    "NotesVault/_Planner/2020-12-08.md",
-    "NotesVault/_Templates/Untitled.md",
-    "NotesVault/_Planner/2020-12-07.md",
+    "NotesVault/_Planner/Untitled.md",
     "NotesVault/_Planner/Week 2020-50.md",
-    "NotesVault/1 Projects/UPSC/GS2/Body of the Constitution.md",
-    "NotesVault/1 Projects/UPSC/GS2/Anti-Defection.md",
-    "NotesVault/1 Projects/UPSC/GS2/MPuri GS2 Notes.md",
-    "NotesVault/1 Projects/UPSC/GS2/Tenth Schedule.md",
-    "NotesVault/1 Projects/UPSC/GS2/Kohoto Hollahan Case.md"
+    "NotesVault/_Planner/2020-12-07.md",
+    "NotesVault/_Planner/2020-12-08.md",
+    "NotesVault/1 Projects/UPSC/GS2/Features of Constitution.md",
+    "NotesVault/_Planner/2020-12-06.md",
+    "NotesVault/1 Projects/UPSC/GS2/Features of Constitution[Conflict].md",
+    "NotesVault/_Templates/Template - WeekPlan.md",
+    "NotesVault/_Templates/Untitled.md",
+    "NotesVault/1 Projects/UPSC/GS2/Body of the Constitution.md"
   ]
 }
