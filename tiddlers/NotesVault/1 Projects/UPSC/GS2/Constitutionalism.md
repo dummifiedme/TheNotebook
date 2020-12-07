@@ -1,10 +1,3 @@
----
-Date: '2020-12-02 16:47'
-Title: Constitutionalism
-date updated: '2020-12-05T16:32:52+05:30'
-
----
-
 ### Constitutionalism
 
 > Wherever 'ism' is used, it means Ideology.

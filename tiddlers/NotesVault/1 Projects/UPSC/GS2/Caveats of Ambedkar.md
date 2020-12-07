@@ -1,6 +1,6 @@
-|             Source             |           Tags           | Stage | Date         |
-|:------------------------------:|:------------------------:|:------ :|:------------: |
-| [[../1 Projects/UPSC/GS2/MPuri GS2 Notes]] | #polity #mPuri #2020-12-06 | #Stage1⌨  | [[2020-12-06]] |              |
+|             Source             |           Tags           | Stage | 
+|:------------------------------:|:------------------------:|:------ :|
+| [[../1 Projects/UPSC/GS2/MPuri GS2 Notes]] | #polity #mPuri #2020-12-06 | #Stage1⌨|
 
 ---
 
