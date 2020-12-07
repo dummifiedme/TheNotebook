@@ -14,9 +14,9 @@
 5. Enacted and a Written Constitution
 	1. [[Constitution#Types of Constitution]]
 6. Our constitution is via media (==middle path==), both extremes of parliamentary supremacy and judicial supremacy.
-7. Our constitution guarantees social and economic justice along with political justice.
-8. Federal constitution with centrist bias.
-9. Westminster System of government with an elected head of state.
-10. We combine justifiable rights with justifiable rights.
-11. Universal adult franchise extended to all the citizen in one clean stroke of secular polity.
+7. Our constitution guarantees ==social and economic justice along with political justice==.
+8. Federal constitution with ==centrist bias==.
+9. Westminster System of government with an ==elected head of state==.
+10. We combine justifiable rights with non-justifiable rights.
+11. ==Universal adult franchise== extended to all the citizen in one clean stroke of secular polity.
 12. Independent Judiciary
