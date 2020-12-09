@@ -102,6 +102,8 @@ Example
 - It is a discipline that examines once moral standards or the ethics of the society
 - Ethical values are a subset of various values held by a person.
 - Concepts such as material success, individualism, courage, hardwork, prudence, competition, patriotism and punctuality are all value standards but are probably not seen as ethical or moral standards of right and wrong
+- In most cases, there is a congruence between ethics and morals as the morality of an individual is developed within the environment of ethics prevailing in the society.
+- > Ethics as a branch of philosophy is also defined as the study of what we understand to be good and right behaviour and how people make those judgements. It is a discipline that examines one's moral standards or the moral standards of the society.
 
 
 	However standards such as honesty, truthfulness, and justice are used in making ethical judgement of rightness and wrongness of human behaviour
