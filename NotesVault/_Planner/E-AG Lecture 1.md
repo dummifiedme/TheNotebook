@@ -73,7 +73,7 @@ Example
 #### Attitudes
 - What is Attitude?
 	- How should we approach others and situations
-	- Tendency to act favorably or unfavourably towards objects, people, stituation
+	- Tendency to act favorably or unfavourably towards objects, people, situation
 	- Manifestation of our value system
 	- How should I act or how should I treat others
 	- an attitude is an expression of favour or disfavour towards a person, place, things or events 
@@ -82,24 +82,28 @@ Example
 #### Human behaviour
 - What is Human Behaviour?
 	- How we actually act
-	- Example - going to temple by an atehtist under family pressure'
+	- Example - going to temple by an atheist under family pressure'
 	- Any response to stimulant
 	- Human behaviour refers to range of behaviours exhibited by humans and which are influenced by culture , attitude, emotions, morality, values, Ethics, authority, persuasion, coercion, and genetics
 
 
-#### Ehtics
-- Greek origin - ethos - custom
+#### Ethics
+- ==Greek== origin - ethos - custom
 - External Locus
 - Two contexts
 	- Practice - determining what is right and wrong
 	- Study - branch of philosophy which study human behaviours regarding what is right and wrong
+> Ethics is the study of Morality
+- Ethics in practice are the standards on the basis of which one can decide what is right and what is wrong
+- They prescribe what is or not consider appropriate behaviour in living once Life.
+- Ethics as a branch of philosophy is also defined as the study of what we understand to be good and right behaviour and how people make those judgement
+- Ethics are provided to an individual by an external source, like the profession, society or religion. Not following ethics may lead to social disapproval or sanctions.
+- Morals are standards of right and wrong, which define how things should work according to an individuals' ideas and principles. We recognize them because we believe in something being right or wrong. If we don't follow these standards, we may feel uncomfortable, remorse, depression or dissonance. 
+- It is a discipline that examines once moral standards or the ethics of the society
+- Ethical values are a subset of various values held by a person.
+- Concepts such as material success, individualism, courage, hardwork, prudence, competition, patriotism and punctuality are all value standards but are probably not seen as ethical or moral standards of right and wrong
 
-Ethics in practice are the standards on the basis of which one can decide what is right and what is wrong
-	They prescribe what is or not consider appropriate behaviour in living once Life
-Ethics as a branch of philosophy is also defined as the study of what we understand to be good and right behaviour and how people make those judgement
-It is a discipline that examines once moral standards or the ethics of the society
-Ethical values are a subset of various values held by a person.
-	Concepts such as material success, individualism, courage, hardwork, prudence , competition, patriotism and punctuality are all value standards but are probably not seen as ethical or moral standards of right and wrong
+
 	However standards such as honesty, truthfulness, and justice are used in making ethical judgement of rightness and wrongness of human behaviour
 Types
 	Social
@@ -111,7 +115,9 @@ Types
 - Latin origin - moralis => character
 
 #### Ethics vs morals
+
 ![[../3 Resources/Pasted image 20201209232920.png]]
+
 Ethics refers to series of standards provided to an individual by an external source like their profression, society or religion
 Morals refers to an individual's own standards regarding right and wrong 
 Individuals recongise and follow ethics because society says it is the right thing to do . Not following these standards may leads to peer or societal disapproval.
