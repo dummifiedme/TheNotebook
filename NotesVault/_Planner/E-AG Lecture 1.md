@@ -5,7 +5,7 @@
 
 ---
 
-## E-AG Lecture 1
+# E-AG Lecture 1
 ### UNIT 1: Ethics and Human Interface
 #### Topics: 
 1. Basic Concepts
@@ -28,7 +28,7 @@
 - **Subjective** - which is based on opinions 
 	- Anything which is ==mind dependent and subject specific==
 	- Thought process of humans is not always objective as things like stereotypes , prejudice etc dominates the min many situations
-
+---
 #### Logic
 - What is Logic?
 	- Valid Reasoning.
@@ -51,7 +51,8 @@
 		Core - Strong -> formed through direct experience
 		Peripheral - Weak
 
----	
+---
+
 #### Values
 - What are Values?
 	- Values are the standards which helps us to evaluate something or make judgment about how desirable or undesirable that thing is to us. - moral philosophy
@@ -70,6 +71,8 @@ Example
 	- Different value system are formed 
 	- Emotions provides permeance to values
 
+---
+
 #### Attitudes
 - What is Attitude?
 	- How should we approach others and situations
@@ -79,6 +82,8 @@ Example
 	- an attitude is an expression of favour or disfavour towards a person, place, things or events 
 	- It can be formed from a person's past or present environment
 
+---
+
 #### Human behaviour
 - What is Human Behaviour?
 	- How we actually act
@@ -86,6 +91,7 @@ Example
 	- Any response to stimulant
 	- Human behaviour refers to range of behaviours exhibited by humans and which are influenced by culture , attitude, emotions, morality, values, Ethics, authority, persuasion, coercion, and genetics
 
+---
 
 #### Ethics
 - ==Greek== origin - ethos - custom
@@ -99,22 +105,49 @@ Example
 - Ethics as a branch of philosophy is also defined as the study of what we understand to be good and right behaviour and how people make those judgement
 - Ethics are provided to an individual by an external source, like the profession, society or religion. Not following ethics may lead to social disapproval or sanctions.
 - Morals are standards of right and wrong, which define how things should work according to an individuals' ideas and principles. We recognize them because we believe in something being right or wrong. If we don't follow these standards, we may feel uncomfortable, remorse, depression or dissonance. 
-- It is a discipline that examines once moral standards or the ethics of the society
-- Ethical values are a subset of various values held by a person.
-- Concepts such as material success, individualism, courage, hardwork, prudence, competition, patriotism and punctuality are all value standards but are probably not seen as ethical or moral standards of right and wrong
 - In most cases, there is a congruence between ethics and morals as the morality of an individual is developed within the environment of ethics prevailing in the society.
 - > Ethics as a branch of philosophy is also defined as the study of what we understand to be good and right behaviour and how people make those judgements. It is a discipline that examines one's moral standards or the moral standards of the society.
+- It is a discipline that examines once moral standards or the ethics of the society
+- Ethical values are a subset of various values held by a person.
 
+- Types of Ethics
+	- Social
+	- Organisational
+	- Relgious
 
-	However standards such as honesty, truthfulness, and justice are used in making ethical judgement of rightness and wrongness of human behaviour
-Types
-	Social
-	Organisational
-	Relgious
+---
+
+##### Relation between Ethics and Value
+#insertDiagram - Value
+- Concepts such as material success, individualism, courage, hardwork, prudence, competition, patriotism and punctuality are all value standards but are probably not seen as ethical or moral standards of right and wrong.
+- However standards such as honesty, truthfulness, and justice are used in making ethical judgement of rightness and wrongness of human behaviour
+
+##### Other Terms related to Ethics and Morality
+#insertText 
+> Page 11 @PDFBooklet
+- Conventions
+- Traditions
+- Principles
+- Regime
+- Code of Conducts
+- Norms
+- Virtues
+- Ideals
+- Maxims
+- Customs
 	
-	
+| Organisation | Society |
+| ------------ | ------- |
+| Values       | Values  |
+| Principles   | Norms   |
+| Conduct      | Custom  | 
+
+--- 
+
 #### Morals
 - Latin origin - moralis => character
+
+---
 
 #### Ethics vs morals
 
@@ -150,6 +183,9 @@ Three self
 	Present
 	Perceived
 	Life is about reducing the gap between the the Ideal and Presenters self
+
+## Essence of Ethics
+
 Essence of ethics -Core qualities, attribute, characteristics, properties of ethics
 	Nature and nurture
 		Ethics cannot be shaped and sustained in isolation. A person's environment interact with his or her genotype to influence the behavioural outcomes
