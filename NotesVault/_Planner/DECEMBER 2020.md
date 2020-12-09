@@ -44,8 +44,5 @@ Parent: [[Long Term Planning]]
 ##  Week 2021-01
 
 
-- For GS 2 -> If I read MPuri 15pgs an hour --- total pages is around 540 pages + 200 pages of IR -> 740 pages @ 15 pages an hour =  50 hours.
-- At 3 hours a day to GS 2 -> 17 days.
-	- Only polity is 12 days.
 
 
