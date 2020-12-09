@@ -115,11 +115,15 @@ Example
 - Types of Ethics
 	- Social
 	- Organisational
-	- Relgious
+	- Religious
+
+---
+#### Ethics vs morals
+![[../3 Resources/Pasted image 20201209232920.png]]
 
 ---
 
-##### Relation between Ethics and Value
+#### Relation between Ethics and Value
 #insertDiagram - Value
 - Concepts such as material success, individualism, courage, hardwork, prudence, competition, patriotism and punctuality are all value standards but are probably not seen as ethical or moral standards of right and wrong.
 - However standards such as honesty, truthfulness, and justice are used in making ethical judgement of rightness and wrongness of human behaviour
@@ -151,10 +155,6 @@ Example
 
 ---
 
-#### Ethics vs morals
-
-![[../3 Resources/Pasted image 20201209232920.png]]
-
 Ethics refers to series of standards provided to an individual by an external source like their profession, society or religion
 Morals refers to an individual's own standards regarding right and wrong 
 Individuals recognise and follow ethics because society says it is the right thing to do . Not following these standards may leads to peer or societal disapproval.
@@ -162,49 +162,54 @@ Morals are standard which define how things should work according to our conscie
 In most cases there is congruence between ethics and morals as morality of an individual is developed within the environment of ethics previaling in the society
 India has more conflict between morals and ethics
 	Due to diversity , period of transition
-Norms
-	Principles of society
-Principles
-	Concrete value
-	Eg - justice vs article 14
-Customs 
-	Specific behavioral
-	Eg - devotion to good vs going to temple vs hanmuna Pooja on Tuesday
-	Eg - empathy, alms, zakat
-Values , principle, conduct in an organisation
-Virtues 
-	Those qulaity which helps us to reach our ideals
-	Always individual never for organisation
-	Opposite - vices
-	Eg - courage
-Ideals
-	Value target
-	Eg - Rama, Hanuman
-Three self
-	Ideal
-	Present
-	Perceived
-	Life is about reducing the gap between the the Ideal and Presenters self
+- Norms
+	- Principles of society
+- Principles
+	- Concrete value
+	- Eg - justice vs article 14
+- Customs 
+	- Specific behavioral
+	- Eg - devotion to good vs going to temple vs hanmuna Pooja on Tuesday
+	- Eg - empathy, alms, zakat
+- Values , principle, conduct in an organisation
+- Virtues 
+	- Those qulaity which helps us to reach our ideals
+	- Always individual never for organisation
+	- Opposite - vices
+	- Eg - courage
+- Ideals
+	- Value target
+	- Eg - Rama, Hanuman
+- Three self
+	- Ideal
+	- Present
+	- Perceived
+	- Life is about reducing the gap between the the Ideal and Presenters self
 
 ### Essence of Ethics/Values
 > Since, Ethics is a subset of values.
 
-> Essence: Core qualities, attribute, characteristics, properties of ethics.
-1. ==Ethics **cannot** be shaped and sustained in isolation==. A person's environment interact with his or her genotype to influence the behavioural outcomes
-> SOcialisation is a lifelong process through with norms, customs, values and ideologies of a society are passed on to the next gener
-Nature and nurture
+> Essence: **Core** qualities, attribute, characteristics and properties of ethics.
+1. ==Ethics **cannot** be shaped and sustained in isolation==. A person's environment interact with his or her genotype to influence the behavioural outcomes.
+	> **'Nature' and 'nurture'** => Genotype and Phenotype
 
+	> **Socialisation** is a lifelong process through with norms, customs, values and ideologies of a society are ==passed on to the next generation==, so that they can become a responsible and participating member of their society. Socialisation is thus means by which, social and cultural continuity are attained.
 
-A man is not only a product but also a producer of his culture
-	A person not only learns from the culture but may also lead to a change in ethical system of the society
-	Eg - Hitler, Gandhi, Obama,Modi. Mandela, Lee Kuan yew, Kalam, Malala
-Ethics depends upon the context in which they are operating
-	They vary in their meaning and intensity according to time , place and person
-Ethics operates at different levels- individual, organisation, socio cultural, national and international levels 
-	Ethics at each level effect each other
-Ethics are abstract and subjective in nature ie they are affected by individual emotions and perception
-	Eg - use of sbad language while anger
-Ethicw are interrelated to each other
+2. A man is not only a product but also a producer of his culture
+	- A person not only learns from the culture but may also lead to a change in ethical system of the society
+	- Examples - Hitler, Gandhi, Obama, Modi. Mandela, Lee Kuan Yew, Kalam, Malala
+
+3. Ethics depends upon the context in which they are operating
+	- They vary in their meaning and intensity according to time , place and person.
+
+4. Ethics operates at different levels- individual, organisation, socio-cultural, national and international levels 
+	- Ethics at each level effect each other
+	
+5. Ethics are abstract and subjective in nature i.e they are affected by individual emotions and perception
+	- Examples use of bad language while in anger
+
+6. Ethics are interrelated to each other
+	> Truth
 	You can't be honest if you are not truthful
 	You cannot be objective if you are not tolerant
 	Eg - economic depression affectimg climate change negotiations
