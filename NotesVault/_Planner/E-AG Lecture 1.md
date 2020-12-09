@@ -52,7 +52,7 @@
 		
 		
 What are Values?
-- Are the standards which helps us to evaluate something or make judgement about how  deisrable or underisrable that thing is to us. - moral philosophy
+- Values are the standards which helps us to evaluate something or make judgement about how  deisrable or undesirable that thing is to us. - moral philosophy
 - That thing can be a person, a place, an object or any event
 - We are more likely to make choices that support our value system then choices that will not  
 - Values are core beliefs and emotions
