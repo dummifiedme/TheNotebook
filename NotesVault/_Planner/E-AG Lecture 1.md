@@ -51,15 +51,15 @@
 		Peripheral - 
 		
 		
-What are Values?
-- Values are the standards which helps us to evaluate something or make judgement about how  deisrable or undesirable that thing is to us. - moral philosophy
-- That thing can be a person, a place, an object or any event
-- We are more likely to make choices that support our value system then choices that will not  
-- Values are core beliefs and emotions
-- Types
-	- Aesthetics
-	- Policial
-	- Ethical
+- What are Values?
+	- Values are the standards which helps us to evaluate something or make judgment about how desirable or undesirable that thing is to us. - moral philosophy
+	- That thing can be a person, a place, an object or any event
+	- We are more likely to make choices that support our value system than choices that will not  
+	- Values are core beliefs and emotions
+	- Types
+		- Aesthetics
+		- Policial
+		- Ethical
 
 All values are beliefs but all beliefs are not values
 		Values are subset of beliefs
