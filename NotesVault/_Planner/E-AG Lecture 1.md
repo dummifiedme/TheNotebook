@@ -35,27 +35,33 @@
 			1. Inductive Reasoning - empirical approach
 			2. Deductive Reasoning - rational approach
 
-Beliefs - 
-	A belief is an internal feeling or idea that something is true, even though that belief may be unproven and irrational
-	A belief is a simplest form of mental representation and therefore one of the building blocks of the thought process
+- What is Belief? 
+- A belief is an internal feeling or idea that something is true, even though that belief may be unproven and irrational
+- A belief is a simplest form of mental representation and therefore one of the building blocks of the thought process
+
 	Things we hold to be true
 	Fundamental units of our thought process
 	Everything in mind in form of beliefs
+	
+	
 	Not always true
 		Eg - No 7 is lucky 
 	Two types
 		Core - formed through direct experience
 		Peripheral - 
-Values
-	Are the standards which helps us to evaluate something or make judgement about how  deisrable or underisrable that thing is to us. - moral philosophy
-		That thing can be a person, a place, an object or any event
-		We are more likely to make choices that support our value system then choices that will not  
-	Values are core beliefs and emotions
-	Types
-		Aesthetics
-		Policial
-		Ethical
-	All values are beliefs but all beliefs are not values
+		
+		
+What are Values?
+- Are the standards which helps us to evaluate something or make judgement about how  deisrable or underisrable that thing is to us. - moral philosophy
+- That thing can be a person, a place, an object or any event
+- We are more likely to make choices that support our value system then choices that will not  
+- Values are core beliefs and emotions
+- Types
+	- Aesthetics
+	- Policial
+	- Ethical
+
+All values are beliefs but all beliefs are not values
 		Values are subset of beliefs
 	Eg 
 		Business class vs service class family
