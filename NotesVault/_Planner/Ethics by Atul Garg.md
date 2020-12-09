@@ -1,1 +1,20 @@
 1. [[E-AG Lecture 1]]
+	- Basic Concepts
+		- Belief
+			- Perception
+			- Core
+		- Values
+		- Attitude
+		- Human Behaviour
+	- Ethics
+		- Ethics vs Values
+		- Morality 
+		- Ethics vs Morals
+		- Related terms to Ethics and Morals
+			- Traditions
+			- Conventions
+			- Norms
+			- Regime
+			- etc...
+	- **Essence of Ethics**
+		- 10 points -> (Could be asked in a straight 10 marker question)

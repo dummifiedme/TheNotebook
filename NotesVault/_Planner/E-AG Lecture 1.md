@@ -187,37 +187,43 @@ India has more conflict between morals and ethics
 	- Life is about reducing the gap between the the Ideal and Presenters self
 
 ### Essence of Ethics/Values
-> Since, Ethics is a subset of values.
+> Ethics is a subset of values.
 
 > Essence: **Core** qualities, attribute, characteristics and properties of ethics.
+
 1. ==Ethics **cannot** be shaped and sustained in isolation==. A person's environment interact with his or her genotype to influence the behavioural outcomes.
 	> **'Nature' and 'nurture'** => Genotype and Phenotype
 
 	> **Socialisation** is a lifelong process through with norms, customs, values and ideologies of a society are ==passed on to the next generation==, so that they can become a responsible and participating member of their society. Socialisation is thus means by which, social and cultural continuity are attained.
 
-2. A man is not only a product but also a producer of his culture
-	- A person not only learns from the culture but may also lead to a change in ethical system of the society
-	- Examples - Hitler, Gandhi, Obama, Modi. Mandela, Lee Kuan Yew, Kalam, Malala
+	- A man is not only a product but also a producer of his culture
+		- A person not only learns from the culture but may also lead to a change in ethical system of the society
+		- Examples - Hitler, Gandhi, Obama, Modi. Mandela, Lee Kuan Yew, Kalam, Malala
 
-3. Ethics depends upon the context in which they are operating
+2. Ethics depends upon the **context** in which they are operating
 	- They vary in their meaning and intensity according to time , place and person.
 
-4. Ethics operates at different levels- individual, organisation, socio-cultural, national and international levels 
+3. Ethics **operates at different levels**- individual, organisation, socio-cultural, national and international levels 
 	- Ethics at each level effect each other
 	
-5. Ethics are abstract and subjective in nature i.e they are affected by individual emotions and perception
-	- Examples use of bad language while in anger
+4. Ethics are **abstract and subjective** in nature i.e they are affected by individual emotions and perception
+	- Example: use of bad language while in anger
 
-6. Ethics are interrelated to each other
-	> Truth
-	You can't be honest if you are not truthful
-	You cannot be objective if you are not tolerant
-	Eg - economic depression affectimg climate change negotiations
-Ethical behaviour also comes into play when human interacts with other things also like machines, animals, environment etc
-Ethics originate from a sense of justice previaling in a particular society
-	Just and unjust instead of right and wrong
-Ethics are maintained and sustained by a sense of responsibility and not mere accountability to some external agency but also to something within
-Ethical standards at many times transcend the narrow stipulation of law and conduct rules 
+5. Ethics are **interrelated** to each other
+   > Truthfulness -> Honesty -> Integrity -> Probity.
+	- You can't be honest if you are not truthful
+	- You cannot be objective if you are not tolerant
+	- Example: economic depression affecting climate change negotiations
+
+6. Ethical behaviour also comes into play **when human interacts with other things** also like machines, animals, environment etc
+7. Ethics **originate from a sense of justice** prevailing in a particular society
+	> **Just and unjust** instead of right and wrong
+	
+	> JUSTICE is a key idea, at the core of ethics.
+
+8. Ethics are **maintained and sustained** by a **sense of responsibility** and not mere accountability to some external agency but also to something within.
+9. Ethical standards at many times **transcend the narrow stipulation of law and conduct rules**.
+
 Culture refers to behaviour of the society
 Socialisation
 A process through which culture of society is inculcated in individual
