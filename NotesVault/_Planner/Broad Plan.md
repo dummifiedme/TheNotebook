@@ -22,4 +22,4 @@
 	- Should take around 15 days (+2 days buffer)
 	- That is 50 hours max.
 - Atul Garg or Lukmaan for Ethics
-- 
+	- 
