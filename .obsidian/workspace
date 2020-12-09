@@ -10,6 +10,7 @@
           {
             "id": "2a8a935ab3f70753",
             "type": "leaf",
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -21,7 +22,6 @@
           {
             "id": "793ce15d69d37b02",
             "type": "leaf",
-            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -132,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/_Planner/Broad Plan.md",
+                "file": "NotesVault/_Planner/2020-12-09.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/_Planner/Broad Plan.md",
+                "file": "NotesVault/_Planner/2020-12-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/_Planner/Broad Plan.md"
+                "file": "NotesVault/_Planner/2020-12-09.md"
               }
             }
           },
@@ -222,15 +222,16 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 423
   },
   "lastOpenFiles": [
-    "NotesVault/_Planner/Broad Plan.md",
     "NotesVault/_Planner/2020-12-09.md",
+    "NotesVault/_Planner/Broad Plan.md",
     "NotesVault/_Planner/Untitled 1.md",
     "NotesVault/_Planner/Untitled.md",
     "NotesVault/Things.md",
