@@ -17,6 +17,7 @@
 -  Moral
 
 ### Basic concepts
+
 #### Properties
 - **Contextual**. Relative. Eg - beef eating. Eg - suicide in Japan not unethical. Lying
 
@@ -35,21 +36,22 @@
 			1. Inductive Reasoning - empirical approach
 			2. Deductive Reasoning - rational approach
 
+--- 
+
 #### Belief
 - What is Belief? 
-- A belief is an internal feeling or idea that something is true, even though that belief may be unproven and irrational
-- A belief is a simplest form of mental representation and therefore one of the building blocks of the thought process
+	- A belief is an internal feeling or idea that something is true, even though that belief may be unproven and irrational
+	- A belief is a simplest form of mental representation and therefore one of the building blocks of the thought process
+	- Things we hold to be true
+	- Fundamental units of our thought process
+	- Everything in mind in form of beliefs
+	- Not always true
+		- Eg - No 7 is lucky 
+	- Two types of belief
+		Core - Strong -> formed through direct experience
+		Peripheral - Weak
 
-	Things we hold to be true
-	Fundamental units of our thought process
-	Everything in mind in form of beliefs
-		
-	Not always true
-		Eg - No 7 is lucky 
-	Two types
-		Core - formed through direct experience
-		Peripheral - 
-		
+---	
 #### Values
 - What are Values?
 	- Values are the standards which helps us to evaluate something or make judgment about how desirable or undesirable that thing is to us. - moral philosophy
@@ -69,42 +71,52 @@ Example
 	- Emotions provides permeance to values
 
 #### Attitudes
-Attitudes
-	How should we approach others and situations
-	Tendency to act favorably or unfavourably towards objects, people, stituation
-	Manifestation of our value system
-	How should I act or how should I treat others
-	 an attitude is an expression of favour or disfavour towards a person , place, things or events 
-	It can be formed from a person's past or present environment
-Human behaviour
-	How we actually act
-		 Eg - going to temple by an atehtist under family pressure'
-	Any response to stimulant
-	Human behaviour refers to range of behaviours exhibited by humans and which are influenced by culture , attitude, emotions, morality, values, Ethics, authority, persuasion, coercion, and genetics
-Ehtics
-	Green word - ethos - custom
-	Two context
-		Practice - determing what is right and wrong
-		Study - branch of philosophy which study human behaviours regarding what is right and wrong
-	Ethics in practice are the standards on the basis of which one can decide what is right and what is wrong
-		They prescribe what is or not consider appropriate behaviour in living once Life
-	Ethics as a branch of philosophy is also defined as the study of what we understand to be good and right behaviour and how people make those judgement
-	It is a discipline that examines once moral standards or the ethics of the society
-	Ethical values are a subset of various values held by a person.
-		Concepts such as material success, individualism, courage, hardwork, prudence , competition, patriotism and punctuality are all value standards but are probably not seen as ethical or moral standards of right and wrong
-		However standards such as honesty, truthfulness, and justice are used in making ethical judgement of rightness and wrongness of human behaviour
-	Types
-		Social
-		Organisational
-		Relgious
-Morals
-	Latin - moralitas - character
-Ethics vs morals
-	Ethics refers to series of standards provided to an individual by an external source like their profression, society or religion
-	Morals refers to an individual's own standards regarding right and wrong 
-	Individuals recongise and follow ethics because society says it is the right thing to do . Not following these standards may leads to peer or societal disapproval.
-	Morals are standard which define how things should work according to our conscience. There source is internal. If we don't follow these standards, we many feel remorse, depression, dissonance, uncomfortable
-	In most cases there is congruence between ethics and morals as morality of an individual is developed within the environment of ethics previaling in the society
+- What is Attitude?
+	- How should we approach others and situations
+	- Tendency to act favorably or unfavourably towards objects, people, stituation
+	- Manifestation of our value system
+	- How should I act or how should I treat others
+	- an attitude is an expression of favour or disfavour towards a person, place, things or events 
+	- It can be formed from a person's past or present environment
+
+#### Human behaviour
+- What is Human Behaviour?
+	- How we actually act
+	- Example - going to temple by an atehtist under family pressure'
+	- Any response to stimulant
+	- Human behaviour refers to range of behaviours exhibited by humans and which are influenced by culture , attitude, emotions, morality, values, Ethics, authority, persuasion, coercion, and genetics
+
+
+#### Ehtics
+- Greek origin - ethos - custom
+- External Locus
+- Two contexts
+	- Practice - determining what is right and wrong
+	- Study - branch of philosophy which study human behaviours regarding what is right and wrong
+
+Ethics in practice are the standards on the basis of which one can decide what is right and what is wrong
+	They prescribe what is or not consider appropriate behaviour in living once Life
+Ethics as a branch of philosophy is also defined as the study of what we understand to be good and right behaviour and how people make those judgement
+It is a discipline that examines once moral standards or the ethics of the society
+Ethical values are a subset of various values held by a person.
+	Concepts such as material success, individualism, courage, hardwork, prudence , competition, patriotism and punctuality are all value standards but are probably not seen as ethical or moral standards of right and wrong
+	However standards such as honesty, truthfulness, and justice are used in making ethical judgement of rightness and wrongness of human behaviour
+Types
+	Social
+	Organisational
+	Relgious
+	
+	
+#### Morals
+- Latin origin - moralis => character
+
+#### Ethics vs morals
+![[../3 Resources/Pasted image 20201209232920.png]]
+Ethics refers to series of standards provided to an individual by an external source like their profression, society or religion
+Morals refers to an individual's own standards regarding right and wrong 
+Individuals recongise and follow ethics because society says it is the right thing to do . Not following these standards may leads to peer or societal disapproval.
+Morals are standard which define how things should work according to our conscience. There source is internal. If we don't follow these standards, we many feel remorse, depression, dissonance, uncomfortable
+In most cases there is congruence between ethics and morals as morality of an individual is developed within the environment of ethics previaling in the society
 India has more conflict between morals and ethics
 	Due to diversity , period of transition
 Norms
