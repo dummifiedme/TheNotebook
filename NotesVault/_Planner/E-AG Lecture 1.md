@@ -28,13 +28,14 @@
 	- Anything which is ==mind dependent and subject specific==
 	- Thought process of humans is not always objective as things like stereotypes , prejudice etc dominates the min many situations
 
-
+#### Logic
 - What is Logic?
 	- Valid Reasoning.
 		- Types of Reasoning
 			1. Inductive Reasoning - empirical approach
 			2. Deductive Reasoning - rational approach
 
+#### Belief
 - What is Belief? 
 - A belief is an internal feeling or idea that something is true, even though that belief may be unproven and irrational
 - A belief is a simplest form of mental representation and therefore one of the building blocks of the thought process
@@ -42,15 +43,14 @@
 	Things we hold to be true
 	Fundamental units of our thought process
 	Everything in mind in form of beliefs
-	
-	
+		
 	Not always true
 		Eg - No 7 is lucky 
 	Two types
 		Core - formed through direct experience
 		Peripheral - 
 		
-		
+#### Values
 - What are Values?
 	- Values are the standards which helps us to evaluate something or make judgment about how desirable or undesirable that thing is to us. - moral philosophy
 	- That thing can be a person, a place, an object or any event
@@ -66,7 +66,9 @@
 Example 
 - Business class vs service class family
 	- Different value system are formed 
-	Emotions provides permeance to values
+	- Emotions provides permeance to values
+
+#### Attitudes
 Attitudes
 	How should we approach others and situations
 	Tendency to act favorably or unfavourably towards objects, people, stituation
