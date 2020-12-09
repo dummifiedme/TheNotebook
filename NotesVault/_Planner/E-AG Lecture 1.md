@@ -61,11 +61,11 @@
 		- Policial
 		- Ethical
 
-All values are beliefs but all beliefs are not values
-		Values are subset of beliefs
-	Eg 
-		Business class vs service class family
-			Different value system are formed 
+> All values are beliefs but all beliefs are not values
+> - Values are subset of beliefs
+Example 
+- Business class vs service class family
+	- Different value system are formed 
 	Emotions provides permeance to values
 Attitudes
 	How should we approach others and situations
