@@ -6,14 +6,14 @@
 ---
 
 # E-AG Lecture 1
-### UNIT 1: Ethics and Human Interface
-#### Topics: 
+## UNIT 1: Ethics and Human Interface
+### Topics: 
 1. Basic Concepts
--  Beliefs, 
--  Values, 
+-  Beliefs 
+-  Values
 -  Attitudes
--  Behaviour, 
--  Ethics , 
+-  Behaviour 
+-  Ethics  
 -  Moral
 
 ### Basic concepts
@@ -37,6 +37,8 @@
 			2. Deductive Reasoning - rational approach
 
 --- 
+
+#insertDiagram @OneNote 
 
 #### Belief
 - What is Belief? 
@@ -153,9 +155,9 @@ Example
 
 ![[../3 Resources/Pasted image 20201209232920.png]]
 
-Ethics refers to series of standards provided to an individual by an external source like their profression, society or religion
+Ethics refers to series of standards provided to an individual by an external source like their profession, society or religion
 Morals refers to an individual's own standards regarding right and wrong 
-Individuals recongise and follow ethics because society says it is the right thing to do . Not following these standards may leads to peer or societal disapproval.
+Individuals recognise and follow ethics because society says it is the right thing to do . Not following these standards may leads to peer or societal disapproval.
 Morals are standard which define how things should work according to our conscience. There source is internal. If we don't follow these standards, we many feel remorse, depression, dissonance, uncomfortable
 In most cases there is congruence between ethics and morals as morality of an individual is developed within the environment of ethics previaling in the society
 India has more conflict between morals and ethics
@@ -184,40 +186,43 @@ Three self
 	Perceived
 	Life is about reducing the gap between the the Ideal and Presenters self
 
-## Essence of Ethics
+### Essence of Ethics/Values
+> Since, Ethics is a subset of values.
 
-Essence of ethics -Core qualities, attribute, characteristics, properties of ethics
-	Nature and nurture
-		Ethics cannot be shaped and sustained in isolation. A person's environment interact with his or her genotype to influence the behavioural outcomes
+> Essence: Core qualities, attribute, characteristics, properties of ethics.
+1. ==Ethics **cannot** be shaped and sustained in isolation==. A person's environment interact with his or her genotype to influence the behavioural outcomes
+> SOcialisation is a lifelong process through with norms, customs, values and ideologies of a society are passed on to the next gener
+Nature and nurture
 
-	A man is not only a product but also a producer of his culture
-		A person not only learns from the culture but may also lead to a change in ethical system of the society
-		Eg - Hitler, Gandhi, Obama,Modi. Mandela, Lee Kuan yew, Kalam, Malala
-	Ethics depends upon the context in which they are operating
-		They vary in their meaning and intensity according to time , place and person
-	Ethics operates at different levels- individual, organisation, socio cultural, national and international levels 
-		Ethics at each level effect each other
-	Ethics are abstract and subjective in nature ie they are affected by individual emotions and perception
-		Eg - use of sbad language while anger
-	Ethicw are interrelated to each other
-		You can't be honest if you are not truthful
-		You cannot be objective if you are not tolerant
-		Eg - economic depression affectimg climate change negotiations
-	Ethical behaviour also comes into play when human interacts with other things also like machines, animals, environment etc
-	Ethics originate from a sense of justice previaling in a particular society
-		Just and unjust instead of right and wrong
-	Ethics are maintained and sustained by a sense of responsibility and not mere accountability to some external agency but also to something within
-	Ethical standards at many times transcend the narrow stipulation of law and conduct rules 
+
+A man is not only a product but also a producer of his culture
+	A person not only learns from the culture but may also lead to a change in ethical system of the society
+	Eg - Hitler, Gandhi, Obama,Modi. Mandela, Lee Kuan yew, Kalam, Malala
+Ethics depends upon the context in which they are operating
+	They vary in their meaning and intensity according to time , place and person
+Ethics operates at different levels- individual, organisation, socio cultural, national and international levels 
+	Ethics at each level effect each other
+Ethics are abstract and subjective in nature ie they are affected by individual emotions and perception
+	Eg - use of sbad language while anger
+Ethicw are interrelated to each other
+	You can't be honest if you are not truthful
+	You cannot be objective if you are not tolerant
+	Eg - economic depression affectimg climate change negotiations
+Ethical behaviour also comes into play when human interacts with other things also like machines, animals, environment etc
+Ethics originate from a sense of justice previaling in a particular society
+	Just and unjust instead of right and wrong
+Ethics are maintained and sustained by a sense of responsibility and not mere accountability to some external agency but also to something within
+Ethical standards at many times transcend the narrow stipulation of law and conduct rules 
 Culture refers to behaviour of the society
 Socialisation
-	A process through which culture of society is inculcated in individual
-	Cultural conitnutuy is maintained
-	String socialisation - children lives with parents
-	Eg - we are taught to obey others
-	It is a lifelong process through which norms, customs, values and ideologies of a society are passed on to the next generation so that they can become a responsible and participating members of their society
-	It is thus the means by which social and cultural conitnutuy are attained
-	Family is first agency of socialization
-	School is first formal agency of socialization
-	Relgious Organisation - governmentetc 
+A process through which culture of society is inculcated in individual
+Cultural conitnutuy is maintained
+String socialisation - children lives with parents
+Eg - we are taught to obey others
+It is a lifelong process through which norms, customs, values and ideologies of a society are passed on to the next generation so that they can become a responsible and participating members of their society
+It is thus the means by which social and cultural conitnutuy are attained
+Family is first agency of socialization
+School is first formal agency of socialization
+Relgious Organisation - governmentetc 
 
 
