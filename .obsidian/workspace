@@ -4,31 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3d024a501e0103fa",
-        "type": "split",
-        "children": [
-          {
-            "id": "c07f6ca057ab89ac",
-            "type": "leaf",
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NotesVault/_Planner/Long Term Planning.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "ec9a9fdbb06cbae4",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
+        "id": "c298a522e57ca140",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/_Planner/DECEMBER 2020.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -115,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/_Planner/Long Term Planning.md",
+                "file": "NotesVault/_Planner/DECEMBER 2020.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -144,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/_Planner/Long Term Planning.md",
+                "file": "NotesVault/_Planner/DECEMBER 2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,8 +144,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/_Planner/Long Term Planning.md"
+                "file": "NotesVault/_Planner/DECEMBER 2020.md"
               }
+            }
+          },
+          {
+            "id": "ec9a9fdbb06cbae4",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
             }
           }
         ]
@@ -204,15 +197,15 @@
     "width": 315.14996337890625
   },
   "lastOpenFiles": [
-    "NotesVault/_Planner/Untitled.md",
+    "NotesVault/_Planner/DECEMBER 2020.md",
+    "NotesVault/_Planner/Long Term Planning.md",
     "NotesVault/_Planner/Week 2020-50.md",
-    "NotesVault/_Planner/2020-12-07.md",
+    "NotesVault/0 Inbox/UPSC Related Articles/Diversification of output to overcome the MSP trap.md",
+    "NotesVault/0 Inbox/UPSC Related Articles/Climate Change Performance Index.md",
+    "NotesVault/0 Inbox/UPSC Related Articles/Building political consensus on climate change.md",
+    "NotesVault/_Planner/2020-12-09.md",
     "NotesVault/_Planner/2020-12-08.md",
-    "NotesVault/1 Projects/UPSC/GS2/Features of Constitution.md",
-    "NotesVault/_Planner/2020-12-06.md",
-    "NotesVault/1 Projects/UPSC/GS2/Features of Constitution[Conflict].md",
-    "NotesVault/_Templates/Template - WeekPlan.md",
-    "NotesVault/_Templates/Untitled.md",
-    "NotesVault/1 Projects/UPSC/GS2/Body of the Constitution.md"
+    "NotesVault/_Planner/2020-12-07.md",
+    "NotesVault/_Planner/2020-12-06.md"
   ]
 }

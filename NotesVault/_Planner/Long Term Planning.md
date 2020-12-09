@@ -33,13 +33,9 @@
 	- Anthropology Paper1 - **once** = by 31st Dec
 		- Make notes - small crisp --> for details we will look into BrainTree when required.
 	- Modern History? - Read book - 10 days
-		- = by 25 + 5  December
+		- = by 25 (+5 days) December
 		- Listen to Video in free time (eating etc.)
-	
-### DECEMBER 2020
-- Week 2020-49 
-	- PASSED
-- Week 2020-50
-- Week 2020-51
-- Week 2020-52
-- Week 2021-01
+
+> 💡 Each slot = 1️⃣ hour
+
+![[DECEMBER 2020]]
