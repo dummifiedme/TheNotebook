@@ -1,0 +1,18 @@
+{
+  "name": "FreshVault",
+  "version": "0.1.01",
+  "description": "New",
+  "dependencies": {
+    "tiddlywiki": "^5.1.22"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "tiddlywiki . --build index"
+  },
+  "author": "dummyme",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
