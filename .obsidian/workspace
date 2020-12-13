@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/_Planner/Template for comparison.md",
+            "file": "Untitled 1.md",
             "mode": "source"
           }
         }
@@ -114,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/_Planner/Template for comparison.md",
+                "file": "Untitled 1.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/_Planner/Template for comparison.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/_Planner/Template for comparison.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -211,6 +211,7 @@
     "width": 423
   },
   "lastOpenFiles": [
+    "Untitled 1.md",
     "NotesVault/_Planner/Untitled.md",
     "NotesVault/_Planner/2020-12-11.md",
     "NotesVault/_Planner/2020-12-12.md",
@@ -219,7 +220,6 @@
     "NotesVault/_Planner/FlashCard Check.md",
     "NotesVault/_Planner/DECEMBER 2020.md",
     "NotesVault/_Planner/2020-12-10.md",
-    "NotesVault/_Templates/Template - DayPlan.md",
-    "NotesVault/_Templates/Untitled.md"
+    "NotesVault/_Templates/Template - DayPlan.md"
   ]
 }
