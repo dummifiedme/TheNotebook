@@ -4,25 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "912da8dcf6942842",
-        "type": "leaf",
-        "dimension": 53.940321346595255,
-        "active": true,
-        "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "e24d47828c251000"
-      },
-      {
         "id": "d56343cddeb46f78",
         "type": "leaf",
-        "dimension": 46.059678653404745,
+        "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "e24d47828c251000"
+          "type": "markdown",
+          "state": {
+            "file": "India-Maldives.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -104,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.0036334991455
+    "width": 387.0036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -121,6 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "India-Maldives.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -149,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "India-Maldives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "India-Maldives.md"
+              }
             }
           },
           {
@@ -212,15 +208,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "India-Maldives.md",
+    "MM 2020 August.md",
+    "Air-Bubbles Agreements.md",
+    "Untitled.md",
     "NotesVault/2 Areas/Diary/2020-12-13 Diary Entry.md",
     "NotesVault/2 Areas/Diary/Elaborate Relaxed Plan.md",
     "NotesVault/2 Areas/Diary/Source List.md",
     "NotesVault/2 Areas/Diary/Yoga and Pranayam.md",
     "NotesVault/2 Areas/Diary/2020-12-13.md",
-    "NotesVault/_Planner/2020-12-13.md",
-    "NotesVault/_Planner/2020-12-12.md",
-    "NotesVault/2 Areas/Diary/Untitled.md",
-    "NotesVault/Untitled.md",
-    "QA - 2.4 Family.md"
+    "NotesVault/_Planner/2020-12-13.md"
   ]
 }
