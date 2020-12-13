@@ -13,13 +13,7 @@ date: 2020-12-13 21:37
 		- Closer cooperation in civil nuclear energy, space, marine sciences and new technologies.
 		- India -> LINE of CREDIT of US$ 500 for procurement of defence equipment from India.
 		- Vietnam negotiating for both [[Missiles#BrahMos]] and [[Missiles#Akash]] Missiles.
-
-## Evolution of India-Vietnam Relationship
-![[../3 Resources/Pasted image 20201213215012.png]]
-  
-
-- 🍒 India-Vietnam: Spheres of cooperation
-    - 🍒 India-Vietnam: Economics and defence engagement
+	- Economics and defence engagement
         - Civil nuclear energy
         - Space
         - Marine sciences
@@ -27,21 +21,24 @@ date: 2020-12-13 21:37
         - Defence —
             - Vietnam wants BrahMos and Akash missiles.
             - India offered line of credit.
-    - India-Vietnam: Cooperation at multilateral regional forums
-        - Vietnam supports India — permanent seat at UNSC
-        - Vietnam supports India — join Asia-Pacific Economic Cooperation APEC
-    - India-Vietnam: Indo Pacific sphere
-        - Indo-Pacific key notion of India’s policy: to achieve shared `Security`, `Prosperity` and `growth for all` in the region
+    - Cooperation at **multilateral regional forums**
+        - Vietnam supports India — **permanent seat at UNSC**
+        - Vietnam supports India — in joining **Asia-Pacific Economic Cooperation APEC**
+    - Indo-Pacific sphere
+        - Indo-Pacific key notion of India’s policy: to achieve shared Security, Prosperity and growth for all in the region.
+        - Both agreed to:
+			- Support India’s [[Indo-Pacific Oceans Initiative (IPOI)]]
+				- India has called for Vietnam’s support for **one** of the seven central pillars.
+        	- Support ASEAN’s Outlook on Indo-Pacific
+
+## Evolution of India-Vietnam Relationship
+![[../3 Resources/Pasted image 20201213215012.png]]
+  
+## India-Vietnam: Spheres of cooperation
 
 
-        - Support India’s [Indo-Pacific Oceans Initiative (IPOI)](https://www.notion.so/Indo-Pacific-Oceans-Initiative-IPOI-661abda17ef54bd9872eff40250b2fff)
-            - India has called for Vietnam’s support for one of the seven central pillars.
-        - Support ASEAN’s Outlook on Indo-Pacific
 
-    ~~IR_Vietnam~~
 
-- 🍒 Importance of Vietnam for India
-    - Act East Policy
-
-    ~~IR_Vietnam~~
+## Importance of Vietnam for India
+- Act East Policy
 	
