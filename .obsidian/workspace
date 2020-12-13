@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d56343cddeb46f78",
+        "id": "cbbd6a3f9a537bfd",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/_Planner/2020-12-13.md",
+            "file": "🌞 Daily Mail.md",
             "mode": "source"
           }
         }
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "088ed5302beee153",
@@ -85,14 +84,18 @@
             }
           },
           {
-            "id": "811510347c9621cf",
+            "id": "8c951169c67486b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🌞 Daily Mail.md",
+                "mode": "preview"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -113,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/_Planner/2020-12-13.md",
+                "file": "🌞 Daily Mail.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -142,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/_Planner/2020-12-13.md",
+                "file": "🌞 Daily Mail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/_Planner/2020-12-13.md"
+                "file": "🌞 Daily Mail.md"
               }
             }
           },
@@ -207,6 +210,8 @@
     "width": 423
   },
   "lastOpenFiles": [
+    "🌞 Daily Mail.md",
+    "Daily Mail!.md",
     "NotesVault/_Planner/2020-12-13.md",
     "NotesVault/2 Areas/Diary/2020-12-13 Diary Entry.md",
     "NotesVault/0 Inbox/Untitled.md",
@@ -214,8 +219,6 @@
     "NotesVault/0 Inbox/ASEAN.md",
     "NotesVault/0 Inbox/Indo-Pacific Oceans Initiative (IPOI).md",
     "NotesVault/0 Inbox/Missiles.md",
-    "NotesVault/0 Inbox/MM 2020 August.md",
-    "NotesVault/0 Inbox/India-Maldives.md",
-    "NotesVault/0 Inbox/High Impact Community Development Projects.md"
+    "NotesVault/0 Inbox/MM 2020 August.md"
   ]
 }
