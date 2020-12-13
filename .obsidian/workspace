@@ -6,11 +6,12 @@
       {
         "id": "912da8dcf6942842",
         "type": "leaf",
+        "dimension": 53.940321346595255,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/2 Areas/Diary/2020-12-13 Diary Entry.md",
+            "file": "NotesVault/2 Areas/Diary/Source List.md",
             "mode": "source"
           }
         },
@@ -19,10 +20,11 @@
       {
         "id": "d56343cddeb46f78",
         "type": "leaf",
+        "dimension": 46.059678653404745,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/2 Areas/Diary/2020-12-13 Diary Entry.md",
+            "file": "NotesVault/2 Areas/Diary/Source List.md",
             "mode": "preview"
           }
         },
@@ -123,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/2 Areas/Diary/2020-12-13 Diary Entry.md",
+                "file": "NotesVault/2 Areas/Diary/Source List.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -152,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/2 Areas/Diary/2020-12-13 Diary Entry.md",
+                "file": "NotesVault/2 Areas/Diary/Source List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/2 Areas/Diary/2020-12-13 Diary Entry.md"
+                "file": "NotesVault/2 Areas/Diary/Source List.md"
               }
             }
           },
@@ -218,6 +220,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/2 Areas/Diary/Source List.md",
     "NotesVault/2 Areas/Diary/2020-12-13 Diary Entry.md",
     "NotesVault/2 Areas/Diary/Yoga and Pranayam.md",
     "NotesVault/2 Areas/Diary/2020-12-13.md",
@@ -226,7 +229,6 @@
     "NotesVault/2 Areas/Diary/Untitled.md",
     "NotesVault/Untitled.md",
     "QA - 2.4 Family.md",
-    "Untitled.md",
-    "Untitled 1.md"
+    "Untitled.md"
   ]
 }

@@ -5,7 +5,7 @@ I haven't written a diary for a while now. I am not really having a great time w
 
 ## Problems I am facing
 ### Studies
-1. No proper Plan for UPSC
+1. No proper Plan for UPSC #self-ponder👁 
 	1. I don't know how to proceed exactly. 
 	2. I don't have a long term plan.
 	3. I don't follow my daily plans
@@ -53,4 +53,19 @@ I haven't written a diary for a while now. I am not really having a great time w
 	
 	I know Vaishali and me are poles apart, and there is no way we can be together. Plus, I have been so low on the esteem that I don't see why she or anyone else for that matter would like to have me as a partner. I need to change this. I have to be confident again. I need to know what are my qualities. And if there is something I am missing, I should really get myself on the track of improvement. If I love myself, then only people will love me (people's love or acceptance doesn't even matter, what you think about yourself does.)
 	For example, there was this scene in movie, Dear Zindagi.
-		Coco asks her friend who had been going to the 'Dimaag ka Doctor'
+	> Coco asks her friend who had been going to the 'Dimaag ka Doctor' if he is going there so he can tell the world to accept him that he is gay. On which he replies, 'Main jata hun taaki main khud ko bata saku main gay hu'.
+	
+	So, important thing is to be comfortable with yourself.  #self-ponder👁
+	- Why am I low? 
+	- What standards I have set for myself and why?! 
+	- What do I really like to do or learn?
+	- What are the methods I should employ to make myself a better learner?
+
+> Follow these questions when you are on a break and have some time to write a diary and think about yourself, your day.
+
+2. Studies
+	It has been bothering me #self-ponder👁 
+	- if studies are really my forte?
+	- why can't I learn like the others?
+	- why can't I just read a book and go on reading it?
+	- Why can't I concentrate?
