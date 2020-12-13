@@ -99,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.0036334991455
+    "width": 372.0036334991455
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -207,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423
+    "width": 423,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "🌞 Daily Mail.md",
