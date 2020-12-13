@@ -37,7 +37,7 @@ date: 2020-12-13 18:04
 	1. Since 2009
 
 ### Development Assistance
-1. Major completed dev assistance
+1. Major completed development assistance
 	1. Indira Gandhi Memorial Hospital
 	2. Maldives Institute of Technical Education
 	3. Construction of National Police Academy
@@ -50,8 +50,33 @@ date: 2020-12-13 18:04
 ### People to People relations
 - Indians are second largest expatriate community in Maldives
 	- 25% of doctors and teachers are Indian.
-	-  
+-  Scholarships to Maldivian Students
+	-  SAARC Fellowships etc.
+-  India Cultural Center (ICC) --> inaugurated in 20122
+	-  Yoga
+	-  Classical music and dance
+-  Indian movies, shows and music famous in Maldives.
+-  PM of India conferred highest Maldivian honour -> Rule of Nishan Izzuddeen.
 
+## Challenges in India-Maldives Relations
+1. Maldivian reliance on China 
+	1. more than US$ 2 Billion in infra
+	2. Resulting into DEBT
+	3. Hence, concerns about debt-trap diplomacy
+2. Political Instability
+	1. yet not a firm footing of Democracy
+	2. Impacts India's interest.
+		- example: GMR Infra lost US$ 511 million project.
+3. Increasing radicalisation --> overall security of the Indian Ocean is challenged.
+	1. More than 200 Maldivians joined IS.
+
+## Way Forward
+- both nations must enhance regional cooperation using common platforms as:
+	- Indian Ocean RIM Association.
+	- Indian Ocean Naval Symposium.
+- Recent policies that are complementary and implementation has strategic advantages
+	- 'India-first Policy' --> of Maldives
+	- 'Neighbourhood First Policy' --> of India
 
 
 
