@@ -1,6 +1,8 @@
 ---
 source: Vision Monthly Magazine August 2020
 date: 2020-12-13 21:37
+card-deck: UPSC::GS2::IR
+file-tags: IR 
 ---
 
 # India-Vietnam Bilateral Relations
@@ -23,8 +25,11 @@ date: 2020-12-13 21:37
 				- India has called for Vietnam’s support for **one** of the **seven central pillars**.
         	- Support [[../GS2/ASEAN#Outlook on Indo-Pacific]]
 
+
+
 ## Evolution of India-Vietnam Relationship #spaced
 ![[../../../3 Resources/Pasted image 20201213215012.png]]
+
   
 ## India-Vietnam: Spheres of cooperation #spaced
 As discussed above in detail:
@@ -45,6 +50,8 @@ As discussed above in detail:
 	2. Enhancing regional security
 	3. fighting terrorism, transnational crime and drug trafficking.
 
+
+
 ## Importance of Vietnam for India #spaced 
 - [[Act East Policy]] #to-do
 	- Vietnam core partner in ASEAN
@@ -60,6 +67,7 @@ As discussed above in detail:
 		-  Short gestation period
 		-  direct benefits to the communities
 		-  at grassroots levels
+
 
 ## Challenges in India-Vietnam Relations
 

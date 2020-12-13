@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
+            "file": "NotesVault/1 Projects/UPSC/GS2/Template - YAML Header.md",
             "mode": "source"
           }
         }
@@ -117,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/Template - YAML Header.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/Template - YAML Header.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md"
+                "file": "NotesVault/1 Projects/UPSC/GS2/Template - YAML Header.md"
               }
             }
           },
@@ -212,15 +212,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/1 Projects/UPSC/GS2/Template - YAML Header.md",
     "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
+    "NotesVault/1 Projects/UPSC/GS2/Untitled.md",
     "NotesVault/1 Projects/UPSC/Prelims/Prelims Facts/Words.md",
     "Workbench.md",
     "NotesVault/1 Projects/UPSC/GS2/ASEAN.md",
     "NotesVault/1 Projects/UPSC/GS2/Indo-Pacific Oceans Initiative (IPOI).md",
     "NotesVault/1 Projects/UPSC/GS2/International Relations.md",
-    "NotesVault/1 Projects/UPSC/GS2/Untitled.md",
     "NotesVault/0 Inbox/International Relations.md",
-    "NotesVault/0 Inbox/Indo-Pacific Oceans Initiative (IPOI).md",
-    "NotesVault/0 Inbox/India-Vietnam.md"
+    "NotesVault/0 Inbox/Indo-Pacific Oceans Initiative (IPOI).md"
   ]
 }
