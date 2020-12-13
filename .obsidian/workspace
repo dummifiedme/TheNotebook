@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "cbbd6a3f9a537bfd",
+        "id": "d34b9ffa6319a0c4",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🌞 Daily Mail.md",
+            "file": "NotesVault/0 Inbox/International Relations.md",
             "mode": "source"
           }
         }
@@ -25,7 +25,7 @@
       {
         "id": "5313749fb7e991a2",
         "type": "tabs",
-        "dimension": 43.70290635091496,
+        "dimension": 40.796555435952634,
         "children": [
           {
             "id": "3e25e94ed1684d8d",
@@ -63,7 +63,7 @@
       {
         "id": "088ed5302beee153",
         "type": "tabs",
-        "dimension": 56.29709364908504,
+        "dimension": 59.20344456404736,
         "children": [
           {
             "id": "4e985d49cf3ba465",
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🌞 Daily Mail.md",
+                "file": "NotesVault/0 Inbox/International Relations.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌞 Daily Mail.md",
+                "file": "NotesVault/0 Inbox/International Relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌞 Daily Mail.md"
+                "file": "NotesVault/0 Inbox/International Relations.md"
               }
             }
           },
@@ -211,12 +211,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/0 Inbox/Untitled.md",
+    "NotesVault/0 Inbox/India-Vietnam.md",
     "🌞 Daily Mail.md",
     "Daily Mail!.md",
     "NotesVault/_Planner/2020-12-13.md",
     "NotesVault/2 Areas/Diary/2020-12-13 Diary Entry.md",
-    "NotesVault/0 Inbox/Untitled.md",
-    "NotesVault/0 Inbox/India-Vietnam.md",
     "NotesVault/0 Inbox/ASEAN.md",
     "NotesVault/0 Inbox/Indo-Pacific Oceans Initiative (IPOI).md",
     "NotesVault/0 Inbox/Missiles.md",
