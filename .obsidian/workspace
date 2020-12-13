@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ff9cba6ba312eee3",
+        "id": "a12adf0d8f8f0722",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/_Planner/FlashCard Check.md",
+            "file": "NotesVault/_Planner/Template for comparison.md",
             "mode": "source"
           }
         }
@@ -114,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/_Planner/FlashCard Check.md",
+                "file": "NotesVault/_Planner/Template for comparison.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/_Planner/FlashCard Check.md",
+                "file": "NotesVault/_Planner/Template for comparison.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/_Planner/FlashCard Check.md"
+                "file": "NotesVault/_Planner/Template for comparison.md"
               }
             }
           },
@@ -204,23 +204,22 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 423
   },
   "lastOpenFiles": [
-    "NotesVault/_Planner/FlashCard Check.md",
     "NotesVault/_Planner/Untitled.md",
-    "NotesVault/_Planner/DECEMBER 2020.md",
     "NotesVault/_Planner/2020-12-11.md",
+    "NotesVault/_Planner/2020-12-12.md",
+    "Untitled.md",
+    "NotesVault/_Templates/Template- Articles.md",
+    "NotesVault/_Planner/FlashCard Check.md",
+    "NotesVault/_Planner/DECEMBER 2020.md",
     "NotesVault/_Planner/2020-12-10.md",
     "NotesVault/_Templates/Template - DayPlan.md",
-    "NotesVault/_Templates/Template- Articles.md",
-    "NotesVault/_Templates/Untitled.md",
-    "NotesVault/_Templates/Template - Time Planner.md",
-    "NotesVault/_Planner/Long Term Planning.md"
+    "NotesVault/_Templates/Untitled.md"
   ]
 }
