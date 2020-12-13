@@ -7,7 +7,7 @@ date: 2020-12-13 21:37
 
 > GDP of VIETNAM is growing CRAZY. India can take some leanings from its growth.
 
-## Recent Meetings #flashcard
+## Recent Meetings #spaced
 1. 17th Joint Commission on Trade, Economic, Scientific and Technological Cooperation (BILATERAL)
 	- Economic and Defence Engagement
 		- Closer cooperation in civil nuclear energy, space, marine sciences and new technologies.

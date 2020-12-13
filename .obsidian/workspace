@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d34b9ffa6319a0c4",
+        "id": "b48625ead003e65a",
         "type": "leaf",
         "active": true,
         "state": {
@@ -213,6 +213,7 @@
   },
   "lastOpenFiles": [
     "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
+    "Workbench.md",
     "NotesVault/1 Projects/UPSC/GS2/ASEAN.md",
     "NotesVault/1 Projects/UPSC/GS2/Indo-Pacific Oceans Initiative (IPOI).md",
     "NotesVault/1 Projects/UPSC/GS2/International Relations.md",
@@ -220,7 +221,6 @@
     "NotesVault/0 Inbox/International Relations.md",
     "NotesVault/0 Inbox/Indo-Pacific Oceans Initiative (IPOI).md",
     "NotesVault/0 Inbox/India-Vietnam.md",
-    "NotesVault/Index.md",
-    "NotesVault/0 Inbox/Untitled.md"
+    "NotesVault/Index.md"
   ]
 }
