@@ -50,7 +50,7 @@ date: 2020-12-13 18:04
 ### People to People relations
 - Indians are second largest expatriate community in Maldives
 	- 25% of doctors and teachers are Indian.
-	- 
+	-  
 
 
 
