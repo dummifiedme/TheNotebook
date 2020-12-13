@@ -1,2 +1,7 @@
 # Index
-1. [[0 Inbox/MM 2020 August]]
+## Topics
+- [[0 Inbox/International Relations]]
+
+## Sources
+### Monthly Magazines
+- [[0 Inbox/MM 2020 August]]
