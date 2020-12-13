@@ -29,7 +29,7 @@ date: 2020-12-13 18:04
 
 ### Defence Cooperation
 1. Operation CACTUS 1988
-	1. Indian troups prevented a coup in Maldives
+	1. Indian troops prevented a coup in Maldives
 	2. since then major area of cooperation between both.
 2. India provides training to Maldivian National Defence Force (MNDF)
 	1. Nearly 70% of total defence training requirements.
@@ -43,6 +43,14 @@ date: 2020-12-13 18:04
 	3. Construction of National Police Academy
 	 etc.
  2. Grants for Projects under HICDPs - [[High Impact Community Development Projects]]
+ 3. Large scale assistance
+	 1.  aftermath of Tsunami 2004
+	 2.  2014 Male crisis under Operation Neer.
+
+### People to People relations
+- Indians are second largest expatriate community in Maldives
+	- 25% of doctors and teachers are Indian.
+	- 
 
 
 
