@@ -7,12 +7,12 @@ date: 2020-12-13 21:37
 
 > GDP of VIETNAM is growing CRAZY. India can take some leanings from its growth.
 
-## Recent Meetings
+## Recent Meetings #flashcard
 1. 17th Joint Commission on Trade, Economic, Scientific and Technological Cooperation (BILATERAL)
 	- Economic and Defence Engagement
 		- Closer cooperation in civil nuclear energy, space, marine sciences and new technologies.
 		- India -> LINE of CREDIT of US$ 500 for procurement of defence equipment from India.
-		- Vietnam wants[[Missiles#BrahMos]] and [[Missiles#Akash]] Missiles.
+		- Vietnam wants [[Missiles#BrahMos]] and [[Missiles#Akash]] Missiles.
     - Cooperation at **multilateral regional forums**
         - Vietnam supports India — **permanent seat at UNSC**
         - Vietnam supports India — in joining **Asia-Pacific Economic Cooperation APEC**
@@ -34,7 +34,7 @@ As discussed above in detail:
 2. Cooperation at multi-lateral regional forums
 	- Vietnam supports Indian bid for
 		1. Permanent Seat at UNSC
-		2. joining [[Asia-Pacific Economic Cooperation (APEC)]] #TODO #
+		2. joining [[Asia-Pacific Economic Cooperation (APEC)]] #to-do
 3. Indo-Pacific Spheres
 	- agreement on 
 		1. India's Indo-Pacific Initiative (IPOI)
@@ -46,7 +46,7 @@ As discussed above in detail:
 	3. fighting terrorism, transnational crime and drug trafficking.
 
 ## Importance of Vietnam for India
-- [[Act East Policy]] #TODO
+- [[Act East Policy]] #to-do
 	- Vietnam core partner in ASEAN
 	- Critical Partner in Look & Act East Policy
 - To contain China
@@ -56,7 +56,7 @@ As discussed above in detail:
 	- Vietnam wants India to explore Oil and Gas in South-China Sea.
 - Trade and Economy
 	-  India in top ten trading partner of Vietnam
-	-  [[Mekong-Ganga Cooperation (MGC) framework]] india has been taking up **Quick Impact Projects** (QIPs) 
+	-  [[Mekong-Ganga Cooperation (MGC) framework]] --> India has been taking up **Quick Impact Projects** (QIPs) 
 		-  Short gestation period
 		-  direct benefits to the communities
 		-  at grassroots levels
