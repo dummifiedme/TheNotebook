@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/GS2/General Studies 2.md",
+            "file": "NotesVault/1 Projects/UPSC/GS2/International Relations.md",
             "mode": "source"
           }
         }
@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌞 Daily Mail.md",
+                "file": "NotesVault/🌞 Daily Mail.md",
                 "mode": "preview"
               }
             }
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/General Studies 2.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/International Relations.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/General Studies 2.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/International Relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/General Studies 2.md"
+                "file": "NotesVault/1 Projects/UPSC/GS2/International Relations.md"
               }
             }
           },
@@ -210,6 +210,7 @@
     "width": 423
   },
   "lastOpenFiles": [
+    "NotesVault/1 Projects/UPSC/GS2/International Relations.md",
     "NotesVault/1 Projects/UPSC/GS2/Untitled.md",
     "NotesVault/0 Inbox/International Relations.md",
     "NotesVault/0 Inbox/Indo-Pacific Oceans Initiative (IPOI).md",
@@ -218,7 +219,6 @@
     "NotesVault/0 Inbox/Untitled.md",
     "🌞 Daily Mail.md",
     "Daily Mail!.md",
-    "NotesVault/_Planner/2020-12-13.md",
-    "NotesVault/2 Areas/Diary/2020-12-13 Diary Entry.md"
+    "NotesVault/_Planner/2020-12-13.md"
   ]
 }

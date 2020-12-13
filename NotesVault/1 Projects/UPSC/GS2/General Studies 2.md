@@ -2,3 +2,5 @@
 A comprehensive index of stuff under General Studies 2
 
 - [[Polity and Governance]]
+- [[Indian Society]]
+- [[International Relations]]
