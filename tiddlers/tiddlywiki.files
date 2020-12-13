@@ -1,0 +1,56 @@
+{
+    "tiddlers" : [
+	{ 
+	  "file": "$__config_markdown_renderWikiTextPragma.tid",
+	  "isTiddlerFile" : "true"	
+	}
+	],
+
+    "directories": [
+	{
+            "path": "../NotesVault",
+	    "filesRegExp": "^.*\\.md$",
+            "isTiddlerFile": true,
+            "fields": {
+                "title": {"source": "basename-uri-decoded"},
+                "created": {"source": "created"},
+                "modified": {"source": "modified"},
+                "type": "text/x-markdown"
+	    }
+	},
+	{
+            "path": "../NotesVault/2 Areas/Diary",
+	    "filesRegExp": "^.*\\.md$",
+            "isTiddlerFile": true,
+            "fields": {
+                "title": {"source": "basename-uri-decoded"},
+                "created": {"source": "created"},
+                "modified": {"source": "modified"},
+                "type": "text/x-markdown"
+	    }
+	},
+	{
+            "path": "../NotesVault/1 Projects/UPSC/GS2",
+	    "filesRegExp": "^.*\\.md$",
+            "isTiddlerFile": true,
+            "fields": {
+                "title": {"source": "basename-uri-decoded"},
+                "created": {"source": "created"},
+                "modified": {"source": "modified"},
+                "type": "text/x-markdown"
+	    }
+	},
+	{
+            "path": "../NotesVault/1 Projects/UPSC/Anthropology",
+	    "filesRegExp": "^.*\\.md$",
+            "isTiddlerFile": true,
+            "fields": {
+                "title": {"source": "basename-uri-decoded"},
+                "created": {"source": "created"},
+                "modified": {"source": "modified"},
+                "type": "text/x-markdown"
+	    }
+	}
+   ]  
+ 
+}
