@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/GS2/International Relations.md",
+            "file": "NotesVault/1 Projects/UPSC/GS2/Indo-Pacific Oceans Initiative (IPOI).md",
             "mode": "source"
           }
         }
@@ -99,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.0036334991455
+    "width": 372.0036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -116,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/International Relations.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/Indo-Pacific Oceans Initiative (IPOI).md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/International Relations.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/Indo-Pacific Oceans Initiative (IPOI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/International Relations.md"
+                "file": "NotesVault/1 Projects/UPSC/GS2/Indo-Pacific Oceans Initiative (IPOI).md"
               }
             }
           },
@@ -207,18 +208,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423
+    "width": 423,
+    "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/1 Projects/UPSC/GS2/Indo-Pacific Oceans Initiative (IPOI).md",
+    "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
+    "NotesVault/1 Projects/UPSC/GS2/ASEAN.md",
     "NotesVault/1 Projects/UPSC/GS2/International Relations.md",
     "NotesVault/1 Projects/UPSC/GS2/Untitled.md",
     "NotesVault/0 Inbox/International Relations.md",
     "NotesVault/0 Inbox/Indo-Pacific Oceans Initiative (IPOI).md",
     "NotesVault/0 Inbox/India-Vietnam.md",
     "NotesVault/Index.md",
-    "NotesVault/0 Inbox/Untitled.md",
-    "🌞 Daily Mail.md",
-    "Daily Mail!.md",
-    "NotesVault/_Planner/2020-12-13.md"
+    "NotesVault/0 Inbox/Untitled.md"
   ]
 }
