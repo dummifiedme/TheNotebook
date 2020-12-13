@@ -1,3 +1,13 @@
+---
+
+TARGET DECK
+UPSC::Anthropology::Paper 1
+
+FILE TAG
+Anthropology::Paper1::Family
+
+---
+
 # Family
 
 ## Definition and Universality
@@ -101,4 +111,6 @@ Socialisation of children | schools and such institutions | big families or kins
 
 
   
+
+
 
