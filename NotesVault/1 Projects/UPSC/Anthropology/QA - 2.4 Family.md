@@ -1,11 +1,8 @@
 ---
-
-TARGET DECK
-UPSC::Anthropology::Paper 1
-
-FILE TAG
-Anthropology::Paper1::Family
-
+source:
+date: 2020-12-14 02:12
+card-deck: UPSC::Anthropology::Paper 1
+file-tags: Anthropology::Paper1::Family
 ---
 
 # Family

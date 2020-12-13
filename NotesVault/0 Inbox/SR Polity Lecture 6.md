@@ -56,7 +56,7 @@ Q: What is the impact of GoI Act 1935 on the present constitution
     2.  Provincial List
     3.  Concurrent List
 4.  Residuary powers with  the center --> viceroy.
-5.  Since federation couldn't come into existence, ==Provincial autonomy was introduced==.
+5.  Since federation couldn't come into existence, Provincial autonomy was introduced.
 
 ### Form of Government at Provincial government
 

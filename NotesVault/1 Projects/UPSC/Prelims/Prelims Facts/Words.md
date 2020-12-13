@@ -1,14 +1,13 @@
+---
+source:
+date: 2020-12-14 02:12
+card-deck: Facts and Vocab::Words
+file-tags: Vocabulary::English Vocabulary::Study
+---
 # Words
 ---
 >🖐 A list of new words. Goes into ANKI.
 
-TARGET DECK
-Facts and Vocab::🔠 Words
-
-FILE TAGS
-Vocabulary::English Vocabulary::Study
-
----
 ### Ultra Vires
 Meaning:
 - acting or done beyond one's legal power or authority. ^b47b7d

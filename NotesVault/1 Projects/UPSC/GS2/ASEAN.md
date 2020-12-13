@@ -13,4 +13,5 @@ date updated: '2020-12-13 22:25 '
 -   envisages ASEAN centrality as principle in INDO-PACIFIC
 -   involving EAST ASIA SUMMIT (EAS)
 
-## EAST ASIA SUMMIT (EAS) #TODO 
+## EAST ASIA SUMMIT (EAS) 
+#to-do 

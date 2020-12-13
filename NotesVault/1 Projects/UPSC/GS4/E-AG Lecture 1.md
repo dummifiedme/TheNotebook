@@ -26,7 +26,7 @@
 	-  It cannot be perceived by any of the five senses
 
 - **Subjective** - which is based on opinions 
-	- Anything which is ==mind dependent and subject specific==
+	- Anything which is mind dependent and subject specific
 	- Thought process of humans is not always objective as things like stereotypes , prejudice etc dominates the min many situations
 ---
 #### Logic
@@ -96,7 +96,7 @@ Example
 ---
 
 #### Ethics
-- ==Greek== origin - ethos - custom
+- Greek origin - ethos - custom
 - External Locus
 - Two contexts
 	- Practice - determining what is right and wrong
@@ -191,10 +191,10 @@ India has more conflict between morals and ethics
 
 > Essence: **Core** qualities, attribute, characteristics and properties of ethics.
 
-1. ==Ethics **cannot** be shaped and sustained in isolation==. A person's environment interact with his or her genotype to influence the behavioural outcomes.
+1. Ethics **cannot** be shaped and sustained in isolation. A person's environment interact with his or her genotype to influence the behavioural outcomes.
 	> **'Nature' and 'nurture'** => Genotype and Phenotype
 
-	> **Socialisation** is a lifelong process through with norms, customs, values and ideologies of a society are ==passed on to the next generation==, so that they can become a responsible and participating member of their society. Socialisation is thus means by which, social and cultural continuity are attained.
+	> **Socialisation** is a lifelong process through with norms, customs, values and ideologies of a society are passed on to the next generation, so that they can become a responsible and participating member of their society. Socialisation is thus means by which, social and cultural continuity are attained.
 
 	- A man is not only a product but also a producer of his culture
 		- A person not only learns from the culture but may also lead to a change in ethical system of the society
