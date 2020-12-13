@@ -1,13 +1,19 @@
 ---
 source: Vision Monthly Magazine August 2020
 date: 2020-12-13 18:04
+card-deck: UPSC::GS2::IR
+file-tags: IR::India-Maldives
 ---
+
+## India-Maldives
+
+
 # India Maldives Bilateral Relations
 
 - India offered US$500 million assistance for Greater Male Connectivity Project (GMCP)
 	- Connects Male to three neighboring islands - Villingili, Thilafushi and Gulhifahu islands
 
-## Importance of Maldives 
+## Importance of Maldives  #spaced 
 1.  Proximity to west coast of India
 	- Can allow naval presence of third country --> dangerous.
 2. Situated at the hub of commercial sea-lanes 
@@ -16,9 +22,10 @@ date: 2020-12-13 18:04
 	- Hence, this calls for close military and naval ties with Maldives.
 4. China's growing footprints in Maldives -> though embassy opened in just 2011.
 
+
 ## Overview of India-Maldives Relations
 
-### Economic Relations
+### Economic Relations #spaced
 1. Signed trade agreement --> 1981
 	- Trade now amounts to ~ US$ 300Million --> Heavily in the favour of India.
 	- India is Maldives fourth largest Trade partner.
@@ -27,7 +34,7 @@ date: 2020-12-13 18:04
 		- export of marine products
 		- business enterprises.
 
-### Defence Cooperation
+### Defence Cooperation #spaced
 1. Operation CACTUS 1988
 	1. Indian troops prevented a coup in Maldives
 	2. since then major area of cooperation between both.
@@ -36,7 +43,7 @@ date: 2020-12-13 18:04
 3. Exercise Ekuverin ('Friends' in Maldivian language) 
 	1. Since 2009
 
-### Development Assistance
+### Development Assistance #spaced
 1. Major completed development assistance
 	1. Indira Gandhi Memorial Hospital
 	2. Maldives Institute of Technical Education
@@ -47,7 +54,7 @@ date: 2020-12-13 18:04
 	 1.  aftermath of Tsunami 2004
 	 2.  2014 Male crisis under Operation Neer.
 
-### People to People relations
+### People to People relations #spaced
 - Indians are second largest expatriate community in Maldives
 	- 25% of doctors and teachers are Indian.
 -  Scholarships to Maldivian Students
@@ -58,7 +65,7 @@ date: 2020-12-13 18:04
 -  Indian movies, shows and music famous in Maldives.
 -  PM of India conferred highest Maldivian honour -> Rule of Nishan Izzuddeen.
 
-## Challenges in India-Maldives Relations
+## Challenges in India-Maldives Relations #spaced
 1. Maldivian reliance on China 
 	1. more than US$ 2 Billion in infra
 	2. Resulting into DEBT
@@ -70,7 +77,7 @@ date: 2020-12-13 18:04
 3. Increasing radicalisation --> overall security of the Indian Ocean is challenged.
 	1. More than 200 Maldivians joined IS.
 
-## Way Forward
+## Way Forward #spaced
 - both nations must enhance regional cooperation using common platforms as:
 	- Indian Ocean RIM Association.
 	- Indian Ocean Naval Symposium.

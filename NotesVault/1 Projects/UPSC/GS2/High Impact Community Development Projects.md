@@ -1,3 +1,13 @@
+---
+source:
+date: 2020-12-14 02:12
+card-deck: UPSC::GS2:IR
+file-tags: IR
+---
+
+## High Impact Community Development Projects
+
+
 ### High Impact Community Development Projects
 - In areas of 
 	- livelihood and income generation

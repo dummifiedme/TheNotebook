@@ -9,7 +9,9 @@ date: 2020-12-13
 - [[../1 Projects/UPSC/GS2/India-Maldives]] Bilateral Relations
 	- [[../1 Projects/UPSC/GS2/Air-Bubbles Agreements]] or transport bubbles
 	- [[../1 Projects/UPSC/GS2/High Impact Community Development Projects]]
-	- [[Indian outreach during COVID-19#To Indian Ocean Nations]]
+	- [[../1 Projects/UPSC/GS2/Indian outreach during COVID-19#To Indian Ocean Nations]]
 - [[../1 Projects/UPSC/GS2/India-Vietnam]] Bilateral Relations
-- 
+	- [[../1 Projects/UPSC/GS2/ASEAN]]
+	- [[../1 Projects/UPSC/GS2/Indo-Pacific Oceans Initiative (IPOI)]]
+
 

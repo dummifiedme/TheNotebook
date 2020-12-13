@@ -11,10 +11,10 @@ Like @alexkillby I couldn’t imagine not linking Daily Notes to permanent notes
 
 Here’s my current workflow:
 
-    Free write new content in a Daily Note, linking to [[existing ideas]] and potential [[new ideas]] as I go.
-    Review what I’ve written.
-    If I’ve generated text that could be a meaningful addition to the note for [[existing idea]], I click-open that note in a new pane and copy/paste the new text to it for later integration. Close pane and continue.
-    If I’ve generated text that would be a good start for a note about [[new idea]], I click-create-open that note in a new pane and copy/paste the text to it as a stub. Close pane and continue.
+-  Free write new content in a Daily Note, linking to [[existing ideas]] and potential [[new ideas]] as I go.
+- Review what I’ve written.
+- If I’ve generated text that could be a meaningful addition to the note for [[existing idea]], I click-open that note in a new pane and copy/paste the new text to it for later integration. Close pane and continue.
+- If I’ve generated text that would be a good start for a note about [[new idea]], I click-create-open that note in a new pane and copy/paste the text to it as a stub. Close pane and continue.
 
 (I sometimes add a link from the permanent note back to the Daily Note which contributed the new text, if I want to track the timing or provide context.)
 
