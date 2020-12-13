@@ -12,15 +12,7 @@ date: 2020-12-13 21:37
 	- Economic and Defence Engagement
 		- Closer cooperation in civil nuclear energy, space, marine sciences and new technologies.
 		- India -> LINE of CREDIT of US$ 500 for procurement of defence equipment from India.
-		- Vietnam negotiating for both [[Missiles#BrahMos]] and [[Missiles#Akash]] Missiles.
-	- Economics and defence engagement
-        - Civil nuclear energy
-        - Space
-        - Marine sciences
-        - New techs
-        - Defence —
-            - Vietnam wants BrahMos and Akash missiles.
-            - India offered line of credit.
+		- Vietnam wants[[Missiles#BrahMos]] and [[Missiles#Akash]] Missiles.
     - Cooperation at **multilateral regional forums**
         - Vietnam supports India — **permanent seat at UNSC**
         - Vietnam supports India — in joining **Asia-Pacific Economic Cooperation APEC**
@@ -28,8 +20,8 @@ date: 2020-12-13 21:37
         - Indo-Pacific key notion of India’s policy: to achieve shared Security, Prosperity and growth for all in the region.
         - Both agreed to:
 			- Support India’s [[Indo-Pacific Oceans Initiative (IPOI)]]
-				- India has called for Vietnam’s support for **one** of the seven central pillars.
-        	- Support ASEAN’s Outlook on Indo-Pacific
+				- India has called for Vietnam’s support for **one** of the **seven central pillars**.
+        	- Support [[ASEAN#Outlook on Indo-Pacific]]
 
 ## Evolution of India-Vietnam Relationship
 ![[../3 Resources/Pasted image 20201213215012.png]]
