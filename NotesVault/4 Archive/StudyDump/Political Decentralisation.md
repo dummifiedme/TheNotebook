@@ -1,2 +1,0 @@
-### Political Decentralisation
-Def: transfers policy and legislative powers from central government to autonomous, lower-level Assemblies and local councils that have been democratically elected by their constituencies.

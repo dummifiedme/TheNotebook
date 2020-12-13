@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "India-Maldives.md",
+            "file": "NotesVault/0 Inbox/India-Maldives.md",
             "mode": "source"
           }
         }
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "India-Maldives.md",
+                "file": "NotesVault/0 Inbox/India-Maldives.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "India-Maldives.md",
+                "file": "NotesVault/0 Inbox/India-Maldives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "India-Maldives.md"
+                "file": "NotesVault/0 Inbox/India-Maldives.md"
               }
             }
           },
@@ -208,15 +208,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "India-Maldives.md",
-    "MM 2020 August.md",
-    "Air-Bubbles Agreements.md",
-    "Untitled.md",
-    "NotesVault/2 Areas/Diary/2020-12-13 Diary Entry.md",
-    "NotesVault/2 Areas/Diary/Elaborate Relaxed Plan.md",
+    "NotesVault/0 Inbox/India-Maldives.md",
+    "NotesVault/0 Inbox/MM 2020 August.md",
+    "NotesVault/Index.md",
     "NotesVault/2 Areas/Diary/Source List.md",
-    "NotesVault/2 Areas/Diary/Yoga and Pranayam.md",
-    "NotesVault/2 Areas/Diary/2020-12-13.md",
-    "NotesVault/_Planner/2020-12-13.md"
+    "NotesVault/index.md",
+    "NotesVault/00 Index - Current Affairs.md",
+    "India-Maldives.md",
+    "Air-Bubbles Agreements.md",
+    "MM 2020 August.md",
+    "Untitled.md"
   ]
 }
