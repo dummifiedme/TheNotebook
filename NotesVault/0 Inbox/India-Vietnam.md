@@ -27,9 +27,19 @@ date: 2020-12-13 21:37
 ![[../3 Resources/Pasted image 20201213215012.png]]
   
 ## India-Vietnam: Spheres of cooperation
-
-
-
+As discussed above in detail:
+1. Economic and Defence Cooperation
+	1. Indian support in various scientific field.
+	2. Vietnam's interest in Indian Missiles.
+2. Cooperation at multi-lateral regional forums
+	- Vietnam supports Indian bid for
+		1. Permanent Seat at UNSC
+		2. joining [[Asia-Pacific Economic Cooperation (APEC)]] #TODO #
+3. Indo-Pacific Spheres
+	- agreement on 
+		1. India's Indo-Pacific Initiative (IPOI)
+		2. ASEAN's Outook on Indo-Pacific
+	- Focus on SECURITY, PROSPERITY and GROWTH.
 
 ## Importance of Vietnam for India
 - Act East Policy
