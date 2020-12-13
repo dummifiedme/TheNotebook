@@ -42,5 +42,10 @@ As discussed above in detail:
 	- Focus on SECURITY, PROSPERITY and GROWTH.
 
 ## Importance of Vietnam for India
-- Act East Policy
+- [[Act East Policy]] #TODO
+	- Vietnam core partner in ASEAN
+	- 
+	
+	
+	
 	
