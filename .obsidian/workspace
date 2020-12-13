@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b48625ead003e65a",
+        "id": "17e2f6d9403a088d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/GS2/Template - YAML Header.md",
+            "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
             "mode": "source"
           }
         }
@@ -99,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.0036334991455,
-    "collapsed": true
+    "width": 372.0036334991455
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -117,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/Template - YAML Header.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/Template - YAML Header.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/Template - YAML Header.md"
+                "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md"
               }
             }
           },
@@ -212,15 +211,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/1 Projects/UPSC/GS2/Template - YAML Header.md",
     "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
+    "NotesVault/1 Projects/UPSC/GS2/International Relations.md",
+    "NotesVault/_Templates/Template - YAML Header.md",
+    "NotesVault/1 Projects/UPSC/GS2/Template - YAML Header.md",
     "NotesVault/1 Projects/UPSC/GS2/Untitled.md",
     "NotesVault/1 Projects/UPSC/Prelims/Prelims Facts/Words.md",
     "Workbench.md",
     "NotesVault/1 Projects/UPSC/GS2/ASEAN.md",
     "NotesVault/1 Projects/UPSC/GS2/Indo-Pacific Oceans Initiative (IPOI).md",
-    "NotesVault/1 Projects/UPSC/GS2/International Relations.md",
-    "NotesVault/0 Inbox/International Relations.md",
-    "NotesVault/0 Inbox/Indo-Pacific Oceans Initiative (IPOI).md"
+    "NotesVault/0 Inbox/International Relations.md"
   ]
 }

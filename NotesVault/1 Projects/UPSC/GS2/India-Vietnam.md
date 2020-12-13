@@ -31,7 +31,7 @@ file-tags: IR
 ![[../../../3 Resources/Pasted image 20201213215012.png]]
 
   
-## India-Vietnam: Spheres of cooperation #spaced
+## India-Vietnam: Spheres of cooperation EDIT #spaced
 As discussed above in detail:
 1. Economic and Defence Cooperation
 	1. Indian support in various scientific field.

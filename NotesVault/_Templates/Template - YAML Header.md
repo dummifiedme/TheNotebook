@@ -1,8 +1,9 @@
 ---
 source:
 date: {{date:YYYY-MM-DD HH:MM}}
-card-deck: 
+card-deck: UPSC::
 file-tags:
 ---
 
 ## {{title}}
+
