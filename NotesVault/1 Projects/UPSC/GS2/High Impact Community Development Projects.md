@@ -11,4 +11,4 @@
 	- Afganistan
 	- Bhutan etc
 
-![[../3 Resources/Pasted image 20201213194020.png]]
+![[../../../3 Resources/Pasted image 20201213194020.png]]

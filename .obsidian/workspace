@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/Index.md",
+            "file": "NotesVault/1 Projects/UPSC/GS2/General Studies 2.md",
             "mode": "source"
           }
         }
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/Index.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/General Studies 2.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/Index.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/General Studies 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/Index.md"
+                "file": "NotesVault/1 Projects/UPSC/GS2/General Studies 2.md"
               }
             }
           },
@@ -207,19 +207,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423,
-    "collapsed": true
+    "width": 423
   },
   "lastOpenFiles": [
+    "NotesVault/1 Projects/UPSC/GS2/Untitled.md",
+    "NotesVault/0 Inbox/International Relations.md",
+    "NotesVault/0 Inbox/Indo-Pacific Oceans Initiative (IPOI).md",
+    "NotesVault/0 Inbox/India-Vietnam.md",
     "NotesVault/Index.md",
     "NotesVault/0 Inbox/Untitled.md",
-    "NotesVault/0 Inbox/India-Vietnam.md",
     "🌞 Daily Mail.md",
     "Daily Mail!.md",
     "NotesVault/_Planner/2020-12-13.md",
-    "NotesVault/2 Areas/Diary/2020-12-13 Diary Entry.md",
-    "NotesVault/0 Inbox/ASEAN.md",
-    "NotesVault/0 Inbox/Indo-Pacific Oceans Initiative (IPOI).md",
-    "NotesVault/0 Inbox/Missiles.md"
+    "NotesVault/2 Areas/Diary/2020-12-13 Diary Entry.md"
   ]
 }

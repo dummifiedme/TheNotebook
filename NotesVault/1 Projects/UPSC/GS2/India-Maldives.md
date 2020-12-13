@@ -42,7 +42,7 @@ date: 2020-12-13 18:04
 	2. Maldives Institute of Technical Education
 	3. Construction of National Police Academy
 	 etc.
- 2. Grants for Projects under HICDPs - [[High Impact Community Development Projects]]
+ 2. Grants for Projects under HICDPs - [[../GS2/High Impact Community Development Projects]]
  3. Large scale assistance
 	 1.  aftermath of Tsunami 2004
 	 2.  2014 Male crisis under Operation Neer.

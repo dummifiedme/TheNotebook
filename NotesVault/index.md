@@ -1,6 +1,6 @@
 # Index
 ## Topics
-- [[0 Inbox/International Relations]]
+- [[1 Projects/UPSC/GS2/International Relations]]
 
 ## Sources
 ### Monthly Magazines

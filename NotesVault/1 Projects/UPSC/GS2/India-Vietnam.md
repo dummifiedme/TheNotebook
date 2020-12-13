@@ -21,10 +21,10 @@ date: 2020-12-13 21:37
         - Both agreed to:
 			- Support India’s [[Indo-Pacific Oceans Initiative (IPOI)]]
 				- India has called for Vietnam’s support for **one** of the **seven central pillars**.
-        	- Support [[ASEAN#Outlook on Indo-Pacific]]
+        	- Support [[../GS2/ASEAN#Outlook on Indo-Pacific]]
 
 ## Evolution of India-Vietnam Relationship
-![[../3 Resources/Pasted image 20201213215012.png]]
+![[../../../3 Resources/Pasted image 20201213215012.png]]
   
 ## India-Vietnam: Spheres of cooperation
 As discussed above in detail:
