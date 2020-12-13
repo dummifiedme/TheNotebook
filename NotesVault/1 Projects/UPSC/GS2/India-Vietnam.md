@@ -23,10 +23,10 @@ date: 2020-12-13 21:37
 				- India has called for Vietnam’s support for **one** of the **seven central pillars**.
         	- Support [[../GS2/ASEAN#Outlook on Indo-Pacific]]
 
-## Evolution of India-Vietnam Relationship
+## Evolution of India-Vietnam Relationship #spaced
 ![[../../../3 Resources/Pasted image 20201213215012.png]]
   
-## India-Vietnam: Spheres of cooperation
+## India-Vietnam: Spheres of cooperation #spaced
 As discussed above in detail:
 1. Economic and Defence Cooperation
 	1. Indian support in various scientific field.
@@ -34,7 +34,7 @@ As discussed above in detail:
 2. Cooperation at multi-lateral regional forums
 	- Vietnam supports Indian bid for
 		1. Permanent Seat at UNSC
-		2. joining [[Asia-Pacific Economic Cooperation (APEC)]] #to-do
+		2. Joining [[Asia-Pacific Economic Cooperation (APEC)]] #to-do
 3. Indo-Pacific Spheres
 	- agreement on 
 		1. India's Indo-Pacific Initiative (IPOI)
@@ -45,7 +45,7 @@ As discussed above in detail:
 	2. Enhancing regional security
 	3. fighting terrorism, transnational crime and drug trafficking.
 
-## Importance of Vietnam for India
+## Importance of Vietnam for India #spaced 
 - [[Act East Policy]] #to-do
 	- Vietnam core partner in ASEAN
 	- Critical Partner in Look & Act East Policy
