@@ -1,6 +1,5 @@
 ---
 date: 2020-12-14 02:12
-
 ---
 
 card-deck: Facts and Vocab::Words

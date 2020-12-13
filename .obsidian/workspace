@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/GS2/Indian outreach during COVID-19.md",
+            "file": "NotesVault/1 Projects/UPSC/GS2/Air-Bubbles Agreements.md",
             "mode": "source"
           }
         }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "==",
+                "query": "Air",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/Indian outreach during COVID-19.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/Air-Bubbles Agreements.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/Indian outreach during COVID-19.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/Air-Bubbles Agreements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/Indian outreach during COVID-19.md"
+                "file": "NotesVault/1 Projects/UPSC/GS2/Air-Bubbles Agreements.md"
               }
             }
           },
@@ -212,15 +212,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/1 Projects/UPSC/GS2/Air-Bubbles Agreements.md",
     "NotesVault/1 Projects/UPSC/GS2/Indian outreach during COVID-19.md",
+    "NotesVault/_Templates/Template- Articles.md",
+    "NotesVault/1 Projects/UPSC/Prelims/Prelims Facts/Words.md",
+    "NotesVault/1 Projects/UPSC/GS2/High Impact Community Development Projects.md",
     "NotesVault/1 Projects/UPSC/GS2/International Relations.md",
     "NotesVault/1 Projects/UPSC/GS2/Indo-Pacific Oceans Initiative (IPOI).md",
     "NotesVault/1 Projects/UPSC/GS2/India-Maldives.md",
     "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
-    "NotesVault/1 Projects/UPSC/GS2/High Impact Community Development Projects.md",
-    "NotesVault/1 Projects/UPSC/GS2/General Studies 2.md",
-    "NotesVault/1 Projects/UPSC/GS2/ASEAN.md",
-    "NotesVault/1 Projects/UPSC/GS2/Air-Bubbles Agreements.md",
-    "NotesVault/0 Inbox/MM 2020 August.md"
+    "NotesVault/1 Projects/UPSC/GS2/General Studies 2.md"
   ]
 }
