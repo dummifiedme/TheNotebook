@@ -1,1 +1,3 @@
-- [[India-Vietnam#India-Vietnam: Spheres of cooperation]]
+- [[India-Vietnam#Spheres of cooperation spaced]]
+- [[India-Vietnam#Challenges in India-Vietnam Relations]]
+- [[Elaborate Relaxed Plan]]

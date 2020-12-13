@@ -1,8 +1,8 @@
 ---
 source: Vision Monthly Magazine August 2020
 date: 2020-12-14 02:12
-TARGET DECK: Study
-FILE TAGS: IR
+card-deck: Study::Terms
+file-tags: IR
 ---
 
 ### Air-Bubbles Agreements #spaced

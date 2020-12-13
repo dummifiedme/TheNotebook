@@ -1,10 +1,8 @@
 ---
 date: 2020-12-14 02:12
----
-
 card-deck: Facts and Vocab::Words
 file-tags: Vocabulary::English Vocabulary::Study
-
+---
 # Words
 ---
 >🖐 A list of new words. Goes into ANKI.

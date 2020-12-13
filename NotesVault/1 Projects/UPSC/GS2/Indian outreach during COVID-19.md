@@ -1,11 +1,8 @@
 ---
 source:
 date: 2020-12-14 02:12
-
-TARGET DECK
-UPSC
-
-FILE TAGS: IR
+card-deck: UPSC
+file-tags: IR
 ---
 
 ## Indian outreach during COVID-19

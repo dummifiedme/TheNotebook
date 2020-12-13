@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "17e2f6d9403a088d",
+        "id": "27a2f6230cf03426",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/GS2/Air-Bubbles Agreements.md",
+            "file": "NotesVault/2 Areas/Diary/Elaborate Relaxed Plan.md",
             "mode": "source"
           }
         }
@@ -25,7 +25,7 @@
       {
         "id": "5313749fb7e991a2",
         "type": "tabs",
-        "dimension": 78.36383207750269,
+        "dimension": 51.508620689655174,
         "children": [
           {
             "id": "3e25e94ed1684d8d",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Air",
+                "query": "tag:#TODO",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,7 @@
       {
         "id": "088ed5302beee153",
         "type": "tabs",
-        "dimension": 21.63616792249731,
+        "dimension": 48.491379310344826,
         "children": [
           {
             "id": "4e985d49cf3ba465",
@@ -94,9 +94,20 @@
                 "mode": "preview"
               }
             }
+          },
+          {
+            "id": "17e2f6d9403a088d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workbench.md",
+                "mode": "source"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -117,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/Air-Bubbles Agreements.md",
+                "file": "NotesVault/2 Areas/Diary/Elaborate Relaxed Plan.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -146,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/Air-Bubbles Agreements.md",
+                "file": "NotesVault/2 Areas/Diary/Elaborate Relaxed Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/Air-Bubbles Agreements.md"
+                "file": "NotesVault/2 Areas/Diary/Elaborate Relaxed Plan.md"
               }
             }
           },
@@ -212,15 +223,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/1 Projects/UPSC/GS2/Air-Bubbles Agreements.md",
-    "NotesVault/1 Projects/UPSC/GS2/Indian outreach during COVID-19.md",
-    "NotesVault/_Templates/Template- Articles.md",
-    "NotesVault/1 Projects/UPSC/Prelims/Prelims Facts/Words.md",
-    "NotesVault/1 Projects/UPSC/GS2/High Impact Community Development Projects.md",
-    "NotesVault/1 Projects/UPSC/GS2/International Relations.md",
-    "NotesVault/1 Projects/UPSC/GS2/Indo-Pacific Oceans Initiative (IPOI).md",
-    "NotesVault/1 Projects/UPSC/GS2/India-Maldives.md",
+    "NotesVault/2 Areas/Diary/Elaborate Relaxed Plan.md",
     "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
-    "NotesVault/1 Projects/UPSC/GS2/General Studies 2.md"
+    "NotesVault/1 Projects/UPSC/GS2/ASEAN.md",
+    "NotesVault/1 Projects/UPSC/GS2/International Relations.md",
+    "Workbench.md",
+    "NotesVault/1 Projects/UPSC/GS2/High Impact Community Development Projects.md",
+    "NotesVault/1 Projects/UPSC/GS2/Indian outreach during COVID-19.md",
+    "NotesVault/1 Projects/UPSC/GS2/Air-Bubbles Agreements.md",
+    "NotesVault/1 Projects/UPSC/Prelims/Prelims Facts/Words.md",
+    "NotesVault/_Templates/Template- Articles.md"
   ]
 }

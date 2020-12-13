@@ -1,8 +1,8 @@
 ---
 source:
 date: 2020-12-14 02:12
-TARGET DECK: UPSC::GS2:IR
-FILE TAGS: IR
+card-deck: UPSC::GS2:IR
+file-tags: IR
 ---
 
 ### High Impact Community Development Projects #spaced
