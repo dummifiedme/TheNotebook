@@ -8,4 +8,7 @@ date: 2020-12-13
 ## International Relations
 - [[India-Maldives]] Bilateral Relations
 	- [[Air-Bubbles Agreements]] or transport bubbles
+	- [[High Impact Community Development Projects]]
+	- [[Indian outreach during COVID-19#To Indian Ocean Nations]]
+- 
 
