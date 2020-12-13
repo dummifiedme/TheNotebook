@@ -40,11 +40,29 @@ As discussed above in detail:
 		1. India's Indo-Pacific Initiative (IPOI)
 		2. ASEAN's Outook on Indo-Pacific
 	- Focus on SECURITY, PROSPERITY and GROWTH.
+4. Strategic Partnership areas:
+	1. Nuclear Power
+	2. Enhancing regional security
+	3. fighting terrorism, transnational crime and drug trafficking.
 
 ## Importance of Vietnam for India
 - [[Act East Policy]] #TODO
 	- Vietnam core partner in ASEAN
-	- 
+	- Critical Partner in Look & Act East Policy
+- To contain China
+	- location of Vietnam crucial.
+- Energy Security
+	- rich hydrocarbon deposits in Vietnam
+	- Vietnam wants India to explore Oil and Gas in South-China Sea.
+- Trade and Economy
+	-  India in top ten trading partner of Vietnam
+	-  [[Mekong-Ganga Cooperation (MGC) framework]] india has been taking up **Quick Impact Projects** (QIPs) 
+		-  Short gestation period
+		-  direct benefits to the communities
+		-  at grassroots levels
+
+## Challenges in India-Vietnam Relations
+
 	
 	
 	
