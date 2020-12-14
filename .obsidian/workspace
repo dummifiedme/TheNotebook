@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "26f69817299ce9c9",
+        "id": "1f7ef11ed3eb4e3c",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
+            "file": "NotesVault/1 Projects/UPSC/Anthropology/QA - 2.4 Family.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -19,15 +19,15 @@
         }
       },
       {
-        "id": "3c1995931e2998b5",
+        "id": "7975df63e8df45fa",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
-            "collapseAll": true,
+            "file": "NotesVault/1 Projects/UPSC/Anthropology/QA - 2.4 Family.md",
+            "collapseAll": false,
             "extraContext": false,
-            "sortOrder": "byModifiedTime",
+            "sortOrder": "alphabetical",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -40,7 +40,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
+            "file": "NotesVault/1 Projects/UPSC/Anthropology/QA - 2.4 Family.md",
             "mode": "source"
           }
         }
@@ -112,31 +112,8 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "8c951169c67486b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NotesVault/🌞 Daily Mail.md",
-                "mode": "preview"
-              }
-            }
-          },
-          {
-            "id": "17e2f6d9403a088d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workbench.md",
-                "mode": "preview"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
+                "file": "NotesVault/1 Projects/UPSC/Anthropology/QA - 2.4 Family.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -185,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
+                "file": "NotesVault/1 Projects/UPSC/Anthropology/QA - 2.4 Family.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,19 +177,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md"
+                "file": "NotesVault/1 Projects/UPSC/Anthropology/QA - 2.4 Family.md"
               }
             }
-          },
-          {
-            "id": "ec9a9fdbb06cbae4",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "99fbaef30af61a27",
@@ -235,34 +205,34 @@
             }
           },
           {
-            "id": "803b6b3d70031136",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "e99eb0c18301ae8d",
-        "type": "tabs",
-        "children": [
-          {
             "id": "4fc0cd57596e0909",
             "type": "leaf",
             "state": {
               "type": "dangling-links",
               "state": {}
             }
+          },
+          {
+            "id": "8c951169c67486b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NotesVault/🌞 Daily Mail.md",
+                "mode": "preview"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 400.35968017578125
   },
   "lastOpenFiles": [
+    "NotesVault/1 Projects/UPSC/Anthropology/QA - 2.4 Family.md",
+    "NotesVault/_Planner/2020-12-14.md",
     "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
     "NotesVault/2 Areas/Diary/Elaborate Relaxed Plan.md",
     "NotesVault/1 Projects/UPSC/GS2/General Studies 2.md",
@@ -270,8 +240,6 @@
     "NotesVault/0 Inbox/Workflow with DAILY NOTES.md",
     "NotesVault/_Syllabus/General Studies 2.md",
     "NotesVault/_Templates/Template MPuriNotes.md",
-    "NotesVault/_Templates/Template - WeekPlan.md",
-    "NotesVault/_Templates/Template - NewPage.md",
-    "NotesVault/_Planner/Week 2020-50.md"
+    "NotesVault/_Templates/Template - WeekPlan.md"
   ]
 }

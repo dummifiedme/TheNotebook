@@ -1,7 +1,7 @@
 ---
 source: Vision Monthly Magazine August 2020
 date: 2020-12-13 21:37
-card-deck: UPSC::GS2::IR
+cards-deck: UPSC::GS2::IR
 file-tags: IR 
 ---
 
@@ -19,16 +19,18 @@ file-tags: IR
         - Vietnam supports India — **permanent seat at UNSC**
         - Vietnam supports India — in joining **Asia-Pacific Economic Cooperation APEC**
     - Indo-Pacific sphere
-        - Indo-Pacific key notion of India’s policy: to achieve shared Security, Prosperity and growth for all in the region.
-        - Both agreed to:
+        - Indo-Pacific key notion of India’s policy to achieve shared Security, Prosperity and growth for all in the region.
+        - Both agreed tos
 			- Support India’s [[Indo-Pacific Oceans Initiative (IPOI)]]
 				- India has called for Vietnam’s support for **one** of the **seven central pillars**.
         	- Support [[../GS2/ASEAN#Outlook on Indo-Pacific]]
 
 
 
+
 ## Evolution of India-Vietnam Relationship #spaced
 ![[../../../3 Resources/Pasted image 20201213215012.png]]
+
 
   
 ## Spheres of cooperation #spaced
@@ -52,6 +54,7 @@ As discussed above in detail:
 
 
 
+
 ## Importance of Vietnam for India #spaced 
 - [[Act East Policy]] #to-do
 	- Vietnam core partner in ASEAN
@@ -67,6 +70,7 @@ As discussed above in detail:
 		-  Short gestation period
 		-  direct benefits to the communities
 		-  at grassroots levels
+
 
 
 ## Challenges in India-Vietnam Relations
