@@ -11,6 +11,3 @@
 	2. How the day went in general?
 	3. Rate the day.
 	4. Enter the Moods maybe?
-
-[[A]]
-[[B]]

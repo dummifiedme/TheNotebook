@@ -6,6 +6,7 @@
       {
         "id": "0ea292d6e42b6595",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "backlink",
           "state": {
@@ -29,7 +30,7 @@
             "extraContext": false,
             "sortOrder": "alphabetical",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": false
+            "unlinkedCollapsed": true
           }
         }
       },
@@ -40,18 +41,6 @@
           "type": "markdown",
           "state": {
             "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "62872cbf685c5a65",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NotesVault/🌞 Daily Mail.md",
             "mode": "source"
           }
         }
@@ -243,14 +232,14 @@
   },
   "lastOpenFiles": [
     "NotesVault/🌞 Daily Mail.md",
+    "NotesVault/A.md",
+    "NotesVault/B.md",
     "NotesVault/Index.md",
     "NotesVault/00 Index - Current Affairs.md",
     "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
     "NotesVault/1 Projects/UPSC/GS2/Mekong-Ganga Cooperation (MGC) framework.md",
     "NotesVault/_Stages of Notes.md",
     "NotesVault/_Note System and Markers.md",
-    "NotesVault/1 Projects/UPSC/Anthropology/2.4 Family.md",
-    "NotesVault/1 Projects/UPSC/Anthropology/QA - 2.4 Family.md",
-    "NotesVault/1 Projects/UPSC/GS2/India-Maldives.md"
+    "NotesVault/1 Projects/UPSC/Anthropology/2.4 Family.md"
   ]
 }
