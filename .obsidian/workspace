@@ -9,7 +9,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/Anthropology/QA - 2.4 Family.md",
+            "file": "NotesVault/1 Projects/UPSC/GS2/India-Maldives.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -24,7 +24,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/Anthropology/QA - 2.4 Family.md",
+            "file": "NotesVault/1 Projects/UPSC/GS2/India-Maldives.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -40,7 +40,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/Anthropology/QA - 2.4 Family.md",
+            "file": "NotesVault/1 Projects/UPSC/GS2/India-Maldives.md",
             "mode": "source"
           }
         }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/Anthropology/QA - 2.4 Family.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/India-Maldives.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/Anthropology/QA - 2.4 Family.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/India-Maldives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/Anthropology/QA - 2.4 Family.md"
+                "file": "NotesVault/1 Projects/UPSC/GS2/India-Maldives.md"
               }
             }
           }
@@ -231,15 +231,15 @@
     "width": 400.35968017578125
   },
   "lastOpenFiles": [
+    "NotesVault/1 Projects/UPSC/GS2/India-Maldives.md",
+    "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
     "NotesVault/1 Projects/UPSC/Anthropology/QA - 2.4 Family.md",
     "NotesVault/_Planner/2020-12-14.md",
-    "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
     "NotesVault/2 Areas/Diary/Elaborate Relaxed Plan.md",
     "NotesVault/1 Projects/UPSC/GS2/General Studies 2.md",
     "NotesVault/00 Index - Current Affairs.md",
     "NotesVault/0 Inbox/Workflow with DAILY NOTES.md",
     "NotesVault/_Syllabus/General Studies 2.md",
-    "NotesVault/_Templates/Template MPuriNotes.md",
-    "NotesVault/_Templates/Template - WeekPlan.md"
+    "NotesVault/_Templates/Template MPuriNotes.md"
   ]
 }
