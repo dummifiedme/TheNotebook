@@ -34,7 +34,7 @@ Parent: [[Long Term Planning]]
 3. [[2020-12-09]] - Wednesday
 4. [[2020-12-10]] - Thursday
 5. [[2020-12-11]] - Friday
-6. [[2020-12-12]] - Saturday
+6. 2020-12-12 - Saturday
 7. [[2020-12-13]] - Sunday
 
 

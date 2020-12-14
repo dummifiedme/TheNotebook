@@ -4,24 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "27a2f6230cf03426",
+        "id": "26f69817299ce9c9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3c1995931e2998b5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "byModifiedTime",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "122133c4def41e5d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/_Planner/2020-12-14.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "891aac93150f8f6d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NotesVault/_Planner/2020-12-13.md",
+            "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
             "mode": "source"
           }
         }
@@ -69,8 +88,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "088ed5302beee153",
@@ -113,7 +131,7 @@
               "type": "markdown",
               "state": {
                 "file": "Workbench.md",
-                "mode": "source"
+                "mode": "preview"
               }
             }
           }
@@ -131,7 +149,6 @@
       {
         "id": "e85937537ea41e43",
         "type": "tabs",
-        "dimension": 50.26680896478122,
         "children": [
           {
             "id": "805bcd67c5cb6875",
@@ -139,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/_Planner/2020-12-14.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -168,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/_Planner/2020-12-14.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/_Planner/2020-12-14.md"
+                "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md"
               }
             }
           },
@@ -200,7 +217,6 @@
       {
         "id": "99fbaef30af61a27",
         "type": "tabs",
-        "dimension": 49.73319103521878,
         "children": [
           {
             "id": "28904d8c29b4f7b8",
@@ -226,23 +242,36 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "e99eb0c18301ae8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fc0cd57596e0909",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 400.35968017578125
   },
   "lastOpenFiles": [
-    "NotesVault/_Planner/2020-12-14.md",
-    "NotesVault/_Planner/2020-12-13.md",
-    "NotesVault/2 Areas/Diary/Exercises, Yoga and Pranayam.md",
-    "NotesVault/_Planner/Diet Plan.md",
     "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
-    "NotesVault/_Planner/Source List.md",
     "NotesVault/2 Areas/Diary/Elaborate Relaxed Plan.md",
-    "NotesVault/1 Projects/UPSC/GS2/ASEAN.md",
-    "NotesVault/1 Projects/UPSC/GS2/International Relations.md",
-    "Workbench.md"
+    "NotesVault/1 Projects/UPSC/GS2/General Studies 2.md",
+    "NotesVault/00 Index - Current Affairs.md",
+    "NotesVault/0 Inbox/Workflow with DAILY NOTES.md",
+    "NotesVault/_Syllabus/General Studies 2.md",
+    "NotesVault/_Templates/Template MPuriNotes.md",
+    "NotesVault/_Templates/Template - WeekPlan.md",
+    "NotesVault/_Templates/Template - NewPage.md",
+    "NotesVault/_Planner/Week 2020-50.md"
   ]
 }

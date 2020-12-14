@@ -1,4 +1,6 @@
 ## Shared by dsteinbock
+#review
+
 [Link to the Forum Post](https://forum.obsidian.md/t/is-keeping-daily-notes-separate-a-best-practice/3619/12?u=dummyme)
 
 Daily Notes are the backbone of my workflow. I use them as stream-of-consciousness notebook pages. No template. On any given day, the Daily Note could be a personal diary, a project planning doc, or just a blank space to think through new ideas. (Daily Notes are my Morning Pages 21, for those familiar with that practice.)
