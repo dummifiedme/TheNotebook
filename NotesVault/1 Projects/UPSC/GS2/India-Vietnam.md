@@ -1,7 +1,7 @@
 ---
 source: Vision Monthly Magazine August 2020
 date: 2020-12-13 21:37
-cards-deck: UPSC::GS2::IR
+card-deck: UPSC::GS2::IR
 file-tags: IR 
 ---
 

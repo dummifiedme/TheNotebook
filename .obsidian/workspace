@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/Anthropology/2.4 Family.md",
+            "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/Anthropology/2.4 Family.md",
+            "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
             "mode": "preview"
           }
         },
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2513",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/Anthropology/2.4 Family.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/Anthropology/2.4 Family.md",
+                "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/Anthropology/2.4 Family.md"
+                "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md"
               }
             }
           }
@@ -217,12 +217,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
     "NotesVault/1 Projects/UPSC/Anthropology/2.4 Family.md",
     "NotesVault/1 Projects/UPSC/GS2/India-Maldives.md",
     "NotesVault/1 Projects/UPSC/GS2/High Impact Community Development Projects.md",
     "NotesVault/1 Projects/UPSC/GS2/Air-Bubbles Agreements.md",
     "NotesVault/1 Projects/UPSC/GS2/Indian outreach during COVID-19.md",
-    "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
     "Workbench.md",
     "NotesVault/00 Index - Current Affairs.md",
     "NotesVault/_Note System and Markers.md",
