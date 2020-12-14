@@ -198,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.35968017578125
+    "width": 400.35968017578125,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "NotesVault/1 Projects/UPSC/Anthropology/2.4 Family.md",
