@@ -13,7 +13,7 @@ file-tags: IR::India-Maldives
 - India offered US$500 million assistance for Greater Male Connectivity Project (GMCP)
 	- Connects Male to three neighboring islands - Villingili, Thilafushi and Gulhifahu islands
 
-## Importance of Maldives  #spaced 
+## Importance of Maldives #spaced
 1.  Proximity to west coast of India
 	- Can allow naval presence of third country --> dangerous.
 2. Situated at the hub of commercial sea-lanes 

@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "2513",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "088ed5302beee153",
@@ -83,7 +84,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,14 +205,14 @@
   },
   "lastOpenFiles": [
     "NotesVault/1 Projects/UPSC/Anthropology/2.4 Family.md",
+    "NotesVault/1 Projects/UPSC/GS2/India-Maldives.md",
+    "NotesVault/1 Projects/UPSC/GS2/High Impact Community Development Projects.md",
+    "NotesVault/1 Projects/UPSC/GS2/Air-Bubbles Agreements.md",
+    "NotesVault/1 Projects/UPSC/GS2/Indian outreach during COVID-19.md",
+    "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
     "Workbench.md",
     "NotesVault/00 Index - Current Affairs.md",
     "NotesVault/_Note System and Markers.md",
-    "used_links1607950039292.md",
-    "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
-    "NotesVault/🌞 Daily Mail.md",
-    "NotesVault/A.md",
-    "NotesVault/B.md",
-    "NotesVault/Index.md"
+    "used_links1607950039292.md"
   ]
 }
