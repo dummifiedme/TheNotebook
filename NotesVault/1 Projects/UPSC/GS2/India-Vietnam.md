@@ -24,12 +24,16 @@ file-tags: IR
 			- Support India’s [[Indo-Pacific Oceans Initiative (IPOI)]]
 				- India has called for Vietnam’s support for **one** of the **seven central pillars**.
         	- Support [[../GS2/ASEAN#Outlook on Indo-Pacific]]
+<!--ID: 1607946979598-->
+
 
 
 
 
 ## Evolution of India-Vietnam Relationship #spaced
 ![[../../../3 Resources/Pasted image 20201213215012.png]]
+<!--ID: 1607946979623-->
+
 
 
   
@@ -51,6 +55,8 @@ As discussed above in detail:
 	1. Nuclear Power
 	2. Enhancing regional security
 	3. fighting terrorism, transnational crime and drug trafficking.
+<!--ID: 1607946979647-->
+
 
 
 

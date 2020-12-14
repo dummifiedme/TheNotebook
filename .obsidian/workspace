@@ -79,8 +79,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#self-ponder",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -88,7 +88,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "088ed5302beee153",
@@ -117,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.0036334991455
+    "width": 372.0036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -232,14 +234,14 @@
   },
   "lastOpenFiles": [
     "NotesVault/1 Projects/UPSC/GS2/India-Maldives.md",
-    "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
+    "NotesVault/_Templates/Template- Articles.md",
+    "NotesVault/1 Projects/UPSC/GS2/Indian outreach during COVID-19.md",
+    "NotesVault/1 Projects/UPSC/GS2/High Impact Community Development Projects.md",
+    "NotesVault/_Planner/DECEMBER 2020.md",
     "NotesVault/1 Projects/UPSC/Anthropology/QA - 2.4 Family.md",
+    "NotesVault/1 Projects/UPSC/GS2/Air-Bubbles Agreements.md",
+    "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
     "NotesVault/_Planner/2020-12-14.md",
-    "NotesVault/2 Areas/Diary/Elaborate Relaxed Plan.md",
-    "NotesVault/1 Projects/UPSC/GS2/General Studies 2.md",
-    "NotesVault/00 Index - Current Affairs.md",
-    "NotesVault/0 Inbox/Workflow with DAILY NOTES.md",
-    "NotesVault/_Syllabus/General Studies 2.md",
-    "NotesVault/_Templates/Template MPuriNotes.md"
+    "NotesVault/2 Areas/Diary/Elaborate Relaxed Plan.md"
   ]
 }

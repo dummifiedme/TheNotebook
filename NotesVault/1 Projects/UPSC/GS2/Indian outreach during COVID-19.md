@@ -11,6 +11,7 @@ file-tags: IR
 # Indian Outreach during COVID-19
 
 ## To Indian Ocean Nations
+
 - ==MISSION SAGAR== - Assistance to Indian Ocean Region Nations
 	- ==INS Kesari== for Maldives, Mauritius, Seychelles, Madagascar and Comoros.
 	- SAGAR => ==Security and Growth for All in the Region==
@@ -18,3 +19,4 @@ file-tags: IR
 		- for collective action and cooperation 
 			- PEACE and SECURITY
 	![[../../../3 Resources/Pasted image 20201213213434.png]]
+<!--ID: 1607946979573-->

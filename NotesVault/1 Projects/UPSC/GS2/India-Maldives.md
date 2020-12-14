@@ -33,6 +33,8 @@ file-tags: IR::India-Maldives
 		- for promotion of island resorts
 		- export of marine products
 		- business enterprises.
+<!--ID: 1607946979672-->
+
 
 ### Defence Cooperation #spaced
 1. Operation CACTUS 1988
@@ -42,6 +44,8 @@ file-tags: IR::India-Maldives
 	1. Nearly 70% of total defence training requirements.
 3. Exercise Ekuverin ('Friends' in Maldivian language) 
 	1. Since 2009
+<!--ID: 1607946979697-->
+
 
 ### Development Assistance #spaced
 1. Major completed development assistance
@@ -53,6 +57,8 @@ file-tags: IR::India-Maldives
  3. Large scale assistance
 	 1.  aftermath of Tsunami 2004
 	 2.  2014 Male crisis under Operation Neer.
+<!--ID: 1607946979721-->
+
 
 ### People to People relations #spaced
 - Indians are second largest expatriate community in Maldives
@@ -64,6 +70,8 @@ file-tags: IR::India-Maldives
 	-  Classical music and dance
 -  Indian movies, shows and music famous in Maldives.
 -  PM of India conferred highest Maldivian honour -> Rule of Nishan Izzuddeen.
+<!--ID: 1607946979744-->
+
 
 ## Challenges in India-Maldives Relations #spaced
 1. Maldivian reliance on China 
@@ -76,6 +84,8 @@ file-tags: IR::India-Maldives
 		- example: GMR Infra lost US$ 511 million project.
 3. Increasing radicalisation --> overall security of the Indian Ocean is challenged.
 	1. More than 200 Maldivians joined IS.
+<!--ID: 1607946979768-->
+
 
 ## Way Forward #spaced
 - both nations must enhance regional cooperation using common platforms as:
@@ -84,6 +94,8 @@ file-tags: IR::India-Maldives
 - Recent policies that are complementary and implementation has strategic advantages
 	- 'India-first Policy' --> of Maldives
 	- 'Neighbourhood First Policy' --> of India
+<!--ID: 1607946979793-->
+
 
 
 

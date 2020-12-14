@@ -1,8 +1,8 @@
 ---
 source: Vision Monthly Magazine August 2020
 date: 2020-12-14 02:12
-card-deck: Study::Terms
-file-tags: IR
+card-deck: UPSC
+file-tags: IR Terms Agreements
 ---
 
 ### Air-Bubbles Agreements #spaced
@@ -12,5 +12,7 @@ file-tags: IR
 - India signed with many countries Canada, USA, France, UAE, UK, Germany etc.
 - RECIPROCAL in Nature.
 ![[NotesVault/3 Resources/Pasted image 20201213175812.png]]
+<!--ID: 1607946979843-->
+
 
 

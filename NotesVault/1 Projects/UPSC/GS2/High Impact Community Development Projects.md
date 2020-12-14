@@ -1,7 +1,7 @@
 ---
 source:
 date: 2020-12-14 02:12
-card-deck: UPSC::GS2:IR
+card-deck: UPSC::GS2::IR
 file-tags: IR
 ---
 
@@ -17,5 +17,7 @@ file-tags: IR
 	- Maldives
 	- Afganistan
 	- Bhutan etc
+<!--ID: 1607946979818-->
+
 
 ![[../../../3 Resources/Pasted image 20201213194020.png]]

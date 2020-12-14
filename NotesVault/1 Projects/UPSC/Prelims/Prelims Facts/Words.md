@@ -20,9 +20,11 @@ Meaning:
 
 ### Laicite
 Meaning: Another term for ‘French Secularism’.
+<!--ID: 1607946979228-->
 
 ### Discernible
 Meaning: able to be discerned, perceptible
+<!--ID: 1607946979253-->
 
 
 
@@ -30,6 +32,7 @@ Meaning: able to be discerned, perceptible
 
 ### Perfunctory
 Meaning: Cursory, quick, brief, hasty
+<!--ID: 1607946979278-->
 
 
 
@@ -38,6 +41,7 @@ Meaning: Cursory, quick, brief, hasty
 Meaning: 
 - Interpret, Understand, Elucidate, See, Take, take to mean.
 - "his actions could be construed as an admission of guilt"
+<!--ID: 1607946979302-->
 
 
 
@@ -45,6 +49,7 @@ Meaning:
 
 ### Contemnor
 Meaning: A person found to have committed contempt of court.
+<!--ID: 1607946979326-->
 
 
 
@@ -54,11 +59,13 @@ Meaning: A person found to have committed contempt of court.
 Meaning: 
 - on its own motion
 - "the Commission took suo motu control over the matter."
+<!--ID: 1607946979350-->
 
 
 
 ### mens rea
 Meaning:  ‘Mens rea’ is a legal concept denoting criminal intent or evil mind.
+<!--ID: 1607946979376-->
 
 
 
@@ -68,12 +75,14 @@ Meaning:
 -  intended for or likely to be understood by only a small number of people with a specialized knowledge or interest. 
 - Obsecure
 - "esoteric philosophical debates"
+<!--ID: 1607946979399-->
 
 
 
 
 ### Repugnance
 Meaning: inconsistency or incompatibility of ideas or statements.
+<!--ID: 1607946979423-->
 
 
 
@@ -84,6 +93,7 @@ Meaning:
 - Hamper, Impede
 - cause to lose enthusiasm and initiative, especially as a result of a tedious or restrictive routine.
 - "he found ways of gently subverting the class system that stultified 1950s English society"
+<!--ID: 1607946979447-->
 
 
 
@@ -92,6 +102,7 @@ Meaning:
 Meaning: 
 - differ, demur, diverge; disagree with
 - 'we do not dissent from the points that have been made'
+<!--ID: 1607946979472-->
 
 
 
@@ -99,6 +110,7 @@ Meaning:
 Meaning: 
 - Accompanying, Attendant, Related, Collateral
 - 'The rise of urbanism brought a concomitant risk'
+<!--ID: 1607946979495-->
 
 
 
@@ -107,6 +119,7 @@ Meaning:
 Meaning: 
 - Complicated Situation, Complexity
 - "a man caught up in a political imbroglio"
+<!--ID: 1607946979520-->
 
 ### Autochthony
 Meaning: 
@@ -114,3 +127,4 @@ Meaning:
 - ancient Greece
 - In Ancient Greece, the concept of autochthones means the original inhabitants of a country as opposed to settlers, and those of their descendants who kept themselves free from an admixture of foreign peoples. In mythology, autochthones are those mortals who have sprung from the soil, rocks and trees.
 - Example: "Constitutional Autochthony" -> KC Wheare about Indian Constiution.
+<!--ID: 1607946979546-->
