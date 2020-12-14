@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
+            "file": "NotesVault/_Templates/Template - YAML Header.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
+            "file": "NotesVault/_Templates/Template - YAML Header.md",
             "mode": "preview"
           }
         },
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "card-deck",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
+                "file": "NotesVault/_Templates/Template - YAML Header.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
+                "file": "NotesVault/_Templates/Template - YAML Header.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md"
+                "file": "NotesVault/_Templates/Template - YAML Header.md"
               }
             }
           }
@@ -217,6 +217,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/_Templates/Template - YAML Header.md",
     "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
     "NotesVault/1 Projects/UPSC/Anthropology/2.4 Family.md",
     "NotesVault/1 Projects/UPSC/GS2/India-Maldives.md",
@@ -225,7 +226,6 @@
     "NotesVault/1 Projects/UPSC/GS2/Indian outreach during COVID-19.md",
     "Workbench.md",
     "NotesVault/00 Index - Current Affairs.md",
-    "NotesVault/_Note System and Markers.md",
-    "used_links1607950039292.md"
+    "NotesVault/_Note System and Markers.md"
   ]
 }
