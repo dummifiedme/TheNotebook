@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
+            "file": "NotesVault/_Planner/2020-12-14.md",
             "mode": "source"
           }
         }
@@ -111,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.0036334991455
+    "width": 372.0036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -128,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
+                "file": "NotesVault/_Planner/2020-12-14.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -157,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
+                "file": "NotesVault/_Planner/2020-12-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md"
+                "file": "NotesVault/_Planner/2020-12-14.md"
               }
             }
           },
@@ -222,8 +223,8 @@
     "width": 423
   },
   "lastOpenFiles": [
-    "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
     "NotesVault/_Planner/2020-12-14.md",
+    "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
     "NotesVault/2 Areas/Diary/Elaborate Relaxed Plan.md",
     "NotesVault/1 Projects/UPSC/GS2/ASEAN.md",
     "NotesVault/1 Projects/UPSC/GS2/International Relations.md",
