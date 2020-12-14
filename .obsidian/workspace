@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1f7ef11ed3eb4e3c",
+        "id": "0ea292d6e42b6595",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/GS2/India-Maldives.md",
+            "file": "NotesVault/🌞 Daily Mail.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -19,28 +19,39 @@
         }
       },
       {
-        "id": "7975df63e8df45fa",
+        "id": "97cee669340bc839",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/GS2/India-Maldives.md",
+            "file": "NotesVault/🌞 Daily Mail.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+            "unlinkedCollapsed": false
           }
         }
       },
       {
         "id": "122133c4def41e5d",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "62872cbf685c5a65",
+        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/GS2/India-Maldives.md",
+            "file": "NotesVault/🌞 Daily Mail.md",
             "mode": "source"
           }
         }
@@ -88,8 +99,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "088ed5302beee153",
@@ -118,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.0036334991455,
-    "collapsed": true
+    "width": 372.0036334991455
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -135,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/India-Maldives.md",
+                "file": "NotesVault/🌞 Daily Mail.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -164,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/India-Maldives.md",
+                "file": "NotesVault/🌞 Daily Mail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/GS2/India-Maldives.md"
+                "file": "NotesVault/🌞 Daily Mail.md"
               }
             }
           }
@@ -233,15 +242,15 @@
     "width": 400.35968017578125
   },
   "lastOpenFiles": [
-    "NotesVault/1 Projects/UPSC/GS2/India-Maldives.md",
-    "NotesVault/_Templates/Template- Articles.md",
-    "NotesVault/1 Projects/UPSC/GS2/Indian outreach during COVID-19.md",
-    "NotesVault/1 Projects/UPSC/GS2/High Impact Community Development Projects.md",
-    "NotesVault/_Planner/DECEMBER 2020.md",
-    "NotesVault/1 Projects/UPSC/Anthropology/QA - 2.4 Family.md",
-    "NotesVault/1 Projects/UPSC/GS2/Air-Bubbles Agreements.md",
+    "NotesVault/🌞 Daily Mail.md",
+    "NotesVault/Index.md",
+    "NotesVault/00 Index - Current Affairs.md",
     "NotesVault/1 Projects/UPSC/GS2/India-Vietnam.md",
-    "NotesVault/_Planner/2020-12-14.md",
-    "NotesVault/2 Areas/Diary/Elaborate Relaxed Plan.md"
+    "NotesVault/1 Projects/UPSC/GS2/Mekong-Ganga Cooperation (MGC) framework.md",
+    "NotesVault/_Stages of Notes.md",
+    "NotesVault/_Note System and Markers.md",
+    "NotesVault/1 Projects/UPSC/Anthropology/2.4 Family.md",
+    "NotesVault/1 Projects/UPSC/Anthropology/QA - 2.4 Family.md",
+    "NotesVault/1 Projects/UPSC/GS2/India-Maldives.md"
   ]
 }
