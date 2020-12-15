@@ -6,27 +6,25 @@
       {
         "id": "39a16c010843149e",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "NotesVault/0 Inbox/Learnings/Diplomacy - Wikipedia.md",
             "mode": "source"
           }
-        },
-        "group": "138c8abe93f107f4"
+        }
       },
       {
         "id": "394282d5fefd80d6",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "NotesVault/0 Inbox/Learnings/Diplomacy - Wikipedia.md",
             "mode": "preview"
           }
-        },
-        "group": "138c8abe93f107f4"
+        }
       }
     ],
     "direction": "vertical"
@@ -62,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Doubt",
+                "query": "tag:#QnA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "088ed5302beee153",
@@ -200,9 +199,9 @@
   },
   "lastOpenFiles": [
     "NotesVault/0 Inbox/Learnings/Diplomacy - Wikipedia.md",
+    "NotesVault/1 Projects/UPSC/Anthropology/Family.md",
     "NotesVault/0 Inbox/Keep Exports/Doubts 2020-12-15.md",
     "NotesVault/_Planner/2020-12-15.md",
-    "NotesVault/1 Projects/UPSC/Anthropology/Family.md",
     "NotesVault/1 Projects/UPSC/Anthropology/$ Anthropology.md",
     "NotesVault/$ Index.md",
     "NotesVault/Workbench.md",

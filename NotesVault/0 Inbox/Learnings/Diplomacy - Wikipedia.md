@@ -4,19 +4,17 @@ date: 2020-12-15 23:12
 card-deck: UPSC::GS2::IR
 file-tags: IR Terms
 ---
-
- 
-> For the textual analysis of historic documents, see Diplomatics.
-
-## Diplomacy - Wikipedia
+## Diplomacy
 ### What is Diplomacy? #definition #QnA
 - Practice of negotiation between representatives of states or group, so as to influence the decisions and conduct of foreign governments through 
 	- dialogue
 	- negotiation
 	- other non-violent means.
-- Generally by professionals aka DIPLOMATS and on TOPICAL (specific) matters.]
+- Generally by professionals aka DIPLOMATS, and on TOPICAL (specific) matters.]
 
-#### Etymology of 'Diplomacy'
+#### Etymology of 'Diplomacy' #QnA
+- derived from the 18th century French term *diplomate*
+	-  based on the ancient Greek *diplōma*, which roughly means “an object folded in two"
 
 
 ### Relation between the foreign policy and diplomacy. #QnA
@@ -27,9 +25,11 @@ file-tags: IR Terms
 - 17th century Europe -- Origins
 - 1961 [Vienna Convention on Diplomatic Relations] -> formal, accepted by most of the sovereign states
 
+### Related Terms
+- Diplomatic Immunity
+- persona non grata  :: unwanted person
 
 
-Modern diplomatic methods, practices, and principles originate largely from European customs since the 17th century. Beginning in the early 20th century, diplomacy became increasingly professionalized; the 1961 [Vienna Convention on Diplomatic Relations], ratified by most of the world's sovereign states, provides a framework for diplomatic procedures, methods, and conduct. Most diplomacy is now carried out by accredited career diplomats through a dedicated political institution (such as a [ministry or department of foreign affairs]), usually with the support of staff and diplomatic infrastructure, such as [consulates] and [embassies]. Diplomacy is also conducted [through other offices], such as [envoys] and [ambassadors]. The term diplomat is thus sometimes applied broadly to diplomatic and consular personnel and foreign ministry officials more generally.[\[3\]](https://en.wikipedia.org/wiki/Diplomacy#cite_note-3)
 
 ## Etymology\[[edit]\]
 
