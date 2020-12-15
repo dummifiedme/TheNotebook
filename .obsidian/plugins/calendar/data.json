@@ -1,1 +1,1 @@
-{"shouldConfirmBeforeCreate":true,"weekStart":"monday","wordsPerDot":250,"showWeeklyNote":true,"weeklyNoteFormat":"","weeklyNoteTemplate":"Template WeekPlan","weeklyNoteFolder":"/NotesVault/_Planner","shouldStartWeekOnMonday":true}
+{"shouldConfirmBeforeCreate":false,"weekStart":"monday","wordsPerDot":1000,"showWeeklyNote":true,"weeklyNoteFormat":"","weeklyNoteTemplate":"Template WeekPlan","weeklyNoteFolder":"/NotesVault/_Planner","shouldStartWeekOnMonday":true}

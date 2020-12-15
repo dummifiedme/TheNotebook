@@ -17,7 +17,7 @@ file-tags: IR
 	- Maldives
 	- Afganistan
 	- Bhutan etc
+![[../../../3 Resources/Pasted image 20201213194020.png]]
 <!--ID: 1607946979818-->
 
 
-![[../../../3 Resources/Pasted image 20201213194020.png]]

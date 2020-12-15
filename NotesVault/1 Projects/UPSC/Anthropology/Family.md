@@ -6,7 +6,8 @@ file-tags: Anthropology::Paper1::Family
 ---
 
 # Family
-
+## PYQ
+[[Family-PYQ]]
 ## Definition and Universality
 
 ### Definitional Dilemma #spaced
@@ -220,10 +221,7 @@ file-tags: Anthropology::Paper1::Family
 > Extended family is not just a collection of Nuclear Families.
 > - since the lineal linkages are more important than the ties of marriage.
 
-
-
-
-
-## Impact of urbanization on Family
-
--   Ogburn suggests
+- Extended families are organised around males or females.
+	- Patrilineal Extended Family
+		- 
+	- Matrilineal Extended Family	

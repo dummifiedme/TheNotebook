@@ -1,13 +1,15 @@
-# International Relations
-A comprehensive index of international relations with a focus on India.
+# International Relations MOC
+`A comprehensive index of international relations with a focus on India.` #MOC
 
-## International Relations
-
-
+---
 ## Bilateral Relations
-- [[India-Vietnam]]
+### Neighbours
 - [[India-Maldives]]
 
+### East
+- [[India-Vietnam]]
+
+---
 ## Multilateral / Regional Forums
 - [[ASEAN]]
 - [[Indo-Pacific Oceans Initiative (IPOI)]]

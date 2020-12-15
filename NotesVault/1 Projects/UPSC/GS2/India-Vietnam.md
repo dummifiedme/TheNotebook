@@ -14,7 +14,7 @@ file-tags: IR
 	- Economic and Defence Engagement
 		- Closer cooperation in civil nuclear energy, space, marine sciences and new technologies.
 		- India -> LINE of CREDIT of US$ 500 for procurement of defence equipment from India.
-		- Vietnam wants [[Missiles#BrahMos]] and [[Missiles#Akash]] Missiles.
+		- Vietnam wants [[../Missiles#BrahMos]] and [[../Missiles#Akash]] Missiles.
     - Cooperation at **multilateral regional forums**
         - Vietnam supports India — **permanent seat at UNSC**
         - Vietnam supports India — in joining **Asia-Pacific Economic Cooperation APEC**

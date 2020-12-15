@@ -6,5 +6,5 @@
 3. Third letter = Section of that Page = a, b, c, ...........
 
 ## Stages of Notes System
-![[../_Stages of Notes]]
+![[../Stages of Notes]]
 
