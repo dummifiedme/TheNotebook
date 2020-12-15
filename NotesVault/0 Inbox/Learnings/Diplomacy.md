@@ -26,9 +26,13 @@ file-tags: IR Terms
 - 1961 [Vienna Convention on Diplomatic Relations] -> formal, accepted by most of the sovereign states
 
 ### Related Terms
-- Diplomatic Immunity
-- persona non grata  :: unwanted person
+- ![[Diplomatic Immunity]]
+- ![[Espionage]]
 
+###  Diplomatic resolution of problems
+-  Arbitration and mediation
+-  Conferences
+-  Negotiations
 
 
 ## Etymology\[[edit]\]

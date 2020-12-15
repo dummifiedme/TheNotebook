@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/0 Inbox/Learnings/Diplomacy - Wikipedia.md",
+            "file": "NotesVault/0 Inbox/Learnings/Diplomacy.md",
             "mode": "source"
           }
         }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/0 Inbox/Learnings/Diplomacy - Wikipedia.md",
+            "file": "NotesVault/0 Inbox/Learnings/Diplomacy.md",
             "mode": "preview"
           }
         }
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/0 Inbox/Learnings/Diplomacy - Wikipedia.md",
+                "file": "NotesVault/0 Inbox/Learnings/Diplomacy.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/0 Inbox/Learnings/Diplomacy - Wikipedia.md",
+                "file": "NotesVault/0 Inbox/Learnings/Diplomacy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/0 Inbox/Learnings/Diplomacy - Wikipedia.md"
+                "file": "NotesVault/0 Inbox/Learnings/Diplomacy.md"
               }
             }
           }
@@ -198,15 +198,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/0 Inbox/Learnings/Diplomacy.md",
+    "NotesVault/0 Inbox/Untitled.md",
+    "NotesVault/0 Inbox/Learnings/Espionage.md",
+    "NotesVault/0 Inbox/Learnings/Diplomatic Immunity.md",
     "NotesVault/0 Inbox/Learnings/Diplomacy - Wikipedia.md",
     "NotesVault/1 Projects/UPSC/Anthropology/Family.md",
     "NotesVault/0 Inbox/Keep Exports/Doubts 2020-12-15.md",
     "NotesVault/_Planner/2020-12-15.md",
     "NotesVault/1 Projects/UPSC/Anthropology/$ Anthropology.md",
-    "NotesVault/$ Index.md",
-    "NotesVault/Workbench.md",
-    "NotesVault/Stages of Notes.md",
-    "NotesVault/zotero-6 - Extracted Annotations (12152020, 72429 PM).md",
-    "NotesVault/Laxmikant-zotero.md"
+    "NotesVault/$ Index.md"
   ]
 }
