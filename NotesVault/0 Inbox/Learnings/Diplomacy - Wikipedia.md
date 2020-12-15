@@ -1,15 +1,15 @@
 ---
 source: https://en.wikipedia.org/wiki/Diplomacy
 date: 2020-12-15 23:12
-card-deck: UPSC
-file-tags:
+card-deck: UPSC::GS2::IR
+file-tags: IR Terms
 ---
 
  
 > For the textual analysis of historic documents, see Diplomatics.
 
 ## Diplomacy - Wikipedia
-### What is Diplomacy? #QnA
+### What is Diplomacy? #definition #QnA
 - Practice of negotiation between representatives of states or group, so as to influence the decisions and conduct of foreign governments through 
 	- dialogue
 	- negotiation
@@ -17,9 +17,12 @@ file-tags:
 - Generally by professionals aka DIPLOMATS and on TOPICAL (specific) matters.]
 
 ### Relation between the foreign policy and diplomacy. #QnA
+- Foreign policy refers to a broader set  if goals and strategies of a state vis-a-vis the rest of the world.
+- Diplomacy is a result of various manifestations (agreements, treaties, alliances etc) of a foreign policy.
 
+### Origins of Diplomacy
+- 17th century Europe 
 
-Diplomacy is the main instrument of [foreign policy], which represents the broader goals and strategies that guide a state's interactions with the rest of the world. International [treaties], agreements, alliances, and other manifestations of foreign policy are usually the result of diplomatic negotiations and processes. Diplomats may also help shape a state's foreign policy by advising government officials.
 
 Modern diplomatic methods, practices, and principles originate largely from European customs since the 17th century. Beginning in the early 20th century, diplomacy became increasingly professionalized; the 1961 [Vienna Convention on Diplomatic Relations], ratified by most of the world's sovereign states, provides a framework for diplomatic procedures, methods, and conduct. Most diplomacy is now carried out by accredited career diplomats through a dedicated political institution (such as a [ministry or department of foreign affairs]), usually with the support of staff and diplomatic infrastructure, such as [consulates] and [embassies]. Diplomacy is also conducted [through other offices], such as [envoys] and [ambassadors]. The term diplomat is thus sometimes applied broadly to diplomatic and consular personnel and foreign ministry officials more generally.[\[3\]](https://en.wikipedia.org/wiki/Diplomacy#cite_note-3)
 
