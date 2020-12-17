@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/0 Inbox/Resonance Center/Workflow with DAILY NOTES.md",
+            "file": "NotesVault/0 Inbox/Notion/NE 2020-12-17/N 2020-12-17/Approaches to the study of Family.md",
             "mode": "source"
           }
         }
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/0 Inbox/Resonance Center/Workflow with DAILY NOTES.md",
+                "file": "NotesVault/0 Inbox/Notion/NE 2020-12-17/N 2020-12-17/Approaches to the study of Family.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/0 Inbox/Resonance Center/Workflow with DAILY NOTES.md",
+                "file": "NotesVault/0 Inbox/Notion/NE 2020-12-17/N 2020-12-17/Approaches to the study of Family.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/0 Inbox/Resonance Center/Workflow with DAILY NOTES.md"
+                "file": "NotesVault/0 Inbox/Notion/NE 2020-12-17/N 2020-12-17/Approaches to the study of Family.md"
               }
             }
           }
@@ -194,6 +194,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "NotesVault/0 Inbox/Notion/NE 2020-12-17/N 2020-12-17/Approaches to the study of Family.md",
+    "NotesVault/0 Inbox/Notion/NE 2020-12-17/N 2020-12-17.md",
     "NotesVault/0 Inbox/Resonance Center/Workflow with DAILY NOTES.md",
     "NotesVault/0 Inbox/Resonance Center/Workflow Ideas.md",
     "NotesVault/0 Inbox/Resonance Center/The Zettlekasten Method.md",
@@ -201,8 +203,6 @@
     "NotesVault/0 Inbox/Resonance Center/How to Make a Complete Map of Every Thought You Think.md",
     "NotesVault/0 Inbox/Resonance Center/202012042019 Slow Down.md",
     "NotesVault/0 Inbox/Learnings/Diplomacy.md",
-    "NotesVault/0 Inbox/Learnings/Diplomatic Immunity.md",
-    "NotesVault/0 Inbox/Learnings/Espionage.md",
-    "NotesVault/0 Inbox/Keep Exports/media/Schedule 50.jpg"
+    "NotesVault/0 Inbox/Learnings/Diplomatic Immunity.md"
   ]
 }

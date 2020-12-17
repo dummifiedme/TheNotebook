@@ -107,6 +107,23 @@ title: Neho
 ## Family, household and domestic groups
 
 ## Functions of family
+1. GP Murdock gave four essential funtions
+	1. Sexual Function (❌Nayar)
+	2. Reproductive Function (❌Azande, Nuer)
+	3. Economic or Provisionary Functions (❌Nayar, Kibbutz)
+	4. Education and Socialization function (❌Ho-Killi, ❌Youth Dormitories)
+	- Murdock claims that these functions are universal.
+		- From his cross cultural study of 250 societies, he concluded that nuclear family and these four functions are universal.
+		- But, they are not found to be universal and not exclusive to family - cite examples (❌)
+2. Talcott Parsons reduced them to two major functions
+	- Primary Socialisation of Child
+		- Humanization and internalisation of one’s own culture resulting in basic perceptions.
+	- Secondary Socialization 
+		- Moulding and stabilisation in the later years when other agencies get involved.
+		- > Serves as an important definition for functionalists.
+	
+
+
 
 ## Types of family #spaced 
 ![[../../../3 Resources/Pasted image 20201214184847.png|500]]
@@ -233,3 +250,6 @@ title: Neho
 ## Transformation of Families
 [[Transformation of Families]]
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwMDU5OTE5M119
+-->
