@@ -1,3 +1,4 @@
+# Latin Terms
 * ultra vires - acting or done beyond one's legal power or authority
 * Mala fides- bad faith; intent to deceive
 * Toto
