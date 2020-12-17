@@ -2,7 +2,7 @@
 - USA brokered the agreement
 
 ## Map of Israel and Jerusalem
-[[Map - Israel and Jerusalem]]
+[[../Maps/Map - Israel and Jerusalem]]
 
 ## What are the points of agreements of Abraham Accord? #IR #worldPolitics #QnA
 
@@ -16,7 +16,7 @@
 - Gulf countries have pledged hostility towards Israel till Israel doesn't grant statehood to Palestine.
 
 ## Arab Israel Conflict
-[[Map - Middle East]]
+[[../Maps/Map - Middle East]]
 
 1. 1915 - Hussein-McMahon correspondence (1915) 
 	- British got support of Arabs against Ottomans

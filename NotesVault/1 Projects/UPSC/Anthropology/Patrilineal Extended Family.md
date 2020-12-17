@@ -26,18 +26,11 @@ file-tags: Anthropology::Paper1::Family
 	- It was anticipated that man's feelings towards his wife would effect the responsibilities he holds.
 
 #### Condition and responsibilities of women/wife in Patrilineal Extended Families #spaced
-		- Good wife if good daughter-in-law
-		- must work hard, under the watchful eye of MIL, elder brother's wives.
-		- Birth of a son increases her importance and acceptance in the household.
-		- With time, she grows powerful, 
-			- arranges marriage for her sons, 
-			- after their marriage her position is dominant. (Reduces the authority of husband)
+- Good wife if good daughter-in-law
+- must work hard, under the watchful eye of MIL, elder brother's wives.
+- Birth of a son increases her importance and acceptance in the household.
+- With time, she grows powerful, 
+	- arranges marriage for her sons, 
+	- after their marriage her position is dominant. (Reduces the authority of husband)
 
-
-
- #2020-12-16 #Capture
-
-Created: 2020-12-16 19:12:18.967000      Updated: 2020-12-16 20:07:40.203000
-
-[https://keep.google.com/#NOTE/1608145934582.613037.3981297724](https://keep.google.com/#NOTE/1608145934582.613037.3981297724)
 

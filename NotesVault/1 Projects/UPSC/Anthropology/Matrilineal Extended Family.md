@@ -1,7 +1,7 @@
 ---
 source: BrainTree
 date: 2020-12-17 10:12
-card-deck: UPSC::Anthropology
+card-deck: UPSC::Anthropology::Paper1
 file-tags: Anthropology::Paper1::Family
 ---
 
@@ -57,12 +57,4 @@ file-tags: Anthropology::Paper1::Family
 	- Important roles in the marriage in the family. 
 	- formally welcomes the niece's husbands into the household.
 
-
-
-
- #2020-12-16 #Capture
-
-Created: 2020-12-16 20:02:45.614000      Updated: 2020-12-16 20:50:30.280000
-
-[https://keep.google.com/#NOTE/1608148961641.436035.3392087173](https://keep.google.com/#NOTE/1608148961641.436035.3392087173)
 

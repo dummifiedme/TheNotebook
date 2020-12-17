@@ -1,4 +1,4 @@
-![[media/Global Supply Chain0.jpg]](media/Global Supply Chain0.jpg)
+![[../3 Resources/Global Supply Chain0.jpg]](media/Global Supply Chain0.jpg)
 ## Global Supply Chain
 - Global supply chains are networks that can span across multiple continents and countries for the purpose of sourcing and supplying goods and services.
 - Global Supply Chain involves flow of 

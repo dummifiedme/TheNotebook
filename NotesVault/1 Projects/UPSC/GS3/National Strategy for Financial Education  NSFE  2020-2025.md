@@ -1,4 +1,12 @@
-![[media/National Strategy for Financial Education  NSFE  2020-20250.jpg]](media/National Strategy for Financial Education  NSFE  2020-20250.jpg)
+---
+source: MM August 2020
+date: 2020-12-17 12:12
+card-deck: UPSC::GS3::Economy
+file-tags: Economy RBI
+---
+
+## National Strategy for Financial Education  NSFE  2020-2025
+
 #economy #GS3 #RBI
 
 ## National Strategy for Financial Education (NSFE) 2020-2025
@@ -14,6 +22,7 @@
 - Periodic monitoring
 
 ## Financial Literacy v/s Financial Education?
+
 - Related concepts but not the same.
 - Financial Literacy through the process of Financial Education
 
@@ -26,6 +35,7 @@ Defined as a process by which *financial considers/investors improve their under
 - Make informed choices
 - Know where to go for help
 - Take other effective actions to improve their financial well being.
+- ![[../../../3 Resources/National Strategy for Financial Education  NSFE  2020-20250.jpg]]
 
 #### What are the components of Financial Education?
 1. Basic FE 

@@ -1,20 +1,12 @@
 ---
 source: BrainTree
 date: 2020-12-17 10:12
-card-deck: UPSC::Anthropology
+card-deck: UPSC::Anthropology::Paper 1
 file-tags: Anthropology::Paper1::Family
 ---
 
 #Anthropology #family #ANT-P1
 
----
-
-source:
-date: 2020-12-17 12:12
-card-deck: UPSC::Anthropology::Paper 1
-file-tags: Anthropology::Paper1::Family
-
----
 
 ## Transformation of Families 
 

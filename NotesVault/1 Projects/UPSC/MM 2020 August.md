@@ -13,5 +13,12 @@ date: 2020-12-13
 - [[GS2/India-Vietnam]] Bilateral Relations
 	- [[GS2/ASEAN]]
 	- [[GS2/Indo-Pacific Oceans Initiative (IPOI)]]
+- [[GS2/Abraham Accord]]
+- [[../../0 Inbox/Keep Exports/Supply Chain Resilience Initiative  SCRI ]]
+
+## Economy
+- [[GS3/National Strategy for Financial Education  NSFE  2020-2025]]
+	- [[GS3/Status of Financial Literacy in India]]
+
 
 

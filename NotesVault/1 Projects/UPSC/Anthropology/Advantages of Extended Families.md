@@ -1,12 +1,11 @@
 ---
 source: BrainTree
 date: 2020-12-17 10:12
-card-deck: UPSC::Anthropology
+card-deck: UPSC::Anthropology::Paper1
 file-tags: Anthropology::Paper1::Family
 ---
 
 ## Advantages of Extended Families
-
 
 #Anthropology #family #ANT-P1
 
@@ -28,12 +27,4 @@ file-tags: Anthropology::Paper1::Family
 	- Like in Fijian society, "Time is up" -> person literally waits to die -> though cared for.
 		- studied by Sahlins (1957)
  
-[[Transformation of Families]]
-	
-
- #2020-12-16 #Capture
-
-Created: 2020-12-16 20:46:19.407000      Updated: 2020-12-16 21:25:20.223000
-
-[https://keep.google.com/#NOTE/1608151578667.590088.524514857](https://keep.google.com/#NOTE/1608151578667.590088.524514857)
 

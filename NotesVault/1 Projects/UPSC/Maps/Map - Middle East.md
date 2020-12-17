@@ -1,4 +1,4 @@
-![[media/Map - Middle East0.jpg]](media/Map - Middle East0.jpg)
+![[../../../3 Resources/Map - Middle East0.jpg]](media/Map - Middle East0.jpg)
 The map of Middle East.
 
 > Note the countries around Israel.
