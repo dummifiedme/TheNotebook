@@ -7,6 +7,15 @@ file-tags: Anthropology::Paper1::Family
 
 #Anthropology #family #ANT-P1
 
+---
+
+source:
+date: 2020-12-17 12:12
+card-deck: UPSC::Anthropology::Paper 1
+file-tags: Anthropology::Paper1::Family
+
+---
+
 ## Transformation of Families 
 
 ### Logic behind the theory of transformation of families #spaced
@@ -24,9 +33,4 @@ file-tags: Anthropology::Paper1::Family
 		- Authority of household head takes responsible for decisions in consultation with juniors. 
 		- transfer of management of modern corporations.
 
- #2020-12-16 #Capture
-
-Created: 2020-12-16 21:25:25.009000      Updated: 2020-12-16 21:43:59.193000
-
-[https://keep.google.com/#NOTE/1608153922495.751953.1103015404](https://keep.google.com/#NOTE/1608153922495.751953.1103015404)
 

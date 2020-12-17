@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/1 Projects/UPSC/Anthropology/Family.md",
+            "file": "NotesVault/1 Projects/UPSC/Anthropology/Transformation of Families.md",
             "mode": "source"
           }
         }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#Capture",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "088ed5302beee153",
@@ -87,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.0036334991455,
-    "collapsed": true
+    "width": 372.0036334991455
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -104,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/Anthropology/Family.md",
+                "file": "NotesVault/1 Projects/UPSC/Anthropology/Transformation of Families.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/Anthropology/Family.md",
+                "file": "NotesVault/1 Projects/UPSC/Anthropology/Transformation of Families.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/1 Projects/UPSC/Anthropology/Family.md"
+                "file": "NotesVault/1 Projects/UPSC/Anthropology/Transformation of Families.md"
               }
             }
           }
@@ -195,12 +195,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "NotesVault/1 Projects/UPSC/Anthropology/Family.md",
     "NotesVault/1 Projects/UPSC/Anthropology/Transformation of Families.md",
+    "NotesVault/0 Inbox/Keep Exports/Supply Chain Resilience Initiative  SCRI .md",
+    "NotesVault/0 Inbox/Keep Exports/Map - Israel and Jerusalem.md",
+    "NotesVault/1 Projects/UPSC/Anthropology/Family.md",
     "NotesVault/1 Projects/UPSC/Anthropology/$ Anthropology.md",
     "NotesVault/1 Projects/UPSC/Anthropology/Patrilineal Extended Family.md",
-    "NotesVault/0 Inbox/Keep Exports/Map - Israel and Jerusalem.md",
-    "NotesVault/0 Inbox/Keep Exports/Supply Chain Resilience Initiative  SCRI .md",
     "NotesVault/0 Inbox/Keep Exports/Transformation of Families.md",
     "NotesVault/0 Inbox/Keep Exports/What is the Collegium System .md",
     "NotesVault/0 Inbox/Keep Exports/Status of Financial Literacy in India.md",

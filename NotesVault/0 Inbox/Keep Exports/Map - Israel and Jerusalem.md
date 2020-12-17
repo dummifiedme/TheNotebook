@@ -1,3 +1,11 @@
+---
+source: 
+type: Map
+date: 2020-12-17 12:12
+card-deck: UPSC::Maps
+file-tags: Maps
+---
+
 # Map - Israel and Jerusalem
 ![[media/Map - Israel and Jerusalem1.jpg]]
 ![[media/Map - Israel and Jerusalem0.jpg]]

@@ -1,3 +1,13 @@
+---
+source: MM August 2020
+date: 2020-12-17 12:12
+card-deck: UPSC::IR
+file-tags: IR Economy Indo-Pacific Japan Australia
+---
+
+## Supply Chain Resilience Initiative  SCRI 
+
+
 #IR #economy #Indo-Pacific #Japan #Australia #India
 ## Supply Chain Resilience Initiative (SCRI)
 > Related to [[../Global Supply Chain]]
