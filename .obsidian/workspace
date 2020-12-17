@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/0 Inbox/Notion/NE 2020-12-17/N 2020-12-17/Approaches to the study of Family.md",
+            "file": "NotesVault/0 Inbox/Notion/17/Notion Index/NotionIndexTable/N 2020-12-17.md",
             "mode": "source"
           }
         }
@@ -27,14 +27,6 @@
         "type": "tabs",
         "dimension": 64.1755634638197,
         "children": [
-          {
-            "id": "3e25e94ed1684d8d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
           {
             "id": "b6eaa1786300e057",
             "type": "leaf",
@@ -57,8 +49,17 @@
                 "sortOrder": "byModifiedTime"
               }
             }
+          },
+          {
+            "id": "2b89e9d381010a4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "088ed5302beee153",
@@ -103,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/0 Inbox/Notion/NE 2020-12-17/N 2020-12-17/Approaches to the study of Family.md",
+                "file": "NotesVault/0 Inbox/Notion/17/Notion Index/NotionIndexTable/N 2020-12-17.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/0 Inbox/Notion/NE 2020-12-17/N 2020-12-17/Approaches to the study of Family.md",
+                "file": "NotesVault/0 Inbox/Notion/17/Notion Index/NotionIndexTable/N 2020-12-17.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/0 Inbox/Notion/NE 2020-12-17/N 2020-12-17/Approaches to the study of Family.md"
+                "file": "NotesVault/0 Inbox/Notion/17/Notion Index/NotionIndexTable/N 2020-12-17.md"
               }
             }
           }
@@ -190,19 +191,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.35968017578125,
-    "collapsed": true
+    "width": 400.35968017578125
   },
   "lastOpenFiles": [
+    "NotesVault/0 Inbox/Notion/17/Notion Index/NotionIndexTable/N 2020-12-17.md",
+    "NotesVault/0 Inbox/Notion/17/Notion Index/NotionIndexTable.md",
+    "NotesVault/0 Inbox/Notion/17/Notion Index.md",
     "NotesVault/0 Inbox/Notion/NE 2020-12-17/N 2020-12-17/Approaches to the study of Family.md",
     "NotesVault/0 Inbox/Notion/NE 2020-12-17/N 2020-12-17.md",
+    "NotesVault/_Planner/2020-12-17.md",
+    "NotesVault/0 Inbox/Notion/NE 2020-12-17/N 2020-12-17/New Notion Page.md",
     "NotesVault/0 Inbox/Resonance Center/Workflow with DAILY NOTES.md",
     "NotesVault/0 Inbox/Resonance Center/Workflow Ideas.md",
-    "NotesVault/0 Inbox/Resonance Center/The Zettlekasten Method.md",
-    "NotesVault/0 Inbox/Resonance Center/How to take smart notes.md",
-    "NotesVault/0 Inbox/Resonance Center/How to Make a Complete Map of Every Thought You Think.md",
-    "NotesVault/0 Inbox/Resonance Center/202012042019 Slow Down.md",
-    "NotesVault/0 Inbox/Learnings/Diplomacy.md",
-    "NotesVault/0 Inbox/Learnings/Diplomatic Immunity.md"
+    "NotesVault/0 Inbox/Resonance Center/The Zettlekasten Method.md"
   ]
 }
