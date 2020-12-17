@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/0 Inbox/Notion/178/Notion Index/NotionIndexTable/Approaches to the study of Family.md",
-            "mode": "preview"
+            "file": "pages/contents.md",
+            "mode": "source"
           }
         }
       }
@@ -104,10 +104,10 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/0 Inbox/Notion/178/Notion Index/NotionIndexTable/Approaches to the study of Family.md",
+                "file": "pages/contents.md",
                 "options": {
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -122,7 +122,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.41089728648407525
+                  "scale": 0.9232181967746289
                 }
               }
             }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/0 Inbox/Notion/178/Notion Index/NotionIndexTable/Approaches to the study of Family.md",
+                "file": "pages/contents.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,12 +148,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/0 Inbox/Notion/178/Notion Index/NotionIndexTable/Approaches to the study of Family.md"
+                "file": "pages/contents.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "99fbaef30af61a27",
@@ -194,15 +193,15 @@
     "width": 400.35968017578125
   },
   "lastOpenFiles": [
+    "pages/contents.md",
+    "pages/new_logseq_page.md",
+    "journals/2020_12_15.md",
     "NotesVault/0 Inbox/Notion/178/Notion Index/NotionIndexTable/Approaches to the study of Family.md",
     "NotesVault/0 Inbox/Notion/178/Notion Index/NotionIndexTable.md",
     "NotesVault/0 Inbox/Notion/178/Notion Index.md",
     "NotesVault/0 Inbox/Notion/17/Notion Index/NotionIndexTable/N 2020-12-17.md",
     "NotesVault/0 Inbox/Notion/17/Notion Index/NotionIndexTable.md",
     "NotesVault/0 Inbox/Notion/17/Notion Index.md",
-    "NotesVault/0 Inbox/Notion/NE 2020-12-17/N 2020-12-17/Approaches to the study of Family.md",
-    "NotesVault/0 Inbox/Notion/NE 2020-12-17/N 2020-12-17.md",
-    "NotesVault/_Planner/2020-12-17.md",
-    "NotesVault/0 Inbox/Notion/NE 2020-12-17/N 2020-12-17/New Notion Page.md"
+    "NotesVault/0 Inbox/Notion/NE 2020-12-17/N 2020-12-17/Approaches to the study of Family.md"
   ]
 }
