@@ -10,18 +10,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/0 Inbox/Keep Exports/Supply Chain Resilience Initiative  SCRI .md",
+            "file": "NotesVault/1 Projects/UPSC/Anthropology/$ Anthropology.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "efb62e34dd351a12",
+        "id": "660a71fd9ea94683",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NotesVault/0 Inbox/Keep Exports/Map - Israel and Jerusalem.md",
+            "file": "NotesVault/1 Projects/UPSC/Anthropology/Family.md",
             "mode": "source"
           }
         }
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.0036334991455
+    "width": 372.0036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "f38ee8bf8680e41c",
@@ -114,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NotesVault/0 Inbox/Keep Exports/Supply Chain Resilience Initiative  SCRI .md",
+                "file": "NotesVault/1 Projects/UPSC/Anthropology/$ Anthropology.md",
                 "options": {
                   "search": "",
                   "localJumps": 1,
@@ -132,7 +133,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9232181967746292
+                  "scale": 0.41089728648407525
                 }
               }
             }
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesVault/0 Inbox/Keep Exports/Supply Chain Resilience Initiative  SCRI .md",
+                "file": "NotesVault/1 Projects/UPSC/Anthropology/$ Anthropology.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,11 +159,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NotesVault/0 Inbox/Keep Exports/Supply Chain Resilience Initiative  SCRI .md"
+                "file": "NotesVault/1 Projects/UPSC/Anthropology/$ Anthropology.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "99fbaef30af61a27",
@@ -203,15 +205,15 @@
     "width": 400.35968017578125
   },
   "lastOpenFiles": [
-    "NotesVault/0 Inbox/Keep Exports/Supply Chain Resilience Initiative  SCRI .md",
+    "NotesVault/1 Projects/UPSC/Anthropology/$ Anthropology.md",
+    "NotesVault/1 Projects/UPSC/Anthropology/Family.md",
+    "NotesVault/1 Projects/UPSC/Anthropology/Patrilineal Extended Family.md",
     "NotesVault/0 Inbox/Keep Exports/Map - Israel and Jerusalem.md",
+    "NotesVault/0 Inbox/Keep Exports/Supply Chain Resilience Initiative  SCRI .md",
     "NotesVault/0 Inbox/Keep Exports/Transformation of Families.md",
     "NotesVault/0 Inbox/Keep Exports/What is the Collegium System .md",
     "NotesVault/0 Inbox/Keep Exports/Status of Financial Literacy in India.md",
     "NotesVault/0 Inbox/Keep Exports/Patrilineal Extended Family.md",
-    "NotesVault/0 Inbox/Keep Exports/Matrilineal Extended Family.md",
-    "NotesVault/1 Projects/UPSC/Anthropology/Advantages of Extended Families.md",
-    "NotesVault/0 Inbox/Keep Exports/Latin terms .md",
-    "NotesVault/0 Inbox/Keep Exports/Global Supply Chain.md"
+    "NotesVault/0 Inbox/Keep Exports/Matrilineal Extended Family.md"
   ]
 }

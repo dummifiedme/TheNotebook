@@ -5,9 +5,14 @@ card-deck: UPSC::Anthropology::Paper 1
 file-tags: Anthropology::Paper1::Family 
 ---
 
+title: Neho
+
+---
+
 # Family
 ## PYQ
 [[Family-PYQ]]
+
 ## Definition and Universality
 
 ### Definitional Dilemma #spaced
@@ -222,6 +227,5 @@ file-tags: Anthropology::Paper1::Family
 > - since the lineal linkages are more important than the ties of marriage.
 
 - Extended families are organised around males or females.
-	- Patrilineal Extended Family
-		- 
-	- Matrilineal Extended Family	
+	- [[Patrilineal Extended Family]]
+	- [[Matrilineal Extended Family]]	
