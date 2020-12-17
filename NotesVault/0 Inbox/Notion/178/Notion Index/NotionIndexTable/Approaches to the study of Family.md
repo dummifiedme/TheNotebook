@@ -1,5 +1,11 @@
 # Approaches to the study of Family
 
+Date: Dec 17, 2020 7:27 PM
+Marker: #draft, #notion
+Modified: Dec 17, 2020 8:16 PM
+cards-deck: UPSC::Anthropology::Paper 1
+file-tags: Anthropology, Family
+
 ---
 
 source: Abhishek Notes
@@ -14,11 +20,14 @@ file-tags: Anthropology Family
 
 #notion #new
 
-### What are the two approaches to study family? #QnA 
+### What are the two approaches to study family? #QnA
+
 1. Processual Approach
     - As an institution
     - views family as a process performing different funtions in different stages of an individuals life.
+
         > Generations pass, but the process continues.
+
 2. Typological Approach
     - As a group
     - Views family as a social group which exists for a purpose.
